@@ -1,0 +1,66 @@
+# ---------- 环境与密钥 ----------
+.env
+.env.*
+config.env
+*.pem
+*.key
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# ---------- Node / 前端依赖与构建产物 ----------
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+.npm/
+.pnpm-store/
+
+# ---------- 原始测试数据集（体积过大，不入库） ----------
+test/
+tests/fixtures/large/
+
+# ---------- 压缩包 ----------
+*.rar
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.gz
+
+# ---------- 日志与临时文件 ----------
+logs/
+*.log
+server.out.log
+server.err.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# ---------- 编辑器 / 系统 ----------
+.idea/
+.vscode/
+*.suo
+*.user
+
+# ---------- 运行时生成目录 ----------
+data/uploads/
+data/cache/
+data/tmp/
+
+# 前端构建产物（由 frontend/ 源码经 npm run build 生成，不入库）
+static/

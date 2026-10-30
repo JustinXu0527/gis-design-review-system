@@ -1,0 +1,644 @@
+{
+  "items": [
+    {
+      "id": "989c5c64fd4c1edac00493d962f4e549",
+      "standard_id": "GB-4387-2008",
+      "standard_name": "工业企业厂内铁路、道路运输安全规程",
+      "version": "GB 4387-2008",
+      "clause_id": "4.2",
+      "title": "厂内铁路和道路建筑限界不得被侵入",
+      "summary": "厂内建（构）筑物、设备和绿化物严禁侵入铁路线路和道路的建筑限界，并不得妨碍视线。",
+      "applicable_objects": [
+        "building",
+        "equipment",
+        "vegetation",
+        "railway",
+        "road"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "工业企业厂内铁路、道路运输安装规程.pdf",
+      "source_excerpt": "4.2 厂内建（构）筑物、设备和绿化物严禁侵入铁路线路和道路的建筑限界，并不得妨碍视线。",
+      "confidence": "medium"
+    },
+    {
+      "id": "c02cdcea24016bbc7bdf4182eac47e36",
+      "standard_id": "GB-4387-2008",
+      "standard_name": "工业企业厂内铁路、道路运输安全规程",
+      "version": "GB 4387-2008",
+      "clause_id": "4.9-4.10",
+      "title": "邻近运输线路施工和跨越敷设需审批并防护",
+      "summary": "原有线路改造、邻近路基施工、跨越铁路线路和道路敷设电线、管道等设施时，必须事先经总图管理和运输部门批准；附近施工不得侵入限界。",
+      "applicable_objects": [
+        "construction_activity",
+        "cable_route",
+        "pipeline",
+        "railway",
+        "road"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "工业企业厂内铁路、道路运输安装规程.pdf",
+      "source_excerpt": "4.9 跨越铁路线路和道路或横穿路基和桥梁敷设电线、管道等设施时，必须事先经工厂总图管理和运输部门批准。",
+      "confidence": "medium"
+    },
+    {
+      "id": "d54d7ded385383ebd37dd2ad5f48653d",
+      "standard_id": "GB-4387-2008",
+      "standard_name": "工业企业厂内铁路、道路运输安全规程",
+      "version": "GB 4387-2008",
+      "clause_id": "5.1.2",
+      "title": "铁路路基边线外1m内禁止开挖取土蓄水",
+      "summary": "厂内铁路线路路基在路堤护道边线外、路堑天沟边线外和平地侧沟边线外1m以内，严禁挖沟、蓄水、取土。",
+      "applicable_objects": [
+        "excavation",
+        "railway_roadbed"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "min_distance"
+      ],
+      "source_file": "工业企业厂内铁路、道路运输安装规程.pdf",
+      "source_excerpt": "5.1.2 厂内铁路线路路基在路堤护道边线外、路堑天沟边线外和平地侧沟边线外1m以内，严禁挖沟、蓄水、取土。",
+      "confidence": "medium"
+    },
+    {
+      "id": "941114cc22ed906cd87877eeb38b55e2",
+      "standard_id": "GB-4387-2008",
+      "standard_name": "工业企业厂内铁路、道路运输安全规程",
+      "version": "GB 4387-2008",
+      "clause_id": "5.2.3",
+      "title": "通信、信号架空线最低点净空要求",
+      "summary": "通信、信号架空线弛度最低点至地面/路面/钢轨顶面的距离应满足区间3m、站内3.5m、跨越道路5.5m、跨越铁路7m。",
+      "applicable_objects": [
+        "overhead_communication_line",
+        "road",
+        "railway"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "min_property"
+      ],
+      "source_file": "工业企业厂内铁路、道路运输安装规程.pdf",
+      "source_excerpt": "5.2.3 通信、信号架空线弛度最低点：区间距地面不少于3m，站内不少于3.5m，跨越道路不小于5.5m，跨越铁路距钢轨顶面不小于7m。",
+      "confidence": "medium"
+    },
+    {
+      "id": "0f4262aa9b00ab114d4422a6ca6fba5f",
+      "standard_id": "GB-4387-2008",
+      "standard_name": "工业企业厂内铁路、道路运输安全规程",
+      "version": "GB 4387-2008",
+      "clause_id": "5.2.4",
+      "title": "电力线路与铁路接近或交叉距离",
+      "summary": "电力线路接近、平行或跨越铁路时，电杆/塔与铁路中心线、导线最低点与钢轨顶面应满足最小距离。",
+      "applicable_objects": [
+        "power_line",
+        "railway"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "min_property"
+      ],
+      "source_file": "工业企业厂内铁路、道路运输安装规程.pdf",
+      "source_excerpt": "5.2.4 电力线路跨越铁路时，电杆内侧距铁路中心线不小于5m；导线最低点距钢轨顶面：110kV及以下不小于7.5m，154kV～220kV不小于8.5m，330kV不小于9.5m。",
+      "confidence": "medium"
+    },
+    {
+      "id": "bccf8e178a608be232be895cc0ba35b5",
+      "standard_id": "GB-4387-2008",
+      "standard_name": "工业企业厂内铁路、道路运输安全规程",
+      "version": "GB 4387-2008",
+      "clause_id": "5.3.4",
+      "title": "铁路通信光电缆埋设地点需设置警示保护标志",
+      "summary": "铁路信号、通信光电（缆）埋设铺设地点，应按标准设置易于识别的警示保护标志。",
+      "applicable_objects": [
+        "railway_communication_cable",
+        "fiber_cable"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "工业企业厂内铁路、道路运输安装规程.pdf",
+      "source_excerpt": "5.3.4 铁路信号、通信光电（缆）埋设铺设地点，铁路运输企业应按标准设置易于识别的警示保护标志。",
+      "confidence": "medium"
+    },
+    {
+      "id": "890e94d0e9a27d8c4370ed1fa94390a6",
+      "standard_id": "GB-4387-2008",
+      "standard_name": "工业企业厂内铁路、道路运输安全规程",
+      "version": "GB 4387-2008",
+      "clause_id": "5.4.2",
+      "title": "铁路道口交叉角和两侧水平路段要求",
+      "summary": "道路与铁路平面交叉一般应正交；受地形限制斜交时交叉角一般不小于45°；道口两侧从钢轨外侧算起各应有不小于16m水平路段。",
+      "applicable_objects": [
+        "railway_road_crossing"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "min_property"
+      ],
+      "source_file": "工业企业厂内铁路、道路运输安装规程.pdf",
+      "source_excerpt": "5.4.2 道路与铁路平面交叉，一般设计为正交；必须斜交时交叉角一般不小于45°；道口两侧各应有不小于16m的水平路段。",
+      "confidence": "medium"
+    },
+    {
+      "id": "4c78913ccfd2e58333aa7f442797987e",
+      "standard_id": "GB-146.2-2020",
+      "standard_name": "标准轨距铁路限界 第2部分：建筑限界",
+      "version": "GB 146.2-2020",
+      "clause_id": "2.1-3.4",
+      "title": "铁路建筑限界侵入复核",
+      "summary": "建筑限界为与线路中心线垂直的极限横断面轮廓，除规定设备外，其他设备或建筑物均不得侵入；曲线部分应按规定加宽。",
+      "applicable_objects": [
+        "railway_adjacent_object",
+        "fiber_cable",
+        "pipeline",
+        "cabinet",
+        "building"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "标准轨距铁路限界第二部分：建筑限界.pdf",
+      "source_excerpt": "2.1 此轮廓内，除机车车辆和相关设备外，其他设备或建筑物均不得侵入；3.3 曲线部分相邻线路中心距离以及线路中心线至建筑物间的扩大距离应按规定计算。",
+      "confidence": "medium"
+    },
+    {
+      "id": "53e2b1cc733bb4e674a2131600275ca6",
+      "standard_id": "GB-146.2-2020",
+      "standard_name": "标准轨距铁路限界 第2部分：建筑限界",
+      "version": "GB 146.2-2020",
+      "clause_id": "4.1.1-4.2.2",
+      "title": "电力牵引区段跨线桥、天桥、隧道最小高度",
+      "summary": "适用于电力牵引区段的跨线桥、天桥、雨棚及隧道建筑限界，最大高度根据接触网结构高度计算确定，最小不应小于6550mm。",
+      "applicable_objects": [
+        "railway_overpass",
+        "railway_tunnel",
+        "bridge",
+        "tunnel"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "min_property"
+      ],
+      "source_file": "标准轨距铁路限界第二部分：建筑限界.pdf",
+      "source_excerpt": "图1/图4说明：适用于电力牵引区段的跨线桥、天桥及隧道建筑限界，最大高度根据接触网结构高度计算确定，最小不应小于6550mm。",
+      "confidence": "medium"
+    },
+    {
+      "id": "10edb4e5f1d56cc7e50657e25d5c72e3",
+      "standard_id": "GB-7495-1987",
+      "standard_name": "架空电力线路与调幅广播收音台的防护间距",
+      "version": "GB 7495-87",
+      "clause_id": "3.1",
+      "title": "架空电力线路与调幅广播收音台防护间距",
+      "summary": "不同电压等级架空电力线路与各级调幅广播收音台之间的防护间距应符合表1。",
+      "applicable_objects": [
+        "am_broadcast_station",
+        "power_line"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "min_distance"
+      ],
+      "source_file": "架空电力线路与调幅广播收音台的防护间距.pdf",
+      "source_excerpt": "3.1 表1：一级台在35/63-110/220-330/500kV下防护间距为600/800/1000/1200m；二级台为300/500/700/900m；三级台为100/300/400/500m。",
+      "confidence": "medium"
+    },
+    {
+      "id": "979b0f904f2d50fa3f049346978a172f",
+      "standard_id": "GB-7495-1987",
+      "standard_name": "架空电力线路与调幅广播收音台的防护间距",
+      "version": "GB 7495-87",
+      "clause_id": "3.2",
+      "title": "架空电力线路与监测台（站）防护间距",
+      "summary": "不同电压等级架空电力线路与各级监测台（站）的防护间距应符合表2。",
+      "applicable_objects": [
+        "am_broadcast_station",
+        "power_line"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "min_distance"
+      ],
+      "source_file": "架空电力线路与调幅广播收音台的防护间距.pdf",
+      "source_excerpt": "3.2 表2：一级监测台在35/63-110/220-330/500kV下防护间距为1000/1400/1600/2000m；二级为600/600/800/1000m；三级为100/300/400/500m。",
+      "confidence": "medium"
+    },
+    {
+      "id": "151ce073062426cc94144cc439c6b322",
+      "standard_id": "GB-7495-1987",
+      "standard_name": "架空电力线路与调幅广播收音台的防护间距",
+      "version": "GB 7495-87",
+      "clause_id": "A.1-A.2",
+      "title": "防护间距不足时的防护措施",
+      "summary": "满足表1规定的防护间距确有困难时，可采取控制无线电干扰电平、保护导线金具绝缘子、改变电力线路路径、改进或迁移收音台天线等措施。",
+      "applicable_objects": [
+        "power_line",
+        "am_broadcast_station"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "架空电力线路与调幅广播收音台的防护间距.pdf",
+      "source_excerpt": "附录A：通过合理设计降低无线电干扰电平、保护导线金具和绝缘子、改变线路路径；广播部门可改进天线或迁移收音台。",
+      "confidence": "medium"
+    },
+    {
+      "id": "f99a68fc664d2c83df4233428be9afee",
+      "standard_id": "GB-6830-1986",
+      "standard_name": "电信线路遭受强电线路危险影响的容许值",
+      "version": "GB 6830-86",
+      "clause_id": "2",
+      "title": "电感应引起的人体电流容许值",
+      "summary": "在特定强电线路故障及正常运行状态下，人体碰触邻近通信导线时，由电感应引起的流经人体电流容许值为15mA（有效值）。",
+      "applicable_objects": [
+        "telecom_line",
+        "power_line"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "max_property"
+      ],
+      "source_file": "电信线路遭受强电线路危险影响的容许值.pdf",
+      "source_excerpt": "第2章：由电感应引起的流经人体的电流容许值为15mA（有效值）。",
+      "confidence": "medium"
+    },
+    {
+      "id": "87e8e62abaf910ef558b6dac55ebe798",
+      "standard_id": "GB-6830-1986",
+      "standard_name": "电信线路遭受强电线路危险影响的容许值",
+      "version": "GB 6830-86",
+      "clause_id": "3.1",
+      "title": "电信明线线路故障状态危险纵电动势容许值",
+      "summary": "强电线路故障状态下，通信导线上的纵电动势容许值一般为430V；强电线路为高可靠电力线时为650V。",
+      "applicable_objects": [
+        "telecom_line",
+        "power_line"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "max_property"
+      ],
+      "source_file": "电信线路遭受强电线路危险影响的容许值.pdf",
+      "source_excerpt": "3.1.1 通信导线上的纵电动势容许值为430V；3.1.2 强电线路为高可靠电力线时，通信导线上的纵电动势容许值为650V。",
+      "confidence": "medium"
+    },
+    {
+      "id": "4323dbb0af79dcbbab99d380575b4ae2",
+      "standard_id": "GB-6830-1986",
+      "standard_name": "电信线路遭受强电线路危险影响的容许值",
+      "version": "GB 6830-86",
+      "clause_id": "3.2-4.2",
+      "title": "强电线路正常运行状态纵电动势容许值",
+      "summary": "强电线路正常运行状态下，通信导线或电缆芯线上的纵电动势容许值为60V。",
+      "applicable_objects": [
+        "telecom_line",
+        "telecom_cable",
+        "power_line"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "max_property"
+      ],
+      "source_file": "电信线路遭受强电线路危险影响的容许值.pdf",
+      "source_excerpt": "3.2 通信导线上的纵电动势容许值为60V；4.2 电缆芯线上的纵电动势容许值为60V。",
+      "confidence": "medium"
+    },
+    {
+      "id": "aacabe659bdb2223a318906c6c2a1a40",
+      "standard_id": "GB-6830-1986",
+      "standard_name": "电信线路遭受强电线路危险影响的容许值",
+      "version": "GB 6830-86",
+      "clause_id": "5.1-5.2",
+      "title": "危险影响超限时的防护措施",
+      "summary": "当纵电动势和对地电压值超过容许值时，应从强电线路和电信线路两方面采取经济有效的保护措施。",
+      "applicable_objects": [
+        "telecom_line",
+        "telecom_cable",
+        "power_line"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "电信线路遭受强电线路危险影响的容许值.pdf",
+      "source_excerpt": "5.1 选择强电线路时应与电信线路保持合理间距；5.2 可加大距离、迁移电信线路、将架空明线改为电缆、采用光纤电缆等。",
+      "confidence": "medium"
+    },
+    {
+      "id": "2bc0baaa847085689326bef320a36c0b",
+      "standard_id": "GB-26859-2011",
+      "standard_name": "电力安全工作规程 电力线路部分",
+      "version": "GB 26859-2011",
+      "clause_id": "5.3.2 表1",
+      "title": "带电线路杆塔作业最小安全距离",
+      "summary": "带电线路杆塔上工作与带电导线应满足表1最小安全距离。",
+      "applicable_objects": [
+        "power_line_work"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "min_property"
+      ],
+      "source_file": "电力安全工作规程 电力线路部分.pdf",
+      "source_excerpt": "表1：10kV及以下0.7m，20/35kV 1.0m，66/110kV 1.5m，220kV 3.0m，330kV 4.0m，500kV 5.0m。",
+      "confidence": "medium"
+    },
+    {
+      "id": "ee531d667134f72f5f0e40edc52a6c93",
+      "standard_id": "GB-26859-2011",
+      "standard_name": "电力安全工作规程 电力线路部分",
+      "version": "GB 26859-2011",
+      "clause_id": "7.5 表4",
+      "title": "邻近或交叉其他电力线工作安全距离",
+      "summary": "砍剪靠近带电线路树木、锚固杆塔维修线路等邻近或交叉其他电力线工作，应满足表4安全距离。",
+      "applicable_objects": [
+        "near_power_line_work",
+        "construction_activity"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "min_property"
+      ],
+      "source_file": "电力安全工作规程 电力线路部分.pdf",
+      "source_excerpt": "表4：10kV及以下1.0m，20/35kV 2.5m，66/110kV 3.0m，220kV 4.0m，330kV 5.0m，500kV 6.0m。",
+      "confidence": "medium"
+    },
+    {
+      "id": "8432513157048e6b0ee4f5a5aab7c0b8",
+      "standard_id": "GB-26859-2011",
+      "standard_name": "电力安全工作规程 电力线路部分",
+      "version": "GB 26859-2011",
+      "clause_id": "9.5 表5",
+      "title": "立撤杆等施工与架空输电线最小安全距离",
+      "summary": "杆塔、拉线、临时拉线与架空输电线及其他带电体的最小安全距离应符合表5。",
+      "applicable_objects": [
+        "construction_activity",
+        "power_line"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "min_property"
+      ],
+      "source_file": "电力安全工作规程 电力线路部分.pdf",
+      "source_excerpt": "表5：<1kV为1.5m，1~10kV为3.0m，35~66kV为4.0m，110kV为5.0m，220kV为6.0m，330kV为7.0m，500kV为8.5m。",
+      "confidence": "medium"
+    },
+    {
+      "id": "ae60bc63c4c2662e4f57c221a0b9abba",
+      "standard_id": "GB-26859-2011",
+      "standard_name": "电力安全工作规程 电力线路部分",
+      "version": "GB 26859-2011",
+      "clause_id": "6.4.3-6.4.8",
+      "title": "验电后装设接地线及接地线截面要求",
+      "summary": "线路验明确无电压后应立即装设接地线并三相短路；成套接地线截面不应小于25mm²并满足短路电流要求。",
+      "applicable_objects": [
+        "temporary_grounding_wire",
+        "power_line_work"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "min_property",
+        "required_properties"
+      ],
+      "source_file": "电力安全工作规程 电力线路部分.pdf",
+      "source_excerpt": "6.4.3 线路经验明确无电压后，应立即装设接地线并三相短路；6.4.6 接地线截面不应小于25mm²。",
+      "confidence": "medium"
+    },
+    {
+      "id": "2ec37f30da6bd9a8fa1442632380cf5e",
+      "standard_id": "GB-14050-2008",
+      "standard_name": "系统接地的型式及安全技术要求",
+      "version": "GB 14050-2008",
+      "clause_id": "5.1.1-5.1.3",
+      "title": "接地系统自动切断、保护导体和等电位联结要求",
+      "summary": "当发生故障时保护电器应自动切断故障部分供电，避免超过交流50V的预期接触电压持续存在；外露可导电部分应接入同一接地系统，并尽量实施总等电位联结。",
+      "applicable_objects": [
+        "electrical_installation",
+        "equipment_room",
+        "grounding_system"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "max_property",
+        "required_properties"
+      ],
+      "source_file": "系统接地的型式及安全技术要求.pdf",
+      "source_excerpt": "5.1.1 一个超过交流50V的预期接触电压不应持续存在到足以对人体产生危险；5.1.2 系统中应尽量实施总等电位联结。",
+      "confidence": "medium"
+    },
+    {
+      "id": "9b84e1160d4db53d57d9adc1242b6445",
+      "standard_id": "GB-14050-2008",
+      "standard_name": "系统接地的型式及安全技术要求",
+      "version": "GB 14050-2008",
+      "clause_id": "5.1.5-5.1.9",
+      "title": "保护导体禁止事项和电气连续性",
+      "summary": "不得在保护导体回路中装设保护电器和开关；严禁将煤气管道、金属构件用作保护导体；连接保护导体或PEN导体时必须保证良好的电气连续性。",
+      "applicable_objects": [
+        "grounding_system",
+        "protective_conductor"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "系统接地的型式及安全技术要求.pdf",
+      "source_excerpt": "5.1.5 不得在保护导体回路中装设保护电器和开关；5.1.6 严禁将煤气管道、金属构件用作保护导体；5.1.9 必须保证良好的电气连续性。",
+      "confidence": "medium"
+    },
+    {
+      "id": "d890f11ba04b70b9f4ebcfdc465f66a1",
+      "standard_id": "GB-14050-2008",
+      "standard_name": "系统接地的型式及安全技术要求",
+      "version": "GB 14050-2008",
+      "clause_id": "5.2.2-5.3.2",
+      "title": "TN/TT系统自动切断条件",
+      "summary": "TN系统应满足Zs·Ia≤U0；TT系统应满足RA·Ia≤50V，以保证保护电器在规定时间内自动切断供电。",
+      "applicable_objects": [
+        "grounding_system",
+        "electrical_installation"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "manual_review"
+      ],
+      "source_file": "系统接地的型式及安全技术要求.pdf",
+      "source_excerpt": "5.2.2 TN系统保护条件：Zs·Ia≤U0；5.3.2 TT系统保护条件：RA·Ia≤50V。",
+      "confidence": "medium"
+    },
+    {
+      "id": "9e2a0af17fd577eb4ac7b66f931b2f75",
+      "standard_id": "GB-3836.15-2024",
+      "standard_name": "爆炸性环境 第15部分：电气装置设计、选型、安装规范",
+      "version": "GB 3836.15-2024",
+      "clause_id": "7.3.1.4.3",
+      "title": "本质安全电路电感电容参数限制",
+      "summary": "本质安全电路中所有连接装置和任何电缆的总电感、总电容应小于或等于电源的Lo和Co。",
+      "applicable_objects": [
+        "intrinsically_safe_circuit",
+        "cable"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "manual_review"
+      ],
+      "source_file": "爆炸性环境 第15部分：电气装置设计、选型、安装规范.pdf",
+      "source_excerpt": "7.3.1.4.3 系统中所有连接的装置和任何电缆的总电感和电容应小于或等于电源的Lo和Co。",
+      "confidence": "medium"
+    },
+    {
+      "id": "59ff494d05c39be474394d950979bf8a",
+      "standard_id": "GB-3836.15-2024",
+      "standard_name": "爆炸性环境 第15部分：电气装置设计、选型、安装规范",
+      "version": "GB 3836.15-2024",
+      "clause_id": "7.3.2",
+      "title": "EPL Ga/Da场所本质安全电路和电涌保护要求",
+      "summary": "要求EPL Ga/Da级场所内的本质安全装置、关联装置和互连电缆应为ia等级；存在危险电位差风险时，电涌保护器应接近场所入口，且能转移最小10kA峰值放电电流。",
+      "applicable_objects": [
+        "intrinsically_safe_circuit",
+        "surge_protector",
+        "hazardous_area"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "max_property",
+        "min_property",
+        "required_properties"
+      ],
+      "source_file": "爆炸性环境 第15部分：电气装置设计、选型、安装规范.pdf",
+      "source_excerpt": "7.3.2 在要求EPLGa级的场所安装本质安全电路时，电路应为ia等级；电涌保护器应合理地接近入口（例如1m范围内），峰值放电电流最小10kA，连接铜导体截面积至少4mm²。",
+      "confidence": "medium"
+    },
+    {
+      "id": "4145956e2f7953c89f1c3a8f43a9bafe",
+      "standard_id": "GB-3836.15-2024",
+      "standard_name": "爆炸性环境 第15部分：电气装置设计、选型、安装规范",
+      "version": "GB 3836.15-2024",
+      "clause_id": "7.3.4",
+      "title": "本质安全接线盒防护等级和端子间距",
+      "summary": "本质安全接线盒通常需要至少IP54外壳；本质安全端子与接地部件间距至少3mm；独立本质安全电路之间至少6mm；本质安全与非本质安全裸露导电部件之间至少50mm。",
+      "applicable_objects": [
+        "junction_box",
+        "intrinsically_safe_circuit"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "min_property",
+        "required_properties"
+      ],
+      "source_file": "爆炸性环境 第15部分：电气装置设计、选型、安装规范.pdf",
+      "source_excerpt": "7.3.4 接线盒通常需要至少IP54外壳；本质安全接线端子与接地部件之间至少3mm；独立本质安全电路之间至少6mm；本质安全与非本质安全电路之间至少50mm。",
+      "confidence": "medium"
+    },
+    {
+      "id": "3b7fb3ef286846125ac5be79d6fb3933",
+      "standard_id": "GB-28376-2012",
+      "standard_name": "隧道防火保护板",
+      "version": "GB 28376-2012",
+      "clause_id": "5.1-5.10",
+      "title": "隧道防火保护板外观、尺寸和理化性能",
+      "summary": "隧道防火保护板应无裂纹、分层等缺陷；长宽厚不宜超过3000mm/1250mm/70mm；面密度不应超过25kg/m²；干态抗弯强度不低于6MPa；吸湿变形率不大于0.20%。",
+      "applicable_objects": [
+        "tunnel_fireproof_board"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "max_property",
+        "min_property"
+      ],
+      "source_file": "隧道防火保护板.pdf",
+      "source_excerpt": "5.2 板材长不宜超过3000mm、宽不宜超过1250mm、厚度不宜超过70mm；5.3 面密度不应超过25kg/m²；5.5 干态抗弯强度不低于6MPa。",
+      "confidence": "medium"
+    },
+    {
+      "id": "e924a5becf817a20eb8a15963ad285d1",
+      "standard_id": "GB-28376-2012",
+      "standard_name": "隧道防火保护板",
+      "version": "GB 28376-2012",
+      "clause_id": "5.16-5.18",
+      "title": "隧道防火保护板燃烧、吸水和耐火性能",
+      "summary": "板材燃烧增长速率指数不大于250W/s，600s内总热释放量不大于15MJ，焰尖高度不大于150mm，吸水率不大于12.0%，耐火性能应满足表3。",
+      "applicable_objects": [
+        "tunnel_fireproof_board"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "max_property",
+        "required_properties"
+      ],
+      "source_file": "隧道防火保护板.pdf",
+      "source_excerpt": "表2：FIGRA0.4MJ≤250W/s，THR600s≤15MJ，焰尖高度≤150mm；5.17 吸水率不大于12.0%；5.18 耐火性能应满足表3。",
+      "confidence": "medium"
+    },
+    {
+      "id": "82ee19eb8969992ffc90d9403b1b1587",
+      "standard_id": "GB-28376-2012",
+      "standard_name": "隧道防火保护板",
+      "version": "GB 28376-2012",
+      "clause_id": "8.1-8.4",
+      "title": "隧道防火保护板标志、包装、运输和存放",
+      "summary": "产品标志应注明生产厂、产品名称、规格、执行标准等；包装应防雨防潮并附合格证和说明书；运输防雨淋，存放通风干燥。",
+      "applicable_objects": [
+        "tunnel_fireproof_board"
+      ],
+      "risk_level": "low",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "隧道防火保护板.pdf",
+      "source_excerpt": "8.1 产品标志应注明生产厂名称、产品名称、型号规格、执行标准代号等；8.2 包装应防雨、防潮，并附合格证和说明书。",
+      "confidence": "medium"
+    },
+    {
+      "id": "32d687460fed44bf16c33b213d7c754f",
+      "standard_id": "GB-40881-2021",
+      "standard_name": "煤矿低浓度瓦斯管道输送安全保障系统设计规范",
+      "version": "GB 40881-2021",
+      "clause_id": "人工复核",
+      "title": "瓦斯管道输送安全保障系统人工复核",
+      "summary": "该PDF可抽文本质量较低，已纳入知识库目录。涉及通信设施邻近煤矿低浓度瓦斯管道、放散、防爆、防雷和防静电接地时，应按原文进行人工/OCR复核。",
+      "applicable_objects": [
+        "gas_pipeline",
+        "communication_facility",
+        "hazardous_area"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "煤矿低浓度瓦斯管道输送安全保障系统设计规范.pdf",
+      "source_excerpt": "PDF文本层乱码较多；目录和局部条款显示涉及低浓度瓦斯管道输送、安全保障系统、防雷防静电接地等内容。",
+      "confidence": "low"
+    },
+    {
+      "id": "6a0de3801ca2f4f8fdc77af8e53e4c5d",
+      "standard_id": "GB-10055-2007",
+      "standard_name": "施工升降机安全规程",
+      "version": "GB 10055-2007",
+      "clause_id": "人工复核",
+      "title": "施工升降机邻近通信线路作业安全人工复核",
+      "summary": "该PDF文本层质量较低，且与通信线路设计审查关联度较低。若通信施工与施工升降机安装、运行、拆卸区域交叉，应按原文进行机械安全和临边防护复核。",
+      "applicable_objects": [
+        "construction_hoist",
+        "construction_activity",
+        "fiber_cable"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "施工升降机安全规程.pdf",
+      "source_excerpt": "施工升降机安全规程已纳入目录；当前抽取文本乱码，适合作为人工复核类知识条目。",
+      "confidence": "low"
+    }
+  ]
+}

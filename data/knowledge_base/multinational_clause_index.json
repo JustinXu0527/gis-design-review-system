@@ -1,0 +1,497 @@
+{
+  "items": [
+    {
+      "id": "ea5a09a4cfce0025",
+      "standard_id": "GIS-DQ",
+      "standard_name": "通用GIS数据质量规则",
+      "version": "",
+      "clause_id": "DQ-01",
+      "title": "关键GIS对象必须具备空间几何",
+      "summary": "参与审查的工程对象应包含可解析的空间几何，否则无法计算距离、相交、包含和穿越关系。",
+      "applicable_objects": [
+        "*"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "required_geometry"
+      ],
+      "source_file": "系统内置：通用GIS数据质量规则",
+      "source_excerpt": "通用GIS数据质量要求：图层要素必须具备可解析几何。",
+      "confidence": "medium"
+    },
+    {
+      "id": "6e0abe24874df15d",
+      "standard_id": "GIS-DQ",
+      "standard_name": "通用GIS数据质量规则",
+      "version": "",
+      "clause_id": "DQ-02",
+      "title": "空间几何必须有效",
+      "summary": "几何自相交、空几何或不可解析几何会导致空间分析结果不可靠。",
+      "applicable_objects": [
+        "*"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "geometry_validity"
+      ],
+      "source_file": "系统内置：通用GIS数据质量规则",
+      "source_excerpt": "通用GIS数据质量要求：几何对象应满足有效性检查。",
+      "confidence": "medium"
+    },
+    {
+      "id": "8ba13d2751eeac57",
+      "standard_id": "GIS-DQ",
+      "standard_name": "通用GIS数据质量规则",
+      "version": "",
+      "clause_id": "DQ-03",
+      "title": "工程范围图层必须存在",
+      "summary": "工程范围或施工范围是后续空间适用性判断的边界依据。",
+      "applicable_objects": [
+        "project_area"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "min_feature_count"
+      ],
+      "source_file": "系统内置：通用GIS数据质量规则",
+      "source_excerpt": "通用GIS数据质量要求：工程范围图层至少应有一个面对象。",
+      "confidence": "medium"
+    },
+    {
+      "id": "8f5c19495723973c",
+      "standard_id": "GIS-DQ",
+      "standard_name": "通用GIS数据质量规则",
+      "version": "",
+      "clause_id": "DQ-04",
+      "title": "抽取来源字段必须保留",
+      "summary": "每个对象应保留来源文件、来源图层和来源要素ID，便于风险回溯到 GIS 成果。",
+      "applicable_objects": [
+        "*"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "系统内置：通用GIS数据质量规则",
+      "source_excerpt": "通用GIS数据质量要求：风险应可定位到来源图层与要素。",
+      "confidence": "medium"
+    },
+    {
+      "id": "be9fd3681e200975",
+      "standard_id": "PROJECT-DREIEICH",
+      "standard_name": "Dreieich 光纤项目数据与业务规则",
+      "version": "",
+      "clause_id": "PB-01",
+      "title": "管道/微管路由应保留区域、施工方式和长度信息",
+      "summary": "Pipes 图层是本项目光纤管道和微管敷设的主线性成果，缺失区域、施工方式、长度或管孔数量会影响材料统计和审查。",
+      "applicable_objects": [
+        "telecom_duct_route"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "test/PushPK_Dreieich Mitte_Handwerk 官方GIS输入数据",
+      "source_excerpt": "Pipes 图层字段包括 HK_Area、NVT_Area、Bauweisen、Length、Pipe_Summe、Gräbensbreite、Gräbenstief 等。",
+      "confidence": "medium"
+    },
+    {
+      "id": "7ceb13d05df6da30",
+      "standard_id": "PROJECT-DREIEICH",
+      "standard_name": "Dreieich 光纤项目数据与业务规则",
+      "version": "",
+      "clause_id": "PB-02",
+      "title": "管道应至少配置一种管孔或空管资源",
+      "summary": "路由对象需要说明使用的 SNR/空管/微管资源，否则无法判断容量与材料方案。",
+      "applicable_objects": [
+        "telecom_duct_route"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "required_any_property"
+      ],
+      "source_file": "test/PushPK_Dreieich Mitte_Handwerk 官方GIS输入数据",
+      "source_excerpt": "Pipes 图层包含 SNRVe_7x12、SNRVe_22x7、SNR_1x7、SNR_1x10、Leerrohr 等资源字段。",
+      "confidence": "medium"
+    },
+    {
+      "id": "2b4be4874ff1be78",
+      "standard_id": "PROJECT-DREIEICH",
+      "standard_name": "Dreieich 光纤项目数据与业务规则",
+      "version": "",
+      "clause_id": "PB-03",
+      "title": "沟槽深度和宽度应满足项目最小记录要求",
+      "summary": "沟槽深度和宽度是道路开挖、材料回填和竣工测量的关键参数，缺失或为0时需要复核。",
+      "applicable_objects": [
+        "telecom_duct_route"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "min_property"
+      ],
+      "source_file": "test/PushPK_Dreieich Mitte_Handwerk 官方GIS输入数据",
+      "source_excerpt": "Pipes 图层样例显示 Gräbenstief 包含 0、0.45、0.6、0.8 等值，Gräbensbreite 包含 0、0.15、0.3 等值。",
+      "confidence": "medium"
+    },
+    {
+      "id": "a30b4d579e6cbba2",
+      "standard_id": "PROJECT-DREIEICH",
+      "standard_name": "Dreieich 光纤项目数据与业务规则",
+      "version": "",
+      "clause_id": "PB-04",
+      "title": "施工坑点应具备尺寸、深度、表面和施工方式信息",
+      "summary": "PitWork 图层用于记录开挖坑位，缺失尺寸和深度会影响工程量和安全复核。",
+      "applicable_objects": [
+        "civil_pit_work"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "min_property",
+        "required_properties"
+      ],
+      "source_file": "test/PushPK_Dreieich Mitte_Handwerk 官方GIS输入数据",
+      "source_excerpt": "PitWork 图层字段包括 Length、Width、Depth、Surface、Bauweisen、Subco、Foto1 等。",
+      "confidence": "medium"
+    },
+    {
+      "id": "d823fa929e94cce5",
+      "standard_id": "PROJECT-DREIEICH",
+      "standard_name": "Dreieich 光纤项目数据与业务规则",
+      "version": "",
+      "clause_id": "PB-05",
+      "title": "地址点应保留可回访的门牌与施工状态信息",
+      "summary": "Address 图层是入户接入、客户侧施工和开通状态的基础，缺失地址字段会影响业务闭环。",
+      "applicable_objects": [
+        "address_point"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "test/PushPK_Dreieich Mitte_Handwerk 官方GIS输入数据",
+      "source_excerpt": "Address 图层字段包括 Straße、Haus_Nr、PLZ、NVT_Area、HK_Area、Status_Tiefbau、Status_Kabel。",
+      "confidence": "medium"
+    },
+    {
+      "id": "86d9aa5012e1afa3",
+      "standard_id": "PROJECT-DREIEICH",
+      "standard_name": "Dreieich 光纤项目数据与业务规则",
+      "version": "",
+      "clause_id": "PB-06",
+      "title": "交叉第三方管线的路由应具备穿越说明或文档记录",
+      "summary": "当拟建通信管道与燃气、电力、给水、排水或既有通信管线发生空间交叉时，应能回溯施工保护或文档说明。",
+      "applicable_objects": [
+        "telecom_duct_route",
+        "gas_pipeline",
+        "power_line",
+        "water_pipeline",
+        "sewer_pipeline",
+        "existing_telecom_line"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "crossing_requires_properties"
+      ],
+      "source_file": "test/PushPK_Dreieich Mitte_Handwerk 官方GIS输入数据",
+      "source_excerpt": "Fremdleitung 图层 Class 包含 Gas、Strom、Wasser、Kanal、TK；Pipes 图层包含 Dokumentation、Kommentar。",
+      "confidence": "medium"
+    },
+    {
+      "id": "78fe3dd9bdbb18fb",
+      "standard_id": "DE-AUFGRABUNG",
+      "standard_name": "德赖艾希市道路开挖规则",
+      "version": "",
+      "clause_id": "DE-01",
+      "title": "道路开挖段应记录沟槽尺寸和恢复材料",
+      "summary": "道路开挖相关路由应保留沟槽深度、宽度、表层材料和承载层材料，便于审查开挖与恢复质量。",
+      "applicable_objects": [
+        "telecom_duct_route",
+        "civil_pit_work"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "min_property",
+        "required_properties"
+      ],
+      "source_file": "德国行业标准/01_德赖艾希市道路开挖规则_Aufgrabungsrichtlinie_2014.pdf",
+      "source_excerpt": "===== Page 1 ===== 6.8 51. Erg. Richtlinie für das Aufgraben von Straßen, Wegen und Plätzen in der Stadt Dreieich (Aufgrabungsrichtlinie) ===== Page 2 ===== Richtlinie 6.8 für das Aufgraben öffentlicher Straßen, Wege und Plätze in der Stadt Dreieich (Aufgrabungsrichtlinie) Seite 2 51. Erg. Inhalt A. Allgemeines ...............................................",
+      "confidence": "medium"
+    },
+    {
+      "id": "324b9349910397c0",
+      "standard_id": "DE-GIS-NB",
+      "standard_name": "德国宽带资助GIS数据附加规定",
+      "version": "",
+      "clause_id": "DE-02",
+      "title": "GIS交付数据应可定位、可追溯、可统计",
+      "summary": "GIS 成果应保留图层来源、要素ID、区域归属和几何信息，支撑资助项目验收和数据交换。",
+      "applicable_objects": [
+        "*"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "geometry_validity",
+        "required_properties"
+      ],
+      "source_file": "德国行业标准/02_德国宽带资助GIS数据附加规定_GIS-Nebenbestimmungen_V5.1.pdf",
+      "source_excerpt": "===== Page 1 ===== Breitbandförderung des Bundes Version 5.1. vom 03.04.2023 Seite 1 von 17 GIS-Nebenbestimmungen Version 5.1 vom 03.04.2023 Inhalt 1 Einführung ............................................................................................................................. 2 1.1 Umfang und Datenlieferung .........................................",
+      "confidence": "medium"
+    },
+    {
+      "id": "c8e350ef1b89a473",
+      "standard_id": "DE-MATERIAL",
+      "standard_name": "统一材料与被动基础设施容量方案",
+      "version": "",
+      "clause_id": "DE-03",
+      "title": "管孔与微管资源应能支撑材料统计",
+      "summary": "路由对象应明确管孔、微管和空管资源配置，避免容量和材料统计无法闭合。",
+      "applicable_objects": [
+        "telecom_duct_route"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "min_property",
+        "required_any_property"
+      ],
+      "source_file": "德国行业标准/03_统一材料与被动基础设施容量方案_Materialkonzept_V5.0.2.pdf",
+      "source_excerpt": "===== Page 1 ===== - Version 5.0.2 vom 02.08.2024 - Einheitliches Materialkonzept und Vorgaben für die Dimensionierung passiver Infrastruktur im Rahmen des geförderten Breitbandausbaus (Version 5.0.2) Eine Handreichung der Projektträger für das Bundesförderprogramm Breitband PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft (Projektgebiet A) und ac",
+      "confidence": "medium"
+    },
+    {
+      "id": "abab79e0edab10a0",
+      "standard_id": "DE-HINWEISBLATT",
+      "standard_name": "技术设施与施工文档要求",
+      "version": "",
+      "clause_id": "DE-04",
+      "title": "施工与设施对象应保留照片或文档记录",
+      "summary": "施工坑点、管道路由和基础设施节点应具备照片或文档记录，支撑现场复核与验收。",
+      "applicable_objects": [
+        "civil_pit_work",
+        "telecom_duct_route",
+        "fiber_distribution_cabinet",
+        "splice_closure"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "required_any_property"
+      ],
+      "source_file": "德国行业标准/04_技术设施与施工文档要求_Hinweisblatt_2022.pdf",
+      "source_excerpt": "===== Page 1 ===== für die Bundesländer Baden-Würt- temberg, Bayern, Berlin, Branden- burg, Sachsen, Sachsen-Anhalt und Thüringen Tel. +49 (0)30 2332 49 - 777 projekttraeger@atenekom.eu www.atenekom.eu Tel. +49 (0)30 2636 5050 kontakt@gigabit-pt.de www.gigabit-projekttraeger.de Projektgebiet A: PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft Proj",
+      "confidence": "medium"
+    },
+    {
+      "id": "f07c1910c44501e2",
+      "standard_id": "DE-MESSKONZEPT",
+      "standard_name": "统一测量方案",
+      "version": "",
+      "clause_id": "DE-05",
+      "title": "测量线应保留长度和区域归属",
+      "summary": "测量成果应明确测量长度、计算长度和区域归属，支撑竣工计量。",
+      "applicable_objects": [
+        "surveyed_route"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "德国行业标准/05_统一测量方案_Einheitliches_Messkonzept_2022.pdf",
+      "source_excerpt": "===== Page 1 ===== Bundesförderung Gigabit Einheitliches Messkonzept in Bezug zur „Förderung zur Unterstützung des Gi- gabitausbaus der Telekommunikationsnetze in der Bundesrepublik Deutschland“ vom 26.04.2021 (Hinweise zu Messungen im Projektgebiet) 17.06.2022 Die Mindestanforderungen der jeweiligen Einzelvorhaben innerhalb der Gebietskörperschaften ergeben",
+      "confidence": "medium"
+    },
+    {
+      "id": "036097037301a199",
+      "standard_id": "DE-OEW",
+      "standard_name": "OEW光纤网络规划与文档指南",
+      "version": "",
+      "clause_id": "DE-06",
+      "title": "入户连接和配线节点应具备地址与区域信息",
+      "summary": "入户接入、NVT/HVT、接头盒等节点应保留地址、区域和状态字段，支撑网络规划闭环。",
+      "applicable_objects": [
+        "house_connection",
+        "fiber_distribution_cabinet",
+        "telecom_central_node",
+        "splice_closure"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "德国行业标准/06_OEW光纤网络规划与文档指南_V1.1_2025.pdf",
+      "source_excerpt": "===== Page 1 ===== Talstraße 21 89584 Ehingen (Donau) Deutschland T +49 7391 7600 900 M kontakt@oew-breitband.de W www.oew-breitband.de Sitz d. Gesellschaft: Ehingen (Donau) Amtsgericht Ulm HRB 742770 USt-IdNr. DE344948435 Geschäftsführer: Andreas Seifert für den geförderten Breitbandausbau. Schnell. Zukunftsstark. Digital Planungs- & Dokumentationsrichtlini",
+      "confidence": "medium"
+    },
+    {
+      "id": "cffa157260b4f797",
+      "standard_id": "DE-KABELSCHUTZ",
+      "standard_name": "德国电信电缆保护指令",
+      "version": "",
+      "clause_id": "DE-07",
+      "title": "与第三方管线交叉应有保护和文档说明",
+      "summary": "通信管道与燃气、电力、给水等第三方管线交叉时，应具备施工保护、标识或文档记录。",
+      "applicable_objects": [
+        "telecom_duct_route",
+        "gas_pipeline",
+        "power_line",
+        "water_pipeline"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "crossing_requires_properties"
+      ],
+      "source_file": "德国行业标准/07_德国电信电缆保护指令_Kabelschutzanweisung_2026.pdf",
+      "source_excerpt": "===== Page 1 ===== Die Kabelschutzanweisung steht für Sie in folgenden Sprachen zur Verfügung: Aby wyświetlić instrukcję ochrony kabla w języku polskim, kliknij tutaj Für die Kabelschutzanweisung in Polnisch klicken Sie bitte hier PL For the instructions on protecting cables in Englisch, please click here Für die Kabelschutzanweisung in Englisch klicken Sie ",
+      "confidence": "medium"
+    },
+    {
+      "id": "6a238cdb1cdfd9bf",
+      "standard_id": "DE-DGUV-203-017",
+      "standard_name": "DGUV地下管线附近施工安全指南",
+      "version": "",
+      "clause_id": "DE-08",
+      "title": "地下管线附近施工应保留风险识别和保护措施",
+      "summary": "靠近第三方地下管线的施工坑点和管道路由应具备风险识别、保护措施或现场记录。",
+      "applicable_objects": [
+        "civil_pit_work",
+        "telecom_duct_route",
+        "gas_pipeline",
+        "power_line",
+        "water_pipeline",
+        "sewer_pipeline"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "crossing_requires_properties",
+        "required_any_property"
+      ],
+      "source_file": "德国行业标准/08_DGUV地下管线附近施工安全指南_203-017_2019.pdf",
+      "source_excerpt": "===== Page 1 ===== Februar 2019 Schutzmaßnahmen bei Erdarbeiten in der Nähe erdverlegter Kabel und Rohrleitungen DGUV Information 203-017 203-017 ===== Page 2 ===== Impressum Herausgegeben von: Deutsche Gesetzliche Unfallversicherung e.V. (DGUV) Glinkastraße 40 10117 Berlin Telefon: 030 13001-0 (Zentrale) Fax: 030 13001-9876 E-Mail: info@dguv.de Internet: ww",
+      "confidence": "medium"
+    },
+    {
+      "id": "be674346b9935f27",
+      "standard_id": "DE-NRM-N-A001",
+      "standard_name": "莱茵美因地下公用管线保护规范",
+      "version": "",
+      "clause_id": "DE-09",
+      "title": "第三方公用管线交叉应形成可追溯风险记录",
+      "summary": "与燃气、电力、给排水等公用管线交叉的设计对象，应能定位交叉点并提供保护或协调资料。",
+      "applicable_objects": [
+        "telecom_duct_route",
+        "gas_pipeline",
+        "power_line",
+        "water_pipeline",
+        "sewer_pipeline"
+      ],
+      "risk_level": "high",
+      "rule_types": [
+        "crossing_requires_properties"
+      ],
+      "source_file": "德国行业标准/09_莱茵美因地下公用管线保护规范_NRM-N-A001_2023.pdf",
+      "source_excerpt": "===== Page 1 ===== Gültig ab: Reviewdatum: 01.08.2023 01.08.2025 NRM-Norm-A001 Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, Signal- und Steuerkabel der Mainova ===== Page 2 ===== NRM-Norm NRM-N-A001 Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, Signal- und Steuerkabel der Mainova gültig ab: 01.08.2023 Reviewdatum: 01.08.2025 ",
+      "confidence": "medium"
+    },
+    {
+      "id": "b88c468e78a0a648",
+      "standard_id": "CN-554371033efb309b",
+      "standard_name": "GB_50373-2019_通信管道与通道工程设计标准",
+      "version": "",
+      "clause_id": "CN",
+      "title": "中国通信/GIS规范参考规则",
+      "summary": "该中国规范暂作为补充数据源，用于通信管道、地下管线数据和建筑物配建通信基础设施的参考审查。",
+      "applicable_objects": [
+        "telecom_duct_route",
+        "house_connection",
+        "fiber_distribution_cabinet"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "min_property",
+        "required_properties"
+      ],
+      "source_file": "中国行业标准/01_核心国家工程建设标准/GB_50373-2019_通信管道与通道工程设计标准.pdf",
+      "source_excerpt": "PDF文本层为空或需OCR；已纳入目录，后续可结合原文或OCR结果校准。",
+      "confidence": "medium"
+    },
+    {
+      "id": "75f3f5984f68bc29",
+      "standard_id": "CN-881fec24a915d231",
+      "standard_name": "GB_T_50374-2018_通信管道工程施工及验收标准",
+      "version": "",
+      "clause_id": "CN",
+      "title": "中国通信/GIS规范参考规则",
+      "summary": "该中国规范暂作为补充数据源，用于通信管道、地下管线数据和建筑物配建通信基础设施的参考审查。",
+      "applicable_objects": [
+        "telecom_duct_route",
+        "house_connection",
+        "fiber_distribution_cabinet"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "required_any_property"
+      ],
+      "source_file": "中国行业标准/01_核心国家工程建设标准/GB_T_50374-2018_通信管道工程施工及验收标准.pdf",
+      "source_excerpt": "===== Page 1 ===== UDC P 中华人民共和国国家标准 ~19 GB/T 50374 - 2018 通信管道工程施工及验收标准 Standard of construction and acceptance for communication conduit engineering 2018 - 09 - 11 发布 2019 - 03 - 01 实施 中华人民共和国住房和城乡建设部 国家市场监督管理总局 联合发布 ===== Page 2 ===== 中华人民共和国国家标准 通信管道工程施工及验收标准 Standard of construction and acceptance for communication conduit engineenng GB/T 50374 - 2018 主",
+      "confidence": "medium"
+    },
+    {
+      "id": "cc46517c72d0d1d1",
+      "standard_id": "CN-ffdc9816291c4a47",
+      "standard_name": "DB4403_T_587-2025_深圳市地下管线数据规范",
+      "version": "",
+      "clause_id": "CN",
+      "title": "中国通信/GIS规范参考规则",
+      "summary": "该中国规范暂作为补充数据源，用于通信管道、地下管线数据和建筑物配建通信基础设施的参考审查。",
+      "applicable_objects": [
+        "*"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "geometry_validity",
+        "required_properties"
+      ],
+      "source_file": "中国行业标准/02_地方标准与官方实施指南/DB4403_T_587-2025_深圳市地下管线数据规范.pdf",
+      "source_excerpt": "===== Page 1 ===== 地下管线数据规范 Specification for data of underground pipelines ICS 07.040 CCS A 75 DB4403 深 圳 市 地 方 标 准 DB4403/T 587—2025 2025-01-21 发布 2025-02-01 实施 深圳市市场监督管理局 发布 ===== Page 3 ===== DB4403/T 587—2025 I 目 次 前言.................................................................................... III 引言...............................................",
+      "confidence": "medium"
+    },
+    {
+      "id": "ce242aebf2acb05f",
+      "standard_id": "CN-c37acb32619cc02b",
+      "standard_name": "广东省建筑物配建通信基础设施实施指南_试行",
+      "version": "",
+      "clause_id": "CN",
+      "title": "中国通信/GIS规范参考规则",
+      "summary": "该中国规范暂作为补充数据源，用于通信管道、地下管线数据和建筑物配建通信基础设施的参考审查。",
+      "applicable_objects": [
+        "house_connection",
+        "address_point"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "中国行业标准/02_地方标准与官方实施指南/广东省建筑物配建通信基础设施实施指南_试行.pdf",
+      "source_excerpt": "===== Page 1 ===== - 3 - 广东省建筑物配建通信基础设施实施指南 （试行） 1 目的 本指南旨在加强广东省新建、改建、扩建建筑物配建通信 基础设施竣工备案管理，指导建设单位及参建单位开展相关规 划、设计、施工、验收工作；规范地市通信建设管理办公室（以 下简称“通建办”）在通信基础设施建设规划、设计、施工、 验收、竣工备案及信源接入全生命周期管理中规范履行质量监 督、验收备案等职责；严格执行工程建设强制性标准，保障基 础电信运营企业及广东铁塔（以下统称“基础电信企业”）共 享利用并确保通信信号按时保质接入，切实发挥通信基础设施 在公共利益、公众安全方面的关键性支撑作用。 在建筑物规划、设计和建设过程中，建筑物配建通信基础 设施，旨在通过与建筑物同步规划、设计和施工，确保通信设 施的规范性和兼",
+      "confidence": "medium"
+    },
+    {
+      "id": "fb69ae5615ba4b13",
+      "standard_id": "CN-c2e3319928eeaeb6",
+      "standard_name": "中兴_家庭光纤施工技术白皮书",
+      "version": "",
+      "clause_id": "CN",
+      "title": "中国通信/GIS规范参考规则",
+      "summary": "该中国规范暂作为补充数据源，用于通信管道、地下管线数据和建筑物配建通信基础设施的参考审查。",
+      "applicable_objects": [
+        "house_connection",
+        "address_point"
+      ],
+      "risk_level": "medium",
+      "rule_types": [
+        "required_properties"
+      ],
+      "source_file": "中国行业标准/03_辅助技术资料_非正式标准/中兴_家庭光纤施工技术白皮书.pdf",
+      "source_excerpt": "===== Page 1 ===== 1 1 家庭光纤施工技术白皮书 ===== Page 2 ===== 家庭光纤施工技术白皮书 中兴通讯版权所有未经许可不得扩散 第1页 目录 1 概述......................................................................................................................................................5 1.1 适用范围..........................................................................................................",
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,5138 @@
+
+
+===== Page 1 =====
+Talstraße 21
+89584 Ehingen (Donau)
+Deutschland
+T +49 7391 7600 900
+M kontakt@oew-breitband.de
+W www.oew-breitband.de
+Sitz d. Gesellschaft: Ehingen (Donau)
+Amtsgericht Ulm HRB 742770
+USt-IdNr. DE344948435
+Geschäftsführer: Andreas Seifert
+für den geförderten Breitbandausbau.
+Schnell. Zukunftsstark. Digital
+Planungs- & 
+Dokumentationsrichtlinie
+07/25 | V 1.1 |
+
+
+===== Page 2 =====
+2/128
+Planungs- und 
+Dokumentationsrichtlinie 
+für den geförderten Breitbandausbau 
+der OEW Breitband GmbH 
+Im Folgenden auch „OEW“ oder „AG“ genannt 
+07|2025 
+Version 1.1
+
+
+===== Page 3 =====
+3/128 
+Inhaltsverzeichnis 
+1. 
+Einleitung ............................................................................................................................. 7 
+1.1. 
+Wer ist die OEW Breitband GmbH ......................................................................................................... 7 
+1.2. 
+Ziele der OEW Breitband GmbH............................................................................................................. 7 
+1.3. 
+Ziel der Richtlinie .................................................................................................................................... 8 
+1.4. 
+Zielgruppe ............................................................................................................................................... 8 
+1.5. 
+Geltungsbereich ..................................................................................................................................... 9 
+ 
+2. 
+Vorgaben des Projektträgers und Fördermittelgebers ................................... 10 
+2.1. 
+Überblick über die Förderprogramme ................................................................................................. 10 
+2.2. 
+Vorgaben des Projektträgers ............................................................................................................... 12 
+2.3. 
+Vorgaben des Fördermittelgebers (BMDS) ......................................................................................... 12 
+ 
+3. 
+Planung des Breitbandausbaus ................................................................................ 14 
+3.1. 
+Planungsphasen ................................................................................................................................... 14 
+3.1.1. 
+Entwurfsplanung .......................................................................................................................... 14 
+3.1.2. 
+Genehmigungsplanung ................................................................................................................ 14 
+3.1.3. 
+Ausführungsplanung ................................................................................................................... 15 
+3.2. 
+Planungsvorgaben ............................................................................................................................... 16 
+3.2.1. 
+Vorgaben des Fördermittelgebers ............................................................................................... 17 
+3.2.1.1. 
+Gewerbegebiete ......................................................................................................................................19 
+3.2.1.2. 
+Schulen und Krankenhäuser ..................................................................................................................20 
+3.2.2. 
+Planungsvorgaben der OEW ........................................................................................................ 21 
+3.2.2.1. 
+Netzarchitektur und – topologie ............................................................................................................23 
+3.2.2.2. 
+Trassenführung allgemein .....................................................................................................................24 
+3.2.2.3. 
+Trassenführung auf privatem Grund ......................................................................................................27 
+3.2.2.4. 
+Standortwahl /-sicherung für PoP, MFG und NVt ..................................................................................28 
+3.2.2.5. 
+Backbone ................................................................................................................................................29 
+3.2.2.5.1. 
+Bauten- und Netztechnikelemente ...................................................................................................30 
+3.2.2.5.1.1. 
+Point of Presence / Multifunktionsgehäuse ............................................................................30 
+3.2.2.5.1.2. 
+Kabelzugschacht .......................................................................................................................31 
+3.2.2.5.1.3. 
+Schacht mit Muffe .....................................................................................................................31 
+3.2.2.5.1.4. 
+Rohrnetzebene ..........................................................................................................................31 
+3.2.2.5.2. 
+Kabelnetzebene .................................................................................................................................33 
+3.2.2.5.2.1. 
+Faserplanung .............................................................................................................................33 
+3.2.2.5.2.2. 
+Spleißplanung ............................................................................................................................33 
+3.2.2.6. 
+Hauptkabelebene ....................................................................................................................................34 
+3.2.2.6.1. 
+Verteilerebene - PoP zu NVT .............................................................................................................34 
+3.2.2.6.2. 
+Verteilerebene - NVT bis Abzweig ....................................................................................................34 
+3.2.2.6.3. 
+Bauten- und Netztechnikelemente ...................................................................................................34 
+3.2.2.6.3.1. 
+Verteilerebene - Netzverteiler ...................................................................................................34 
+3.2.2.6.3.2. 
+Verteilerebene - NVT (oberirdisch) ...........................................................................................35 
+3.2.2.6.4. 
+Rohrnetzebene ..................................................................................................................................36 
+3.2.2.6.4.1. 
+PoP zu NVt ................................................................................................................................37 
+3.2.2.6.4.2. 
+NVt bis Abzweig ........................................................................................................................39 
+3.2.2.6.5. 
+Kabelnetzebene .................................................................................................................................40 
+3.2.2.6.5.1. 
+Faserplanung .............................................................................................................................41 
+3.2.2.6.5.2. 
+Spleißplanung ............................................................................................................................41 
+3.2.2.6.5.2.1. 
+Spleißplanung PoP bis NVt ....................................................................................................41 
+3.2.2.6.5.2.2. 
+Spleißplanung NVt bis HÜP ...................................................................................................42 
+3.2.2.7. 
+Hauszuführungsebene ...........................................................................................................................44 
+3.2.2.7.1. 
+Trassenführung .................................................................................................................................44 
+3.2.2.7.2. 
+Bauten- und Netztechnikelemente ...................................................................................................45
+
+
+===== Page 4 =====
+4/128 
+3.2.2.7.2.1. 
+Hauseinführung oberirdisch .....................................................................................................45 
+3.2.2.7.2.2. 
+Hauseinführung unterirdisch ....................................................................................................45 
+3.2.2.7.2.3. 
+Hausübergabepunkt (HÜP) .......................................................................................................45 
+3.2.2.7.3. 
+Rohrnetzebene ..................................................................................................................................46 
+3.2.2.7.4. 
+Kabelnetzebene .................................................................................................................................46 
+3.2.2.7.4.1. 
+Faserplanung .............................................................................................................................46 
+3.2.2.7.4.2. 
+Spleißplanung ............................................................................................................................48 
+3.2.2.8. 
+Umgang mit Mitverlegungen ..................................................................................................................49 
+3.2.2.9. 
+Umgang mit Bestandsinfrastruktur (Mitnutzung) .................................................................................51 
+ 
+4. 
+Materialanforderungen und -spezifikationen der OEW Breitband GmbH 52 
+4.1. 
+Backbone-Ebene ................................................................................................................................... 52 
+4.1.1. 
+Point of Presence......................................................................................................................... 52 
+4.1.1.1. 
+POP L (bis 8064 Ports) ...........................................................................................................................52 
+4.1.1.1.1. 
+Gehäuse .............................................................................................................................................52 
+4.1.1.1.2. 
+Innenausbau ......................................................................................................................................54 
+4.1.1.2. 
+POP M (bis 4032 Ports) ..........................................................................................................................58 
+4.1.1.2.1. 
+Gehäuse .............................................................................................................................................58 
+4.1.1.2.2. 
+Innenausbau ......................................................................................................................................60 
+4.1.1.3. 
+POP S – MFG18 mit zusätzlichem MFG18-Sockel (bis 1512 Ports) ....................................................64 
+4.1.1.3.1. 
+Gehäuse MFG 18 ...............................................................................................................................64 
+4.1.1.3.2. 
+Energieanschlusssäule .....................................................................................................................65 
+4.1.1.3.3. 
+Klimatisierung....................................................................................................................................66 
+4.1.1.3.4. 
+Innenausbau ......................................................................................................................................67 
+4.1.1.4. 
+POP S-MFG-Alternative mit integriertem Open Access (bis 1512 Ports) .............................................69 
+4.1.1.4.1. 
+Gehäuse .............................................................................................................................................69 
+4.1.1.4.2. 
+Stromsäule ........................................................................................................................................70 
+4.1.1.4.3. 
+Klimatisierung....................................................................................................................................70 
+4.1.1.4.4. 
+Innenausbau ......................................................................................................................................71 
+4.2. 
+Hauptkabelebene ................................................................................................................................. 73 
+4.2.1. 
+Glasfaser Netzverteiler (Gf-NVt) .................................................................................................. 73 
+4.2.1.1. 
+Gehäuse und Sockel ...............................................................................................................................73 
+4.2.1.2. 
+Einführungen ...........................................................................................................................................74 
+4.2.1.2.1. 
+Sockel / Hülle ....................................................................................................................................74 
+4.2.1.2.2. 
+Bodenplatte .......................................................................................................................................75 
+4.2.1.2.3. 
+Kabelmanagement ............................................................................................................................75 
+4.3. 
+Hauszuführungsebene ......................................................................................................................... 76 
+4.3.1. 
+Mikrorohr erdverlegbar (MRe) ..................................................................................................... 76 
+4.3.1.1. 
+Material, Aufbau und Kennzeichnung ....................................................................................................76 
+4.3.1.2. 
+Lieferung .................................................................................................................................................78 
+4.3.1.3. 
+Qualitätskriterien ....................................................................................................................................79 
+4.3.2. 
+Hauseinführung / Mauerdurchführung ....................................................................................... 80 
+4.3.2.1. 
+Beschaffenheit ........................................................................................................................................80 
+4.3.2.2. 
+Qualitätskriterien ....................................................................................................................................80 
+4.3.3. 
+Hausübergabepunkt (HÜP).......................................................................................................... 81 
+4.3.3.1. 
+Beschaffenheit ........................................................................................................................................81 
+4.3.3.2. 
+Qualitätskriterien ....................................................................................................................................82 
+4.4. 
+Übergreifend eingesetzte Materialien ................................................................................................. 83 
+4.4.1. 
+Kabelschutzrohr ........................................................................................................................... 83 
+4.4.1.1. 
+Material, Aufbau und Kennzeichnung ....................................................................................................83 
+4.4.1.2. 
+Lieferung .................................................................................................................................................84 
+4.4.1.3. 
+Qualitätskriterien ....................................................................................................................................85 
+4.4.2. 
+Mikrorohrverband (MRVe) ........................................................................................................... 87 
+4.4.2.1. 
+Material, Aufbau und Kennzeichnung ....................................................................................................87 
+4.4.2.2. 
+Lieferung .................................................................................................................................................89 
+4.4.2.3. 
+Qualitätskriterien ....................................................................................................................................89 
+4.4.3. 
+Zubehör Mikrorohr ....................................................................................................................... 90 
+4.4.3.1. 
+Endkappen / Doppelsteckmuffe / Reduziersteckmuffen .....................................................................90 
+4.4.3.2. 
+Beschaffenheit ........................................................................................................................................90
+
+
+===== Page 5 =====
+5/128 
+4.4.3.2.1. 
+Qualitätskriterien ...............................................................................................................................91 
+4.4.3.3. 
+Gas-Stop / Einzelzugabdichtung (EZA / EZA-t) .....................................................................................91 
+4.4.3.4. 
+Beschaffenheit ........................................................................................................................................91 
+4.4.3.4.1. 
+Qualitätskriterien ...............................................................................................................................91 
+4.4.3.5. 
+Verbundmarkierer ...................................................................................................................................92 
+4.4.4. 
+Schächte ............................................................................................................................................... 92 
+4.4.4.1. 
+Beschaffenheit ........................................................................................................................................92 
+4.4.4.2. 
+Qualitätskriterien ....................................................................................................................................94 
+4.4.5. 
+Kabel ..................................................................................................................................................... 94 
+4.4.5.1. 
+Beschaffenheit ........................................................................................................................................95 
+4.4.5.2. 
+Qualitätskriterien ....................................................................................................................................97 
+4.4.6. 
+Muffen ................................................................................................................................................... 98 
+4.4.6.1. 
+Beschaffenheit ........................................................................................................................................98 
+4.4.6.2. 
+Qualitätskriterien ....................................................................................................................................99 
+4.4.7. 
+Trassenwarnband ............................................................................................................................... 100 
+4.4.8. 
+Kugel- oder Stabmarker ..................................................................................................................... 100 
+ 
+5. 
+Einmessung & Dokumentation des Breitbandausbaus ................................. 102 
+5.1. 
+Einmessung ........................................................................................................................................ 102 
+5.2. 
+Dokumentationsvorgaben ................................................................................................................. 104 
+5.2.1. 
+Förderkonforme Dokumentationsvorgaben .............................................................................. 104 
+5.2.2. 
+OEW Breitband Dokumentationsvorgaben ................................................................................ 104 
+5.2.3. 
+OEW Bezeichnungs- und Beschriftungsschema ....................................................................... 105 
+5.2.3.1. 
+Gemarkungskürzel (XXXYY) ................................................................................................................ 105 
+5.2.3.2. 
+Backboneebene .................................................................................................................................... 106 
+5.2.3.3. 
+Hauptkabelebene (POP zu NVT) .......................................................................................................... 106 
+5.2.3.4. 
+Hauszuführungsebene (NVT bis Abzweig) .......................................................................................... 106 
+5.2.3.5. 
+Hausübergabepunkt ............................................................................................................................. 107 
+5.2.4. 
+OEW Breitband Software ........................................................................................................... 107 
+5.2.5. 
+Maßeinheiten ............................................................................................................................. 108 
+ 
+6. 
+Ergänzend abzugebende Unterlagen .................................................................. 109 
+6.1. 
+Unterlagen aus der Genehmigung ..................................................................................................... 109 
+6.2. 
+Genehmigungsbescheide der Träger öffentlicher Belange ............................................................. 109 
+6.3. 
+Grundstücksnutzungsverträge und sonstige Gestattungs-/Standortsicherungsverträge ............. 110 
+6.4. 
+Gutachten / Berichte .......................................................................................................................... 110 
+6.5. 
+Verkehrsrechtliche Anordnung .......................................................................................................... 110 
+6.6. 
+Protokolle der Ortsbegehungen, Vorbesprechungen, Bauanlaufberatungen ................................. 111 
+6.7. 
+Ausführungsdokumentation .............................................................................................................. 111 
+6.7.1. 
+Tiefbau und Montage ................................................................................................................. 111 
+6.7.2. 
+Materialdatenblätter .................................................................................................................. 112 
+6.7.3. 
+Baubeginnanzeige ..................................................................................................................... 112 
+6.7.4. 
+Bautagesberichte / -tagebücher ................................................................................................ 113 
+6.7.5. 
+Bohrprotokolle............................................................................................................................ 113 
+6.7.6. 
+Hausbegehungsprotokoll .......................................................................................................... 114 
+6.7.7. 
+Montage ..................................................................................................................................... 116 
+6.8. 
+Schachtkarte ....................................................................................................................................... 116 
+6.9. 
+Vorgabe zur Abnahmemessung / OTDR-Messung .......................................................................... 116 
+6.10. 
+Einblasprotokolle ................................................................................................................................ 118 
+6.11. 
+Nachweis Abnahmedokumentation .................................................................................................. 119 
+6.11.1. 
+Tiefbau ....................................................................................................................................... 119 
+6.11.2. 
+Fertigstellungsanzeige .............................................................................................................. 120 
+6.11.3. 
+Tiefbautechnische Abnahmedokumente (Materialrestnachweise, Mengenabgleich, 
+Entsorgungs-/Deponienachweis) ................................................................................................................ 120
+
+
+===== Page 6 =====
+6/128 
+6.11.4. 
+Abnahmeprotokolle ................................................................................................................... 120 
+6.11.5. 
+Druck- und Dichtigkeitsprüfung ................................................................................................. 121 
+ 
+7. 
+Anhang ..............................................................................................................................122 
+7.1. 
+Glossar ................................................................................................................................................ 122 
+7.2. 
+Abbildungsverzeichnis ....................................................................................................................... 127 
+7.3. 
+Tabellenverzeichnis............................................................................................................................ 128 
+ 
+8. 
+Änderungen und Aktualisierungen ....................................................................... 128 
+8.1. 
+Dokumentenhistorie ........................................................................................................................... 128
+
+
+===== Page 7 =====
+7/128 
+1. Einleitung 
+1.1. Wer ist die OEW Breitband GmbH 
+Die OEW Breitband GmbH (OEW BB) wurde am 04. August 2021 gegründet. 
+Hauptgesellschafter mit einem Anteil von mehr als 99% Anteil ist der Zweckverband 
+Oberschwäbische Elektrizitätswerke (OEW) via seiner OEW Energie-Beteiligungs GmbH. Die 
+Aufgabe der OEW ist die Daseinsvorsorge in Form der Schaffung einer Versorgung der 
+Haushalte, 
+Gewerbe 
+und 
+Industrie, 
+Landwirtschaft 
+und 
+öffentliche 
+Hand 
+mit 
+leistungsfähigen FTTB-Anschlüssen im Verbandsgebiet. Die Tätigkeiten beschränken sich 
+aktuell auf 6 Landkreise des Verbandsgebiets mit über 200 Kommunen und rund 1,8 
+Millionen 
+Einwohnern. 
+Die 
+OEW 
+BB 
+errichtet 
+eine 
+ausschließlich 
+passive 
+Glasfasernetzinfrastruktur im Rahmen der Breitbandförderung der Bundesregierung im 
+Betreibermodell. Die errichtete Infrastruktur ist dabei an mindestens einen Netzbetreiber zu 
+verpachten, 
+damit 
+der 
+aktive 
+Netzbetrieb 
+nach 
+der 
+Erstellung 
+der 
+passiven 
+Glasfasernetzinfrastrukturen 
+gesichert 
+ist. 
+Das 
+Glasfasernetz 
+hat 
+dabei 
+den 
+förderrechtlichen Open Access Anforderungen zu genügen. 
+ 
+1.2. Ziele der OEW Breitband GmbH 
+Ziel der OEW Breitband GmbH ist es, in aktuell 6 Landkreisen in Oberschwaben eine 
+zukunftssichere Breitbandversorgung überwiegend in ländlichen Regionen sicherzustellen.  
+Das Versorgungsgebiet der OEW umfasst dabei die Landkreise: 
+Landkreis 
+Landkreiskürzel 
+Alb-Donau-Kreis 
+ADK 
+Landkreis Biberach 
+BC 
+Landkreis Freudenstadt 
+FDS 
+Landkreis Reutlingen 
+RT 
+Zollern-Alb-Kreis 
+ZAK 
+Landkreis Sigmaringen 
+SIG 
+Tabelle 1: Landkreise des Versorgungsgebietes der OEW
+
+
+===== Page 8 =====
+8/128 
+ 
+ 
+Abbildung 1: Ausbaugebiete der OEW 
+ 
+1.3. Ziel der Richtlinie 
+Diese Richtlinie dient als standardisierte Grundlage für: 
+• 
+die Planung 
+• 
+den Ausbau 
+• 
+die Dokumentation 
+ 
+1.4. Zielgruppe 
+Sie richtet sich an die Projektleitung in den Landkreisen, Städten und Gemeinden des 
+Versorgungsgebiets der OEW Breitband GmbH. Die Richtlinie richtet sich ebenso an 
+Generalunternehmer, Planer und Generalübernehmer. Abweichungen von dieser Richtlinie
+
+
+===== Page 9 =====
+9/128 
+bedürfen der expliziten Freigabe durch die OEW Breitband GmbH. Ziel ist, in allen 
+Ausbauprojekten eine einheitliche Vorgehensweise sicherzustellen. 
+ 
+1.5. Geltungsbereich 
+Diese Richtline gilt für folgende Zwecke: 
+1. 
+Unternehmensinterne Zwecke der OEW 
+2. 
+Grundlage für die Erstellung von Angeboten durch Auftragnehmer (AN) 
+3. 
+Grundlage für die Durchführung der von AN angebotenen Leistungen 
+4. 
+Grundlage für die Abnahme von durch AN erbrachte Leistungen
+
+
+===== Page 10 =====
+10/128 
+2. Vorgaben des Projektträgers und 
+Fördermittelgebers 
+2.1. Überblick über die Förderprogramme 
+Für die Erschließung der Projektgebiete der OEW gelten die Förderbedingungen des Bundes. 
+Neben dem Ausbau von Next Generation Access Netzen (Netz der nächsten Generation) 
+unterstützte die Breitbandförderung bereits von Anfang an den direkten Ausbau von 
+Gigabitnetzen, und zwar in Gebieten, in denen noch kein NGA-Netz vorhanden ist („weiße 
+NGA-Gebiete). Mit den erfolgten, auf die Erschließung weißer Flecken (< 30 Mbit/s) 
+ausgerichteten Fördermaßnahmen sowie mit dem aktuellen und zukünftigen privaten 
+Ausbau von Hochgeschwindigkeitsnetzen, wird Deutschland jedoch nicht flächendeckend 
+mit Gigabitnetzen zu versorgen sein. 
+Die staatliche Förderung für die flächendeckende Gigabiterschließung bezieht sich daher 
+inzwischen auch auf Gebiete, in denen schon heute ein NGA-Netz liegt („graue NGA-
+Gebiete“). Dabei soll die Förderung ressourcenschonend erfolgen und nicht über das zur 
+Zielerreichung erforderliche Maß hinausgehen. 
+ 
+Voraussetzungen für die staatlich unterstützten Ausbaumaßnahmen sind: 
+• Die Adresse gemäß dem für die Leistung des AN maßgeblichen vertraglichen 
+Förderrechts unterversorgt ist, weil keine Bandbreite bei der konkreten Adresse 
+verfügbar ist, die die Aufgreifsschwelle des jeweiligen Förderprogramms 
+überschreitet 
+• In dem jeweiligen Gebiet ist nicht zu erwarten, dass ein äquivalentes Netz innerhalb 
+eines bestimmten Zeitraums entsprechend marktwirtschaftlich ausgebaut werden 
+wird (Vorrang des privatwirtschaftlichen Ausbaus). 
+• Die Förderfähigkeit muss über ein Markterkundungsverfahren ermittelt worden sein.
+
+
+===== Page 11 =====
+11/128 
+Für die Einordnung der Hausanschlusspunkte in die jeweiligen Förderprogramme gilt: 
+1. 
+Weiße Flecken (WF) 
+Über einen Upgrade Antrag können ca. 15% hellgraue Synergie-Upgrade-
+Adressen (Sackgasse/Adressen am Ende der Straße etc.) vollständig 
+erschlossen 
+werden. 
+Alle 
+dunkelgrauen 
+Adressen 
+können 
+bis 
+zur 
+Grundstücksgrenze vorgestreckt werden. 
+Schwarze Flecken sind ausgeschlossen und dürfen nicht vorgestreckt werden 
+(davon unabhängig ist die Frage der Reserve in der Längstrasse) 
+ 
+2. 
+Hellgraue Flecken (HGF) 
+In diesem Falle müssen DGF-Adressen entlang der Trasse vorgestreckt werden. 
+Gleiches gilt für Baulücken (leeres Flurstück zwischen bebauten Grundstücken; 
+ansonsten rechtskräftig beschlossener Bebauungsplan) und alle förderfähigen 
+Adressen, bei denen der Eigentümer eine Nutzungsvereinbarung verweigert. Dies 
+gilt für alle förderfähigen Adressen, wenn kein Gestattungsvertrag gegeben ist, 
+dann muss die Adresse vorgestreckt werden. 
+Schwarze Flecken sind auch hier ausgeschlossen und dürfen nicht vorgestreckt 
+werden. 
+ 
+3. 
+Dunkelgrau Flecken (DGF) 
+Hier müssen Baulücken und DGF-Adressen ohne Nutzungsvereinbarung 
+berücksichtigt werden. 
+Schwarze Flecken dürfen auch hier nicht eingeplant und vorgestreckt werden. 
+ 
+Die für den AN geltenden Förderrichtlinien sind im jeweiligen, geschlossenen Vertrag 
+definiert und innerhalb der Realisierung als Grundlage heranzuziehen. Alle in dieser 
+Richtlinie genannten Förderrichtlinien stellen keine vollständige Auflistung dar. Der AN ist 
+verpflichtet, sich selbstständig über die aktuellen und ggf. neuen Richtlinien und Vorgaben 
+zu informieren und diese dem AG zu übermitteln.
+
+
+===== Page 12 =====
+12/128 
+Bei Widersprüchen zwischen den Regelungen dieses Dokuments und den sonstigen, 
+mittels konkreten Vertrags vorgesehen, Förder- und Vertragsbedingungen gehen die 
+sonstigen konkreten Förder- und Vertragsbedingungen diesem Dokument vor. 
+Detailfragen, die sich nicht durch die Heranziehung der Förderrichtlinien klarstellen lassen, 
+sind an den AG heranzutragen und werden ausschließlich durch diesen im Austausch mit 
+dem Projektträger aufgeklärt. Ein direkter Austausch zwischen AN und Projektträger ist 
+nicht gestattet. 
+ 
+2.2. Vorgaben des Projektträgers 
+Folgende Richtlinien und Hinweise sind zu berücksichtigen, wobei die Auflistung keinen 
+Anspruch auf Vollständigkeit erhebt und selbstständig zu aktualisieren bzw. zu erweitern 
+ist: 
+„Hinweisblatt zum Upgrade für Zuwendungsempfänger im sog. Weiße-Flecken-
+Förderprogramm“ 
+„Hinweisblatt zur Förderfähigkeit von nicht dauerhaft bewohnten Gebäuden“. 
+ 
+2.3. Vorgaben des Fördermittelgebers (BMDS) 
+Die nachstehende Auflistung von Richtlinien und Vorgaben erhebt keinen Anspruch auf 
+Vollständigkeit und ist selbstständig zu erweitern bzw. zu ergänzen: 
+• Förderung zur Unterstützung des Gigabitausbaus der Telekommunikationsnetze in 
+der Bundesrepublik Deutschland 
+• Einheitliches Materialkonzept und Vorgaben für die Dimensionierung passiver 
+Infrastruktur im Rahmen des geförderten Breitbandausbaus 
+• GIS-Nebenbestimmungen mit Unterstützung durch das Dokument „Worksheet-
+Netzplanung_GIS-NB_5.1“ 
+• Besondere Nebenbestimmungen 
+• Richtlinie „Förderung zur Unterstützung des Breitbandausbaus in der Bundesrepublik 
+Deutschland“ vom 18.08.2020 (Weiße Fleckenförderung, wF)
+
+
+===== Page 13 =====
+13/128 
+• Richtlinie 
+„Förderung 
+zur 
+Unterstützung 
+des 
+Gigabitausbaus 
+der 
+Telekommunikationsnetze in der Bundesrepublik Deutschland“ vom 27.12.2022 
+(Graue Flecken (gF) / Hellgraue Flecken (hgF)) 
+• Richtlinie 
+„Förderung 
+zur 
+Unterstützung 
+des 
+Gigabitausbaus 
+der 
+Telekommunikationsnetze in der Bundesrepublik Deutschland“ – die Gigabit-
+Richtlinie des Bundes 2.0 vom 31.03.2023 (Dunkelgraue Flecken, (dgF)) 
+• weitere Fassungen der DGF-Richtlinie des Bundes vom 30.04.2024 und vom 
+13.01.2025 
+• Verwaltungsvorschrift des Innenministeriums zur Mitfinanzierung der Förderung aus 
+der Richtlinie zur Unterstützung des Breitbandausbaus in der Bundesrepublik 
+Deutschland (VwV Breitbandmitfinanzierung) vom 30. Januar 2019 
+• Verwaltungsvorschrift des Innenministeriums zur Mitfinanzierung der Bundes-
+Richtlinie 
+„Förderung 
+zur 
+Unterstützung 
+des 
+Gigabitausbaus 
+der 
+Telekommunikationsnetze 
+in 
+der 
+Bundesrepublik 
+Deutschland“ 
+(VwV 
+Gigabitmitfinanzierung) vom 10.09.2021  
+• Verwaltungsvorschrift des Innenministeriums zur Mitfinanzierung der Bundes-
+Richtlinie 
+„Förderung 
+zur 
+Unterstützung 
+des 
+Gigabitausbaus 
+der 
+Telekommunikationsnetze 
+in 
+der 
+Bundesrepublik 
+Deutschland“ 
+(VwV 
+Gigabitmitfinanzierung) vom 27.07.2023
+
+
+===== Page 14 =====
+14/128 
+3. Planung des Breitbandausbaus 
+3.1. Planungsphasen 
+3.1.1. 
+Entwurfsplanung 
+In der Entwurfsplanung wird ein Entwurf für das Bauprojekt erstellt. Ziel ist es, ein 
+umfassend ausgearbeitetes und tragfähiges Konzept mit detaillierten Plänen zu entwickeln, 
+das alle projektspezifischen Fragestellungen und Herausforderungen berücksichtigt. Diese 
+Entwurfsplanung dient als Grundlage für die detaillierte Ausführung des Bauvorhabens. Bei 
+genehmigungspflichtigen Projekten bildet sie außerdem die Basis für die anschließende 
+Genehmigungsplanung. 
+ 
+3.1.2. 
+Genehmigungsplanung 
+In 
+der 
+Genehmigungsplanung 
+steht 
+die 
+Fertigstellung 
+und 
+Einreichung 
+aller 
+genehmigungsrelevanten Unterlagen im Fokus. Diese Phase beinhaltet die Erstellung und 
+Anpassung sämtlicher Planungsunterlagen, Objektbeschreibungen und Berechnungen, die 
+für die Genehmigungsplanung und die erfolgreiche Umsetzung erforderlich sind. Auch 
+Anträge auf Ausnahmen und Befreiungen werden in dieser Phase erarbeitet und 
+gegebenenfalls nachverhandelt. 
+Die vorliegende Entwurfsplanung kann als Grundlage für die Erarbeitung der 
+Genehmigungsplanung dienen und ist für die weitere Bearbeitung fortzuschreiben und ggf. 
+im 
+Zuge 
+der 
+Genehmigungsplanung 
+grundlegend 
+zu 
+überarbeiten. 
+Die 
+Genehmigungsplanung zur FTTB-Netzstruktur ist analog zur Netzplanung auszuführen. Die 
+erforderlichen Arbeitsschritte sind für die Erfüllung der Leistungsschritte in Anlehnung an 
+Leistungsphase 4 (in Anlehnung an HOAI) erforderlich. Hierbei sind sämtliche Vorgaben der 
+jeweils für das Förderprojekt einschlägigen Bestimmungen des Bundesförderprogramms zu 
+berücksichtigen. 
+Die Genehmigungsplanung ist unter Beachtung der Vorgaben des Auftraggebers sowie in 
+Abstimmung mit allen an der Planung fachlich beteiligten Stellen (Fachbereiche der
+
+
+===== Page 15 =====
+15/128 
+öffentlichen Verwaltung, z.B. Tiefbauamt, Planen und Stadtentwicklung, etc.) durch den 
+Auftragnehmer bis zur genehmigungsreifen Fassung auszuarbeiten. 
+Der Auftragnehmer hat dafür zu sorgen, dass sicherheitstechnische Maßnahmen bereits 
+frühzeitig in die Planung einbezogen werden, damit die Bauabläufe reibungslos gestaltet 
+werden und dadurch Mehrkosten für etwaige vernachlässigte Arbeitsschutzmaßnahmen 
+sowie Baustillstandskosten vermieden werden. 
+Der Auftragnehmer wirkt weiterhin in der Planungsphase darauf hin, dass gute und sichere 
+Bedingungen für spätere Wartungs- und Instandhaltungsarbeiten geschaffen werden und 
+spätere Nachrüstungen und Aufwendungen bzw. Kosten in der Nutzungsphase gemindert 
+werden.  
+Der genaue Leistungsumfang der Genehmigungsplanung ist dem geschlossenen 
+Rahmenvertrag für Planungsarbeiten zu entnehmen. 
+ 
+3.1.3. 
+Ausführungsplanung 
+Die Ausführungsplanung umfasst die Erstellung detaillierter Pläne und Unterlagen, die für 
+die Durchführung eines Bauprojekts notwendig sind. Diese Phase beinhaltet in der Regel die 
+finalen Bauausführungs- und Montageunterlagen, sowie die finalen Planungsmengen gem. 
+Leistungsverzeichnis. 
+Die vorliegende FTTB-Netzplanung bzw. erstellte Genehmigungsplanung dient als 
+Grundlage für die Erarbeitung der Ausführungsplanung und ist für die weitere Bearbeitung 
+fortzuschreiben. Die Ausführungsplanung für die FTTB-Netzstruktur ist analog zur 
+Netzplanung auszuführen (Leerohrplanung, Trassenplanung, Hausanschlussplanung, 
+Mikrorohrplanung inkl. Faser- und Spleißplanung). Die erforderlichen Arbeitsschritte sind für 
+die Erbringung der Leistungen in Anlehnung an Leistungsphase 5 (in Anlehnung an die HOAI) 
+erforderlich. Hierbei sind sämtliche Vorgaben des Bundesförderprogramms, die Planungs- 
+und Dokumentationsvorgaben des Auftraggebers und ggf. des Netzbetreibers zu 
+berücksichtigen. Die Ausführungsplanung ist unter Beachtung der Vorgaben des 
+Auftraggebers sowie in Abstimmung mit allen an der Planung fachlich beteiligten Stellen 
+(Fachbereiche der öffentlichen Verwaltung, z.B. Tiefbauamt, Planen und Stadtentwicklung,
+
+
+===== Page 16 =====
+16/128 
+etc.) durch den Auftragnehmer bis zur ausführungsreifen, vertrags- und förderkonformen 
+Fassung auszuarbeiten. 
+Der Auftragnehmer hat dafür zu sorgen, dass sicherheitstechnische Maßnahmen bereits 
+frühzeitig in die Planung einbezogen werden, damit die Bauabläufe reibungslos gestaltet 
+werden 
+können 
+und 
+dadurch 
+Mehrkosten 
+für 
+etwaige 
+vernachlässigte 
+Arbeitsschutzmaßnahmen sowie Baustillstandskosten vermieden werden. 
+Der Auftragnehmer wirkt weiterhin in der Planungsphase darauf hin, dass gute und sichere 
+Bedingungen für spätere Wartungs- und Instandhaltungsarbeiten geschaffen werden und 
+spätere Nachrüstungen und Aufwendungen bzw. Kosten in der Nutzungsphase gemindert 
+werden. 
+Der genaue Leistungsumfang der Ausführungsplanung, ist dem geschlossenen 
+Rahmenvertrag für Planungsarbeiten zu entnehmen. 
+ 
+3.2. Planungsvorgaben 
+Die nachstehenden Ausführungen verstehen sich als Systemstandard und als Ergänzung 
+und/oder Erläuterung zu den grundlegenden Festlegungen des Fördermittelgebers. 
+Für alle Angebote und Projekte der OEW zur Planung, zum Bau und zur Bauüberwachung 
+von Glasfasernetzen zur Versorgung von Privat- und Geschäftskunden kommen diese 
+Vorgaben zum Tragen und sind zwingend einzuhalten. 
+Daneben gelten alle einschlägigen Standards, Normen und gesetzlichen Bestimmungen, für 
+deren Einhaltung die AN vollumfänglich eigenverantwortlich sind. 
+Abweichungen von den Vorgaben dieser Planungsrichtlinie, z.B. aufgrund spezifischer 
+Anforderungen, sind spätestens im Rahmen der Genehmigungsplanung zu begründen, mit 
+der OEW abzustimmen und bedürfen der schriftlichen Bestätigung des AG.
+
+
+===== Page 17 =====
+17/128 
+3.2.1. 
+Vorgaben des Fördermittelgebers 
+Die nachstehenden Dokumente stellen keine abschließende Auflistung dar und sind 
+selbstständig durch den AN zu ergänzen: 
+• 
+Förderung zur Unterstützung des Gigabitausbaus der Telekommunikationsnetze in 
+der Bundesrepublik Deutschland 
+• 
+Einheitliches Materialkonzept und Vorgaben für die Dimensionierung passiver 
+Infrastruktur im Rahmen des geförderten Breitbandausbaus 
+• 
+GIS-Nebenbestimmungen gem. OEW-Vertrag 
+• 
+Besondere Nebenbestimmungen gem. OEW-Vertrag 
+Die Förderbestimmungen können sich zudem im Laufe der Projektlaufzeit ändern, 
+insbesondere ist es möglich, dass ggf. die Nebenbestimmungen zu den jeweiligen 
+Förderprojekten synchronisiert (soweit möglich) bzw. aktualisiert werden. 
+Das Materialkonzept des Bundes ist in der jeweils geltenden Version für die Errichtung neuer 
+Infrastrukturen von Höchstgeschwindigkeitsnetzen für den AN verbindlich. Die aufgeführten 
+Größen, Mengen und Ausführungen charakterisieren Mindestvorgaben. Maßgeblich für die 
+Dimensionierung der Infrastruktur ist die Kalkulation der zur Verfügung zu stellenden 
+Kapazitäten gemäß den Vorgaben für die Dimensionierung passiver Infrastruktur. 
+Abweichungen nach oben sind grundsätzlich zulässig. 
+Es existieren jedoch auch Parameter, die immer einzuhalten sind und für die keine 
+Ausnahmen genehmigt werden. Dies betrifft unter anderem die Einhaltung des 
+Faserkonzeptes und die Garantie des Open Access. 
+Anzumerken ist außerdem, dass sich das Materialkonzept nur auf die Infrastruktur bezieht, 
+die im Zuge der Förderung neu geschaffen wird. Die für die OEW zulässigen Materialien sind 
+im Kapitel 4 Materialanforderungen und -spezifikationen der OEW Breitband GmbH definiert.
+
+
+===== Page 18 =====
+18/128 
+ 
+Abbildung 2: derzeitige Vorgaben für die Dimensionierung passiver Infrastruktur gem. Version 5.0.2 
+(Änderung möglich)
+
+
+===== Page 19 =====
+19/128 
+ 
+Abbildung 3: Darstellung für die Dimensionierung passiver Infrastruktur 
+ 
+Generell sind zwischen den Verteileinrichtungen jeweils immer die Mindestvorgaben aus 
+den Materialkonzepten einzuhalten und alle geforderten Rohrverbände zu verlegen.  
+Die Forderungen zur Verlegung von einem bzw. zwei zusätzlichen Leerrohrverbänden (ZNR) 
+12×10/6 bei Grabenlängen bis einen Kilometer bzw. größer einem Kilometer bezieht sich 
+auf: 
+• Bauten- und Netztechnikelemente mit Verteilfunktion (Muffen, Netzverteiler, PoPs, 
+MFGs) unterbrechen die Grabenlänge. 
+• Reine Ziehschächte ohne Muffen unterbrechen die Grabenlänge nicht, das heißt in 
+Gräben > 1km, die nur Ziehschächte enthalten, sind zwei 12×10/6er ZNRs zu verlegen 
+• In Gräben nach den obigen Definitionen können grundsätzlich freiwillig immer zwei 
+12×10/6er 
+RV 
+verlegt 
+werden 
+(egal 
+ob 
+Betreiber- 
+oder 
+Wirtschaftlichkeitslückenmodell). 
+ 
+3.2.1.1. 
+Gewerbegebiete 
+In Gewerbe- und Industriegebieten muss die Infrastruktur so geplant werden, dass eine 
+redundante Anbindung der Gebäude möglich ist. Stichstraßen sind hiervon auszunehmen.
+
+
+===== Page 20 =====
+20/128 
+Für die im Materialkonzept genannte redundante Anbindung der Gebäude (Ringstruktur) in 
+Gewerbe- 
+und 
+Industriegebieten 
+werden 
+seitens 
+der 
+Projektträger 
+folgende 
+Mindestvorgaben beschrieben: 
+• 
+Es ist eine georedundante Wegeführung von der Verteileinrichtung, über die das 
+Gewerbegebiet versorgt werden soll, bis zu den Grundstücksgrenzen im Ring für alle 
+Rohrverbände zu planen und zu realisieren, außer in Stichstraßen. 
+• 
+Das Faserkonzept 4 + 2 muss für den Anschluss der HÜP in den Gebäuden über den 
+Erstweg eingehalten werden. 
+• 
+Die Zweitwege werden mit Leerrohren und der Ablage der Rohrverbände ohne 
+eingeblasene Fasern an den Grundstücksgrenzen realisiert, optional bis zum HÜP. 
+Die Vorgaben gelten für alle Aufrufe, in denen Gewerbegebiete anzubinden sind (d. h. nicht 
+nur bei reinen Aufrufen für Gewerbegebiete). 
+ 
+3.2.1.2. 
+Schulen und Krankenhäuser 
+Für die Einzelanbindung von Schulen und Krankenhäusern ist eine ausreichende Kapazität 
+einzuplanen. Für die Anbindung ist ein dedizierter Rohrverband mit der Mindestgröße 12 x 
+10/6 plus ggf. 1-2 ZNR zu errichten. Ins Gebäude selbst werden ausschließlich die benötigten 
+Einzelrohre eingeführt. Ist die Trassenlänge zur Anbindung der Schule oder der 
+Krankenhäuser größer als 1 km, so sind hierfür zwei ZNR mit der Mindestgröße 12 x 10/6 
+über die gesamte Grabenlänge einzubringen.  
+Ausnahmen von diesen Vorgaben zur Reservekapazität und zu den Kapazitäten zur 
+Anbindung von Schulen und Krankenhäusern kommen auf Antrag in Betracht, wenn die zu 
+erstellenden Gräben bereits durch eine Mitverlegung ausgelastet sein sollten oder die 
+Kapazität aufgrund alternativer Verlege Techniken technisch nicht zur Verfügung stehen 
+kann. Die Ausnahme beschränkt sich dann auf die entsprechend ausgelasteten 
+Teilabschnitte. Aufgrund von Ausnahmen nur in Teilabschnitten verlegte Kapazitäten, nach 
+Randnummer 12 und 13 des Materialkonzept des Bundes, gegen eindringende 
+Verschmutzung zu schützen und luftdicht zu verschließen. Darüberhinausgehende 
+Ausnahmen sind ebenfalls auf Antrag möglich, falls die Verlegung in den verbleibenden 
+Teilstrecken ökonomisch nicht sinnvoll ist.
+
+
+===== Page 21 =====
+21/128 
+3.2.2. 
+Planungsvorgaben der OEW 
+Der 
+für 
+die 
+Planung 
+verantwortliche 
+AN 
+führt 
+alle 
+Planungsphasen 
+und 
+Genehmigungsverfahren selbst aus. Hierbei sind von Beginn an die Vorgaben aus dem 
+Planungs- und Dokumentationspaket zu berücksichtigen und anzuwenden. 
+Die bereits erstellte Netzplanung dient als Grundlage und ist für die weitere Bearbeitung 
+anzupassen. 
+Hierbei 
+sind 
+sämtliche 
+Vorgaben 
+des 
+Bundesförder- 
+und 
+ggf. 
+Landesförderprogramms in Bezug auf die aufgeführten Förderprojekte zu erfüllen. 
+Der vorliegende Auftrag ist auf die Versorgung der Anschlusseinheiten in den 
+unterversorgten Bereichen gem. der jeweils im Förderbescheid aufgeführten Adresskulisse 
+ausgelegt (ermittelte weiße, graue und dunkelgraue Flecken). Darüber hinaus ist die 
+Netzplanung an die förderrechtlichen Anforderungen anzupassen (insb. Verlegung 
+ausreichender Kapazitätsreserven und Vorstrecken von Adresspunkten). 
+Alle vorläufigen Adressen, die den im Förderbescheid beschriebenen Kriterien entsprechen, 
+erhält der AN zunächst von dem AG. Jedoch sind diese zu verifizieren und mit den 
+erforderlichen Parametern für einen förderkonformen Ausbau anzureichern bzw. die 
+Adressliste in Zusammenarbeit mit dem AG, um weitere gem. MEV förderfähige 
+Adresspunkte zu ergänzen. Die Nutzung der Adressänderungsliste, der FTTB-Anschlussliste 
+und der HAM-Monitoring Liste ist vorgeschrieben. Dazu gehören neben der exakten 
+Anschrift, nebst Geo-Koordinaten auch die Anzahl der Wohn- und Geschäftseinheiten. 
+Es kann insoweit durch die aufeinander aufbauenden Förderprojekte dazu kommen, dass 
+z.B. eine aktuell im dunkelgraue Flecken (dgf)-Bereich förderfähige Adresse aufgrund des 
+vorangehenden hellgraue Flecken (hgf)-Ausbaus zu einer sog. Homes passed Adresse wird. 
+Damit wird aus der ursprünglich förderfähigen Adresse im dgf-Verfahren eine 
+Vorstreckungsadresse im hgf-Verfahren, die im dgf-Verfahren als „Homes passed Adresse“ 
+nicht mehr förderfähig ist. Homes passed sollte nach Möglichkeit vermieden werden bzw. 
+soweit möglich sollte insbesondere alle Upgrade Möglichkeiten mit in der Planung 
+berücksichtigt werden. Für die Erstellung der Planungsunterlagen werden die Daten der 
+Netzplanung durch den Auftraggeber als GIS-Datensätze in Form von Shape-Dateien (für die 
+Übernahme durch den Auftragnehmer in sein Geoinformationssystem - GIS-System) 
+bereitgestellt. Soweit die Planung sich auf die weißen Flecken Förderprojekte bezieht, sind
+
+
+===== Page 22 =====
+22/128 
+- soweit möglich – alle Upgrade Möglichkeiten einzuplanen und die entsprechenden Anträge 
+in 
+Abstimmung 
+mit 
+dem 
+AG 
+vorzubereiten 
+(insb. 
+Upgrade 
+auf 
+vollständige 
+Anschlussrealisierung der Vortriebsadressen bzgl. hgf-Adressen, Synergieupgrade durch 
+vollständige Anschlussrealisierung der Vortriebsadressen im Rahmen der vom 
+Projektträger vorgegebenen ca. 15% Grenze und Vorstrecken der dgf-Adressen bis zur 
+Grundstücksgrenze). Es geht jedoch nur um Adresspunkte, welche nach der Gigabit 2.0 vom 
+31.3.2023 
+gefördert 
+werden. 
+Weitergehende 
+förderrechtliche 
+und 
+vertragliche 
+Anforderungen bleiben unberührt. 
+Nutzbare Bestandsanlagen alternativer Infrastrukturbetreiber und Netzbetreiber sind 
+abzufragen, in die Planung einzuarbeiten und als ggf. erforderliche Materialabweichung 
+schriftlich und begründet beim AG zu beantragen. Die Rückmeldungen sind revisionssicher 
+abzulegen und der OEW mit der Projektdokumentation zu übergeben. 
+Innerhalb der Planung ist die Trassenführung stets so zu wählen, dass die ökonomischste 
+bauliche Ausführung zum Tragen kommt. Abweichungen hiervon sind durch ergangene 
+Auflagen der Genehmigungsbehörden zu belegen oder durch Fotonachweise und eine 
+schriftliche Stellungnahme des bauausführenden Unternehmens nachzuweisen. 
+Für die Darstellung der Planung ist im Hintergrund eine Satellitenkarte mit 
+Flurstücksgrenzen und Gemarkungen zu nutzen. 
+Die Planung ist unter Beachtung der Vorgaben des Auftraggebers (insb. Planungs- und 
+Dokumentationsvorgaben des Auftraggebers) sowie in Abstimmung mit allen an der 
+Planung fachlich beteiligten Stellen (Fachbereiche der öffentlichen Verwaltung, z.B. 
+Tiefbauamt, Planen und Stadtentwicklung, etc.) durch den AN auszuarbeiten. Daraus 
+resultierende Abrufe für die bauliche Realisierung erfolgen erst nach Abschluss der 
+Planungsprüfung durch den AG. 
+Bei der Terminplanung ist durch den Auftragnehmer zu berücksichtigen, dass für die 
+Prüfung, Stellungnahme, Freigabe bzw. Genehmigung der Anträge durch die jeweiligen 
+Fachabteilungen der Verwaltungen ein Zeitfenster von regelmäßig mehr als 2 Monaten 
+einzuplanen ist. 
+Die genannten Anforderungen an den Auftragnehmer können aus dem Leistungsverzeichnis 
+heraus projektspezifisch angepasst werden. Bis dahin gelten die nachfolgenden 
+Regelungen.
+
+
+===== Page 23 =====
+23/128 
+ 
+3.2.2.1. 
+Netzarchitektur und – Topologie 
+Die OEW Breitband GmbH ist innerhalb des geförderten Breitbandausbaus Errichter eines 
+FTTB-Netzes. Die einzelnen Netzebenen werden seitens OEW wie folgt definiert: 
+• 
+Die Backbone-Ebene verbindet das Netz der OEW mit dem Übergabepunkt des 
+Netzbetreibers sowie die PoP-Standorte eines Ausbaugebietes untereinander und 
+stellt ggf. die Verbindung zu einem weiteren Übergabepunkt dar. 
+• 
+Die Hauptkabelebene bezeichnet die Netzebene der Verbindungen zwischen POP 
+und NVt. 
+• 
+Als Hauszuführungsebene wird grundsätzlich das vom NVt ausgehende Netz 
+bezeichnet, das bis zum Netzabschluss (HÜP – Hausübergabepunkt) im Objekt 
+verläuft bzw. bei vorgestreckten Adressen bis zum Abzweig. 
+• 
+Die Netzebene 4 ist das Verteilnetz innerhalb eines Gebäudes. Die Planung und 
+Errichtung dieses Netzes ist kein Gegenstand der Tätigkeit der OEW. 
+ 
+ 
+Abbildung 4: Netzebenen der OEW
+
+
+===== Page 24 =====
+24/128 
+Die Anzahl der PoPs, sowie die Dimensionierung des jeweiligen PoP-Gebietes ergibt sich für 
+das jeweilige Cluster aus den geografischen Gegebenheiten, dem Faserkonzept und der 
+technischen Materialspezifikation zur maximal möglichen Faseraufnahme eines PoPs, 
+sowie der Anzahl und Art der anzuschließenden Adresspunkte gem. Materialkonzept des 
+Bundes. Bei einer benötigten Faseranzahl, die über den POP L hinausgeht, sind abweichende 
+Varianten mit dem AG abzustimmen. Es ist stets die wirtschaftlichste Lösung für den 
+jeweiligen Standort zu nutzen. 
+Die PoPs der OEW stellen gleichzeitig die einzigen Kollokationspunkte des Netzgebietes dar. 
+Bei der Netzplanung muss ein diskriminierungsfreier Zugang für mehrere Anbieter möglich 
+sein. Dies ist über hinreichende Dimensionierung der Leerrohre und Verteilpunkte gem. 
+Materialkonzept des Bundes sicherzustellen. Die Anzahl der Verbände und Fasern für die 
+Hauptkabel- und Hauszuführungsebene ergeben sich innerhalb der Planung aus dem 
+Materialkonzept des Bundes und sind gem. der Förderrichtlinien zu gewährleisten. Hierbei 
+ist die Anzahl der Wohn- und Geschäftseinheiten der anzuschließenden Adresspunkte als 
+Ausgangspunkt heranzuziehen. Eine passive Kollokation ist einzuplanen und die 
+vorzuhaltenden Kapazitäten müssen den späteren Anschluss jeder Wohneinheit mit 4 
+Fasern zzgl. 2 Fasern pro Gebäude ermöglichen. Eine Kapazitätsreserve von mindestens 20 
+% der kalkulierten Anzahl von Fasern ist einzuplanen. Weiterhin gelten mindestens die 
+Vorgaben zur Reserve gemäß Bundesmaterialkonzept. 
+Aus der Anzahl und Struktur der zu versorgenden Adresspunkte ergibt sich innerhalb der 
+Planung auch die jeweilige NVt-Clustergröße. Hierbei sind die Aufnahmekapazitäten aus 
+der Materialspezifikation mit heranzuziehen und entsprechend zu berücksichtigen. 
+ 
+3.2.2.2. 
+Trassenführung allgemein 
+Die Planung der Trassen erfolgt nach Möglichkeit stets im öffentlichen Bauraum. Hierbei 
+sind die ökonomischste Verlegart und Trassenführung anzuwenden. Der AN hat für jede 
+Überlandtrasse eine individuelle Abweichung vom Materialkonzept bei der OEW zu 
+beantragen, um nur 1 ZNR bei HDD einzubringen, anstatt 2 bei > 2km. Ziel ist es eine 
+zusätzliche HDD zu vermeiden, welche für einen zweiten Verband gemacht werden müsste. 
+Für die Trassen von Backbone-, Haupt- und Verteilebene ist die gemeinsame Grabennutzung 
+zu prüfen und aus Gründen der Kostenreduktion zu planen. Dabei ist zu berücksichtigen,
+
+
+===== Page 25 =====
+25/128 
+dass die Redundanzen des Backbone-Rings nicht in der gleichen Trasse zu planen und zu 
+realisieren sind. Sollte dies partiell unvermeidbar sein, so ist der ankommende Backbone-
+Verband auf der obersten und der abgehende Backbone-Verband auf der untersten 
+Verbandsanordnung im Graben einzuplanen. Alternativ kann der zweite Backbone-Verband 
+in einem Kabelschutzrohr DN50 eingeplant werden, wenn bspw. in Mindertiefe gearbeitet 
+werden muss. 
+Für Straßen-, Gewässer- und Bahnquerungen sind Kabelschutzrohre in ausreichender 
+Anzahl und Dimensionierung (DN110) zu planen, dies gilt auch wenn für einen 
+Hausanschluss eine Querung (DN50) erforderlich ist. Bei Gemeinde- und/oder Kreisstraßen 
+ist auch die Verlegung des Hausanschlussröhrchens ohne Kabelschutzrohr zulässig, wenn 
+dies gem. der Auflagen der Betroffenen möglich ist. 
+Ein Kabelschutzrohr ist ebenfalls bei stark belasteten Straßenbereichen zu berücksichtigen, 
+wie z. B. bei Einfahrten zu einem Gewerbegrundstück. 
+Die Mindestüberdeckung der Leitungen ist gemäß den geltenden Vorschriften und 
+Genehmigungen auszuführen. 
+Die Mindestüberdeckungen betragen: 
+• Innerorts im Geh-/Radwegbereich: 0,60 m 
+• Innerorts im Straßenkörper: 0,80 m oder bedarfsweise tiefer 
+• Außerorts neben dem Straßenkörper: 1,20 m 
+• Gewässer: min. 2 m unter der Sohle oder gem. Auflage tiefer 
+• Bundesstraßen: min. 2 m oder entsprechend den Auflagen 
+Im Regelausbau ist der Graben gem. DIN 4124 zu planen, auszuführen und als Grabenprofil 
+bedarfsweise darzustellen. Für die Planung und Ausführung sind die Regelungen aus der 
+Handreichung des BMDV zu berücksichtigen - Verlegetechnik-breitbandausbau.pdf. 
+Darüber hinaus gelten die anerkannten Regeln der Technik, das Leistungsverzeichnis, 
+technische Regelwerke der jeweiligen Kommune bzw. Stadt und Auflagen aus den 
+Genehmigungen.
+
+
+===== Page 26 =====
+26/128 
+Mindestüberdeckung in m 
+Bis 0,70  
+über 0,70 
+bis 0,90 
+über 0,90 
+bis 1,00 
+über 1,00 
+bis 1,25 
+Lichte Grabenbreite m 
+0,30 
+0,40 
+0,50 
+0,60 
+Tabelle 2: Lichte Mindestbreite für Gräben ohne Arbeitsraum gem. DIN 4124 
+ 
+ 
+Abbildung 5: idealisierte Prinzip Skizze eines Grabenprofils – ortsgebundene Abweichungen sind möglich 
+ 
+Mindertiefen gem. DIN 18220 sind dem Auftraggeber unaufgefordert anzuzeigen. 
+Längstrassen, die als HDD-Bohrung geplant werden, sind nicht mit einem ergänzenden 
+Kabelschutzrohr vorzusehen. 
+Alle Rohrverbände und Einzelröhrchen, welche nicht abgeschlossen werden, also nicht in 
+einem HÜP, Gehäuse, Schacht, Gebäude etc. enden (sog. blinde Verbände) werden am 
+Endpunkt gem. Förderbedingungen dokumentiert und mit einem geeigneten Marker 
+(Stabmarker oder Kugelmarker, ortungsfähig bei 101,4 kHz) versehen. Für alle 
+Hausanschlussröhrchen ist ein Marker am Hausabzweig zu planen. 
+Der AN ist für die notwendige Beschaffung der Kreuzungsgenehmigungen in öffentlichen 
+und privaten Bahnbereichen verantwortlich. Hierfür ist ein Leitungsrechtersuchen bei dem 
+betroffenen Bahnunternehmen einzureichen. Auf Anforderung können hydrogeologische 
+oder andere fachspezifische Gutachten erforderlich sein. Im Rahmen der Planung sind die
+
+
+===== Page 27 =====
+27/128 
+Spezifikationen der Anträge der entsprechend betroffenen Bahnunternehmen zu 
+berücksichtigen. 
+In jedem Fall ist eine Planung mit daraus ersichtlichen Grenzen und farblicher 
+Kennzeichnung der Grundstücke der Bahnunternehmen anzufertigen, aus welcher die von 
+der Planung betroffenen Bahnkilometer hervorgehen. Es sind Bilder der sich auf den 
+betroffenen Grundstücken der Bahnunternehmen befindlichen Mastanlagen beizufügen. 
+Ziel ist ein Vertrag zwischen dem jeweiligen Bahnunternehmen und dem AG mit der 
+grundsätzlichen Freigabe des Baus der geplanten Glasfaserinfrastruktur. Im Anschluss ist 
+der Antrag zum Arbeitsübereinkommen einzureichen, sodass die Regelungen der 
+technischen Parameter für den Bau, sowie Auflagen (Begleitung des Baus, Bauzeiten, 
+Abnahmen, SIGE, etc.) abgestimmt werden. 
+ 
+3.2.2.3. 
+Trassenführung auf privatem Grund 
+Grundsätzlich ist der Grundstückseigentümer gem. § 134 TKG verpflichtet, die Verlegung 
+und den Betrieb von Telekommunikationsleitungen auf seinem Grundstück gesetzlich zu 
+dulden. Jedoch hat er in der Regel bei der erstmaligen Inanspruchnahme seines 
+Grundstücks zu Telekommunikationszwecken einen Anspruch auf eine angemessene 
+Entschädigung für die Verwendung seines Grundstücks. 
+Um insbesondere Streitigkeiten hinsichtlich der Höhe zu vermeiden, schließt der 
+Grundstückseigentümer 
+in 
+der 
+Regel 
+einen 
+Grundstücksnutzungsvertrag 
+oder 
+Gestattungsvertrag zur Querung des privaten Grundstücks ab. 
+Musterverträge werden vom Auftraggeber bereitgestellt. Der AN ergänzt diese mit den 
+erforderlichen Angaben und erstellt die Anlagen (Lagepläne, Standortsicherungen etc.). 
+Nach ggf. erforderlichen Verhandlungen und Unterschrift durch den AG, versendet der AN 
+die 
+Unterlagen 
+und 
+übernimmt 
+den 
+Schriftverkehr 
+mit dem 
+Eigentümer. 
+Die 
+unterschriebenen Vertragsunterlagen sind dem AG zu übermitteln. 
+Ein Baubeginn ist erst mit Vorliegen der Gestattung sowie der Baugenehmigung möglich
+
+
+===== Page 28 =====
+28/128 
+3.2.2.4. 
+Standortwahl /-sicherung für PoP, MFG und NVt 
+Alle Standortsicherungen, sowie bedarfsweise Baugenehmigungen wie zum Beispiel für 
+NVts, Schächte, MFGs (Multifunktionsgehäuse/Mini-PoPs) oder PoP-Stationen sind von 
+dem AN einzuholen. 
+Die Standorte sind im öffentlichen Raum bzw. auf öffentlich gewidmeten Flurstücken zu 
+planen, sollte dies in Ausnahmefällen nicht möglich sein, ist Privatgrund erlaubt. Hierbei ist 
+die Errichtung vor Fenstern der Anwohner auszuschließen. Sackgassen und enge 
+Kurvenbereiche sind zu vermeiden, sodass die Verbände abgehend vom NVt nicht über 
+längere Strecken in dieselbe Richtung verlaufen. Dies ist durch den AN gegenüber der OEW 
+zu begründen und anzuzeigen. Der AN ist verpflichtet, dies im Rahmen der 
+Genehmigungsplanung unter Berücksichtigung der Fremdmedien sicherzustellen und die 
+entsprechenden Träger öffentlicher Belange zu beteiligen. Der AN ist ebenfalls für die 
+erforderlichen Genehmigungen durch Eigentümer privaten Grundes verantwortlich. Hierbei 
+hat der AN vorab den Eigentümer zu informieren und die Verträge vorzubereiten. Bei 
+Standorten auf privatem Grund führt OEW die Verhandlungen mit Eigentümern und zeichnet 
+die Verträge. Im Anschluss übernimmt der Auftragnehmer Versand und Monitoring im 
+Rahmen der Genehmigungsplanung. 
+Weiterhin sind bei der Standortauswahl denkmalschutzrechtliche, archäologische, 
+wirtschaftsgeographische und umwelttechnische Belange (z. B. Senken, Grundwasser), 
+sowie Sichtachsen und Kreuzungsbereiche zu prüfen und bei Bedarf ein anderer Standort 
+auszuwählen. Darüber hinaus sollte bei der Standortwahl auf eine möglichst minimale 
+Sonneneinstrahlung geachtet werden. Für die Standortsicherungsanträge des MFG ist die 
+gewählte Variante anzugeben und wie folgt zu beantragen: 
+• In Variante 1 OHNE integrierten Open-Access-Bereich sind zwei MFG18 
+nebeneinander oder Rücken an Rücken einzuplanen, wobei bei einem MFG 
+ausschließlich der Sockel gesetzt wird, um eine mögliche Kollokation sicherzustellen. 
+• Bei der alternativen Nutzung des integrierten Open-Access-MFG ist dieser gem. 
+seiner Größe zu berücksichtigen – hierbei entfällt der MFG18-Sockel. 
+MFG-/NVt-Schränke sollen neben bestehende Schalt- oder Verteilerschränke, sowie vor 
+Mauern oder Hecken gestellt werden. Hierbei ist bei der Ausrichtung der externen 
+Energieanschlusssäule die Ausrichtung (90° zum MFG), sowie der Arbeitssicherheitsraum
+
+
+===== Page 29 =====
+29/128 
+bei geöffneter Tür bei NVt, MFG und EnaS zu berücksichtigen. Der Abstand ist mit dem 
+jeweils zuständigen Stromnetzbetreiber abzustimmen. 
+Baumkronenbereiche sind bei der Standortauswahl gem. DIN 18920 zu berücksichtigen. 
+Sollte umlaufend um den POP / MFG / NVt unbefestigte Oberfläche vorhanden sein, so 
+müssen vor den Türen bzw. vor dem Eingang Pflasterplatten eingeplant werden. Die 
+Ausrichtung der Türöffnungen ist in Richtung Straße / Gehweg / öffentlicher Bereich zu 
+planen. 
+Eine Vor-Ort-Erkundung inklusive Fotoerstellung für das Antragsformular ist zwingend 
+notwendig. Hierbei ist die SOS-Vorlage der OEW zu nutzen. 
+ 
+3.2.2.5. 
+Backbone 
+Der Auftraggeber gibt folgende Grundkonzepte dieses Kapitels für die Backbone Planung vor. Der 
+Auftragnehmer hat diese jedoch ausdrücklich in Hinblick auf die über dem gesamten Auftrag 
+stehende Förderkonformität aktiv zu prüfen und die Förderkonformität sicherzustellen und 
+entsprechend umzusetzen, insbesondere aber nicht ausschließlich dadurch, dass er dem 
+Auftraggeber entsprechende Hinweise und sonstigen Input für die Abstimmung vom Auftraggeber 
+mit den Fördermittelgebern im Einzelfall zur Verfügung stellt. Entsprechende Ergebnisse der 
+Einzelfallabstimmung mit den Fördermittelgerben sind dann zu berücksichtigen und umzusetzen. 
+In der Gebietskulisse der OEW Breitband GmbH beschreibt der Backbone eine 
+landkreisweite interkommunale Verbindung aller PoPs untereinander Der interkommunale 
+Backbone ist in der Regel durch mindestens zwei Übergabepunkten pro Kommune 
+sichergestellt. Der AN muss verschiedene Varianten unter technischen und wirtschaftlichen 
+Gesichtspunkten prüfen und die unter diesen Gesichtspunkten optimale Lösungsvariante ansetzen. 
+Bei nahezu vergleichbaren Kosten ist immer eine Ringstruktur mit redundanten Anbindungen an den 
+Landkreis Backbone zu bevorzugen. Die Trassenlänge zwischen zwei PoP-Stationen sollte bei 
+max. 10 km liegen. 
+Das Backbone-Konzept in den einzelnen Gebieten ist mit dem AG abzustimmen und 
+schriftlich durch den AG frei zugeben.
+
+
+===== Page 30 =====
+30/128 
+ 
+Abbildung 6: exemplarische Strukturskizze Backbone  
+ 
+3.2.2.5.1. 
+Bauten- und Netztechnikelemente 
+3.2.2.5.1.1. 
+Point of Presence / Multifunktionsgehäuse 
+PoP-Standorte sind Übergabepunkte und gleichzeitig die einzigen Kollokationspunkte 
+innerhalb der Gebietskulisse der OEW Breitband GmbH, die entsprechend den Vorgaben des 
+Fördermittelgebers angebunden und ausreichend Platz für Open Access bereithalten 
+müssen.  
+Darüber hinaus sind in den PoP-Standorten mindestens 20% freie Faserkapazitäten für 
+etwaige Gebietserweiterungen und/oder Nacherschließungen vorzusehen. 
+Sofern die Kommune durch größere Flüsse und/oder Bahnlinien geteilt wird, sind mehrere 
+PoP-Standorte zu planen. 
+Als 
+PoP-Stationen 
+sind 
+Gebäude 
+in 
+Betonbauweise 
+mit 
+Doppelboden 
+oder 
+Multifunktionsgehäuse (MFG) als sogenannte Mini-PoP zugelassen. Die Auswahl des MFG 
+gem. Materialspezifikation ist in Abstimmung mit dem jeweiligen Netzbetreiber, sowie der 
+Gemeinde, dem Hersteller, dem Stromnetzbetreiber und ggf. weiteren Beteiligten 
+vorzunehmen. 
+Der Zähler für die Stromversorgung ist immer in einer externer Zähleranschlusssäule, (ZAS) 
+unterzubringen, die zusätzlich die Möglichkeit zur Unterbringung eines weiteren Zählers 
+bieten muss. Sowohl PoP-Gebäude als auch MFGs sind mit einer Vorbereitung zur 
+Unterbringung einer aktiven (Hybrid-)Klimaanlage zu berücksichtigen.
+
+
+===== Page 31 =====
+31/128 
+Obige Vorgaben sind bereits in der Planung und in der Auswahl der richtigen PoP-Größe, 
+damit verbundener Standortwahl sowie Standortsicherung zu beachten. 
+ 
+3.2.2.5.1.2. 
+Kabelzugschacht 
+Bei der Planung von größeren Backbone-Strecken sind Kabelzugschächte spätestens alle 
+2.000m vorzusehen. In jedem Kabelzugschacht ist eine Kabelüberlänge (Loop) von 
+mindestens 25 m vorzusehen; jedoch ist der Stauraum unter Berücksichtigung der 
+Biegeradien voll auszunutzen. 
+Aus der Planung muss ersichtlich werden, welche Schutzrohre oder Verbände in den 
+Schacht ein- und wieder ausgeführt werden bzw. welche daran vorbeilaufen.  
+Alle geplanten Schächte müssen der Belastungsklasse D400 entsprechen und über eine 
+ausbetonierte 
+oder 
+ausgepflasterte 
+Schachtabdeckung 
+verfügen, 
+andere 
+Belastungsklassen oder Schachtabdeckungsvarianten sind nicht zulässig. 
+ 
+3.2.2.5.1.3. 
+Schacht mit Muffe 
+Schächte 
+mit 
+Backbone-Muffen 
+dienen 
+als 
+Übergabepunkte 
+im 
+Bereich 
+der 
+Kommunengrenzen oder Landkreisgrenzen bzw. zur Anbindung an Pachtstrecken. Bei der 
+Planung ist auf ausreichend dimensionierte Schächte zu achten, die zur Aufnahme einer 
+Muffe ausgelegt sind und über eine Muffenhalterung verfügen. In keinem Fall darf ein 
+Schacht mit einer Backbone-Muffe gleichzeitig auch eine FTTB-Muffe beinhalten. Aus der 
+Planung muss ersichtlich werden, welche Schutzrohre oder Verbände in den Schacht ein- 
+und wieder ausgeführt werden bzw. welche daran vorbeilaufen. 
+Alle geplanten Schächte müssen der Belastungsklasse D400 entsprechen und über eine 
+ausbetonierte 
+oder 
+ausgepflasterte 
+Schachtabdeckung 
+verfügen, 
+andere 
+Belastungsklassen oder Schachtabdeckungsvarianten sind nicht zulässig. 
+ 
+3.2.2.5.1.4. 
+Rohrnetzebene 
+Grundsätzlich müssen alle Rohrverbände mit der gleichen Dimensionierung, die sich im 
+gleichen Graben befinden, unterschiedliche Verbandsfarben haben. Sollte dies aufgrund der 
+Menge an Verbänden nicht möglich sein, müssen die Verbände mit eindeutigen und
+
+
+===== Page 32 =====
+32/128 
+dauerhaften Kennzeichnungen versehen werden und vorab eine Abstimmung mit dem 
+Auftraggeber erfolgen. 
+In der Backbone Ebene verwendet OEW folgende Verbände:  
+o Backbone: 
+ Mantelfarbe: 
+• Backbone 1: grau 
+• Backbone 2: grau mit eindeutig und dauerhafter Kennzeichnung, idealerweise 
+mit schwarz extrudierten Streifen (ausschließlich bei Nutzung des gleichen 
+Grabens mit Backbone 1) 
+ Mikrorohre: rot, grün, blau und gelb gem. DIN VDE0888 
+Im Hinblick auf die geforderte Redundanz sind separate Rohrverbände vom Typ 4x20/15 für 
+den ankommenden und abgehenden Backbone an PoP-Standorten in unterschiedliche 
+Richtung zu planen.  
+Parallel zum 4x20/15 sind gemäß Vorgaben des Fördermittelgebers zusätzliche 
+Netzreserven (ZNR) vom Typ 12x10/6 einzuplanen. Für den ersten ZNR-Verbände ist 
+exklusiv die Mantelfarbe Schwarz zu verwenden.  
+Eine parallele Verlegung im gleichen Graben für den ankommenden und abgehenden 
+Backbone-Verband ist nach Möglichkeit zu vermeiden. In unvermeidbaren Situationen, wie 
+z. B. einer Stichstraße, ist ein Stufengraben vorzusehen, der den ankommenden und 
+abgehenden 
+Backbone-Verband 
+im 
+Grabenprofil 
+auf 
+unterschiedlichen 
+Höhen 
+berücksichtigt. Bei Gesteinsbodenklassen ist der 2. Backboneverband im Kabelschutzrohr 
+daneben zu planen (siehe Abbildung 5: idealisierte Prinzipskizze eines Grabenprofils – 
+ortsgebundene Abweichungen sind möglich) 
+Für den Übergang von unterschiedlichen Medien, beispielsweise 3fach DA50 (aus 
+Altbeständen) auf 4x20/15, ist ein Schacht einzuplanen, der Wechsel darf nicht außerhalb 
+stattfinden. 
+Die Rohrverbände der Backbone-Ebene sind bei Straßenquerungen oder Querungen von 
+Einfahrten zu besonders stark frequentierten Bereichen, unter anderem bei Einfahrten zu 
+Gewerbegebieten, innerhalb eines Schutzrohrs (min. DA110) zu planen.
+
+
+===== Page 33 =====
+33/128 
+3.2.2.5.2. 
+Kabelnetzebene 
+Die Faserplanung beschreibt die notwendig zu planenden Kapazitäten in Form der 
+vorzuhaltenden Faseranzahl inkl. Reserven. Abgrenzend dazu beschreibt die Spleißplanung 
+die tatsächlich zu realisierenden Spleiße. 
+Es sind nur Mikrokabel mit Fasern nach dem Standard ITU G.657.D in der Backbone-Ebene 
+einzusetzen, dessen Bündeladern und Fasern den Farbcode gemäß DIN EN 60794-1-1; VDE 
+0888-100-1 besitzen. In der Backbone-Ebene werden ausschließlich 288er Faserkabel 
+verwendet. 
+ 
+3.2.2.5.2.1. 
+Faserplanung 
+Die meisten Landkreise im Gebiet der OEW Breitband GmbH verfügen bereits über 
+größtenteils fertig gestellte Backbone-Netze samt dazugehörigem Faserkonzept, welches 
+es bei der Planung zu berücksichtigen gilt. 
+Für neu zu planende Backbone-Abschnitte sind Backbone-Kabel mit 288 Fasern vorzusehen. 
+Wird an einen bestehenden Backbone angebunden, ist zu beachten, dass auf älteren 
+Abschnitten nur Backbone-Kabel mit 144 Fasern zur Verfügung stehen können. 
+Sollte zur Vervollständigung des Backbones mit einer Pachttrasse/Fremdtrasse geplant 
+werden, sind hier mindestens drei Faserpaare zu berücksichtigen, in jedem Fall hat eine 
+Abstimmung mit dem Netzbetreiber zum tatsächlichen Bedarf zu erfolgen. 
+In allen Backbone-Kabelzugschächten, Backbonemuffen-Schächten oder im Doppelboden 
+der PoP-Stationen ist eine extra Kabelüberlänge (Loop) von mindestens 25 m einzuplanen; 
+jedoch ist der Stauraum unter Berücksichtigung der Biegeradien voll auszunutzen. 
+ 
+3.2.2.5.2.2. 
+Spleißplanung 
+Die Spleißplanung im Backbone richtet sich nach dem landkreisweiten Backbone-Konzept. 
+Es ist Aufgabe der Planung, dieses in Erfahrung zu bringen. 
+Sofern nicht bereits anders konzeptioniert und umgesetzt, sind die Bündel aus einem 
+Backbone-Kabel mit 288 Fasern (24x12) wie folgt zu planen: 
+Die Bündel 1-12 sind für den Backbone reserviert, davon werden die Bündel 1-3 
+(Faserposition 1-36) aufgelegt und die Bündel 4-12 als allgemeine Reserve abgelegt.
+
+
+===== Page 34 =====
+34/128 
+Die Bündel 13-24 dürfen in Ausnahmefällen für eine FTTB-Anbindung von einzelnen 
+Aussiedlerhöfen und Weilern verwendet werden, solange das förderkonforme Faserkonzept 
+sowie die weiteren Vorgaben in der Richtlinie der OEW Breitband GmbH eingehalten werden. 
+ 
+3.2.2.6. 
+Hauptkabelebene 
+Die Verteilerebene umfasst nach Definition des Fördermittelgebers zwei Abschnitte, die 
+gesondert betrachtet werden müssen. Wichtig ist die Abgrenzung von der Backbone-Ebene, 
+die am PoP endet, wohingegen dort die Verteilerebene und somit das FTTB-Netz beginnt. 
+ 
+3.2.2.6.1. 
+Verteilerebene - PoP zu NVT 
+Die versorgende Netzebene zwischen einem PoP-Standort und daran angebundene 
+Netzverteiler. Diese beginnt auf der passiven Seite im Spleißpatchpanel des ODF bis zur 
+abgelegten oder gespleißten Faser in der Kassette des Netzverteilers sowie der dafür 
+notwendigen kabelführenden Rohrverbände. 
+ 
+3.2.2.6.2. 
+Verteilerebene - NVT bis Abzweig 
+Beschreibt die Netzebene ab dem Netzverteiler bis zu dem Abzweig, des für den 
+Hausanschluss (HA) notwendigen Einzelrohrs aus dem Rohrverband, welcher sich in der 
+Regel im öffentlichen Bereich befindet, und beginnt mit dem Spleiß auf das 
+Hausanschlusskabel in der Kassette des Netzverteilers. 
+ 
+3.2.2.6.3. 
+Bauten- und Netztechnikelemente 
+Für Netzverteiler existieren verschiedene technische Umsetzungsmöglichkeiten. Die 
+Planung muss zweckdienlich sein und die (besonderen) Gegebenheiten am jeweiligen 
+ausgewählten Standort berücksichtigen. 
+ 
+3.2.2.6.3.1. 
+Verteilerebene - Netzverteiler 
+Innerhalb der Gebietskulisse der OEW Breitband GmbH können oberirdische oder 
+unterirdische Netzverteiler-Lösungen gemäß den Vorgaben der nachfolgenden Punkte zum
+
+
+===== Page 35 =====
+35/128 
+Einsatz kommen. Netzverteiler sind explizit keine Kollokationspunkte. Die Planung muss 
+Auskunft darüber geben, welcher Netzverteiler-Typ am jeweiligen Standort zum Einsatz 
+kommen soll. 
+ 
+3.2.2.6.3.2. 
+Verteilerebene - NVT (oberirdisch) 
+Präferiert ist mit oberirdischen Outdoorgehäusen zu planen, die im Zugangsbereich zur 
+Aufnahme von mindestens 6 Stück Mikrorohre mit Ø 10 – 20 mm und im Abgangsbereich 
+zur Aufnahme von mindestens 96 x Mikrorohre mit Ø 7 mm oder Ø 10 mm geeignet sind. 
+Bei der Planung ist zu berücksichtigen, dass diese nicht vollständig für FTTB belegt werden, 
+sondern auch einen ankommenden und abgehenden ZNR-Verband vom Typ 12x10/6 
+aufnehmen müssen. Daher kann ein Netzverteiler, der für 96 x Mikrorohre ausgelegt ist, mit 
+maximal 72 Einzelrohren vom Typ 1x10/6belegt werden, was maximal 6 Stück 12x10/6-
+Verbänden Mikrorohren für FTTB entspricht (siehe Abbildung 7: Anbindung NVt und ZNR) 
+Im begründeten und durch den AG frei gegebenen Bedarfsfall kann auch auf andere NVt-
+Größen zurückgegriffen werden. Der ankommende und abgehenden ZNR-Verband ist auch 
+hier, wie oben ausgeführt, zu berücksichtigen, so dass nicht alle Kapazitäten für FTTB zur 
+Verfügung stehen.  
+ 
+3.2.2.6.3.2.1. 
+Verteilerebene - Schacht mit FTTB-Muffe (unterirdisch) 
+Zur Wahrung des Stadtbildes in (Alt-)Stadtbereichen oder im Außenbereich mit erhöhtem 
+landwirtschaftlichem Verkehr können abweichend auch unterirdische Verteiler, bestehend 
+aus Schacht und FTTB-Muffe, zum Einsatz kommen. In keinem Fall darf ein Schacht mit 
+einer FTTB-Muffe gleichzeitig auch eine Backbone-Muffe beinhalten. 
+Die Planung muss klare Auskunft darüber liefern, welche Verbände im Schacht ankommen, 
+abgehen oder daran vorbeizuführen sind. 
+Alle geplanten Schächte müssen der Belastungsklasse D400 entsprechen und über eine 
+ausbetonierte 
+oder 
+ausgepflasterte 
+Schachtabdeckung 
+verfügen, 
+andere 
+Belastungsklassen oder Schachtabdeckungsvarianten sind nicht zulässig.
+
+
+===== Page 36 =====
+36/128 
+3.2.2.6.3.2.2. 
+Verteilerebene – Kabelzugschächte 
+Bei der Planung von Anbindungsstrecken zwischen der POP-Station und einem 
+Verteilerstandort sind Kabelzugschächte innerorts spätestens alle 1.000m mit einer extra 
+Kabelüberlänge (Loop) von mindestens 25m einzuplanen; jedoch ist der Stauraum unter 
+Berücksichtigung der Biegeradien voll auszunutzen. Bemessungsgrundlage ist die Strecke 
+des kabelführenden Rohrverbands am POP, der zur Anbindung eines Verteilerstandorts 
+benötigt wird. 
+Alle geplanten Schächte müssen der Belastungsklasse D400 entsprechen und über eine 
+ausbetonierte 
+oder 
+ausgepflasterte 
+Schachtabdeckung 
+verfügen, 
+andere 
+Belastungsklassen oder Schachtabdeckungsvarianten sind nicht zulässig. 
+ 
+3.2.2.6.4. 
+Rohrnetzebene 
+Insbesondere für die Verteilerebene zwischen POP und NVT ist darauf zu achten, dass durch 
+die Planung eine „Homes passed“-Situation so weit wie möglich vermieden wird. 
+Die 4x20/15-Verbände der Verteilerebene „PoP zu NVT“ sind immer in der Lage über dem 
+Backbone (sofern vorhanden) im Graben unterzubringen. 
+Wohingegen die 12x10/6-Verbände der Verteilerebene „NVT bis Abzweig“ immer in der 
+obersten Lage im Graben unterzubringen sind, gleiches gilt für die 12x10/6-Verbände aus 
+der zusätzlichen Netzreserve (ZNR). 
+Dem Ausführenden müssen Hinweise zum Grabenprofil aus der Planung (Karte, Legende 
+oder Anlagen) zu entnehmen sein. 
+Auf Grund unterschiedlicher Anforderungen, auch im Hinblick auf die Vorgaben des 
+Fördermittelgebers, muss die Verteilerebene auf den Abschnitten „PoP zu NVT“ und „NVT 
+bis Abzweig“ getrennt voneinander betrachtet werden.
+
+
+===== Page 37 =====
+37/128 
+3.2.2.6.4.1. 
+PoP zu NVt 
+In dieser Netzebene kann die Anbindung der Netzverteiler über unterschiedliche Varianten 
+erfolgen, die alle eine förderkonforme Reserve von 15% freier Kapazitäten sicherstellen, 
+siehe hierzu nachfolgende Abbildung (Neubau: 1. Variante, Bestand: 2. Und 3. Variante): 
+ 
+Abbildung 7: Anbindung NVt und ZNR
+
+
+===== Page 38 =====
+38/128 
+Bei abweichender Bestandsinfrastruktur, beispielsweise 3x20/15, ist darauf zu achten, dass 
+nicht alle Varianten in Frage kommen. 
+Es kommen zum Einsatz: 
+• Mikro-Rohrverband 4 x 20/15 
+• Mantelfarbe: orange, rot, grün, blau 
+• Röhrchenfarben: rot, grün, blau, gelb gem. DIN VDE0888 
+ 
+Die Reihenfolge der Farbbenennung spiegelt auch die Rangfolge in der Planung wider. 
+1 = orange 
+1 = rot 
+2 = grün 
+3 = blau 
+4 = gelb 
+2 = rot 
+1 = rot 
+2 = grün 
+3 = blau 
+4 = gelb 
+3 = grün 
+1 = rot 
+2 = grün 
+3 = blau 
+4 = gelb 
+4 = blau 
+1 = rot 
+2 = grün 
+3 = blau 
+4 = gelb 
+ 
+Für ZNR-Verbände vom Typ 12x10/6 ist exklusiv die Mantelfarbe Schwarz zu verwenden. 
+Beim Einsatz eines zweiten ZNR-Verbands ist die Mantelfarbe violett gem. VDE 0800-720 zu 
+verwenden. 
+Andere Farben sind nach Abstimmung mit dem AG und projektbezogener Freigabe möglich. 
+Zu beachten gilt: Je mehr unterschiedliche Farben eingesetzt werden, desto größer das 
+Risiko 
+von 
+Mindermengen 
+und 
+Lieferschwierigkeiten 
+und 
+damit 
+verbundenen 
+Verzögerungen und höheren Kosten, die es zu vermeiden gilt. 
+Neubaugebiete 
+und 
+Gebietserweiterungen 
+mit 
+rechtskräftigen 
+beschlossenen 
+Bebauungsplänen innerhalb des Projektzeitraums sind in der Verteilerebene auf Rohr- und
+
+
+===== Page 39 =====
+39/128 
+Fasernetzebene 
+kapazitätstechnisch 
+von 
+der 
+Planung 
+zu 
+berücksichtigen. 
+Die 
+vorgegebenen Reserven auf Rohr- und Faserebene sind hierfür nicht zu nutzen. 
+Die Rohrverbände der Verteilerebene sind bei Straßenquerungen oder Querungen von 
+Einfahrten zu besonders stark frequentierten Bereichen, beispielsweise Einfahrten zu 
+Gewerbegebieten, innerhalb eines Schutzrohrs (min. DA110) zu planen. 
+ 
+3.2.2.6.4.2. 
+NVt bis Abzweig 
+In dieser Netzebene sind Rohrverbände vom Typ 12x10/6 zu verwenden, dabei zulässige 
+Mantelfarben sind: Orange, Rot, Grün, Blau, Gelb und Rosa. Für ZNR-Verbände ist exklusiv 
+die Mantelfarbe Schwarz bzw. für den 2. ZNR violett zu verwenden, sofern diese in dieser 
+Netzebene auf Grund der Fördervorgaben zum Einsatz kommen müssen, beispielsweise bei 
+der Anbindung von Schulen & Krankenhäusern. 
+Die Reserveplanungen müssen gemäß den geltenden Förderbedingungen erfolgen. 
+Zusätzlich ist für die Errichtung neu zu errichtender Trassen folgendes zu beachten: 
+• Bei einem Gleichlauf von mehreren Mikrorohrverbänden (MRVe) entlang derselben 
+Trasse, in derselben Ausbaurichtung und ohne Abzweigungen, sind alle 
+Einzelrohrreserven in dem längsten Verband zu planen. 
+• Die NVT-Anbindung entsprechend Schema auch dann so umzusetzen, wenn sich 
+bspw. ein NVT in einem Straßenstich befindet. 
+ 
+ 
+Abbildung 8: Beispielabbildung Führung der Reserven im Mikrorohrverband
+
+
+===== Page 40 =====
+40/128 
+Eine Zuweisung der Einzelrohrpositionen aus den 12x10/6-Verbänden eines Netzverteilers 
+darf nicht willkürlich aus unterschiedlichen Verbänden entlang der Längstrasse erfolgen, 
+sondern muss sequenziell entlang der Hausnummern oder über separate Verbände je 
+Straßenseite erfolgen.  
+Die Verbände sind für die Hauszuführungen nacheinander zu belegen. In der Planung sind 
+je Straßenseite separate Verbände zu planen. 
+Ein Verzweigen einzelner 12x10/6- Verbände in unterschiedliche Richtungen ist nicht 
+zulässig. 
+Die Rohrverbände der Verteilerebene sind bei Straßenquerungen oder Querungen von 
+Einfahrten zu besonders stark frequentierten Bereichen, beispielsweise Einfahrten zu 
+Gewerbegebieten, innerhalb eines Schutzrohrs (min. DA110) zu planen. 
+Für die Anbindung von Gewerbegebieten sind die Vorgaben aus Kapitel 3.2.1.1 
+Gewerbegebiete zu berücksichtigen. 
+In jedem Fall muss die Versorgungsrichtung und somit die Abzweigrichtung des Einzelrohrs 
+aus dem 12x10/6-Rohrverband eindeutig aus der Planung ersichtlich sein, d.h. die 
+Plandarstellung von Abzweigungen im 90°-Winkel aus der Längstrasse sind in dieser 
+Netzebene nicht zulässig. 
+Die Verteilerebene „NVT bis Abzweig“ endet spätestens mit der Doppelsteckmuffe auf die 
+Einzelrohrverlängerung auf die Hauszuführung. 
+ 
+3.2.2.6.5. 
+Kabelnetzebene 
+Wie die Rohrnetzebene muss auch die Kabelnetzebene in der Verteilerebene auf den 
+Abschnitten „PoP zu NVT“ und „NVT bis Abzweig“ getrennt voneinander betrachtet werden. 
+In der Backbone-Ebene darf nur ein Einzelröhrchen des 4x 20/15-Verbandes ein 288Fs- 
+Kabel bekommen. In der Hauptkabel-Ebene werden max. 3 Einzelröhrchen verplant, jeder 
+NVT bekommt sein eigenes Kabel, ein Röhrchen ist Reserve.
+
+
+===== Page 41 =====
+41/128 
+ 
+Abbildung 9: Beispiel für Kabelbelegung im Verband POP/MFG bis HÜP 
+ 
+3.2.2.6.5.1. 
+Faserplanung 
+Auf dem Abschnitt „PoP zu NVT“ ist für jeden Verteilerstandort mindestens ein ausreichend 
+dimensioniertes Kabel von 288 Fasern bis 576 Fasern ab POP zu planen, um die 
+Spleißplanung (siehe nächster Punkt) umsetzen und gleichzeitig 20% an Reservefasern für 
+weitere Spleiße vorhalten zu können, ohne dass der Einzug eines weiteren Kabels notwendig 
+ist. 
+Mindestens ein 1x20/15-Rohr muss unbelegt bleiben, um einen späteren Kabeleinzug zu 
+gewährleisten. 
+Die Aufteilung eines Kabels zur Versorgung mehrerer Netzverteiler in Reihe ist nur nach 
+Freigabe des Auftraggebers zulässig. 
+Es sind nur Mikrokabel mit Fasern nach dem Standard ITU G.657.A1 in dieser Ebene 
+einzusetzen, dessen Bündeladern und Fasern den Farbcode gemäß DIN EN 60794-1-1; VDE 
+0888-100-1 besitzen.  
+ 
+3.2.2.6.5.2. 
+Spleißplanung 
+3.2.2.6.5.2.1. 
+Spleißplanung PoP bis NVt 
+Es ist die übergebene Arbeitsanweisung „Spleißkonzept“ als Bestandteil der Beauftragung 
+zu berücksichtigen. Aus dem Verteilerkabel wird nach Spleißkonzept fortlaufend auf die 
+Hausanschlusskabel gespleißt. Ausschlaggebend für das Spleißkonzept sind die
+
+
+===== Page 42 =====
+42/128 
+betriebsnotwendigen Fasern nach Vorgabe des jeweiligen Netzbetreibers, welches durch 
+den AN abzustimmen und durch den AG zu bestätigen ist. 
+Alle im NVt gespleißten HK-Fasern werden auf Ports durchgespleißt. Die restlichen im NVt 
+geplanten, aber nicht gespleißten Fasern werden erst in den höheren Faserzahlen geplant 
+(bspw. Fasern 153-154, 13. Faserbündel) und im Bündel abgelegt, bspw. in einem 
+Ablagepannel. 
+Ziel ist es, die Spleiß- und Patchkassetten mit durchgespleißten Fasern voll zu machen. 
+Am Beispiel eines 2-Familienhauses erfolgt die Spleißung im PoP wie folgt: 
+ 
+Abbildung 10: Beispiel für Kassettenbelegung im PoP 
+Die Reservefasern werden in den höheren Faserbündeln geplant und abgelegt 
+ 
+3.2.2.6.5.2.2. 
+Spleißplanung NVt bis HÜP 
+Aus dem Verteilerkabel wird nach dem Spleißkonzept (2+n) fortlaufend auf die 
+Hausanschlusskabel gespleißt. Aus dem Hausanschlusskabel werden immer die ersten 
+beiden Faserpositionen für die Anbindung des Gebäudes gespleißt, ab der 3. Faserposition 
+folgen die Wohn-/Gewerbeeinheiten. Je Einheit sind mindestens 2 oder mehr Fasern nach 
+Vorgabe des Netzbetreibers zu spleißen. Aus der Spleißplanung muss eindeutig 
+hervorgehen, welche Faserpositionen aus dem Kabel im Netzverteiler aus der Verteilerebene 
+„PoP bis NVT“ auf die Hausanschlusskabel aus der Verteilerebene „NVT bis HÜP“, ebenso 
+welche Fasern ungespleißt abgelegt werden und welche Fasern bzw. Faserbündel als 
+Reserve zur Verfügung stehen.
+
+
+===== Page 43 =====
+43/128 
+Für das Spleißen im NVt gelten folgende Regeln: 
+• Laufrichtung:  
+o Erster Spleiß in Kassette links unten fortlaufend nach links oben 
+o Hauptkabel ankommend von links 
+o Hauszuführungsebene abgehend nach rechts.  
+o Erst danach weitere Spleiße in Kassette rechts unten laufend nach rechts 
+oben. Auch hier Hauptkabel ankommend von links, Hauszuführungsebene 
+abgehend nach rechts. 
+• Angefangene Hauptkabel-Bündel werden in der nächsten Kassette für weitere 
+Spleiße verwendet. Nur wenn es keine weiteren Spleiße gibt, werden die restlichen 
+Fasern des angefangenen HK-Bündels in der nächsten Kassette abgelegt. 
+• Faserplanung immer 2+4 (2F für das Gebäude und 4F für WE / GE).  
+• Gespleißt werden alle Fasern (2+4).  
+• Die geplanten und nicht gespleißten HK-Fasern werden in den höheren Faserbündeln 
+eingeplant. Diese Bündel werden im NVT als Ringe abgelegt. 
+ 
+Am Beispiel eines 2-Familienhauses bei Spleißkonzept 2+2 erfolgt die Spleißung im NVt wie 
+folgt: 
+ 
+Abbildung 11: Beispiel für Kassettenbelegung im NVt
+
+
+===== Page 44 =====
+44/128 
+3.2.2.7. 
+Hauszuführungsebene 
+Beginnt mit dem Abzweig des Einzelrohr aus dem Rohrverband und umfasst die 
+Verlängerung des Einzelrohrs ab der Doppelsteckmuffe der vorherigen Netzebene über die 
+Hauseinführung bis auf die Hausinnenseite zum Hausübergabepunkt (HÜP).  
+ 
+3.2.2.7.1. 
+Trassenführung 
+Das 
+Einholen 
+der 
+Grundstücksnutzungsvereinbarung 
+für 
+die 
+Erschließung 
+von 
+Hausanschlüssen erfolgt durch den AN. Für die Erfassung ist das Online-Portal der OEW 
+Breitband GmbH zu nutzen. Für die Planung und ggf. erforderliche Anreicherung oder 
+Änderung von Adressdaten sind die Vorlagen für die Adressänderung und die HAM-
+Monitoring Liste aus dem Ordner „Anlagen“ fortlaufend zu nutzen und immer in der aktuellen 
+Version bereitzustellen. 
+Alle Objekte, für die keine Grundstücksnutzungsvereinbarung übergeben wird, sind als 
+Vorstreckung zu realisieren, sodass an ihnen die Glasfaserinfrastruktur so vorbeiführt, dass 
+das Objekt für den vollständigen Zugang an die Glasfaserinfrastruktur ohne weitere Arbeiten 
+auf öffentlichem Grund angebunden werden kann. 
+ 
+Vor dem Hintergrund der sparsamen Verwendung von Steuermitteln wird ergänzend 
+festgelegt, 
+dass 
+bei 
+Grundstücksanbindungen, 
+mit 
+bestehenden 
+Mehrsparten-
+Hauseinführungen, wie folgt vorzugehen ist: 
+• Bestehende Haussparteneinführungen, unabhängig von der Eigentumssituation der 
+Mehrsparteneinführung, sind zu nutzen. Wenn dies nicht möglich ist, muss eine 
+technische Begründung und Dokumentation durch den Auftragnehmer vorgelegt 
+werden. 
+• Es ist hierfür kein weiterer Gestattungsvertrag oder Eigentumsübergang notwendig, 
+da mit hoher Wahrscheinlichkeit die Hauseinführung wesentlicher Bestandteil des 
+Gebäudes ist und damit zwangsläufig immer dem Grundstückseigentümer gehört. 
+ 
+Sollte für den Hausanschluss eine Straßenquerung erforderlich sein, so ist das 
+Hausanschlussröhrchen in einem Kabelschutzrohr (min. DN50) zu planen und entsprechend 
+auszuweisen.
+
+
+===== Page 45 =====
+45/128 
+Für die Planung der Nutzungseinheiten gilt das „Hinweisblatt zum Upgrade für 
+Zuwendungsempfänger im sog. Weiße-Flecken-Förderprogramm“, sowie das „Hinweisblatt 
+zur Förderfähigkeit von nicht dauerhaft bewohnten Gebäuden“. 
+ 
+3.2.2.7.2. 
+Bauten- und Netztechnikelemente 
+3.2.2.7.2.1. 
+Hauseinführung oberirdisch 
+Sollte eine unterirdische Hauseinführung aus technischen Gründen nicht möglich sein, kann 
+diese auch oberirdisch erfolgen. Wichtig hierbei ist der planerische Hinweis, spätestens mit 
+der Ausführungsplanung, dass das Einzelrohr an der Außenseite zusätzlich gesichert und 
+geschützt werden muss, beispielsweise durch einen Kabelkanal entlang der Hauswand. 
+ 
+3.2.2.7.2.2. 
+Hauseinführung unterirdisch 
+Sofern das Gebäude über einen Keller verfügt, ist die unterirdische Hauseinführung auf dem 
+kürzesten Weg ab der Längstrasse zu favorisieren, der technisch realisierbar ist. In der Regel 
+erfolgt 
+die 
+Hauseinführung 
+in 
+den 
+gleichen 
+(Technik-)Raum, 
+wie 
+andere 
+Telekommunikationsleitungen oder die unterirdische Stromversorgung. 
+ 
+3.2.2.7.2.3. 
+Hausübergabepunkt (HÜP) 
+Die kleinste zu verplanende Variante für einen abschließbaren HÜP muss sicherstellen, dass 
+ein Kabel mit 12 Fasern aufgenommen werden kann und gleichzeitig Platz für innenliegende 
+Kupplungen 6x LC/APC-Duplex bietet. Des Weiteren hat sich die Auswahl der geeigneten 
+HÜP-Größe nach dem Faserkonzept (2+4) sowie Spleißkonzept unter Berücksichtigung der 
+anzubindenden Einheiten unter einer Anschrift zu richten, d.h. jede Hausnummer bekommt 
+ein eigenes Hausanschlussrohr und somit auch HÜP, selbst wenn diese bei größeren 
+Gebäudekomplexen und mehreren Anschriften in einem gemeinsamen Technikraum 
+münden. Für ein Gebäude oder Teile eines Gebäudes mit vielen zu versorgenden Einheiten 
+ist ein ausreichend großer HÜP zu verwenden. ggf. als Schrankvariante. Die Art des zu 
+verwendenden HÜPs je Anschrift, muss den Planungsunterlagen zu entnehmen sein.
+
+
+===== Page 46 =====
+46/128 
+3.2.2.7.3. 
+Rohrnetzebene 
+Die Hauszuführung beginnt in der Regel im öffentlichen Bereich und muss, sofern keine 
+Hauseinführung stattfindet, eine Ablage oder Vorstreckung gem. § 134 TKG bis 0,75 m auf 
+das Grundstück vorsehen, mindestens jedoch bis zu Flurstücksgrenze. Die Hauszuführung 
+hat auf dem kürzesten technisch sinnvollsten Weg zu erfolgen. 
+Für die Redundanz in Gewerbegebieten ist eine georedundante Wegeführung von der 
+Verteileinrichtung über die das Gewerbegebiet versorgt werden soll, bis zu den 
+Grundstücksgrenzen im Ring für alle Rohrverbände zu planen und zu realisieren, außer in 
+Stichstraßen. 
+ 
+3.2.2.7.4. 
+Kabelnetzebene 
+3.2.2.7.4.1. 
+Faserplanung 
+Für jede Adresse muss das förderkonforme Faserkonzept (2+4) sichergestellt sein, auch 
+wenn auf Rohrnetzebene mit Ausnahmegenehmigung durch den Fördermittelgeber vom 
+Materialkonzept abgewichen werden darf. Eine Abweichung vom Faserkonzept ist weiterhin 
+nicht zulässig. Für Gewerbegebiete gilt, dass das Faserkonzept mit 2+4 für den Anschluss 
+des HÜP in den Gebäuden über den Erstweg zwingend einzuhalten ist. Für die Redundanz 
+sind die Fasern gem. Faserkonzept kapazitiv einzuplanen. 
+Die maximale Einblaslänge zwischen NVt und Gebäude ist mit maximal 600 m zu 
+berücksichtigen. Die Planung der Gebäudeanschlüsse erfolgt gemäß nachfolgender 
+Tabelle:
+
+
+===== Page 47 =====
+47/128 
+Anzahl WE 
+(Wohnungseinheit 
+/ 
+Nutzungseinheit) 
+Faserbedarf 
+Anzahl HA 
+/ 
+Mikrorohre 
+Anzahl 
+Kabel 
+(Anzahl 
+Faser) 
+Größe 
+HÜP 
+1 
+6 
+(2 für das Gebäude und 
+4 je WE) 
+1 
+1 (12) 
+S 
+2 
+2 + 8 
+1 
+1 (12) 
+S 
+3 
+2 + 12 
+1 
+1 (24) 
+M 
+4 
+2 + 16 
+1 
+1 (24) 
+M 
+5 
+2 + 20 
+1 
+1 (24) 
+M 
+6 
+2 + 24 
+1 
+1 (48) 
+M 
+7 
+2 + 28 
+1 
+1 (48) 
+M 
+8 
+2 + 32 
+1 
+1 (48) 
+M 
+9 
+2 + 36 
+1 
+1 (48) 
+M 
+10 
+2 + 40 
+1 
+1 (48) 
+M 
+11 
+2 + 44 
+1 
+1 (48) 
+M 
+12 
+2 + 48 
+1 
+1 (72) 
+L 
+13 
+2 + 52 
+1 
+1 (72) 
+L 
+14 
+2 + 56 
+1 
+1 (72) 
+L 
+15 
+2 + 60 
+1 
+1 (72) 
+L 
+16 
+2 + 64 
+1 
+1 (72) 
+L 
+17 
+2 + 68 
+1 
+1 (72) 
+L 
+18 
+2 + 72 
+2 
+1 (72) + 1 
+(12) 
+L 
+19 
+2 + 76 
+2 
+1 (72) + 1 
+(12) 
+L 
+20 
+2 + 80 
+2 
+1 (72) + 1 
+(12) 
+L 
+Tabelle 3: Rohr-, Kabel- und Faserplanungsregel Wohngebäude
+
+
+===== Page 48 =====
+48/128 
+Bei Mehrfamilienhäusern mit mehreren Adressen (z. B. aufgrund mehrerer Aufgänge, 
+Musterstraße 51, 51A, 51B usw.) ist zu berücksichtigen, dass je Hauseingang eine 
+Rohrzuführung, sowie ein Hausübergabepunkt zu planen ist, um eine hausinterne 
+Querverteilung zu vermeiden. 
+Die tatsächlich für den Betrieb vorgesehenen Fasern werden laut Materialkonzept des 
+Bundes vollständig durchgespleißt und auf Steckern abgeschlossen. Fasern, die für die 
+Nutzung von Dritten oder als Reservekapazität vorgesehen sind, sind beim Kunden als auch 
+in der Kollokationsfläche ohne Stecker abgelegt. Der AN holt beim Netzbetreiber die 
+schriftliche Vorgabe des Betriebsfaserkonzeptes ein. 
+ 
+3.2.2.7.4.2. 
+Spleißplanung 
+Im HÜP sind alle betriebsnotwendigen Fasern aus dem Hausanschlusskabel gemäß 
+Spleißkonzept – 2 Fasern für das Gebäude + n Betriebsfasern - und analog zur 
+Verteilerebene „NVT bis Abzweig“ durchzuspleißen. Aus dem Hausanschlusskabel werden 
+immer die ersten beiden Faserpositionen für die Anbindung des Gebäudes gespleißt, ab der 
+3. Faserposition folgen die Betriebsfasern für die Wohn-/Gewerbeeinheiten nach Vorgabe 
+des Netzbetreibers. 
+Bei Netzbetreiber A sind das beispielsweise 2 Fasern. Damit ergibt sich im Beispiel 
+Netzbetreiber A ein Spleißkonzept von 2 Fasern für das Gebäude und 4 Fasern je 
+Wohneinheit. 
+Eine Kassette im NVt hat eine Aufnahmefähigkeit von 12 Fasern. D. h. pro Kassette wird nur 
+eine Adresse abgelegt. Adressen mit mehr benötigten Fasern werden auf mehrere 
+aufeinanderfolgenden Kassetten verteilt. 
+Am Beispiel eines 2-Familienhauses erfolgt die Spleißung im HÜP wie folgt: 
+ 
+Faser 1 
+Faser 2 
+Faser 3 
+Faser 4 
+Faser 5 
+Faser 6 
+Faser 7 
+Faser 8 
+Faser 9 
+Faser 10 
+Faser 
+11 
+Faser 
+12 
+Gebäude 
+gespleißt 
+Gebäude 
+gespleißt 
+WE1 
+gespleißt 
+WE1 
+gespleißt 
+WE1 
+abgelegt 
+WE1 
+abgelegt 
+WE2 
+gespleißt 
+WE2 
+gespleißt 
+WE2 
+abgelegt 
+WE2 
+abgelegt 
+Reserve 
+Reserve 
+Tabelle 4: Beispiel Spleißregel im HÜP - Variante 2 WE – 12 Faserkabel für Netzbetreiber A mit 2+2 Fasern
+
+
+===== Page 49 =====
+49/128 
+3.2.2.8. 
+Umgang mit Mitverlegungen 
+Mitverlegungen sind grundsätzlich mit dem AG abzustimmen und bedürfen einer 
+individuellen Freigabe durch den AG.  
+Es sind sowohl das Materialkonzept des Bundes als auch die bereits getätigten (Planungs- 
+und Dokumentations-) Vorgaben der OEW Breitband GmbH für die Mitverlegungen 
+einzuhalten. 
+Insbesondere ist hier zu beachten, dass nach getätigter Mitverlegung keine weiteren 
+Arbeiten im öffentlichen Bereich notwendig sein dürfen. So müssen beispielsweise im FTTB-
+Bereich, Hauszuführungen bis mindestens zur Flurstücks Grenze mit der Mitverlegung 
+vorbereitet werden. 
+Für die Mitverlegung sind die Vorgaben aus den Förderbedingungen, Rahmenverträgen, 
+Leistungsverzeichnissen 
+und 
+Leistungsbeschreibungen 
+einzuhalten. 
+Falls 
+die 
+Hausanschlussadresse eine Schule oder ein Krankenhaus ist, dann erfolgt die fachgerechte 
+Mitverlegung jeweils eines dedizierten Mikrorohrverbandes 12x 10/6 von der Flurstücks 
+Grenze plus ggf. 1-2 ZNR – ins Gebäude selbst werden nur die benötigten Einzelrohre 
+eingeführt - und auf Privatgrund ohne Kabelschutzrohr. Ggf. ist der Einzug in 
+Privatleerrohrbestand des Eigentümers möglich. 
+In einer s. g. „Echten Mitverlegung“ für eine andere Firma oder Institution verlegt OEW im 
+eigenen Graben mit. Eine Kostenteilung erfolgt anteilig nach Anzahl der Medien.  
+In einer s. g. „Unechten Mitverlegung“ werden die OEW – Medien in einen fremden Graben 
+verlegt. Dazu holt der AN ein Angebot beim Hauptunternehmer ein. Das Hauptunternehmer-
+Angebot muss alle Auflagen erfüllen, die auch ein OEW-Auftragnehmer erfüllen müsste und 
+wirtschaftlicher sein als die Realisierung durch den AN. Die Inhalte des Angebotes sind 
+(nicht abschließend): 
+• Aktenzeichen des Förderbescheides 
+• Angabe der Massen und Mengen zu allen geplanten Leistungspositionen in 
+Laufmetern oder Stück, nicht in Kubikmetern 
+• Mitverlegung muss per GNV bestätigt sein (URL, QR-Code zum Portal) 
+• Fachgerechte Mitverlegung jeweils eines direkt erdverlegten Mikroröhrchen 10/6 von 
+der Flurstücks Grenze bis ins Haus (auf Privatgrund ohne Kabelschutzrohr). Ggf. 
+Einzug in Privatleerrohrbestand des Hauseigentümers möglich.
+
+
+===== Page 50 =====
+50/128 
+• Einhaltung der Mindestüberdeckung  
+• Einhaltung 
+aller 
+von 
+eigenen 
+und 
+anderen 
+Medienträgern 
+geforderten 
+Mindestabstände 
+• Fachgerechte 
+Herstellung 
+oder 
+Mitnutzung 
+einer 
+Hauseinführung 
+oder 
+Mehrsparteneinführung 
+• Fachgerechtes gas- und wasserdichtes verschließen der Mikroröhrchen an beiden 
+Enden 
+• Verlegung eines OEW-Trassenwarnbandes (Beschriftung entsprechend Richtlinie) 
+• Alle verwendeten Materialien entsprechend den Förderbedingungen und den 
+Spezifikationen aus Kapitel 4 Materialanforderungen und -spezifikationen der OEW 
+Breitband GmbH 
+• Übergabe der Vermessungsdaten (Einmessung) in einem GIS-Format (Shape-Datei) 
+inkl. Angabe des verwendeten Koordinatensystems 
+• Übergabe 
+der 
+Foto-Doku 
+entsprechend 
+Förderbedingungen 
+(insbesondere 
+Förderbanner, Trassen, Hausanschluss) 
+• Übergabe der GIS-Dokumentation entsprechend Förderbedingungen 
+• Zusätzlich Übergabe der GIS-Doku entsprechend den Dokumentationsvorgaben 
+dieser Richtlinie 
+• Bezeichnung der Einzelröhrchen entsprechend OEW-Namenskonvention. Die genaue 
+Bezeichnung ist relevant für die Dokumentation.  
+Sollte der Anschluss von Inselgrundstücken oder sonstige Querungen von privaten 
+Grundstücken geplant sein, ist dies mit dem AG vorab zu klären, da hier ein 
+Mitbenutzungsvertrag des Grundstückeigentümers mit der OEW notwendig ist.
+
+
+===== Page 51 =====
+51/128 
+3.2.2.9. 
+Umgang mit Bestandsinfrastruktur (Mitnutzung) 
+Im Sinne des Haushaltsgrundsatzes sind Wirtschaftlichkeit und Sparsamkeit oberstes 
+Gebot, um öffentliche Mittel, insbesondere Fördermittel, effizient und sparsam einzusetzen. 
+Daher ist die Abfrage, Bewertung und Integration von Bestandsinfrastruktur für alle 
+Netzebenen unabdingbarer Bestandteil der Planung von Breitbandnetzen. 
+In keinem Fall sind rein nachrichtliche Informationen des Eigentümers, beispielsweise der 
+Kommune, für die Bewertung zur Nutzbarkeit dafür ausreichend. 
+Die Planung hat sicherzustellen, dass ausreichend Informationen und/oder Daten zu 
+folgenden Punkten vorliegen: 
+• Lage (Dokumentation/Einmessung) 
+• Qualität (Fotodokumentation, Druckprüfungs- und/oder Kalibrierungsprotokolle) 
+• Nutzbarkeit (Dimensionierung bzw.  Kapazität/Auslastung)
+
+
+===== Page 52 =====
+52/128 
+4. Materialanforderungen und -spezifikationen 
+der OEW Breitband GmbH 
+4.1. Backbone-Ebene 
+4.1.1. 
+Point of Presence 
+Der Point of Presence – kurz PoP-Station, PoP-Verteiler oder PoP-Gebäude – bildet die 
+Schnittstelle zwischen Backbone und Verteilnetz. Durch deren Verbindung durch den PoP 
+können optische Signale über die Lichtwellenleiter (LWL) in beide Richtungen übertragen 
+werden, sodass eine erfolgreiche Breitband-Kommunikation stattfindet. 
+Der Auftragnehmer hat alle Regelwerke der Technik, des Handwerks, Herstellerrichtlinien, 
+Verlegerichtlinien, Zulassungsbestimmungen sowie die bauphysikalischen Anforderungen 
+einzuhalten. 
+Der AG verlangt, dass die für den Einbau vorgesehenen Baustoffe, Konstruktion und die 
+angewandten Verfahren den aktuellen technischen Normen und Qualitäten entsprechen. 
+Hierfür sind alle Nachweise zu erbringen, die dem Auftraggeber ohne ergänzendes Entgelt 
+zu übergeben sind. 
+ 
+4.1.1.1. 
+POP L (bis 8064 Ports) 
+4.1.1.1.1. 
+Gehäuse 
+• Material: Betonguss mit Kabelkeller 
+• Lichte Innenmaße mindestens: B x L x H = 2,78 x 2,78 x 3,20 m, maximale Abweichung 
++20cm in Länge, Breite und Höhe. Bauteildicke nach statischer Berechnung des AN 
+mindestens jedoch Wandstärke von 10 cm und Boden- (oder Decken-) stärke von 12 
+cm. Betonkörper im erdberührten Bereich als WU-Konstruktion, Expositionsklassen 
+nach DIN 1045-2 und DIN EN 13369 für Außenbauteile XC4, XF1, XA1, für 
+Innenbauteile XC1, Feuchteklasse WF, Potentialausgleich nach VDE. Betonraumzelle 
+innen glatt geschalt.
+
+
+===== Page 53 =====
+53/128 
+• Aussparung und Anschluss für Be- und Entlüftung und Kondensatleitung des 
+Klimainnengeräts (aktive und passive Klimatisierung muss möglich sein) 
+• Wärmegedämmtes Flachdach inkl. ggf. erforderlicher Verblendung aus nicht 
+korrosivem Material 
+• Dachablauf und Regenfallrohr aus nicht korrosivem Material mit freiem Auslauf und 
+Übergangsstück zum Anschluss an das Kanalsystem 
+• Fassadenausführung: Außenputz mit Wärmeverbundsystem (Körnung 2 mm), inkl. 
+Grundierung und Endanstrich min. 2-fach  
+• Standardfarbausführung in RAL 7035 (Lichtgrau) / RAL 7038 (Achatgrau) /RAL1014 
+(Elfenbein) /RAL 6011 (Resedagrün) / RAL 9016 (Verkehrsweiß) – bei anderweitigen 
+Auflagen der betreffenden Gemeinde ist die OEW Breitband GmbH bzgl. Freigabe zu 
+kontaktieren und die Zusatzkosten durch die Gemeinde zu übernehmen 
+• Dämmung der erdberührten Flächen und des Sockels mit Perimeterdämmung nach 
+gültigen Vorschriften 
+• Bodenausführung staubbindend 
+• Innenanstrich 
+mit 
+Dispersionsfarbe 
+weiß, 
+Anstrich 
+2-fach 
+incl. 
+allen 
+Untergrundvorbereitungen, 
+Grundierung 
+usw. 
+als 
+Zwischen- 
+und 
+Schlussbeschichtung mit Dispersionsfarbe, wasserverdünnbar, lösemittelfrei, 
+emissionsminimiert, hoch diffusionsfähig. 
+o Nassabriebbeständigkeit: Klasse 1, nach DIN EN 13300 
+o Deckvermögen: Klasse 1, stumpfmatt, nach DIN EN 13300 
+o Diffusionsfähigkeit: sd-Wert < 0,1 m, nach DIN EN 13300 
+• 1 STK. Baustromdurchführung DN150 für Noteinspeisung in Betonwand über der Tür 
+auf der Seite der Aktivtechnik inkl. Abdeckung aus eloxiertem Aluminium E6 EV1, 
+Farbton Silber 
+• Vorrüstung des Kabelkellers mit min. vier vorgerüsteten Einführungen (max. Anzahl, 
+die technisch realisierbar ist) auf jeder Wandseite mit Einzelrohrabdichtungen in 
+geschlossener Ausführung zur Abdichtung von Mikrorohren oder Leerrohren 
+o Schrauben, Muttern und Scheiben: Edelstahl nicht rostend 
+o Anwendungsbereich: WU-Richtlinie: Beanspruchungsklasse 1 und 2 
+o Dichtheit: gas- und wasserdicht bis 2,5 bar; radonsicher
+
+
+===== Page 54 =====
+54/128 
+• Aluminiumtür 
+o wartungsarme Aluminiumtür in Rahmenbauweise mit Queraussteifungen und 
+umlaufender Dichtung, innenliegenden Bändern. Standardmäßig ausgerüstet 
+mit mechanischem Türfeststeller selbsttätig einrastend bei ca. 95 Grad 
+o Technische Daten: 
+ Widerstandsklasse: RC3 nach DIN EN 1627 
+ Lichte Türbreite: 1.100 mm 
+ Lichte Höhe: 2.100 mm 
+ Rahmenart: umlaufend 
+ Einflügelig 
+ Doppelwandig 
+ Glatte Oberfläche 
+ Farbe: Silber 
+ Schloss: 
+Mehrfachverriegelung 
+als 
+Schließsystem 
+mit 
+Notausgangsfunktion 
+inkl. 
+Vorrüstung 
+für 
+elektronisches 
+Schließsystem mit z. B. Codecarte 
+ Griffausführung 
+• Innen: Drücker 
+• Außen: Knauf 
+ 
+4.1.1.1.2. 
+Innenausbau 
+• Klimatechnik 
+o Platz für Installation Klimatechnik ist vorzusehen – Abstimmung mit dem 
+jeweiligen Netzbetreiber ist für Details vorzunehmen 
+o Elektrischer Anschluss ist zu installieren 
+o Leistung von ca. 6-8kW 
+o benötigte Lüftungselemente sind in Anlehnung RC3 in entsprechender 
+Baugröße bei Bedarf einzusetzen 
+o inkl. Inbetriebnahme vor Ort 
+• Beschilderung 
+o 1 Schild "Rettungszeichen Notausgang", Kunststoff-Schild,
+
+
+===== Page 55 =====
+55/128 
+o 1 Schild "Erste Hilfe", Kunststoff-Schild, 
+o 1 Schild "Brandschutzzeichen", selbstklebend, 
+o 1 Schild "Verhaltensregeln bei Unfällen", selbstklebend, 
+o 1 Schild "Notfallplan, Verhalten im Brandfall", selbstklebend, 
+o 1 Schild "Laserzeichen", selbstklebend, 
+o 1 Schild "5 Sicherheitsregeln für elektrische Anlagen", selbstklebend 
+o 1 Schild „Videoüberwachung“ – mit Hinweis auf Datenschutz, selbstklebend 
+• Beleuchtung 
+o IP44 Feuchtraum LED L22 
+o Anordnung parallel zueinander und in gleichmäßigem Abstand zu den Racks 
+o Schalter-Steckdosenkombination neben dem Eingangsbereich 
+• Elektroverteilung und USV: 
+o Zähler- und Energiesäule außen am PoP gem. Anforderung des jeweiligen 
+Netzbetreibers 
+o Innerhalb der Unterverteilung sind separierte Zähler für den Netzbetreiber und 
+den Open Access-Betreiber vorzurüsten 
+o Verkabelung für die USV (primär und sekundär) ist vorzurichten 
+o Blitzschutzlösung 
+o Verkabelung für Videoüberwachung an der Eingangstür ist als Ausführung, 
+sowie in der Unterverteilung vorzurüsten 
+• Für die aktive Technik ist vorzusehen 2x ETSI-Schrank (1x für Netzbetreiber und 1x 
+Kollokation): 
+o Breite: 800 mm 
+o Tiefe: 800 mm 
+o 45 Höheneinheiten 
+o Fronttür: geschlossene Blechtür mit Linksanschlag, Öffnungswinkel 180° 
+o Schließung der Fronttür: Einpunktschließung mit Ergoform-Griff und 
+Sicherheitsschloss 
+o Seitenwand rechts: Lochblech 
+o Seitenwand links: Lochblech 
+o Rückwand: Vollblech
+
+
+===== Page 56 =====
+56/128 
+o 1x Steckdosenleiste 8fach im Schrank montiert, rückseitig 
+• 2 ODF-Gestelle für die passive Technik: 
+o 900 mm Breite  
+o 300 mm Bautiefe 
+o Bauhöhe von 2200 mm  
+o Faseraufnahme:  8064 LC-Ports inkl. 20 % Faserreserve 
+o 72 Ports/HE LC/ACP für FTTB, 48 Ports/HE E2000 für BB 
+o Einzelfasermanagement 
+o Patchkabelüberlängenmanagement 
+o Ablagepanel für Reservebündel 
+o Frontseitiger Zugriff auf Steckverbindungen 
+o Abschließbare Fronttüren mit Einpunktschließung mit Ergoform-Griff und 
+Sicherheitsschloss 
+• LWL-Kabelmanagementsystem 
+o Lieferung 
+und 
+Montage 
+eines 
+für 
+Lichtwellenleiter 
+freigegebenen 
+Kabelführungssystems als U ausgeführt über den Gestellen – unter der Decke 
+montiert 
+o Im Kabelkeller Integration von Kabeleingängen unterhalb der Aktiv-/ Passiv- 
+Schränke mit Auslässen inklusive ggf. Bodeneinsätze zur Einhaltung von 
+Biege- Knickradien zu verbauen 
+o Variante und Stückzahl zu Patch- bzw. Breakoutkabel sind mit dem 
+Netzbetreiber abzustimmen
+
+
+===== Page 57 =====
+57/128 
+ 
+Abbildung 12: Beispielaufbau PoP bis 8064 Ports – Grundriss 
+ 
+ 
+Abbildung 13: Beispielaufbau PoP bis 8064 Ports - Innenmaße 
+Aktive 
+Technik 
+Netz-
+betreiber 
+1
+Aktive 
+Technik 
+Open 
+Access 
+Klima-
+technik 
+ODF 1 
+ODF 2 
+USV
+
+
+===== Page 58 =====
+58/128 
+ 
+ 
+Abbildung 14: Beispielaufbau PoP bis 8064 Ports - Außenmaße 
+ 
+Unter anderem folgende Hersteller erfüllen die Anforderungen an PoP-Stationen nach 
+derzeitigem Kenntnisstand: Reichle & De-Massari AG, Amadys Telecom Germany GmbH, 
+BAS GmbH, Gritec GmbH, eku Kabel und Systeme GmbH, Connect Com GmbH 
+ 
+4.1.1.2. 
+POP M (bis 4032 Ports) 
+4.1.1.2.1. 
+Gehäuse 
+• Material: Betonguss mit Kabelkeller 
+• Lichte Innenmaße mindestens: B x L x H = 2,78 x 2,78 x 3,20 m, maximale Abweichung 
++20cm in Länge, Breite und Höhe. Bauteildicke nach statischer Berechnung des AN 
+mindestens jedoch Wandstärke von mindestens 10 cm und Boden- (oder Decken-) 
+stärke von 12 cm. Betonkörper im erdberührten Bereich als WU-Konstruktion, 
+Expositionsklassen nach DIN 1045-2 und DIN EN 13369 für Außenbauteile XC4, XF1,
+
+
+===== Page 59 =====
+59/128 
+XA1, Innenbauteile XC1, Feuchteklasse WF, Potentialausgleich nach VDE. 
+Betonraumzelle innen glatt geschalt. 
+• Aussparung und Anschluss für Be- und Entlüftung und Kondensatleitung des 
+Klimainnengeräts (aktive und passive Klimatisierung muss möglich sein) 
+• Wärmegedämmtes Flachdach inkl. ggf. erforderlicher Verblendung aus nicht 
+korrosivem Material 
+• Dachablauf und Regenfallrohr aus nicht korrosivem Material mit freiem Auslauf und 
+Übergangsstück zum Anschluss an das Kanalsystem 
+• Fassadenausführung: Außenputz mit Wärmeverbundsystem (Körnung 2 mm), inkl. 
+Grundierung und Endanstrich min. 2-fach  
+• Standardfarbausführung in RAL 7035 (Lichtgrau) / RAL 7038 (Achatgrau) /RAL1014 
+(Elfenbein) /RAL 6011 (Resedagrün) / RAL 9016 (Verkehrsweiß) – bei anderweitigen 
+Auflagen der betreffenden Gemeinde ist die OEW Breitband GmbH bzgl. Freigabe zu 
+kontaktieren und die Zusatzkosten durch die Gemeinde zu übernehmen 
+• Dämmung der erdberührten Flächen und des Sockels mit Perimeterdämmung nach 
+gültigen Vorschriften 
+• Bodenausführung staubbindend 
+• Innenanstrich 
+mit 
+Dispersionsfarbe 
+weiß, 
+Anstrich 
+2-fach 
+incl. 
+allen 
+Untergrundvorbereitungen, 
+Grundierung 
+usw. 
+als 
+Zwischen- 
+und 
+Schlussbeschichtung mit Dispersionsfarbe, wasserverdünnbar, lösemittelfrei, 
+emissionsminimiert, hoch diffusionsfähig. 
+o Nassabriebbeständigkeit: Klasse 1, nach DIN EN 13300 
+o Deckvermögen: Klasse 1, stumpfmatt, nach DIN EN 13300 
+o Diffusionsfähigkeit: sd-Wert < 0,1 m, nach DIN EN 13300 
+• 1 STK. Baustromdurchführung DN150 für Noteinspeisung in Betonwand über der Tür 
+auf der Seite der Aktivtechnik inkl. Abdeckung aus eloxiertem Aluminium E6 EV1, 
+Farbton Silber 
+• Vorrüstung des Kabelkellers mit min. vier vorgerüsteten Einführungen (max. Anzahl, 
+die technisch realisierbar ist) auf jeder Wandseite mit Einzelrohrabdichtungen in 
+geschlossener Ausführung zur Abdichtung von Mikrorohren oder Leerrohren 
+o Schrauben, Muttern und Scheiben: Edelstahl nicht rostend
+
+
+===== Page 60 =====
+60/128 
+o Anwendungsbereich: WU-Richtlinie: Beanspruchungsklasse 1 und 2 
+o Dichtheit: gas- und wasserdicht bis 2,5 bar; radonsicher 
+• Aluminiumtür 
+o wartungsarme Aluminiumtür in Rahmenbauweise mit Queraussteifungen und 
+umlaufender Dichtung, innenliegenden Bändern. Standardmäßig ausgerüstet 
+mit mechanischem Türfeststeller selbsttätig einrastend bei ca. 95 Grad 
+o Technische Daten: 
+ Widerstandsklasse: RC3 nach DIN EN 1627 
+ Lichte Türbreite: 1.100 mm 
+ Lichte Höhe: 2.100 mm 
+ Rahmenart: umlaufend 
+ Einflügelig 
+ Doppelwandig 
+ Glatte Oberfläche 
+ Farbe: Silber 
+ Schloss: 
+Mehrfachverriegelung 
+als 
+Schließsystem 
+mit 
+Notausgangsfunktion 
+inkl. 
+Vorrüstung 
+für 
+elektronisches 
+Schließsystem mit z. B. Codecarte 
+ Griffausführung 
+• Innen: Drücker 
+• Außen: Knauf 
+ 
+4.1.1.2.2. 
+Innenausbau 
+• Klimatechnik 
+o Platz für Installation Klimatechnik ist vorzusehen – Abstimmung mit dem 
+jeweiligen Netzbetreiber ist für Details vorzunehmen 
+o Elektrischer Anschluss ist zu installieren 
+o Leistung von ca. 6-8kW 
+o benötigte Lüftungselemente sind in Anlehnung RC3 in entsprechender 
+Baugröße bei Bedarf einzusetzen
+
+
+===== Page 61 =====
+61/128 
+o inkl. Inbetriebnahme vor Ort 
+• Beschilderung 
+o 1 Schild "Rettungszeichen Notausgang", Kunststoff-Schild, 
+o 1 Schild "Erste Hilfe", Kunststoff-Schild, 
+o 1 Schild "Brandschutzzeichen", selbstklebend, 
+o 1 Schild "Verhaltensregeln bei Unfällen", selbstklebend, 
+o 1 Schild "Notfallplan, Verhalten im Brandfall", selbstklebend, 
+o 1 Schild "Laserzeichen", selbstklebend, 
+o 1 Schild "5 Sicherheitsregeln für elektrische Anlagen", selbstklebend 
+o 1 Schild „Videoüberwachung“ – mit Hinweis auf Datenschutz, selbstklebend 
+• Beleuchtung 
+o IP44 Feuchtraum LED L22 
+o Anordnung parallel zueinander und in gleichmäßigem Abstand zu den Racks 
+o Schalter-Steckdosenkombination neben dem Eingangsbereich 
+• Elektroverteilung und USV: 
+o Zähler- und Energiesäule außen am PoP gem. Anforderung des jeweiligen 
+Netzbetreibers 
+o Innerhalb der Unterverteilung sind separierte Zähler für den Netzbetreiber und 
+den Open Access-Betreiber vorzurüsten 
+o Verkabelung für die USV (primär und sekundär) ist vorzurichten 
+o Blitzschutzlösung 
+o Verkabelung für Videoüberwachung an der Eingangstür ist als Ausführung, 
+sowie in der Unterverteilung vorzurüsten 
+• Für die aktive Technik ist vorzusehen 2x ETSI-Schrank (1x für Netzbetreiber und 1x 
+Kollokation): 
+o Breite: 800 mm 
+o Tiefe: 800 mm 
+o 45 Höheneinheiten 
+o Fronttür: geschlossene Blechtür mit Linksanschlag, Öffnungswinkel 180° 
+o Schließung der Fronttür: Einpunktschließung mit Ergoform-Griff und 
+Sicherheitsschloss
+
+
+===== Page 62 =====
+62/128 
+o Seitenwand rechts: Lochblech 
+o Seitenwand links: Lochblech 
+o Rückwand: Vollblech 
+o 1x Steckdosenleiste 8fach im Schrank montiert, rückseitig 
+• 1 ODF-Gestelle für die passive Technik: 
+o 900 mm Breite  
+o 300 mm Bautiefe 
+o Bauhöhe von 2200 mm  
+o Faseraufnahme:  4032 LC-Ports inkl. 20 % Faserreserve 
+o 72 Ports/HE LC/ACP für FTTB, 48 Ports/HE E2000 für BB 
+o Einzelfasermanagement 
+o Ablagepanel für Reservefasern 
+o Patchkabelüberlängenmanagement 
+o Frontseitiger Zugriff auf Steckverbindungen 
+o Abschließbare Fronttüren mit Einpunktschließung mit Ergoform-Griff und 
+Sicherheitsschloss 
+• LWL-Kabelmanagementsystem 
+o Lieferung und Montage eines Kabelführungssystems als U ausgeführt über 
+den Gestellen – unter der Decke montiert 
+o Im Kabelkeller Integration von Kabeleingängen unterhalb der Aktiv-/ Passiv- 
+Schränke mit Auslässen inklusive ggf. Bodeneinsätze zur Einhaltung von 
+Biege- Knickradien zu verbauen 
+o Variante und Stückzahl zu Patch- bzw. Breakoutkabel sind mit dem 
+Netzbetreiber abzustimmen
+
+
+===== Page 63 =====
+63/128 
+ 
+Abbildung 15: Beispielaufbau PoP bis 4032 Ports 
+ 
+ 
+Abbildung 16: Beispielaufbau PoP bis 4032 Ports - Innenmaße 
+ODF 1 
+Aktive 
+Technik 
+Netz-
+betreiber 
+1
+Aktive 
+Technik 
+Open 
+Access 
+USV 
+Klima-
+technik 
+Optional ODF 2 
+nachrüstbar
+
+
+===== Page 64 =====
+64/128 
+ 
+Abbildung 17: Beispielaufbau PoP bis 4032 Ports - Außenmaße 
+ 
+Unter anderem folgende Hersteller erfüllen die Anforderungen an PoP-Stationen nach 
+derzeitigem Kenntnisstand: Reichle & De-Massari AG, Amadys Telecom Germany GmbH, 
+BAS GmbH, Gritec GmbH, eku Kabel und Systeme, Connect Com GmbH 
+ 
+4.1.1.3. 
+POP S – MFG18 mit zusätzlichem MFG18-Sockel (bis 1512 Ports) 
+4.1.1.3.1. 
+Gehäuse MFG 18 
+• Korrosionsfreies Material, wie Aluminium oder Polycarbonat 
+• Austauschbar ohne Betriebsunterbrechung 
+• Erdsockel: 
+o IP44 in Anlehnung an EN 60529 (beschreibt Schutzarten von Gehäusen) 
+o IK09 in Anlehnung an EN 62262 (beschreibt Schutzarten durch Gehäuse für 
+elektrische Betriebsmittel) 
+• Außenhülle: 
+o IP55 nach EN 60529
+
+
+===== Page 65 =====
+65/128 
+o IK10 nach EN 62208 (Norm für Leergehäuse, die Begriffe, Einteilungen, 
+kennzeichnende Merkmale und Prüfanforderungen für Gehäuse festlegt) 
+o RC2 gem. DIN V EN 1630:1999-04 (Prüfverfahren für die Ermittlung der 
+Widerstandsfähigkeit gegen manuelle Einbruchversuche) 
+o Schock, Transport und Vibration nach ETS EN 300-01 
+o Erdbebentest nach ETS EN 300-019-2-4 
+o DIN 
+EN 
+62208, 
+zugelassen 
+für 
+den 
+fachgerechten 
+Aufbau 
+von 
+Schaltgerätekombinationen nach EN 61439-1 
+• Strukturierte Pulverbeschichtung in Farbe: RAL 7035 / RAL 7038 
+• Sockel nicht rostend, dauerhaft für Einsatz im Erdreich geeignet 
+• C-Schiene im Gehäuseunterteil zur Zugabfangung von Erdkabeln und Rohrverbänden, 
+mit Kabelschellen für Klemmbereich Ø ca. 40-46mm 
+• Bedienungsöffnung geerdet, Rahmen vorbereitet zum Erden 
+• Blähton für Ausfüllen des Sockels 
+• Schließung mit 3-Punkt-Stangenschloss und Schwenkhebelgriff vorbereitet für 
+Schließzylinder (elektrische Zutrittskontrolle nachrüstbar) in RC2 nach DIN 
+• Türen mit verdeckten Scharnieren mit 180° Öffnungswinkel und fest aufgebrachten 
+Dokumententaschen auf der Innenseite; Außenseite mit Aufkleber für geförderten 
+Breitbandausbau gem. Vorgabe des Bundesförderprogramms 
+• Dachausführung mit Überstand als Regentropfkante 
+o Lüftungsschlitze 
+gem. 
+Anforderung 
+Belüftungssystem 
+mit 
+Insektenschutzgitter 
+ 
+4.1.1.3.2. 
+Energieanschlusssäule 
+• Zähleranschlussbereich als separates Modul im Gehäuse integriert oder separat 
+gestellt mit separater Schließung für den Netzbetreiber ohne Zugangsmöglichkeit zur 
+weiteren aktiven und passiven Technik 
+• Kabelkanal für Stromzuführung in den Bereich des Netzbetreibers  
+• Vorrichtung für Notstromzuführung 
+• 1 Stück Hausanschlusskasten 63A
+
+
+===== Page 66 =====
+66/128 
+• 1 Stück Hauptsicherungsautomat 
+• 1 Stück Zählerplatz (Zählerkreuz) 
+• 1 Stück Überspannungsschutz 
+• 1 Stück Hauptschalter 63A  
+• Umschaltung Notstrom im Automatik- und Manualmodus 
+ 
+4.1.1.3.3. 
+Klimatisierung 
+• Luft/Luft/Wärmetauscher – wartungsfrei (Auf Anforderung des Netzbetreibers muss 
+auch die Integration eines Luftaustauschers (Dachlüfter mit Filtereinsatz) oder eine 
+aktive Klimatisierung (z. B. durch eine anbaubare Moduleinheit) möglich sein – es ist 
+ausschließlich der Platz für eine Nachrüstung durch den Netzbetreiber vorzusehen) 
+• Kühlleistung im Standard 64 W/K (bei max. Leistung) – Abstimmung mit 
+Netzbetreiber erforderlich 
+• Anzahl: 1 LAT oder SCS im Bereich der Bucht mit Doppeltür 
+• Leistungsaufnahme: ca. 110 W 
+• Spannungsversorgung: 48 V DC 
+• Temperaturbereich: -33°C bis +70°C 
+• Einspeisestrom bis max. 8 A 
+• Entwärmungskonzept des Gehäuses muss dreistufig ausgeführt sein: 
+o Stufe 1 – passive Entwärmung über Gehäusekorpus (doppelwandig) 
+o Stufe 
+2 
+– 
+aktive 
+Entwärmung 
+über 
+Luftaustauscher 
+(LAT) 
+oder 
+Luft/Luft/Wärmetauscher (SCS) integriert im Dach 
+o Stufe 3 – aktive Kühlung über nachrüstbares Klimagerät 
+• Optional – Heizung 
+o Die Heizung muss in min. 250W incl. Hygrostat zum Temperaturausgleich bei 
+starken Temperaturschwankungen vorhanden sein
+
+
+===== Page 67 =====
+67/128 
+4.1.1.3.4. 
+Innenausbau 
+• Passive Technik - Grundausstattung 1. Netzbetreiber: 
+o Doppeltür ohne Zwischensteg, Schließung etc. 
+o linke Bucht passive Technik mit den benötigten Spleiß- und Patchpaneln und 
+biegeradiengerechtem Patchkabelmanagement mit Aufnahme für Überlängen 
+o bis zu 1512 Ports inkl. 20% Faserreserve 
+o 72 Ports/HE LC/ACP für FTTB, 48 Ports/HE E2000 für BB 
+o Aufnahme 19“ front- oder rückseitig 
+• Aktive Technik - 1. Netzbetreiber  
+o Aufnahme ETSI 21 HE für rein passive Technik und/oder Aktivtechnik 
+o Stromversorgung 
+o USV 
+o Steckdosenleiste 
+o Einbau eines Luftaustauschers muss optional möglich sein 
+• Biegeradiengerechte Kabel- und Röhrchenzuführung und individuelle Möglichkeit der 
+Aufteilung in der Bodenplatte für 4 x 20/15 mm-Mikrorohrverbände 
+ 
+ 
+Abbildung 18: Beispielaufbau PoP bis 1512 Ports – technische Ausgestaltung
+
+
+===== Page 68 =====
+68/128 
+ 
+ 
+Abbildung 19: Beispielaufbau PoP bis 1512 Ports – Außenansicht 
+ 
+ 
+Abbildung 20: Beispielaufbau PoP bis 1512 Ports – Innenansicht 
+ 
+Unter anderem folgende Hersteller erfüllen die Anforderungen an Multifunktionsgehäuse 
+nach derzeitigem Kenntnisstand: Reichle & De-Massari AG, Amadys Telecom Germany 
+GmbH, BAS GmbH, Raycap GmbH, Almatec AG, Connect Com GmbH, eku Kabel und 
+Systeme GmbH, Gritec GmbH
+
+
+===== Page 69 =====
+69/128 
+4.1.1.4. 
+POP S-MFG-Alternative mit integriertem Open Access (bis 1512 Ports) 
+4.1.1.4.1. 
+Gehäuse 
+• Korrosionsfreies Material, wie Aluminium oder Polycarbonat 
+• Austauschbar ohne Betriebsunterbrechung 
+• Erdsockel: 
+o IP44 in Anlehnung an EN 60529 (beschreibt Schutzarten von Gehäusen) 
+o IK09 in Anlehnung an EN 62262 (beschreibt Schutzarten durch Gehäuse für 
+elektrische Betriebsmittel) 
+• Außenhülle: 
+o IP55 nach EN 60529 
+o IK10 nach EN 62208 (Norm für Leergehäuse, die Begriffe, Einteilungen, 
+kennzeichnende Merkmale und Prüfanforderungen für Gehäuse festlegt) 
+o RC2 gem. DIN V EN 1630:1999-04 (Prüfverfahren für die Ermittlung der 
+Widerstandsfähigkeit gegen manuelle Einbruchversuche) 
+o Schock, Transport und Vibration nach ETS EN 300-01 
+o Erdbebentest nach ETS EN 300-019-2-4 
+o DIN 
+EN 
+62208, 
+zugelassen 
+für 
+den 
+fachgerechten 
+Aufbau 
+von 
+Schaltgerätekombinationen nach EN 61439-1 
+• Strukturierte Pulverbeschichtung in Farbe: RAL 7035 / RAL 7038 
+• Sockel nicht rostend, dauerhaft für Einsatz im Erdreich geeignet 
+• C-Schiene im Gehäuseunterteil zur Zugabfangung von Erdkabeln und Rohrverbänden, 
+mit Kabelschellen für Klemmbereich Ø ca. 40-46mm 
+• Bedienungsöffnung geerdet, Rahmen vorbereitet zum Erden 
+• Blähton für Ausfüllen des Sockels 
+• Schließung mit 3-Punkt-Stangenschloss und Schwenkhebelgriff vorbereitet für 
+Schließzylinder (elektrische Zutrittskontrolle nachrüstbar) in RC2 nach DIN 
+• Türen mit verdeckten Scharnieren mit 180° Öffnungswinkel und fest aufgebrachten 
+Dokumententaschen auf der Innenseite; Außenseite mit Aufkleber für geförderten 
+Breitbandausbau gem. Vorgabe des Bundesförderprogramms
+
+
+===== Page 70 =====
+70/128 
+• Für den Open Access – Bereich  zwei durch einen Loch-Boden getrennte und zwei 
+voneinander separat öffenbare Türen mit Schließsystem und Vorrüstung für ein 
+elektronisches Schließsystem 
+• Dachausführung mit Überstand als Regentropfkante 
+o Lüftungsschlitze 
+gem. 
+Anforderung 
+Belüftungssystem 
+mit 
+Insektenschutzgitter 
+ 
+4.1.1.4.2. 
+Stromsäule 
+• Zähleranschlussbereich als separates Modul im Gehäuse integriert oder separat 
+gestellt mit separater Schließung für den Netzbetreiber ohne Zugangsmöglichkeit zur 
+weiteren aktiven und passiven Technik 
+• Kabelkanal für Stromzuführung in die Bereiche des Netzbetreibers und den Open 
+Access-Bereich mit separaten Unterzählern für 1x Netzbetreiber und 2x mögliche 
+Open Access-Betreiber 
+• Vorrichtung für Notstromzuführung 
+• 1 Stück Hausanschlusskasten 63A 
+• 1 Stück Hauptsicherungsautomat 
+• 1 Stück Zählerplatz (Zählerkreuz) 
+• 1 Stück Überspannungsschutz 
+• 1 Stück Hauptschalter 63A  
+• Umschaltung Notstrom im Automatik- und Manualmodus 
+ 
+4.1.1.4.3. 
+Klimatisierung 
+• Luft/Luft/Wärmetauscher – wartungsfrei (Auf Anforderung des Netzbetreibers muss 
+auch die Integration eines Luftaustauschers (Dachlüfter mit Filtereinsatz) oder eine 
+aktive Klimatisierung (z. B. durch eine anbaubare Moduleinheit) möglich sein) 
+• Kühlleistung im Standard 64 W/K (bei max. Leistung) – Abstimmung mit 
+Netzbetreiber erforderlich 
+• Anzahl: 1 LAT oder SCS im Bereich der Bucht mit Doppeltür 
+• Leistungsaufnahme: ca. 110 W
+
+
+===== Page 71 =====
+71/128 
+• Spannungsversorgung: 48 V DC 
+• Temperaturbereich: -33°C bis +70°C 
+• Einspeisestrom bis max. 8 A 
+• Entwärmungskonzept des Gehäuses muss dreistufig ausgeführt sein: 
+o Stufe 1 – passive Entwärmung über Gehäusekorpus (doppelwandig) 
+o Stufe 
+2 
+– 
+aktive 
+Entwärmung 
+über 
+Luftaustauscher 
+(LAT) 
+oder 
+Luft/Luft/Wärmetauscher (SCS) integriert im Dach 
+o Stufe 3 – aktive Kühlung über nachrüstbares Klimagerät 
+• Optional – Heizung 
+o Die Heizung muss in min. 250W incl. Hygrostat zum Temperaturausgleich bei 
+starken Temperaturschwankungen vorhanden sein 
+ 
+4.1.1.4.4. 
+Innenausbau 
+• Passive Technik - Grundausstattung 1. Netzbetreiber: 
+o Doppeltür ohne Zwischensteg, Schließung etc. 
+o linke Bucht passive Technik mit den benötigten Spleiß- und Patchpaneln und 
+biegeradiengerechtem Patchkabelmanagement mit Aufnahme für Überlängen 
+o bis zu 1512 Ports inkl. 20% Faserreserve 
+o 72 Ports/HE 
+o Aufnahme front- oder rückseitig 
+• Aktive Technik - 1. Netzbetreiber in der rechten Bucht 
+o Aufnahme ETSI 21 HE für rein passive Technik und/oder Aktivtechnik 
+o Stromversorgung 
+o USV 
+o Steckdosenleiste 
+o Einbau eines Luftaustauschers muss optional möglich sein 
+• Open Access – Bereich: 
+o Zwei voneinander separat öffenbare und abschließbare Türen 
+o Aufnahme ETSI
+
+
+===== Page 72 =====
+72/128 
+o Patchkabelführung von passivem Bereich über Patchkabel-/Breakoutkabel 
+oberhalb des abgetrennten Bereiches mittels Kabelkanal oder frontseitig über 
+Aussparung mit Bürstenleiste 
+• Biegeradiengerechte Kabel- und Röhrchenzuführung und individuelle Möglichkeit der 
+Aufteilung in der Bodenplatte für 4 x 20/15 mm-Mikrorohrverbände 
+ 
+ 
+Abbildung 21: Beispielaufbau PoP mit Open Access bis 1512 Ports – technische Ausgestaltung 
+ 
+ 
+Abbildung 22: Beispielaufbau PoP mit Open Access bis 1512 Ports – Außenansicht
+
+
+===== Page 73 =====
+73/128 
+ 
+Abbildung 23: Beispielaufbau PoP mit Open Access bis 1512 Ports – Innenansicht 
+ 
+Unter anderem folgende Hersteller erfüllen die Anforderungen an Multifunktionsgehäuse 
+nach derzeitigem Kenntnisstand: Reichle & De-Massari AG, Amadys Telecom Germany 
+GmbH, BAS GmbH, Raycap GmbH, Almatec AG, Connect Com GmbH, eku Kabel und 
+Systeme GmbH, Gritec GmbH 
+ 
+4.2. Hauptkabelebene 
+4.2.1. 
+Glasfaser Netzverteiler (Gf-NVt) 
+Der Glasfaser-Netzverteiler (NVT) ist ein oberirdischer Verteilpunkt im FTTB-Netz mit einem 
+modularen Aufbau, der die Verzweigung, Verbindung und Verteilung von Glasfasern 
+ermöglicht. Er wird auf einem Sockel installiert, der für eine stabile Bodenverankerung sorgt. 
+ 
+4.2.1.1. 
+Gehäuse und Sockel 
+• Korrosionsfreies Material, wie Aluminium oder Polycarbonat 
+• Farbe: RAL 7035 / RAL 7038 
+• DIN 47609: Außengehäuse für Freiluftklima 
+• Dauerhaft Hitze- und UV-Lichtbeständig 
+• Schutzklasse: Mindestens IP54 nach DIN EN 60529
+
+
+===== Page 74 =====
+74/128 
+• Sicherheitsanforderungen: Mindestens DIN 47609 Sicherheitsstufe T4 gegen 
+Aufbruch 
+• Mechanische Beanspruchung – Vibration und Schock nach IEC 60721-3-4 
+• Kondenswasserschutz: Passiv, gemäß E DIN 47609 (Prüfung Db) 
+• Türverriegelung: 3-Punkt-Verriegelung mit Schwenkhebelgriff für bis zu zwei 
+Profilhalbzylinder; Nachrüstung mit elektronischem Zugangssystem möglich 
+• Türanschlag optional rechts und links und Türöffnungswinkel bis zu 145° 
+• Beschilderung: DIN A4/A3 möglich 
+• Dokumententasche: Im Gehäuse integriert 
+• Laserschutzsymbol auf der Außentür 
+• Aufkleber auf der Außentür mit Hinweis auf das Förderprogramm des Bundes gem. 
+Vorgabe des Fördermittelgebers 
+ 
+4.2.1.2. 
+Einführungen 
+4.2.1.2.1. 
+Sockel / Hülle 
+• Hülle: 
+o Korrosionsfreies Material, wie Aluminium oder Polycarbonat 
+o Austauschbar ohne Betriebsunterbrechung 
+• Sockel: 
+o nicht rostend, dauerhaft für Einsatz im Erdreich geeignet 
+• Farbe: RAL 7035 / RAL 7038 
+• DIN 47609: Außengehäuse für Freiluftklima 
+• C-Schiene im Gehäuseunterteil zur Zugabfangung von Erdkabeln und Rohrverbänden, 
+mit Kabelschellen für Klemmbereich Ø ca. 40-46mm 
+• Blähton für Ausfüllen des Sockels 
+• Kennzeichnung der Eingrabtiefe
+
+
+===== Page 75 =====
+75/128 
+4.2.1.2.2. 
+Bodenplatte 
+• Bodenplatte mit vorgestanzten Segmenten und Möglichkeit der Beschriftung der 
+Durchführungen mittels Buchstaben/Zahlenkombination für: 
+o 96 x Ø 10 mm Mikrorohr in Hauszuführungsebene in Reihe (keine kreisrunde 
+Öffnung) 
+o 4 x Ø 20 mm Mikrorohr in Hauptkabelebene 
+• Mikrorohrabfangung 
+Zuführung 
+Hauptkabel 
+als 
+Klemmbefestigung 
+und 
+vormontierter Cliphalterung für 4 x Ø 20 mm Mikrorohr 
+• Mikrorohrabfangung 
+Zuführung 
+Verteilkabel 
+als 
+Klemmbefestigung 
+und 
+vormontierter Cliphalterung für 96 x Ø 10 mm Mikrorohr 
+• Klemmbefestigung für 96 Mikrorohre im Gestell-Rahmen mit vormontierten 
+Cliphalterungen 
+ 
+4.2.1.2.3. 
+Kabelmanagement 
+•  Spleißkassettensystem: 
+o Einzel- und Mehrfasermanagement (E&MMS) oder Single Circuit/Single 
+Element (SC/SE) gemäß DIN EN IEC 61756-1 
+o Spleißkassetten mit 12 Spleißplätzen zur Aufnahme von Crimpspleisschutz 
+und 
+Kassettendeckeln 
+mit 
+Beschriftungsfeldern 
+für 
+selbstklebende 
+Beschriftungsstreifen 
+o Querrangierung zwischen Kassetten möglich 
+o Platzierung: An der Türinnenseite auf schwenkbarer Ebene oder auf bzw. an 
+einer schwenkbaren Zwischentür,  
+o Kontrollierte Kabelzuführung zum Kassettensystem (Mindestbiegeradius: 30 
+mm) 
+• Überlängenablage 
+• Flexibles Bündelader- und Fasermanagementsystem inkl. Kabelabfangungssystem
+
+
+===== Page 76 =====
+76/128 
+Unter anderem folgende Hersteller erfüllen die Anforderungen an Glasfaser Netzverteiler 
+nach derzeitigem Kenntnisstand: Hexatronic GmbH, Reichle & De-Massari AG, Raycap 
+GmbH, Connect Com GmbH, eku Kabel und Systeme GmbH 
+ 
+4.3. Hauszuführungsebene 
+4.3.1. 
+Mikrorohr erdverlegbar (MRe) 
+Mikrorohre dienen der direkten Erdverlegung oder dem Einzug in Schutzrohrsysteme und 
+sind aufgrund ihrer Eigenschaften für das Einblasen von Lichtwellenleiterkabeln geeignet. 
+Für eine optimale Wartung im Netzbetrieb sind eine eindeutige Kennzeichnung für eine 
+schnelle Identifizierung unerlässlich. 
+ 
+4.3.1.1. 
+Material, Aufbau und Kennzeichnung 
+• Form: Kreisrund mit sauberer, glatter Außenoberfläche 
+• Material und Herstellung: PE-HD nach 8074/8075 oder Recycling / Eco 
+• Oberflächenanforderungen: 
+Keine 
+Krusten, 
+Hohlstellen, 
+Blasen, 
+Fremdkörpereinschlüsse oder Inhomogenitäten (>0,02 mm²) in der Rohrwand 
+• Innenstruktur: Innenriefung (Längsrillen) zur Reduzierung der Reibung beim 
+Einblasen von LWL-Kabeln  
+• Farbe und Kennzeichnung: Deutlich unterscheidbar, z.B. transluzent mit 
+gegenüberliegender 
+roter 
+Farbstreifen-Kennzeichnung, 
+durchgefärbt 
+oder 
+transluzent mit farbcodierten Streifen oder andere klar erkennbare Farbvarianten
+
+
+===== Page 77 =====
+77/128 
+Farbe 
+Kurzbezeichnung 
+Nummer 
+RAL 
+rot 
+rt 
+1 
+RAL 3020 
+grün 
+gn 
+2 
+RAL6001 
+blau 
+bl 
+3 
+RAL5015 
+gelb 
+ge 
+4 
+RAL1018 
+weiß 
+ws 
+5 
+RAL9010 
+grau 
+gr 
+6 
+RAL7045 
+braun 
+br 
+7 
+RAL8015 
+violett 
+vi 
+8 
+RAL4005 
+türkis 
+tk 
+9 
+RAL6027 
+schwarz 
+sw 
+10 
+RAL9005 
+orange 
+or 
+11 
+RAL2003 
+rosa 
+rs 
+12 
+RAL3015 
+Tabelle 5: Farbschema Mikrorohre gem. VDE 0800-720 für Rohre 1-12 
+ 
+• Abriebfeste Beschriftung der Einzelrohre und Verbände: 
+o Produktbezeichnung 
+o Material 
+o Dimension 
+o Fertigungsdatum 
+o Chargennummer 
+o Metrierung 
+o Aufschrift: Achtung Glasfaserkabel, OEW Breitband GmbH 
+Tel. 0800 4112015
+
+
+===== Page 78 =====
+78/128 
+4.3.1.2. 
+Lieferung 
+• Staub- und feuchtigkeitsgeschützt, auf Trommeln 
+• Mikrorohre werden eng und gleichmäßig in Lagen auf Trommeln aufgewickelt.  
+• Auf Ein- oder Mehrwegtrommeln wie auf der nachfolgenden Abbildung ersichtlich auf 
+Paletten transportiert und gelagert, um Verformungen / Beschädigungen zu 
+vermeiden 
+ 
+Abbildung 24: Transport von Trommeln 
+ 
+• Enden der Mikrorohre sind mit festsitzenden Verschlusskappen gesichert, die 
+während des Transports und Handlings nicht verloren gehen dürfen 
+• Trommeldurchmesser angepasst auf Außendurchmesser der Mikrorohre 
+• Jede Trommel ist mit einem dauerhaften Etikett zu beschildern, das nachstehende 
+Informationen aufweist: 
+o Name und Adresse des Herstellers 
+o Produktname und Dimension 
+o Herstellungsdatum 
+o Farbe des Rohres 
+o Lieferlänge in m 
+o Artikelnummer 
+o Prüfkennzeichnung (Mikrorohre druckgeprüft, Durchgängigkeit geprüft)
+
+
+===== Page 79 =====
+79/128 
+4.3.1.3. 
+Qualitätskriterien 
+Folgende Mindestanforderungen sind sicherzustellen und dem AG auf Anforderung 
+schriftlich nachzuweisen: 
+• 
+Einhaltung der Anforderungen, Detailabmessungen und Toleranzen gemäß Tabelle 
+6: Anforderung an Mikrorohre 
+• 
+Zeitstandprüfung 170h / 80°C / 4 N/mm² nach DIN 16874 
+• 
+Nachweis, dass alle Rohre (100% der Lieferung) geprüft sind auf Durchgängigkeit 
+und Dichtheit ab Werk (Kugeltest), sowie den Ovalitätstest im Werk bestanden 
+haben 
+• 
+UV-Stabilität: Freilagerbeständigkeit für 3 Jahre in Mitteleuropa gemäß DIN EN ISO 
+4892-2; nach Bewitterung Zeitstandprüfung nach DIN 16874 
+• 
+Mechanische Belastbarkeit: Druckfestigkeit mindestens 15 bar bei 20°C nach DIN 
+EN 61386 
+• 
+Einsatztemperaturbereich: -10°C bis +60°C 
+• 
+Verlegung: Für die direkte Erdverlegung und/oder Pressung im 
+Hausanschlussbereich geeignet 
+ 
+Mikrorohr 
+10/6 mm 
+20/15 mm 
+Außendurchmesser 
+(DA) 
+10,0 mm 
+20,0 mm 
+Toleranz DA 
++0,10 / -0,0 mm +0,15 /-0,0 mm 
+Wandstärke 
+2,0 mm 
+2,5 mm 
+Wandstärke Toleranz 
++0,10 / -0,0 mm +0,15 /-0,0 mm 
+Innendurchmesser nom. 
+6,0 mm 
+15,0 mm 
+Riefentiefe 
+~0,1 (-0,05) 
+~0,1 (-0,05) 
+Riefenanzahl 
+40 +/ - 5 
+100 +/- 5 
+Zul. Zugkraft  
+≥ 450 N 
+≥ 1.100 N 
+Einblasdruck max. 
+15 bar 
+10 bar 
+Berstdruck bei 23°C nach DIN 
+EN ISO 1402  
+≥ 6 MPa 
+ ≥ 4 MPa
+
+
+===== Page 80 =====
+80/128 
+Scheiteldruckfestigkeit bei 23 
+°C in Anlehnung DIN EN 61386-
+24 (VDE 0605-24) 
+≥ 3.500 N 
+≥ 2.000 N 
+Streckspannung bei 23 °C gem. 
+VDE0800-720* 
+≥ 750 N 
+≥ 1.900 N 
+Tabelle 6: Anforderung an Mikrorohre 
+*Ein Mikrorohr von 200 mm Einspannlänge ist mit einer Universalprüfmaschine mit einer Geschwindigkeit von 100 mm/min auf Zug zu 
+belasten und die Streckspannung festzustellen. 
+ 
+4.3.2. 
+Hauseinführung / Mauerdurchführung 
+Gebäudeeinführungen dienen der sicheren Einführung von Mikrorohren oder Kabeln in ein 
+Gebäude. 
+ 
+4.3.2.1. 
+Beschaffenheit 
+• für 1 Glasfaserkabel oder Mikrorohr im Bereich Ø 6 - 12 mm 
+• zum direkten Einbau in Bohrungen mit Ø 16-20 mm 
+• Einbau unter- und oberirdisch horizontal, sowie bis zu 45º Schrägbohrung bei 
+fehlender Unterkellerung 
+• Dichtheit: gas- und wasserdicht bis min. 1,0 bar 
+• Unterirdisch: geeignet für drückendes und nicht drückendes Wasser 
+• UV-, witterungsbeständig 
+• Abdichtsatz je Einheit enthalten 
+ 
+4.3.2.2. 
+Qualitätskriterien 
+• für alle gängigen Mauerwerksarten mit Abdichtungen gemäß DIN 18533 – 
+Wassereinwirkungsklasse W1.1-E, W1.2-E, W2.1-E und W2.2-E; unabhängig der 
+Wandstärke
+
+
+===== Page 81 =====
+81/128 
+• Lebensdauer des Dichtschaums/-masse min. 6 Monate, sodass langfristiger Einbau 
+auch bei größeren Liefermengen fachgerecht erfolgen kann – die Dichtwirkung selbst 
+sollte mindestens der Dauer der Netzabschreibung entsprechen 
+• Teller für Außenmontage (unterirdisch und oberirdisch) nach Möglichkeit ohne 
+zusätzliches Werkzeug montierbar 
+• Wasserdicht bis 1m stehende Wassersäule 
+ 
+Unter anderem folgende Hersteller erfüllen die Anforderungen an die Hauseinführungen 
+nach derzeitigem Kenntnisstand: Hans Folsgaard GmbH, FILOform GmbH, Hauff-Technik 
+GmbH & Co. KG, Langmatz GmbH 
+ 
+4.3.3. 
+Hausübergabepunkt (HÜP) 
+Der Glasfaser-Hausübergabepunkt (HÜP) bildet die physikalische Schnittstelle zwischen 
+dem 
+passiven 
+Glasfasernetz 
+des 
+Netzbetreibers 
+und 
+der 
+hausinternen 
+Glasfaserverkabelung im Rahmen eines FTTB-Netzausbaus. 
+Der HÜP dient zur Aufnahme, Organisation und dem geschützten Abschluss der im Gebäude 
+ankommenden Glasfasern. Er stellt damit den passiven Netzabschlusspunkt dar und 
+ermöglicht eine förderkonforme und normgerechte Übergabe der Glasfaserinfrastruktur an 
+die interne Kundenverkabelung. 
+ 
+4.3.3.1. 
+Beschaffenheit 
+• Kompakte Wandmontage-Ausführung für Innen- und Außenbereich 
+• Ausführung vorkonfektioniert in HÜP-Größen: 
+o HÜP S (für Aufnahme 12 Faserkabel  1 bis 2 WE) 
+ mind. 12 Fasern mit Krimpspleißschutz, 1 Spleißkassette inklusive 
+ Belegbare Kupplungen: mind. 6 x LC/APC Duplex (12 Fasern) in FTTB 
+o HÜP M (für Aufnahme bis 48 Faserkabel  3 bis 11 WE) 
+ bis 48 Fasern mit Krimpspleißschutz, 4 Spleißkassetten inklusive 
+ Belegbare Kupplungen: mind. 24 x LC/APC Duplex (48 Fasern) in FTTB 
+o HÜP L (für Aufnahme 72 Faserkabel + 12 Faserkabel  12 bis 20 WE)
+
+
+===== Page 82 =====
+82/128 
+ bis 84 Fasern mit Krimpspleißschutz, 7 Spleißkassetten inklusive 
+ Belegbare Kupplungen: mind. 42 x LC/APC Duplex (84 Fasern) in FTTB 
+• Einführung und Dichtung für zwei ankommende und abgehende Mikrorohre mit Ø 7-
+10 mm Röhrchen 
+• Einführung des Mikroröhrchens muss von oben und unten durch vordefinierte 
+Ausbruchstelle möglich sein 
+• Eine Befestigungsmöglichkeit des Aramid Garns der Glasfaser-Kabel muss 
+vorhanden sein 
+• Staub- und schmutzgeschütztes Gehäuse (mind. IP 20) 
+• halogenfrei 
+• Gas-Stop je HÜP im Gehäuse im Lieferumfang enthalten 
+• Abschließbar mit Schließzylinder 
+• Laserschutzsymbol auf dem Deckel integriert und von außen im geschlossenen 
+Zustand gut sichtbar 
+• Auf 
+dem 
+Deckel 
+müssen 
+Beschriftungsfelder 
+für 
+selbstklebende 
+Beschriftungsstreifen vorgesehen sein 
+• Die einzelnen Ports müssen mit Beschriftung zugeordnet und die Beschriftung 
+deutlich sichtbar sein 
+ 
+4.3.3.2. 
+Qualitätskriterien 
+• Ein innenliegender Biegeradiusbegrenzer (R30mm) muss den Biegeschutz der 
+Glasfasern sicherstellen 
+• Min. IP 20 für Innengehäuse (staub- und schmutzgeschützt) 
+• Zugentlastung für Mikroröhrchen und Kabel 
+• vorkonfektionierte LC/APC Kupplung mit integriertem Shutter 
+ 
+Unter anderem folgende Hersteller erfüllen die Anforderungen an die Hausübergabepunkte 
+nach derzeitigem Kenntnisstand: KAISER GmbH & Co. KG, FILOform GmbH, Langmatz 
+GmbH, CommScope Holding Company, Inc., Connect Com GmbH, Netcom-Tec GmbH, eku 
+Kabel und Systeme GmbH
+
+
+===== Page 83 =====
+83/128 
+4.4. Übergreifend eingesetzte Materialien 
+4.4.1. 
+Kabelschutzrohr 
+Kabelschutzrohre werden zum Einziehen von Mikrorohren und Mikrorohrverbänden 
+verwendet. Aus Gründen der Nachhaltigkeit dürfen nur Materialien verwendet werden, 
+welche dem bestmöglichen Grundsatz der Abfallvermeidung und Abfallbewirtschaftung 
+nach § 6 KrWG entsprechen. Bei Installation und Betrieb dürfen keine umwelt- und 
+gesundheitsschädigenden Stoffe freigesetzt werden 
+ 
+4.4.1.1. 
+Material, Aufbau und Kennzeichnung 
+• Kabelschutzrohre aus PE-HD / PVC nach DIN 16874 oder DIN 8074 / DIN 8075 
+(sandbettfreie grabenlose Legeverfahren) [siehe auch E DIN EN 50626-2 (VDE 0605-
+626-2)] zum Einblasen und Einziehen von Glasfaserkabeln und Mikrorohren 
+• Farbe: schwarz 
+• glatte Innenfläche 
+• Lieferaufmachung: Trommel, Ringbund oder Stangenware 
+• Beschriftung der Schutzrohre: 
+o Name der Herstellerfirma 
+o Produktbezeichnung 
+o Material 
+o Dimension 
+o Fertigungsdatum 
+o Chargennummer 
+o Metrierung 
+o Aufschrift: Achtung Glasfaserkabel, OEW Breitband GmbH Tel. 0800 
+4112015
+
+
+===== Page 84 =====
+84/128 
+4.4.1.2. 
+Lieferung 
+• Staub- und feuchtigkeitsgeschützt, auf Trommeln 
+• Rohre werden eng und gleichmäßig in Lagen auf Trommeln aufgewickelt oder auf 
+Paletten abgestapelt 
+• Auf Ein- oder Mehrwegtrommeln wie auf der Abbildung ersichtlich auf Paletten 
+transportiert und gelagert, um Verformungen / Beschädigungen zu vermeiden 
+ 
+Abbildung 25: Transport von Trommeln 
+ 
+• Enden der Rohre sind mit wiederverwendbaren gelben Transportkappen gesichert, 
+die während des Transports und Handlings nicht verloren, gehen dürfen 
+• Jede Trommel ist mit einem dauerhaften Etikett zu beschildern, das nachstehende 
+Informationen aufweist: 
+o Name und Adresse des Herstellers 
+o Produktname und Dimension 
+o Herstellungsdatum 
+o Chargennummer 
+o Lieferlänge in m 
+o Artikelnummer
+
+
+===== Page 85 =====
+85/128 
+4.4.1.3. 
+Qualitätskriterien 
+• Für die Stangenware aus PE-HD sollte mindestens DIN 16876 (Rohre und Formstücke 
+aus Polyethylen hoher Dichte (PE-HD) für erdverlegte Kabelschutzrohrleitungen - 
+Maße und technische Lieferbedingungen) angewendet werden. 
+• Für Rohre aus PVC gelten DIN 16873 (Rohre und Formstücke aus weichmacherfreiem 
+Polyvinylchlorid 
+(PVC-U) 
+für 
+den 
+Kabelschutz 
+- 
+Maße 
+und 
+Technische 
+Lieferbedingungen) und DIN 16875 (Rohre und Formstücke aus weichmacherfreiem 
+Polyvinylchlorid (PVC-U) für erdverlegte Schutzrohrleitungen - Maße und technische 
+Lieferbedingungen) sowie DIN 8061 (Rohre aus weichmacherfreiem Polyvinylchlorid 
+(PVC-U) - Allgemeine Güteanforderungen, Prüfung) / DIN 8062 (Rohre aus 
+weichmacherfreiem Polyvinylchlorid (PVC-U) – Maße) 
+• Kennzeichnung muss nach DIN 1451 im Abstand von 1 m dauerhaft längs in 
+Rohrachse mit Schrifthöhe 10 mm (bei DA 40 Rohre und kleiner mind. 5 mm) in 
+weißer Farbe auf das Kabelschutzrohr aufgebracht werden
+
+
+===== Page 86 =====
+86/128 
+ 
+Tabelle 7: Maße und Lieferform von PE-Rohren gem. BMDV 
+Unter anderem folgende Hersteller erfüllen die Anforderungen an Schutzrohr nach 
+derzeitigem Kenntnisstand: Vogelsang GmbH & Co. KG, Karl Schöngen KG, Gebr. Ostendorf 
+Kunststoffe GmbH, Z.I.S. Kunststoff GmbH, egeplast international GmbH
+
+
+===== Page 87 =====
+87/128 
+4.4.2. 
+Mikrorohrverband (MRVe) 
+Mikrorohrverbände bestehen aus mehreren Mikrorohren und bilden in einer Hülle aus PP 
+oder PE-HD einen biegsamen Rohrverband für die Erdverlegung, den Einzug in Schutzrohre 
+oder auch der Verlegung mit alternativen Verlegemethoden im Breitbandbandausbau. Die 
+einzelnen Mikrorohre entsprechen dabei der unter 4.3.1 Mikrorohr beschriebenen 
+Spezifikation. Innerhalb des geförderten Breitbandausbaus sind die Verbände 12 x 10/6 mm 
+und 4 x 20/15 mm bei der OEW zulässig. Hierbei sind die nachstehenden Anforderungen 
+einzuhalten. 
+ 
+4.4.2.1. 
+Material, Aufbau und Kennzeichnung 
+• 
+Manteloberfläche: 
+Sauber, 
+glatt, 
+ohne 
+Krusten, 
+Hohlstellen, 
+Blasen, 
+Fremdkörpereinschlüsse (>0,02 mm²) oder Inhomogenitäten 
+• 
+Mantelmaterial: PE-HD oder PP  
+• 
+Mantelstärke: Min. 0,5 mm 
+• 
+Farbe der Einzelrohre im Verbund: Deutlich unterscheidbar gemäß DIN VDE 0888 Teil 
+3, 
+z.B. 
+transluzent 
+mit 
+gegenüberliegender 
+Farbstreifen-Kennzeichnung, 
+durchgefärbt, schwarz mit farbcodierten Streifen oder andere klar erkennbare 
+Farbvarianten 
+• 
+Beschriftung der Verbunde:  
+o Farbe des Mantels: ausgeschrieben, keine Farbkürzel, abriebfest 
+o Produktbezeichnung 
+o Dimension 
+o Fertigungsdatum 
+o Chargennummer 
+o Metrierung 
+o Aufschrift: Achtung Glasfaserkabel, OEW Breitband GmbH Tel. 0800 
+4112015 
+ 
+• 
+Zusätzlich ist jedes der Einzelrohre im Verbund (alle 10 cm) zu beschriften:  
+o Beim Verbund 12 x 10/6 mm: 1-12
+
+
+===== Page 88 =====
+88/128 
+o Beim Verbund 4 x 20/15 mm:1-4 
+• 
+Folgende Farbgebungen sind zulässig: 
+o Backbone: 
+ Mantelfarbe: grau (Verband 1) und grau mit schwarzem Streifen (nur 
+bei 2. Backbone im gleichen Graben) 
+ Mikrorohre: rot, grün, blau und gelb 
+o Hauptkabelebene: 
+ Mantelfarbe: orange, rot, grün, blau 
+ Mikrorohre: rot, grün, blau, gelb 
+ Für 1. ZNR gilt die Mantelfarbe: schwarz 
+ Für 2. ZNR gilt die Mantelfarbe: violett 
+o Hauszuführungsebene: 
+ Mantelfarbe: Orange, Rot, Grün, Blau, Gelb und Rosa 
+ Mikrorohre: gem. VDE 0888-100-1 
+ 
+o Hausanschlussröhrchen: rot (durchgefärbt) 
+• 
+Verbandsaufbau 4x20/15 mm (Beispiel Backbone mit grauem Mantel) 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Verbandsaufbau 12x10/6 mm (Beispiel mit orangem Mantel)
+
+
+===== Page 89 =====
+89/128 
+4.4.2.2. 
+Lieferung 
+• 
+Mikrorohrverbände werden eng und gleichmäßig in Lagen auf Trommeln 
+aufgewickelt. 
+• 
+Trommeln stehend auf den Flanschen, sodass ein ineinander Rollen der Trommeln 
+verhindert ist 
+• 
+Trommelkonstruktion ist so zu wählen, dass weder Beschädigungen noch 
+Druckstellen an den Rohren auftreten können 
+• 
+UV-beständige Folienumwicklung 
+• 
+Die Mikrorohrverbände sind sicher befestigt, die inneren Enden zugänglich und mit 
+Schrumpfkappen geschützt 
+• 
+Jede Trommel ist mit einem dauerhaften Etikett zu beschildern, das nachstehende 
+Informationen aufweist: 
+o Name/Adresse des Herstellers 
+o Herstellungsdatum 
+o Farbe des Mantelrohrs 
+o Lieferlänge in „m“ 
+o Artikelnummer 
+o Prüfkennzeichnung („druckgeprüft“, „Durchgängigkeit geprüft“) 
+ 
+4.4.2.3. 
+Qualitätskriterien 
+• 
+Zeitstandprüfung 170h / 80°C / 4 N/mm² nach DIN 16874 
+• 
+100% geprüft auf Durchgängigkeit und Dichtheit ab Werk 
+• 
+UV-Stabilität: Freilagerbeständigkeit für 3 Jahre in Mitteleuropa gemäß DIN EN ISO 
+4892-2; nach Bewitterung Zeitstandprüfung nach DIN 16874 
+• 
+Direkt erdverlegbar
+
+
+===== Page 90 =====
+90/128 
+Max. Zugkraftbelastung der Verbunde: 
+Bezeichnung 
+12x10/6 
+4x20/15 
+Zugfestigkeit 
+max. empfohlene 
+Zugkraft 
+5.700 N 
+5.450 N 
+Tabelle 8: Zugkraftbelastung MRV 
+Unter anderem folgende Hersteller erfüllen die Anforderungen an Mikrorohrverbände und 
+Mikrorohr nach derzeitigem Kenntnisstand: Hexatronic GmbH, gabo Systemtechnik GmbH, 
+Emtelle UK Limited 
+ 
+4.4.3. 
+Zubehör Mikrorohr 
+Bei der Auswahl des Zubehörs ist sicherzustellen, dass dieses konform zu den eingesetzten 
+Mikrorohren ausgewählt wird. 
+Eine Konformitätserklärung ist unverzüglich und ohne explizite Anforderung vor Beginn der 
+Arbeiten beim AG einzureichen. Die Vorlage für die Konformitätserklärung ist den 
+Dokumenten aus der Anlage zu entnehmen. 
+ 
+4.4.3.1. 
+Endkappen / Doppelsteckmuffe / Reduziersteckmuffen 
+Endkappen dienen dem dauerhaften Verschluss bzw. der Abdichtung von Mikrorohrenden. 
+Doppelsteckmuffen, auch Kupplung oder Steckmuffe genannt, werden zur zugfesten und 
+druckdichten Verbindung von Mikrorohren verwendet. 
+ 
+4.4.3.2. 
+Beschaffenheit 
+Folgender Aufbau der einzelnen Produkte ist sicherzustellen: 
+• 
+Lösbar und wiederverwendbar, mit Sicherung gegen unbeabsichtigtes Lösen 
+• 
+Geeignet für die direkte Erdverlegung ohne weitere Schutzmaßnahmen 
+• 
+Transparent zur Sichtprüfung 
+• 
+Sicherungsclip vorinstalliert - Sicherungsclip in anderer Farbe als Endkappe 
+• 
+Wiederverwendbar / Einfache Demontage des Löserings
+
+
+===== Page 91 =====
+91/128 
+4.4.3.2.1. 
+Qualitätskriterien 
+• 
+Einblasdruck ≤ 1,5 MPa gem. VDE 0800-720 
+• 
+Berstdruck: ≥ 3 MPa gem. VDE 0800-720 
+• 
+Montierbarkeit im Temperaturbereich von –10 bis +50° C 
+• 
+Korrosionsbeständig gem. DIN EN 61386-22 / Klasse 4 
+• 
+Beständig gegen übliche zum Einblasen erforderliche Gleitmittel 
+• 
+Spatentest mit anschließender Druckprüfung gem. DIN VDE 0800-720 
+ 
+4.4.3.3. 
+Gas-Stop / Einzelzugabdichtung (EZA / EZA-t) 
+Der Gas-Stop dient der wasser- und gasdichten Abdichtung von belegten oder leeren 
+Mikrorohren in allen Verteil- oder Endeinrichtungen, wie z. B. PoP, Gf-NVt oder HÜP. Die 
+teilbare oder geteilte Einzelzugabdichtung wird bei bspw. montierten Kabeln eingesetzt. Sie 
+fängt Schub- und Zugkräfte vom Mikrorohr und Kabel ab. 
+ 
+4.4.3.4. 
+Beschaffenheit 
+• 
+Die Einzelzugabdichtung muss wiederverwendbar sein 
+• 
+Verwendung auch für nachträgliche Montage an belegten Mikrorohren durch 
+teilbares Halbschalen-Gehäuse aus Kunststoff und einer teilbaren Dichtung 
+• 
+Nicht korrosive Materialien 
+• 
+Sicherungsringe farblich abgesetzt und vormontiert 
+ 
+4.4.3.4.1. 
+Qualitätskriterien 
+• 
+Gas- und wasserdicht ≥ 50 kPa / 0,5 bar 
+• 
+Dichtheit/Druckverlust nach DIN EN 61300-2-38, Methode A/B 
+• 
+Metallische Teile dürfen nicht korrosiv sein 
+• 
+Beständig gegenüber den gewöhnlichen zum Einblasen erforderlichen Gleitmittel 
+• 
+Montierbarkeit im Temperaturbereich von –10 bis +50° C 
+• 
+Wasserdichtheit (Außendruck) DIN EN 61300-2-23 Methode 2
+
+
+===== Page 92 =====
+92/128 
+• 
+Auszugfestigkeit vom Mikrorohr nach DIN EN IEC 61300-2-4 
+ 
+4.4.3.5. 
+Verbundmarkierer 
+Sie dienen der farblichen Kennzeichnung und damit der Unterscheidung von Verbunden. 
+• Einfach anzubringen und universell einsetzbar für alle Verbundabmessungen 
+• Kältebeständig, UV- stabilisiert, alterungsbeständig, farbecht, hohe Festigkeit 
+ 
+Unter anderem folgende Hersteller erfüllen die Anforderungen an die Zubehörteile nach 
+derzeitigem Kenntnisstand: Hexatronic GmbH, Ggabo Systemtechnik GmbH, GM-Plast, 
+Emtelle UK Limited, Hans Folsgaard GmbH 
+ 
+4.4.4. 
+Schächte 
+Ziehschächte dienen im Netzausbau der Bildung von Loops für im Netzbetrieb ggf. 
+erforderliche Wartungen oder Erweiterungen. 
+ 
+4.4.4.1. 
+Beschaffenheit 
+• Grundkörper: Beton, Kunststoff- oder Polymerbeton als Aufbauschacht 
+o Beim Einsatz von Kunststoff muss dieser zertifiziert grundwasserverträglich 
+sein 
+• Betondeckel abschließbar (s. g. Lic-Lock-Schließung) 
+• Stahldeckel ausschließlich auf örtliche Anforderung / Auflage durch die Träger: 
+o abschließbar (s. g. Lic-Lock-Schließung) 
+o auspflasterbar 
+• Die Schachtabdeckung muss sich mit einer Hubhöhe von mind. 40mm an die 
+Umgebung in Höhe und Neigung anpassen lassen 
+• kundenspezifisches Firmenzeichen der OEW Breitband GmbH muss in der 
+Abdeckung eingebracht sein  
+o Größe: 80 x 40 x 6 mm
+
+
+===== Page 93 =====
+93/128 
+ 
+ 
+Abbildung 26: Vorlage Schachtkennzeichnung und Beispiel Schachtdeckel 
+ 
+• Auf dem Schachtdeckel ist die Norm und Belastungsklasse auszuweisen. 
+• Einführen von Rohren oder Versorgungsleitungen über definierte Sollbruchstellen 
+oder mit flexibel herzustellenden Öffnungen 
+o bei Sollbruch in den benötigten Rahmen für DN50, DN110 und DN160 
+• Lichtes Maß für Ziehschacht oder Schacht für eine Muffe ist so zu wählen, dass die 
+Biegeradien der Rohre und Kabel berücksichtigt sind und   Überlängen abgelegt 
+werden können. 
+• Überbau von vorhandenen Rohrtrassen muss durch statisch und bauartbedingt 
+geeignete Schacht-Rahmenelemente möglich sein, welche bauseits in das System 
+integrierbar sind 
+• Muffenhalterung zur Montage an der Schacht-Innenwand, z.B. als Ablage für LWL-
+Haubenmuffe; einschließlich Montagezubehör 
+ 
+ 
+ 
+ 
+ 
+Betondeckel oder 
+Stahldeckel auspflasterbar
+
+
+===== Page 94 =====
+94/128 
+4.4.4.2. 
+Qualitätskriterien 
+• Prüfklasse D 400 
+• Belastungsklasse gem. DIN EN124 - die geforderte Fremdüberwachung gem. DIN EN 
+124 muss mit dem Zertifikat einer anerkannten und in der EU zugelassenen 
+Prüforganisation belegt werden 
+• Die UV-Stabilität des Kunststoffes nach DIN EN ISO 4892-2 ist nachzuweisen 
+• Belastungsprüfungen gemäß EAD 340225-00-1109 ǀ 2.2.3 + 2.2.5 
+• Gesamtsystem muss den dynamischen Belastungen im eingebauten Zustand gemäß 
+EAD 340225-00-1109 ǀ 2.2.6) standhalten 
+• Bei der Scherbelastungsprüfung gemäß EAD 340225-00-1109 ǀ 2.2.4 muss das 
+Gesamtsystem einer Belastung von ≥ 22kN standhalten 
+• Nachweis der Unbedenklichkeit des Schachtkörpers gegen den Einfluss chemischer 
+Stoffe 
+• Tragfähigkeitsnachweis des Gesamtsystems 
+• Nachweis der Grundwasserverträglichkeit und Gewährleistung der Sanddichtheit 
+ 
+Unter anderem folgende Hersteller erfüllen die Anforderungen an die Zubehörteile nach 
+derzeitigem Kenntnisstand: Langmatz GmbH, Mönninghoff GmbH & Co. KG, ROMOLD 
+GmbH, Filoform GmbH, Kettner GmbH 
+ 
+4.4.5. 
+Kabel 
+Es kommen ausschließlich Kabel zum Einsatz, die für das Einbringen in die beschriebenen 
+Mikrorohre geeignet sind. Eine Erdverlegung ist nicht zulässig. 
+Innovative Kabel, die mindestens die nachstehenden Anforderungen erfüllen, sind nach 
+Freigabe durch die OEW Breitband GmbH ebenfalls zulässig.
+
+
+===== Page 95 =====
+95/128 
+4.4.5.1. 
+Beschaffenheit 
+• Kabeltyp: A-DQ(ZN)2Y oder A-DQ(ZN)4Y gem. Kabelcode 
+ 
+• Bündeladern: Zentrale oder verseilte Bündeladern 
+• Zugentlastung: Metallfrei 
+• Kabelaufbau exemplarisch: 
+o 12 Fasern pro Bündel > 288er Kabel: 
+ 
+Abbildung 27: Kabelaufbau 288er Kabel mit 24 x 12 Fasern
+
+
+===== Page 96 =====
+96/128 
+ 
+o 24 Fasern pro Bündel 576er Kabel: 
+ 
+Abbildung 28: Kabelaufbau 576er Kabel mit 24 x 24 Fasern 
+• Zählweise: 
+o Die LWL-Mini-Kabel Bündel werden von der innersten Lage mit rot beginnend 
+nach der Farbreihenfolge DIN/VDE 0888 ausgezählt. 
+ 
+• Fasern: 
+o Fasertypen: 
+- 
+G657.D für Backbone 
+- 
+G657.A1 für Hauptkabel- und Hauszuführungsebene 
+o Die Farbkennzeichnung der Fasern entspricht der DIN VDE 0888 Teil 3 
+o Fasern 1–12: Einfarbig beschichtet. 
+o Fasern ab 13: Mit zusätzlicher Kennzeichnung oder Markierung 
+• Ein Kabellos (Produktionscharge) darf ausschließlich Fasern desselben Typs 
+enthalten, die von einem Faserhersteller produziert wurden. 
+• Mantelmaterial: PE oder PA 
+• Längswasserdicht
+
+
+===== Page 97 =====
+97/128 
+4.4.5.2. 
+Qualitätskriterien 
+Die Kabel müssen folgende Normen und Anforderungen erfüllen: 
+• ITU-T G.657A1: Biegeunempfindliche Fasern für Verteil- und Hauszuführungsebene 
+• DIN VDE 0800 (Reihe): Fernmelde- und Informationstechnik 
+• DIN VDE V 0888-100-1-1: Kennzeichnung, Transport und Lagerung. 
+• DIN EN IEC 60793-1-1 (VDE 0888-200-1): Messmethoden und Prüfverfahren. 
+• DIN EN 60794-5 (VDE 0888-500): Mikrorohr-Verkabelung zur Installation durch 
+Einblasen. 
+• DIN EN 60794-5-10 (VDE 0888-5-10): Familienspezifikation für Mikrorohre und 
+Mikrorohreinheiten. 
+• DIN EN 60794-5-20 (VDE 0888-520): Mikrorohr-LWL-Einheiten für Anwendungen im 
+Freien 
+• Betriebstemperaturbereich: - 45 °C bis +70 °C 
+ 
+Bei der Kabelauswahl ist die Konformität zwischen Mikrorohr und Kabel zu berücksichtigen, 
+sodass ein Einbringen der Kabel in die Mikrorohre problemlos möglich ist. 
+ 
+Rohr-Typ 
+Außendurch-
+messer x 
+Wanddicke 
+(mm) 
+Rohr-
+Innendurch-
+messer 
+(mm) 
+Empfohlener 
+Kabel-
+Durchmesser 
+(mm) 
+Ringspalt 
+(mm) 
+Kaliber-
+Durch-
+messer 
+(mm) 
+Sonden-
+Durch-
+messer 
+(mm) / 
+Ortungstiefe 
+(m) 
+5 x 0,75 
+3,5 
+1,0 – 2,0 
+0,75 - 1,25  
+- 
+- 
+7 x 1,50 
+4,0 
+1,0 – 2,5 
+0,75 - 1,50  
+- 
+- 
+7 x 0,75 
+5,5 
+2,0 – 4,0 
+0,75 - 1,75 
+- 
+- 
+10 x 2,00 
+6,0 
+2,0 – 4,0 
+0,75 - 2,00 
+4,8 
+4,4 / 2,0 
+10 x 1,00 
+8,0 
+4,0 – 6,5 
+0,75 - 2,00 
+6,8 
+6,5 / 2,0 
+12 x 2,00 
+8,0 
+4,0 – 6,5 
+0,75 - 2,00 
+6,8 
+6,5 / 2,0 
+12 x 1,10 
+9,8 
+5,0 – 8,3 
+0,75 - 2,40 
+8,5 
+6,5 / 2,0 
+14 x 2,00 
+10,0 
+5,0 – 8,5 
+0,75 - 2,50 
+8,5 
+6,5 / 2,0
+
+
+===== Page 98 =====
+98/128 
+14 x 1,30 
+11,4 
+6,4 – 9,8 
+0,80 - 2,50  
+9,5 
+6,5 / 2,0 
+16 x 2,00 
+12,0 
+7,0 – 10,0 
+1,00 - 2,50 
+9,5 
+6,5 / 2,0 
+20 x 2,50 
+15,0 
+8,0 – 12,0 
+1,50 - 3,50 
+11,0 / 12,5 
+6,5 / 2,0 
+20 x 2,00 
+16,0 
+9,0 – 13,0 
+1,50 - 3,50 
+12,5 
+6,5 / 2,0 
+Tabelle 9: Faktor Ringspalt – gem. Empfehlung des VDE 
+Unter anderem folgende Hersteller erfüllen die Anforderungen an die Kabel nach 
+derzeitigem Kenntnisstand: Hexatronic GmbH, Corning Incorporated, Prysmian Kabel und 
+Systeme GmbH, Klaus Faber AG, Taihan Fiber Optics, Connect Com GmbH, eku Kabel & 
+Systeme GmbH & Co. KG 
+ 
+4.4.6. 
+Muffen 
+Eine Muffe ist ein Verbindungselement, dass im Glasfaserbereich verwendet wird, um LWL-
+Kabel miteinander zu verbinden. Sie sorgt dafür, dass die Lichtsignale, die durch die 
+Glasfasern übertragen werden, möglichst verlustfrei und effizient weitergeleitet werden. Die 
+Muffe schützt die empfindlichen Glasfaserenden vor Umwelteinflüssen und mechanischen 
+Belastungen. 
+ 
+4.4.6.1. 
+Beschaffenheit 
+• Staub- und schmutzgeschützes Gehäuse 
+• mechanischer Verriegelungs- und Verschlussmechanismus 
+• Kabeleinführung ohne Wärmequelle installierbar 
+• Ein- und Ausgänge mit integrierter Zugentlastung für Mikrorohre und Glasfaserkabel 
+• Gehäuse-Dichtelemente wartungsfrei 
+• Kabel-/Rohr Eingang Anzahl: 4 mit Ø: 20 mm 
+• Kabel-/Rohr Ausgang Anzahl: 10 mit Ø: 20 mm 
+• Aufnahme von bis zu 576 Fasern 
+• 48 Spleißkassetten SC/SE für Krimpspleiß mit Deckel für Beschriftung 
+• Für unterirdische Installation geeignet 
+• Ventil für Prüfung der Dichtigkeit
+
+
+===== Page 99 =====
+99/128 
+• Chemikalienbeständigkeit: Ja 
+• Vibrationsfestigkeit: Ja 
+• Halogenfrei: Ja 
+• Nachträgliche Belegung oder Entfernen von Kabeln ohne Beeinträchtigung 
+bestehender Verbindungen 
+• Blindelemente für freie Kabeleingänge 
+• Kabelablage für ungeschnittene Bündeladern 
+• Faserrouting (Any-to-Any) 
+• Dichtungsringe farblich vom Gehäuse abgesetzt 
+ 
+4.4.6.2. 
+Qualitätskriterien 
+• Norm: EN 124-1:2015 Gruppe 2 (legt allgemeine Anforderungen an Aufsätze und 
+Abdeckungen für Verkehrsflächen fest, die in verschiedenen Belastungsklassen 
+(Gruppe 2) verwendet werden. Gruppe 2 bezieht sich auf Flächen, die von Fußgängern 
+und/oder Fahrzeugen befahren werden.) 
+• IP68 Standard (IP68 ist eine Schutzart, die Geräte als staubdicht und wasserdicht 
+klassifiziert) 
+• Temperaturbereich Lagerung: -10 °C / +50°C 
+• Temperaturbereich Installation: -10 °C / +50°C 
+• Temperaturbereich In Benutzung: -20 °C / +60°C 
+• Stoßfestigkeit: IK09 
+• Wasser- und druckdicht bis 5 m Wassersäule (0,5 bar) 
+ 
+Unter anderem folgende Hersteller erfüllen die Anforderungen an die Muffen nach 
+derzeitigem Kenntnisstand: CommScope Holding Company, Inc., Kaiser, Reichle & De-
+Massari AG, Corning Incorporated, eku Kabel & Systeme GmbH & Co. KG, Connect Com 
+GmbH, Emtelle UK Limited
+
+
+===== Page 100 =====
+100/128 
+4.4.7. 
+Trassenwarnband 
+Bei Grabungsarbeiten soll durch ein Warnband frühzeitig auf darunter liegende Verbunde 
+und Kabel hingewiesen werden. 
+Das einzusetzende Trassenwarnband muss folgende Eigenschaften aufweisen, welche auf 
+Anforderung durch Laborberichte nachgewiesen werden müssen: 
+• Spezifikation gem. DIN EN 12613 (beim Herausziehen Sichtbarkeit von 20 cm aus 
+der Baggerschaufel und Verbleib von mindestens 20 cm im Erdreich; Belastung von 
+200 Nm) 
+• alterungs- und kältebeständig 
+• dauerhaft lesbar 
+• Farbe: gelb 
+• Breite: 100 mm 
+• Aufschrift in Schriftart Roboto gem. nachstehender Abbildung: Achtung LWL, OEW 
+Breitband GmbH Tel. 0800 4112015 
+ 
+Abbildung 29: Vorgabe Druckbild Trassenwarnband 
+ 
+4.4.8. 
+Kugel- oder Stabmarker 
+Kugelmarker dienen der einfachen unterirdischen Markierung von neuralgischen Punkten im 
+Netz, sodass eine spätere Auffindbarkeit zu jeder Zeit sichergestellt werden kann. 
+Merkmale: 
+• Passive Antenne in wasserfester Polyethylenhülle 
+• Farbe: orange 
+• Frequenz: 101,4 kHz 
+• Ortbar bis 1,50 m Tiefe 
+• Durchmesser: ca. 10 cm
+
+
+===== Page 101 =====
+101/128 
+• Temperaturbeständig von -20°C bis 50°C 
+• unempfindlich gegen Mineralien, Chemikalien und Temperaturwechsel 
+• Flüssigkeiten müssen biologisch abbaubar sein und damit unschädlich für 
+Menschen, Flora und Fauna
+
+
+===== Page 102 =====
+102/128 
+5. Einmessung & Dokumentation des 
+Breitbandausbaus 
+5.1. Einmessung 
+Über die Vorgaben des Projektträgers und des BMDS hinaus, sind in Projekten der OEW 
+Breitband GmbH bei der Einmessung nachfolgende Punkte zu beachten. 
+ 
+Allgemeine Hinweise: 
+In der Gebietskulisse ist gemäß Landesvermessungsamt Baden-Württemberg (LGL BW) die 
+Lage (XY-Werte) im Koordinatenreferenzsystem ETRS89/UTM32N (EPSG: 25832) und die 
+Höhe (Z-Werte) nach DHHN2016 zu erfassen. 
+Die Einmessungen sind mit GPS, ggf. zusätzlich mit festen Bezugspunkten (z. B. Gebäude, 
+Vermessungspunkte, Grenzpunkte, Schachtdeckel, Schieberdeckel etc.) durchzuführen. 
+Neben den hier ausgeführten Anforderungen sind immer auch die Anforderungen des 
+Projektträgers einzuhalten. 
+ 
+Einmessung der Anlagen: 
+Die Einmessung der Rohr- und Leitungsanlagen muss mit einer Genauigkeit von +/- 10 
+Zentimetern grabenmittig am offenen Graben erfolgen. 
+Bei Bauverfahren in geschlossener Bauweise (Pressungen, HDD-Verfahren, Fräsverfahren, 
+Verlege-Pflug) muss die Erfassung der Messpunkte unmittelbar während der 
+Bauausführung erfolgen. 
+ 
+Einmessung bei HDD-Verfahren: 
+Bei der lagemäßigen Erfassung von Spülbohrstrecken (HDD-Strecken) müssen bei den 
+Messpunkten der X- und der Y-Achse und kontinuierlich die Tiefenmesspunkte generiert 
+werden.
+
+
+===== Page 103 =====
+103/128 
+ 
+Die Messpunkte der Dokumentation müssen punktgenau mit der Lage der Messpunkte aus 
+dem Spülbohrprotokoll übereinstimmen.  
+Die Abstände der einzelnen Messpunkte innerhalb einer Bohrung sind abhängig von der 
+Einzellänge einer Bohrstange (ca. 2,50 m bzw. 3,00 m.) 
+ 
+Messpunkte, Darstellung von Bögen: 
+Messpunkte sind zu setzen, wenn die Baustrecke um +/- 20 Zentimeter aus einer Geraden 
+abweicht, mindestens jedoch in Abständen von max. 10 m Trassenlänge.  
+Für die gemessenen Punkte mit Höhe über NHN wurde ein eigener Layer „Messpunkte 
+definiert. 
+Für Abzweige ist eine Radiusdarstellung und 3-Punkteinmessung ausreichend. Es ist der 
+Abzweig, der Scheitelpunkt des Radius sowie Endpunkt einzumessen. 
+ 
+Wechsel von Trassenmerkmalen: 
+Am Anfangs- und Endpunkt einzelner Polylinien bzw. am Übergang zu Abschnitten mit 
+anderen Trassenmerkmalen sind grundsätzlich Messpunkte (Trassenwechsel) zu setzen. 
+Diese Trassenmerkmale werden anhand der Trassen-Attribute in der Objektspezifikation als 
+Bestandteil der Dokumentationsvorgaben beschrieben. 
+Alle Polylinien sowie Messpunkte von Kabelschächten und Verteilergehäusen müssen im 
+Fangmodus punktgenau zusammengeführt werden. 
+ 
+Einmessung von Bauwerken, Schächte und Muffen: 
+Bauwerke, Schächte und Muffen werden mit einem Messpunkt in der Mitte der 
+Schachtabdeckung bzw. der Muffe und des Gehäuses erfasst. Dabei werden die Lage und 
+die Höhe über eine Koordinate in XYZ-Richtung abgebildet.
+
+
+===== Page 104 =====
+104/128 
+Einmessung von Rohrmuffen: 
+Abzweige der Einzelröhrchen von den Rohrverbänden sowie Endmuffen müssen mit einem 
+Messpunkt erfasst werden. In der Objektspezifikation sind diese Objekte als Rohrmuffen 
+definiert. 
+ 
+5.2. Dokumentationsvorgaben 
+5.2.1. 
+Förderkonforme Dokumentationsvorgaben 
+Es gelten die Regelungen zum geförderten Breitbandausbau, sowie die GIS-NB-Regelungen 
+in der jeweils aktuellen Fassung. Es ist dafür Sorge zu tragen, dass jeweils die aktuelle 
+Version der ggf. genannten Dokumente genutzt wird. Für die Erstellung der Netzpläne ist 
+zwingend der durch den Projektträger zur Verfügung gestellte Worksheet (s. Anlage) zu 
+beachten. 
+ 
+5.2.2. 
+OEW Breitband Dokumentationsvorgaben 
+Darüber hinaus hat der AN für die Dokumentation alle Vorgaben aus dem Ordner für 
+Dokumentationsvorgaben zu nutzen. Diese sind innerhalb der Planung jederzeit zu 
+berücksichtigen, um die Daten jederzeit an den AG im geforderten Format und Detailgrad 
+übergeben zu können. Die Vorgaben beinhalten im Wesentlichen: 
+Ordnername 
+Dokument 
+1-1_FttB_Anschlussliste 
+FttB_Anschlussliste_OEW_NC_Version1.4 
+2-2_Objektspezifikation 
+2-2_Objektspezifikation_Version3.1 
+2-3_Gemeindeliste 
+Gemeindeliste je Gebiet 
+2-4_Bezeichnung_GIS 
+2-4_Bezeichnungen_GIS_Neutral 
+2-5_GDB 
+ArcGIS und GDB 
+2-5_Shapefiles 
+ 
+2-6_Layerstyles 
+ArcGIS und QGIS 
+3-Bau Kabelanlage-Spleißen 
+3-1_Schachtkarte_Version3.1 
+3-7_Gf-NVT_Karte_Version3.1 
+10-Abgabeordner 
+01_APL
+
+
+===== Page 105 =====
+105/128 
+02_Schächte 
+03_Verteiler 
+04_Muffen 
+05_MFG 
+06_POP 
+07_Pläne 
+08_GIS 
+09_FttB_Anschlussliste 
+Tabelle 10: Vorgaben aus GIS-Dokumentation 
+ 
+5.2.3. 
+OEW Bezeichnungs- und Beschriftungsschema 
+5.2.3.1. 
+Gemarkungskürzel (XXXYY) 
+Das Gemarkungskürzel wird definiert durch den POP-Standort innerhalb einer bestimmten 
+Gemarkung und auf Basis der Liste „2-3_XXX_Gemeindeliste“ vergeben. Alle Objekte 
+innerhalb des Einzugsgebietes eines POP-Standorts, sind diesem POP-Standort mit 
+Gemarkungskürzel zuzuordnen. Innerhalb eines Gemarkungskürzels muss die Bezeichnung 
+bzw. Beschriftung innerhalb einer Objektklasse (Bauten, Netztechnik, …) eindeutig erfolgen. 
+Das gilt insbesondere, wenn der POP-Standort in einer Gemarkung mit Gemarkungskürzel 
+zu verorten ist und dieser POP-Standort auch andere Verteiler in anderen Gemarkungen mit 
+anderen Gemarkungskürzel versorgt. Ebenso wenn laut „2-3_XXX_Gemeindeliste“ mehreren 
+Gemarkungen das gleiche Gemarkungskürzel zugewiesen wurde. Sollte innerhalb eines 
+Gemarkungskürzels mehrere POP-Standorte notwendig sein, sind die weitere Objekte wie 
+Schächte und Verteiler weiterhin eindeutig zu halten und Laufnummern innerhalb einer 
+Objektart dürfe nicht doppelt vergeben werden. Beispielsweise können POP001 die Verteiler 
+NVT100 bis NVT199 oder SCT100 bis SCT 199 zugewiesen werden, dem POP002 mit dem 
+gleichen Gemarkungskürzel, dann die Verteiler NVT200-299 oder SCT200 bis SCT299. 
+ 
+Bauten  
+und  
+Netztechnik  
+XXXYY-POP001 
+ 
+XXXYY-POP001 
+XXXYY-SCT001 
+ 
+XXXYY-NVT001 
+XXXYY-NVT001 
+ 
+XXXYY-MUF001
+
+
+===== Page 106 =====
+106/128 
+ 
+5.2.3.2. 
+Backboneebene 
+Backboneebene – Rohrverband 
+Label im GIS und Beschriftung vor Ort: [XXXYY-POP001-BB01]  
+ 
+Backboneebene – Einzelrohr 
+Label im GIS und Beschriftung vor Ort: [XXXYY-POP001-BB01-01]   
+ 
+Backbonebene-Kabel 
+Label im GIS und Beschriftung vor Ort: [XXXYY-POP001-BB01-01]  
+ 
+Backbonebene-Faser 
+Label im GIS und Beschriftung vor Ort: [XXXYY-POP001-BB01-01-001] 
+ 
+5.2.3.3. 
+Hauptkabelebene (POP zu NVT) 
+Hauptkabelebene (POP zu NVT) – Rohrverband 
+Label im GIS und Beschriftung vor Ort [XXXYY-POP001-VT01] (rot)] 
+ 
+Hauptkabelebene (POP zu NVT) – Einzelrohr 
+Label im GIS und Beschriftung vor Ort: [XXXYY-POP001-VT01-02] 
+ 
+Hauptkabelebene (POP zu NVT) – Kabel 
+Label im GIS und Beschriftung vor Ort: [XXXYY-POP001-VT01-02] 
+ 
+Hauptkabelebene (POP zu NVT) – Faser 
+Label im GIS und Beschriftung vor Ort: [XXXYY-POP001-VT01-02-001] 
+ 
+5.2.3.4. 
+Hauszuführungsebene (NVT bis Abzweig) 
+Hauszuführungsebene (NVT bis Abzweig) – Rohrverband 
+Label im GIS und Beschriftung vor Ort: [XXXYY-NVT001-RV01] 
+ 
+Hauszuführungsebene (NVT bis Abzweig) – Einzelrohr 
+Label im GIS und Beschriftung vor Ort: [XXXYY-NVT001-RV01-01] 
+ 
+Hauszuführungsebene (NVT bis APL) – Kabel 
+Label im GIS und Beschriftung vor Ort: [XXXYY-NVT001-RV01-01]
+
+
+===== Page 107 =====
+107/128 
+Hauszuführungsebene (NVT bis APL) – Faser 
+Label im GIS und Beschriftung vor Ort: [XXXYY-NVT001-RV01-01-001] 
+ 
+5.2.3.5. 
+Hausübergabepunkt 
+Bezeichnung:  
+APL [XXXYY-NVT001-RV01-01] 
+Beschriftung ein APL:  
+APL [XXXYY-NVT001 Anschrift]  
+ 
+Beschriftung mehrere APL:  
+APL [XXXYY-NVT001 Anschrift] 01,  
+APL [XXXYY-NVT001 Anschrift] 02, 
+ 
+Hinweis zur Plandarstellung:  
+Es wird erwartet, dass in der Plandarstellung die Bezeichnung um folgende Informationen 
+vor oder nach der Klammer ergänzt wird: 
+• Rohrverbandstyp/Rohrtyp 
+• Mantelfarbe 
+• Einzelrohrfarbe 
+Beispiele: 4x20 [XXXYY-POP001-BB01] (grau), 12x10 [XXXYY-NVT001-RV01] (blau), … 
+ 
+5.2.4. 
+OEW Breitband Software 
+Der Auftragnehmer hat folgende Software einzusetzen: 
+1. Für die Fotodokumentation ist das Tool „Foto-GIS“ zu nutzen. Die Lizenzen werden 
+seitens der OEW zur Verfügung gestellt 
+2. Das GNV-Portal (Grundstücksnutzungsvereinbarung) wird seitens der OEW zur 
+elektronischen Dokumentation und Verwaltung von Nutzungsvereinbarungen für den 
+AN bereitgestellt. Das aktuelle Handbuch können eingeloggte Nutzer immer direkt im 
+Hausanschlussportal herunterladen. Erreichbar ist das Hausanschlussportal über: 
+• Grundstückseigentümer: https://www.oew-
+breitband.de/hausanschlussportal/ 
+• Hausanschlussmanager: https://hausanschluss.oew-breitband.de/user-
+frontend-offline/
+
+
+===== Page 108 =====
+108/128 
+• Dienstleister und OEWBB:  https://hausanschluss.oew-breitband.de/admin-
+frontend 
+ 
+5.2.5. 
+Maßeinheiten 
+Basiseinheit 
+Maßeinheiten 
+Dezimalstellen 
+Beispiel 
+Längen-Einheiten 
+mm 
+0 
+1 mm 
+cm 
+0 
+12 cm 
+m 
+2 
+1,23 m 
+km 
+3 
+1,234 km 
+Flächen-Einheit 
+m² 
+2 
+12,34 m² 
+Volumen 
+m³ 
+2 
+12,34 m³ 
+Dämpfung 
+dB 
+1 
+1,2 dB 
+Temperatur 
+°C 
+1 
+1,2 °C 
+Wellenlängen 
+Λ 
+0 
+1510 nm 
+Druck 
+bar 
+2 
+1,12 bar 
+Tabelle 11: Format Maßeinheiten
+
+
+===== Page 109 =====
+109/128 
+6. Ergänzend abzugebende Unterlagen 
+Darüber hinaus sind nachstehende Unterlagen innerhalb der Dokumentation zu übergeben. 
+Die Ordnerstruktur ist mit dem Auftraggeber abzustimmen und zwingend einzuhalten. 
+ 
+6.1. Unterlagen aus der Genehmigung 
+Genehmigungsdokumentation ist die Zusammenfassung aller Genehmigungsbescheide, 
+Anträge und Zustimmungen während der Projektgenehmigungsphase und umfasst 
+folgende Unterlagen, die bereits zur Planungsprüfung vollständig vorzuliegen haben: 
+- 
+Genehmigungsbescheide der Träger öffentlicher Belange 
+- 
+Grundstücksnutzungsverträge 
+- 
+Gutachten, Berichte 
+- 
+Stellungnahmen anderer Leitungsinhaber 
+- 
+Verkehrsrechtliche Anordnung (VAO) 
+- 
+Protokolle der Ortsbegehungen, Vorbesprechungen, Bauanlaufberatungen 
+- 
+Ausführungsplanungen 
+ 
+6.2. Genehmigungsbescheide der Träger öffentlicher 
+Belange 
+Unterlagen aus der Genehmigungsphase werden durch den AN zusammen mit der 
+Enddokumentation übergeben. Hierzu zählen die Genehmigungsbescheide sämtlicher 
+Wegelastträger 
+sowie 
+Akteure 
+der 
+verschiedenen 
+Schutzgüter, 
+wie 
+untere 
+Naturschutzbehörde, untere Wasserschutzbehörde, untere Denkmalschutzbehörde. Auch 
+Genehmigungsbescheide der Verkehrsinfrastrukturträger auf Bundes- und Landesebene 
+werden übermittelt.
+
+
+===== Page 110 =====
+110/128 
+6.3. Grundstücksnutzungsverträge und sonstige 
+Gestattungs-/Standortsicherungsverträge 
+Sind private Grundstücke für die Errichtung der Telekommunikations-Anlagen im 
+Projektgebiet genutzt worden, so sind Gestattungsverträge zur Nutzung privater 
+Grundstücke erstellt worden. Daneben werden ggfs. zur Standortsicherung weitere 
+Gestattungs- oder Standortsicherungsverträge abgeschlossen. Eine Übersicht der 
+betroffenen Grundstücke liegt als Liste der Bauakte bei. 
+ 
+6.4. Gutachten / Berichte 
+In manchen Fällen beinhalten die Genehmigungsbescheide der Träger öffentlicher Belange 
+Auflagen 
+in 
+Form 
+von 
+Verpflichtungen 
+zur 
+Erstellung 
+von 
+archäologischen, 
+naturschutzrechtlichen und weiteren Gutachten bzw. zur Begleitung des Bauvorhabens 
+durch einen Fachexperten. Diese Auflagen sind zwingend zu beachten, einzuhalten und zu 
+übergeben. 
+ 
+6.5. Verkehrsrechtliche Anordnung 
+Vor dem Beginn von Arbeiten im Straßenbereich muss vom AN unter Vorlage eines 
+Verkehrszeichenplanes von der zuständigen Behörde eine Verkehrsrechtliche Anordnung 
+(VAO) gemäß StVO eingeholt werden. Die VAO muss folgende Informationen beinhalten: 
+- 
+Beschreibung der Arbeitsstelle 
+- 
+Geplante Arbeiten 
+- 
+Dauer der Arbeiten 
+- 
+Erforderliche Beschilderung und Markierung 
+- 
+Benennung einer verantwortlichen Person. 
+Die genehmigte VAO ist im Verzeichnis des AG in digitaler Form abzulegen.
+
+
+===== Page 111 =====
+111/128 
+6.6. Protokolle der Ortsbegehungen, Vorbesprechungen, 
+Bauanlaufberatungen 
+Der AN führt ein entsprechendes Vorbegehungsprotokoll während des Vor-Ort-Termins. 
+Folgende Mindestanforderungen sind dabei festzuhalten: 
+- 
+Trassenverlauf,  
+- 
+Tiefbauverfahren, 
+- 
+Durchführung von Suchschlitzen (falls gefordert), 
+- 
+vorhandene Oberflächenbeschädigungen, 
+- 
+sonstige Besonderheiten. 
+Die Vorbegehungsprotokolle sind mit der Dokumentation elektronisch abzulegen. 
+ 
+6.7. Ausführungsdokumentation 
+Die Ausführungsdokumentation umfasst sämtliche Dokumente und Nachweise über die 
+Bau- und Montageabläufe. Die Ausführungsdokumentation für den Bereich Tiefbau und 
+Montage ist separat zu führen und dem AG fortlaufend zu übergeben. 
+ 
+6.7.1. 
+Tiefbau und Montage 
+Abhängig von Bauweise und den im Tiefbau eingesetzten technischen Verfahren sind dem 
+AG folgende Dokumente zu übergeben: 
+- 
+Lieferscheine zu den eingesetzten Materialien 
+- 
+Baubeginnanzeige/Aufbruchanzeige 
+- 
+Änderungsanzeige 
+- 
+Bohrprotokolle 
+- 
+Rotstrichdokumentation 
+- 
+Bautagesberichte/Bautagebücher 
+- 
+Fotodokumentation Tiefbau (georeferenzierte Fotos von allen Bauphasen mit Tiefen-
+erkennbarkeit 
+von 
+sämtlichen 
+gebauten 
+Trassen 
+bis 
+einschließlich 
+der 
+Hausanschlusstrassen) via FotoGIS gem. Vorgabe aus Formular „Freigabe 
+Rechnung“
+
+
+===== Page 112 =====
+112/128 
+- 
+Fotodokumentation der Hausanschlussmontage via FotoGIS gem. Vorgabe aus 
+Formular „Freigabe Rechnung“ 
+- 
+Hausbegehungsprotokolle 
+gem. 
+Vorgabe 
+mit 
+Kundenunterschrift 
+und 
+Lageplanskizze des geplanten Trassenverlaufs bis zum Anschluss an den 
+Rohrverband inkl. Angabe des Anschlussröhrchens aus dem Rohrverband und 
+zugehöriger Fotodokumentation der Trasse via Datenaustauschportal der OEW oder 
+in FotoGIS, wobei die Hausbegehungsprotokolle auch als PDF auf dem 
+Austauschordner abzulegen sind 
+- 
+Einblasprotokolle als PDF 
+- 
+Spleiß- Bestückungs- und Netzpläne 
+- 
+OTDR-Messprotokolle im Originalmessformat und .pdf 
+- 
+Adresspunktlisten als Excel 
+ 
+6.7.2. 
+Materialdatenblätter 
+Grundsätzlich werden die Materialien durch den AG vorgegeben, deren Verwendung durch 
+die Abgabe der Materialdatenblätter zu belegen ist. Wird nach Absprache mit dem AG von 
+dieser Regelung abgewichen, müssen technische Dokumentationen, Datenblätter und 
+Montageanleitungen in geeigneter Form in einem jeweiligen Projektordner nach 
+Produktgruppe abgelegt und dem AG digital zu übermittelt werden. 
+Spezielle Hinweise zum Einsatzzweck, der Installation und der Entsorgung sind in einem 
+zusätzlichen Dokument zu ergänzen. 
+ 
+6.7.3. 
+Baubeginnanzeige 
+Der 
+Baubeginn 
+ist 
+dem 
+AG 
+mittels 
+einer 
+Baubeginnanzeige 
+mitzuteilen. 
+Die 
+Baubeginnanzeige muss vom AG unterschrieben werden und folgende Angaben beinhalten: 
+- 
+Name und Kontaktdaten des ausführenden Unternehmens (ggf. Sub-Unternehmen) 
+- 
+Genaue Bezeichnung des Vorhabens inkl. Projektnummer 
+- 
+Datum des Baubeginns 
+- 
+Geplantes Bauende 
+- 
+Benennung des zuständigen Bauleiters
+
+
+===== Page 113 =====
+113/128 
+- 
+Unterschriften AN und AG 
+Die Baubeginnanzeige ist dem AG in digitaler Form zu überstellen. Die Gegenzeichnung 
+erfolgt durch den AN als Vertreter des AGs. 
+ 
+6.7.4. 
+Bautagesberichte / -tagebücher 
+Jede Baukolonne / jedes Montageteam führt einen täglichen Bautagesbericht, in dem die 
+täglichen Arbeiten und der Zustand auf der Baustelle dokumentiert werden. Hierfür ist die 
+Vorlage „Tagesbericht“ zu nutzen. 
+Die Bautagesberichte sind durch den Bauleiter des AN zu prüfen, digital zu archivieren und 
+dem AG fortlaufend über die Austauschplattform zur Verfügung zu stellen. 
+ 
+6.7.5. 
+Bohrprotokolle 
+Für die im Horizontalspühlbohrverfahren verlegten Rohranlagen sind dem AG sämtliche 
+Bohrprotokolle gebündelt nach NVt-Bereichen zu übermitteln. In den Bohrprotokollen sind 
+neben den Angaben zum ausführenden Bauunternehmen, Namen der Bohrmeister, Datum 
+und Uhrzeit der Bohrung sowie die verlegten Rohrtypen zu dokumentieren.  
+Das Bohrprotokoll muss beginnend ab dem ersten und endend mit dem letzten messbaren 
+Punkt der später genutzten Rohranlage folgende Angaben enthalten: 
+- 
+Start- und Endpunkt mit Geokoordinaten (Hoch- und Rechtswert sowie Angaben der 
+Tiefe unter örtlicher Erdgleiche) jeweils mit einem Bild im Datenaustauschportal der 
+OEW oder in FotoGIS hinterlegen 
+- 
+Das Bohrprotokoll ist am Endpunkt mit als Bild im Datenaustauschportal der OEW 
+oder in FotoGIS zu hinterlegen 
+- 
+Die gesamte Bohrstrecke zwischen Start-/Zielgrube ist in der Trassendokumentation 
+zu hinterlegen 
+- 
+Entfernung vom Startpunkt (m) 
+- 
+Gesamttiefe unter örtlicher Erdgleiche vom Startpunkt (m) 
+- 
+Überdeckung (m) in regelmäßigem Abstand der gesamten Bohrstrecke, inklusive 
+Startpunkt
+
+
+===== Page 114 =====
+114/128 
+- 
+Die Adresse und/oder die GEO-Koordinaten (Hoch- und Rechtswert sowie Angaben 
+der Tiefe unter örtlicher Erdgleiche) an Start- und Endpunkten der Bohrung sind im 
+Bohrprotokoll anzugeben. 
+- 
+Die Basis für den Tiefenwert der Bohrung ist die Erdgleiche am Startpunkt mit dem 
+Wert 0,0m. 
+- 
+Zusätzlich sind die Lage der Bohrgruben sowie die Bohrrichtung durch digitale oder 
+analoge Skizzen darzustellen.  
+Die Lage der Bohrgruben, die Bohrrichtung sowie die Bohrtiefenangaben müssen aus dem 
+Bohrprotokoll in die Lagepläne übernehmbar sein. Jedes Bohrprotokoll soll anhand der 
+Bohrnummer dem jeweiligen Trassenabschnitt zugeordnet werden können und ist als freier 
+Text über dem Trassenabschnitt einzutragen. 
+ 
+6.7.6. 
+Hausbegehungsprotokoll 
+Vor der Realisierung des Hausanschlusses ist eine gemeinsame Begehung und 
+Abstimmung mit dem Eigentümer durchzuführen und zu protokollieren. Die Einreichung muss 
+als Geo-PDF erfolgen oder die Koordinaten müssen als Angabe direkt im Protokoll enthalten sein 
+(Koordinatensystem_ EPSG:25832, ETRS89 / UTM Zone 32N). 
+Das Protokoll muss mindestens nachstehende Informationen beinhalten: 
+- 
+Vollständige Anschrift des anzuschließenden Gebäudes (Straße, Hausnummer, PLZ, 
+Ort, Ortsteil) inkl. Koordinaten:  
+- 
+Kontaktdaten Eigentümer: Vorname, Nachname, Adresse, Telefonnummer, E-Mail-
+Adresse 
+- 
+Kontaktdaten Ansprechpartner: Vorname, Nachname, Telefonnummer, E-Mail-
+Adresse 
+- 
+Art des Hauses: Einfamilienhaus (EFH), Mehrfamilienhaus (MFH), anderes (inkl. 
+Freitext für Bezeichnung) 
+- 
+Anzahl Wohn- und/oder Gewerbeeinheiten 
+- 
+Anzahl Etagen ohne Keller 
+- 
+Ist ein Keller vorhanden? Wenn ja, weiße Wanne vorhanden? 
+- 
+Foto aller Klingelschilder oder Briefkastenschilder
+
+
+===== Page 115 =====
+115/128 
+- 
+Saubere, 
+leserliche 
+Skizze 
+und 
+bearbeitete, 
+aussagekräftige 
+Fotos 
+des 
+Trassenverlaufs über das Privatgrundstück, den Punkt der Hauseinführung außen 
+und innen, Punkt des geplanten HÜP    
+- 
+Bezeichnung und Etage des Raumes der Hauseinführung 
+- 
+Bezeichnung und Etage des Raumes des geplanten HÜP 
+- 
+Art der Hauseinführung: unterirdisch, oberirdisch 
+- 
+Nutzung von Bestand des Eigentümers: Bspw. Leerrohr, Hauseinführung, 
+Mehrsparteneinführung 
+- 
+Länge Tiefbau auf Privatgrundstück, Länge Einzug auf Privatgrundstück, 
+Gesamtlänge der Trasse von Flurstücksgrenze bis Hauseinführung 
+- 
+Oberflächenart im Bereich der Trassenführung, wie zum Beispiel Pflaster, Asphalt, 
+Rasen, Beete, Betonplatten etc. (fotografisch festhalten) 
+- 
+Informationen (in Skizze) über nicht verzeichnete Fremdmedien / Privatmedien 
+(Stromkabel, Abwasser, Regenwasserrinne, Zisternen, Brunnen, Schächte) 
+Das Protokoll muss für den Eigentümer folgende Informationen beinhalten:  
+- 
+Für den Konverter/Modem des Netzbetreibers ist ein Stromanschluss notwendig.  
+- 
+Für die ggf. erforderliche Verlegung von Kabeln/Röhrchen im Haus ist der Eigentümer 
+selbst verantwortlich. 
+ 
+Die Übergabe der Begehungsprotokolle erfolgt über das Datenübergabe-Portal der OEW. 
+- 
+PDF des Hausbegehungsprotokolls inkl. Skizze exklusive Fotos 
+- 
+Protokoll im Originalformat falls vorhanden 
+- 
+Fotos der Begehung mit mind. Metadaten Koordinaten, Adresse, Datum, Zeit 
+- 
+Fotos im Jpeg-Format 
+- 
+Digitale Planungsdaten/ genau Trassenführung können zusammen mit Planung 
+übergeben werden 
+Die Lage des HÜP sollte nicht direkt neben anderen Medien im Anschlussraum geplant 
+werden, vor allem Gas und Wasser sind zu meiden. 
+Die maximale Länge des erdverlegbaren Multirohres im Haus von 2 m gem. DIN EN 50174-
+1 „Informationstechnik – Installation von Kommunikationsverkabelung“ ist einzuhalten.
+
+
+===== Page 116 =====
+116/128 
+6.7.7. 
+Montage 
+In der Fotodokumentation sind folgende Begebenheiten und Objekte zu dokumentieren: 
+- 
+Verzweigereinrichtungen sind so zu fotografieren, dass die verbauten Komponenten 
+erkennbar sind. 
+- 
+Speziell bei neu errichteten Netzverteilern im Gebiet müssen sowohl die verbauten 
+und beschrifteten Mikrorohre (Hauptkabel-Rohre und Verteiler-Rohre) als auch die 
+verbauten Spleißkassetten offen mit erkennbaren Spleißen bzw. abgelegten Fasern 
+und geschlossener Spleißkassette mit gelabeltem Deckel (jeweils ein Bild) mit einem 
+Foto dokumentiert werden. 
+- 
+Die Fotodokumentation der Hausanschlüsse muss folgendes beinhalten: 
+o HÜP-Platz im Innenraum VOR und NACH der Montage 
+o HÜP mit Fasern und Spleiß 
+o Faserschutzdeckel mit Label 
+o Eine größere Ansicht des HÜP mit Hauseinführung 
+ 
+6.8. Schachtkarte 
+Die Schachtkarte ist gem. der Vorlage aus den Dokumentationsvorgaben anzufertigen und 
+in den Planunterlagen bereitzustellen. 
+ 
+6.9. Vorgabe zur Abnahmemessung / OTDR-Messung 
+Der AN ist verpflichtet eine Abnahmemessung mit Vor- und Nachlauffaser durchzuführen. 
+Hierbei sind die Vorgaben gem. Einheitliches Messkonzept in Bezug zur „Förderung zur 
+Unterstützung des Gigabitausbaus der Telekommunikationsnetze in der Bundesrepublik 
+Deutschland“ vom 26.04.2021 zu berücksichtigen. 
+Darüber hinaus gilt: 
+- 
+Einfügedämpfung/Powermeter-Messung 1310 nm und 1550 nm 
+- 
+Durchgangsdämpfung (Faservertauschung bzw. -dämpfung) 
+- 
+Einzelfaserdämpfungen, Einzelspleißdämpfungen
+
+
+===== Page 117 =====
+117/128 
+- 
+Erstellung von OTDR-Diagrammen für die Wellenlängen 1310 nm, 1550 nm und 1625 
+nm 
+Die Einhaltung der maximalen Dämpfungswerte muss durch die Messungen nachgewiesen 
+werden können.  Grenzwerte verstehen sich als arithmetischer Mittelwert der beiden 
+Einzelwerte der richtungsgebundenen Messungen. Die einzelne Spleißdämpfung darf im 
+arithmetischen Mittel 0,10 dB nicht überschreiten. 
+ 
+Dämpfung/km der Fasern 
+0,36 dB/km zzgl. Spleißdämpfung bei 1310 nm 
+0,23 dB/km zzgl. Spleißdämpfung bei 1550 nm 
+0,26 dB/km zzgl. Spleißdämpfung bei 1625 nm 
+ 
+Spleißdämpfung 
+0,10 dB max. Dämpfung für den Einzelspleiß 
+0,05 dB mittlere Dämpfung für alle Spleiße 
+Grundsätzlich sind ausschließlich kalibrierte und geeignete Messgeräte zu nutzen. Die 
+Nachweise sind dem AG auf Verlangen unverzüglich vorzulegen. Der AG behält sich vor 
+Messergebnisse durch Dritte oder selbst zu überprüfen bzw. durchzuführen. Kann der AN 
+die Manipulationsfreiheit seiner Messergebnisse nicht nachweisen, so sind die Messungen 
+auf Verlangen des AG kostenfrei zu wiederholen. 
+Vor dem Beginn einer jeden Messung ist die Sauberkeit der Messleitungsstecker zu 
+überprüfen und vor dem Einsatz zu reinigen. 
+Messleitungen mit beschädigten Stirnflächen, sind nicht für eine Messung zu nutzen, da 
+eine dauerhafte Beschädigung der Messobjekte eintreten kann. 
+OTDR-Messungen sind durch die Montageteams vom HÜP einseitig Richtung aktiven Punkt 
+(POP/MFG) und weiterhin einseitig vom aktiven Punkt (POP/MFG) über den NVt bis zum 
+HÜP durchzuführen.  
+ 
+Sie beinhalten folgende Informationen: 
+- 
+Projektnummer 
+- 
+Ort und Datum der Messung
+
+
+===== Page 118 =====
+118/128 
+- 
+Gemessenes Kabel (Kabelbezeichnung aus Ausführungsplanung) und Faser 
+- 
+Kabeltyp und Hersteller inkl. Faseranzahl 
+- 
+Wellenlänge der Messung (1310nm/1550nm/1625nm) 
+- 
+Angewandte Technik 
+- 
+Punkt A, Punkt B (Bsp.: A = Anfangspunkt der Messung, z.B. aktive Faser BEP / B = 
+Port im NVt) 
+- 
+Längen 
+- 
+Grafik 
+- 
+Tabelle 
+ 
+Die Monteure übergeben die Messprotokolle dem Bauleiter des AN. Er prüft die 
+Messprotokolle und übermittelt diese digital an den AG. Die ODTR-Werte werden durch den 
+AN in die Kunden-Liste eingetragen. 
+Die OTDR-Messungen sind in den Bereichen 1310 und 1550 und auf 1625 nm (bei einer 
+Länge > 80 km) durchzuführen. Die Messdateien sind im Originalformat und als PDF zu 
+übergeben und mit einem der Bezeichnungsschematik des AG entsprechenden Dateinamen, 
+sowie einem Zeit-/Datumsstempel zu versehen. 
+ 
+6.10. 
+Einblasprotokolle 
+Für die Dokumentation der Kabelinstallationen erstellen die Montageteams ein 
+Einblasprotokoll. 
+In dem Einblasprotokoll werden die Einblaslängen durch Kabelmetrierung und Einblasgerät 
+protokolliert. Ein Vergleich der Werte ist vorzunehmen. Die Kabelmetrierung ist 
+entscheidend, um Vorratslängen zu erfassen. Es müssen mindestens die Vorgaben aus der 
+Vorlage des Einblasprotokolls ersichtlich sein. 
+ 
+Die Einblasprotokolle beinhalten folgende Informationen: 
+- 
+Projektnummer 
+- 
+Ort und Datum der Montage 
+- 
+Kabeltyp und Hersteller inkl. Faseranzahl und Trommelnummer
+
+
+===== Page 119 =====
+119/128 
+- 
+Kabelbezeichnung (aus Ausführungsplanung) 
+- 
+Kabelmaße Start und Ende des eingebrachten Kabels 
+- 
+Monteur/Betrieb 
+- 
+Temperatur und Wetterlage 
+- 
+Geschwindigkeit mit der das Kabel eingeblasen wurde 
+- 
+Richtung in die eingeblasen wird 
+ 
+Die Einblasprotokolle sind durch den Bauleiter des AN zu prüfen, gegenzuzeichnen und dem 
+AG digital zu übermitteln. 
+ 
+6.11. 
+Nachweis Abnahmedokumentation 
+Die Prüfnachweisdokumentation umfasst die Zusammenstellung aller Nachweise der 
+Qualität der Anlage sowie des sicheren Abschlusses von Tiefbau- und Montagearbeiten. Die 
+Prüfnachweise aus dem Tiefbau und Montage sind dem AG separat zu übergeben. 
+ 
+6.11.1. 
+Tiefbau 
+Nach Abschluss der Tiefbauarbeiten sind dem AG folgende Dokumente zu überstellen: 
+- 
+Fertigstellungsanzeige an den AG 
+- 
+Tiefbautechnische Abnahmedokumente (Materialnachweise, Mengenabgleiche, 
+Entsorgungs-/Deponienachweise) inkl. Prüfnachweis durch die Bauleitung 
+- 
+Abnahmeprotokolle der Wegebaulastträger oder privaten Grundstückseigentümer 
+- 
+Hausanschlussprotokolle 
+- 
+Druck- und Dichtigkeitsprüfung 
+Für die Abnahmen ist die Vorlage der OEW gem. des bereitgestellten Ordners für Anlagen 
+zu nutzen.
+
+
+===== Page 120 =====
+120/128 
+6.11.2. 
+Fertigstellungsanzeige 
+Die Fertigstellung ist dem AG digital mittels einer Fertigstellungsanzeige mitzuteilen. Die 
+Fertigstellungsanzeige muss folgende Angaben beinhalten: 
+- 
+Name und Kontaktdaten des ausführenden Unternehmens 
+- 
+Genaue Bezeichnung des Vorhabens inkl. Projektnummer 
+- 
+Datum der Fertigstellung 
+- 
+Benennung des zuständigen Bauleiters 
+- 
+Unterschrift AG und AN 
+ 
+6.11.3. 
+Tiefbautechnische Abnahmedokumente (Materialrestnachweise, 
+Mengenabgleich, Entsorgungs-/Deponienachweis) 
+Der Verbrauch von Materialien muss gegenüber dem AG nachgewiesen werden.  
+Die ordnungsgemäße Entsorgung des Abfalls und des Bodenaushubs ist zu dokumentieren 
+und dem AG in Form von Entsorgungs- und Deponienachweisen zu übergeben. 
+Folgende Vorschriften sind zu beachten (Liste nicht abschließend): 
+- 
+Abfallwirtschaftsgesetz 
+- 
+Abfallnachweisverordnung 
+- 
+Abfallverzeichnisverordnung 
+- 
+Imissionsschutzgesetz Luft 
+- 
+Lärmimissionsschutzverordnung 
+ 
+6.11.4. 
+Abnahmeprotokolle 
+Nach Abschluss der Tiefbauarbeiten und Wiederherstellung der Oberflächen erfolgt die 
+Abnahme 
+durch 
+den 
+Träger 
+öffentlicher 
+Belange, 
+die 
+Gemeinde 
+oder 
+Grundstückseigentümer. Die Abnahmeprotokolle sind dem AG in Originalform digital über 
+den Austauschordner zu überstellen. 
+Sollten Mängel zu beseitigen sein, ist die Fertigstellung der Mängelbeseitigung separat 
+schriftlich zu dokumentieren und der Nachweis dem AG ebenfalls digital über den 
+Austauschordner zu übergeben.
+
+
+===== Page 121 =====
+121/128 
+6.11.5. 
+Druck- und Dichtigkeitsprüfung 
+Für jeden unbelegten Multirohrverband bzw. für jedes unbelegte Einzelrohr, welcher/s am 
+NVT oder POP/MFG eingeführt wurde, ist eine Druck- und Dichtigkeitsprüfung mit einer 
+geeigneten Prüfvorrichtung durchzuführen.  
+Hierfür ist staubfreie und trockene Luft, die für diese Prüfung geeignet ist, zu verwenden.  
+Die Druckfestigkeit der Rohranlage soll bei einem Druck von min. 10 bar für eine Dauer von 
+mindestens 10 Sekunden nach Erreichung des Maximaldrucks nachgewiesen und 
+dokumentiert werden.  
+Während der Druckluftzufuhr bzw. beim Verschließen der jeweiligen unter Druck stehenden 
+Rohranlage, darf kein Druckabfall feststellbar sein.  
+Diese Prüfung dient dazu, einen Nachweis zu erbringen, dass alle in Schächten und 
+Gebäuden endenden Rohre auch tatsächlich mit einem Gasblocker bzw. einem geeigneten 
+Verschluss montiert wurden. Hier kommt die DIN 18322 für eine gas- und wasserdichte 
+Ausführung der Rohranlage zum Tragen.  
+Die Druck- und Dichtigkeitsprüfung dient ebenfalls als Nachweis, dass alle Rohrverbände 
+ordnungsgemäß verbunden sind und das Einblasen der Glasfaserkabel grundsätzlich 
+möglich sein sollte.
+
+
+===== Page 122 =====
+122/128 
+7. Anhang 
+7.1. Glossar 
+ 
+AG 
+Auftraggeber 
+AN 
+Auftragnehmer 
+Backbone 
+Als Backbone- oder Kern-Ebene wird die Netzebene der 
+Vernetzung zwischen den PoPs in einem abgegrenzten 
+Erschließungsgebiet bezeichnet, sowie die Verbindung 
+zum Übergabepunkt des vorgelagerten Netzbetreibers. 
+BMDS 
+Bundesministerium 
+für 
+Digitales 
+und 
+Staatsmodernisierung 
+EnaS / ZAS 
+ Energieanschlusssäule / Zähleranschlusssäule für den 
+PoP oder MFG 
+EZA 
+Eine 
+Einzelzugabdichtung 
+dient 
+der 
+wasser- 
+und 
+gasdichten 
+Abdichtung 
+von 
+belegten 
+oder 
+leeren 
+Mikrorohren in allen Verteil- oder Endeinrichtungen, wie z. 
+B. PoP, Gf-NVt oder HÜP. 
+EZA(t) 
+Eine Einzelzugabdichtung teilbar dient der wasser- und 
+gasdichten 
+Abdichtung 
+von 
+belegten 
+oder 
+leeren 
+Mikrorohren in allen Verteil- oder Endeinrichtungen, wie z. 
+B. PoP, Gf-NVt oder HÜP. 
+FTTB 
+Fiber To The Building – Glasfaser bis zum oder ins 
+Gebäude 
+- 
+Bezeichnung 
+für 
+eine 
+Access-Netz-
+Konfiguration, bei der Glasfaser bis in das Gebäude 
+eingesetzt wird.  
+Gf-NVt / NVt 
+Glasfaser-Netzverteiler – passiver Verteilpunkt zwischen 
+Hauszuführungsebene und Hauptkabeleben. Im Gf-NVt 
+werden vom PoP kommenden Glasfaserkabel auf die zu 
+den Gebäuden führenden Hausanschlusskabel gespleißt.
+
+
+===== Page 123 =====
+123/128 
+GIS-NB 
+Geoinformationssystem 
+– 
+Nebenbestimmungen 
+spezifizieren, 
+wie 
+Geodaten 
+im 
+Rahmen 
+von 
+Breitbandförderprojekten zu erfassen, zu strukturieren 
+und zu übermitteln sind.  Die GIS-NB stellen sicher, dass 
+die geförderten Projekte in einem einheitlichen Format 
+dokumentiert werden und die Daten für verschiedene 
+Zwecke 
+(z.B. 
+Fortschrittskontrolle, 
+Verwendungsnachweis, etc.) nutzbar sind. 
+Hauptkabelebene 
+Die Hauptkabelebene bezeichnet die Schicht, die die 
+Verbindung zwischen den Zugangsebenen (z. B. den 
+Endbenutzern oder lokalen Netzwerken) und der Kern- 
+oder Backbone-Ebene des Netzwerks herstellt. 
+Hauszuführungsebene 
+Die Hausanschlussebene bezeichnet die letzte Stufe der 
+Netzwerkinfrastruktur, die die Verbindung mit den 
+Endbenutzern herstellt. Sie ist die Verbindung zwischen 
+den letzten Netzwerkknoten und den Endbenutzern. Gem. 
+Förderrichtlinie als Verteilerebene bezeichnet 
+Homes passed plus 
+homesPassedPlus (lt. S/Pri) sind Anschlusspunkte, bei 
+welchen 
+keine 
+Nutzungsvereinbarung 
+vorliegt: 
+Die 
+Rohrverbindung ist vom POP bis an / auf das Grundstück 
+(-grenze) hergestellt und dort mit einem Kugelmarker 
+markiert. 
+HÜP 
+Der 
+Hausübergabepunkt, 
+ist 
+die 
+technische 
+Abschlusseinrichtung der netzseitigen Glasfasern und 
+deren Verbindung mit Glasfasern für die Hausinstallation. 
+Der HÜP bildet den Punkt des Abschlusses der 
+Verteilebene 
+und 
+stellt 
+die 
+Grenze 
+des 
+Verantwortungsbereiches des Passiven Netzes der OEW 
+Breitband GmbH dar. 
+MEV  
+Das Markterkundungsverfahren (MEV) ist Voraussetzung 
+jeder 
+Bundesförderung 
+zur 
+Unterstützung 
+des
+
+
+===== Page 124 =====
+124/128 
+Gigabitausbaus. Ein MEV dient zur Bestandsaufnahme 
+der Adressversorgung im Projektgebiet. 
+MFG 
+Multifunktionsgehäuse, bezeichnet eine Lokation in der 
+sich aktive Technik des Netzbetreibers befindet. Diese 
+Technik 
+bildet 
+im 
+Kontext 
+dieser 
+Richtlinie 
+die 
+Schnittstelle zwischen dem Backbone-Netz und dem 
+Verteilernetz 
+MRVe/MRe 
+Mikrorohrverbände bestehen aus mehreren Mikrorohren 
+und bilden einen Rohrverband für die Erdverlegung oder 
+den Einzug in Schutzrohre im Breitbandbandausbau. 
+Netzarchitektur 
+Netzarchitektur beschreibt, wie Glasfaserkabel vom 
+Netzbetreiber zu den Endkunden verlegt werden, um eine 
+Hochgeschwindigkeits-Internetverbindung zu 
+ermöglichen. Es gibt verschiedene Ausbaustufen, die 
+angeben, wie nah die Glasfaser an den Endkunden 
+geführt wird. 
+Netztopologie 
+beschreibt die physische und logische Anordnung von 
+Glasfaserleitungen und Geräten in einem 
+Glasfasernetzwerk. Sie definiert, wie Knotenpunkte (z.B. 
+Router, Switches) miteinander verbunden sind und wie 
+Daten durch das Netzwerk fließen. Unterschieden wird 
+zwischen physikalischer Topologie (Verkabelung) und 
+logischer Topologie (Datenfluss) 
+NGA 
+Next Generation Access – Mit dem Begriff NGA werden 
+Zugangsnetze bezeichnet, welche die kupferbasierenden 
+oder koaxialen Infrastrukturen teilweise oder ganz durch 
+Glasfaserleitungen ersetzen. Mit solchen Netzen werden 
+Geschwindigkeiten von mind. 30 Mbit/s und mehr im 
+Downstream erreicht. 
+ODF 
+ 
+Optical Distribution Frame ist ein zentrales Element in 
+Glasfasernetzen, 
+das 
+als 
+Verteilerpunkt 
+für
+
+
+===== Page 125 =====
+125/128 
+Glasfaserverbindungen dient. ODFs ermöglichen das 
+Spleißen, 
+Terminieren 
+und 
+Verteilen 
+von 
+Glasfaserleitungen, sowie die Verbindung mit optischen 
+Kommunikationseinheiten. 
+Open Access 
+Open Access bezeichnet den diskriminierungsfreien 
+Zugang zu Netzinfrastrukturen. Das bedeutet, dass alle 
+Diensteanbieter Zugang erhalten, ohne dass einzelne 
+Anbieter bevorzugt oder benachteiligt werden. Der Fokus 
+liegt dabei auf der Anbindung der Endkunden, entweder 
+durch direkte Faserverbindungen oder über Layer-2- und 
+Layer-3-Bitstromzugänge. 
+OTDR 
+Eine 
+OTDR-Messung 
+(Optical 
+Time 
+Domain 
+Reflectometry) 
+ist 
+ein 
+optisches 
+Verfahren 
+zur 
+Charakterisierung von Glasfasern, bei dem die Laufzeit 
+von Lichtpulsen, die in die Glasfaser gesendet und von 
+Reflexionen 
+oder 
+Rückstreuungen 
+zurückgeworfen 
+werden, gemessen wird. Aus diesen Laufzeiten lassen 
+sich Informationen über die Länge der Faser, die 
+Dämpfung und die Position von Fehlerstellen oder 
+Reflexionsstellen gewinnen. 
+PE-HD, HDPE 
+Polyethylen (PE) mit hoher Dichte oder high density – 
+Kunststoff, der in der Rohr- und Kabelfertigung 
+eingesetzt wird. 
+PoP 
+Point of Presence, bezeichnet eine Lokation in der sich 
+aktive Technik des Netzbetreibers befindet. Diese Technik 
+bildet im Kontext dieser Richtlinie die Schnittstelle 
+zwischen dem Backbone-Netz und dem Verteil-Netz. 
+PP 
+Polypropylen ist ein vielseitiger Kunststoff, der leicht, 
+flexibel und hitzebeständig ist. 
+P2P 
+Point-to-Point in der Glasfasernetztechnik bedeutet, dass 
+jeder 
+Teilnehmer 
+eine 
+eigene, 
+dedizierte
+
+
+===== Page 126 =====
+126/128 
+Glasfaserverbindung vom zentralen Knotenpunkt (PoP 
+oder MFG) zu seiner eigenen Glasfaser-Abschlussdose 
+erhält. Diese Verbindung ist nicht mit anderen Kunden 
+geteilt, was eine höhere Bandbreite und unabhängige 
+Datenübertragung ermöglicht. 
+ZNR 
+Zusätzliche 
+Netzreserven 
+mit 
+der 
+Mikrorohrverbunddimensionierung 12x16/10 mm
+
+
+===== Page 127 =====
+127/128 
+7.2. Abbildungsverzeichnis 
+Abbildung 1: Ausbaugebiete der OEW ............................................................................... 8 
+Abbildung 2: derzeitige Vorgaben für die Dimensionierung passiver Infrastruktur  
+gem. Version 5.0.2 (Änderung möglich).......................................................................... 18 
+Abbildung 3: Darstellung für die Dimensionierung passiver Infrastruktur .................... 19 
+Abbildung 4: Netzebenen der OEW .................................................................................. 23 
+Abbildung 5: idealisierte Prinzipskizze eines Grabenprofils – ortsgebundene 
+Abweichungen sind möglich ............................................................................................ 26 
+Abbildung 6: exemplarische Strukturskizze Backbone .................................................. 30 
+Abbildung 7: Anbindung NVt und ZNR ............................................................................. 37 
+Abbildung 8: Beispielabbildung Führung der Reserven im Mikrorohrverband ............. 39 
+Abbildung 9: Beispiel für Kabelbelegung im Verband POP/MFG bis HÜP ................... 41 
+Abbildung 10: Beispiel für Kassettenbelegung im PoP .................................................. 42 
+Abbildung 11: Beispiel für Kassettenbelegung im NVt .................................................. 43 
+Abbildung 12: Beispielaufbau PoP bis 8064 Ports – Grundriss .................................... 57 
+Abbildung 13: Beispielaufbau PoP bis 8064 Ports - Innenmaße ................................... 57 
+Abbildung 14: Beispielaufbau PoP bis 8064 Ports - Außenmaße ................................. 58 
+Abbildung 15: Beispielaufbau PoP bis 4032 Ports ......................................................... 63 
+Abbildung 16: Beispielaufbau PoP bis 4032 Ports - Innenmaße ................................... 63 
+Abbildung 17: Beispielaufbau PoP bis 4032 Ports - Außenmaße ................................. 64 
+Abbildung 18: Beispielaufbau PoP bis 1512 Ports – technische Ausgestaltung ........ 67 
+Abbildung 19: Beispielaufbau PoP bis 1512 Ports – Außenansicht ............................. 68 
+Abbildung 20: Beispielaufbau PoP bis 1512 Ports – Innenansicht .............................. 68 
+Abbildung 21: Beispielaufbau PoP mit Open Access bis 1512 Ports – technische 
+Ausgestaltung .................................................................................................................... 72 
+Abbildung 22: Beispielaufbau PoP mit Open Access bis 1512 Ports – Außenansicht72 
+Abbildung 23: Beispielaufbau PoP mit Open Access bis 1512 Ports – Innenansicht. 73 
+Abbildung 24: Transport von Trommeln.......................................................................... 78 
+Abbildung 25: Transport von Trommeln.......................................................................... 84 
+Abbildung 26: Vorlage Schachtkennzeichnung und Beispiel Schachtdeckel .............. 93 
+Abbildung 27: Kabelaufbau 288er Kabel mit 24 x 12 Fasern ........................................ 95 
+Abbildung 28: Kabelaufbau 576er Kabel mit 24 x 24 Fasern ........................................ 96 
+Abbildung 29: Vorgabe Druckbild Trassenwarnband .................................................. 100
+
+
+===== Page 128 =====
+128/128
+7.3. Tabellenverzeichnis 
+Tabelle 1: Landkreise des Versorgungsgebietes der OEW .............................................. 7 
+Tabelle 2: Lichte Mindestbreite für Gräben ohne Arbeitsraum gem. DIN 4124 ........... 26 
+Tabelle 3: Rohr-, Kabel- und Faserplanungsregel Wohngebäude .................................. 47 
+Tabelle 4: Beispiel Spleißregel im HÜP - Variante 2 WE – 12 Faserkabel für 
+Netzbetreiber A mit 2+2 Fasern ....................................................................................... 48 
+Tabelle 5: Farbschema Mikrorohre gem. VDE 0800-720 für Rohre 1-12 ...................... 77 
+Tabelle 6: Anforderung an Mikrorohre ............................................................................. 80 
+Tabelle 7: Maße und Lieferform von PE-Rohren gem. BMDV ........................................ 86 
+Tabelle 8: Zugkraftbelastung MRV .................................................................................. 90 
+Tabelle 9: Faktor Ringspalt – gem. Empfehlung des VDE ............................................. 98 
+Tabelle 10: Vorgaben aus GIS-Dokumentation ............................................................ 105 
+Tabelle 11: Format Maßeinheiten ................................................................................. 108 
+8. Änderungen und Aktualisierungen
+8.1. Dokumentenhistorie 
+Version 
+Datum 
+Status 
+Freigeber 
+Kommentar 
+1.0 
+30.06.2025 
+1.1 
+16.07.2025
+
+
+===== Page 129 =====
+Talstraße 21
+89584 Ehingen (Donau)
+Deutschland
+T +49 7391 7600 900
+M kontakt@oew-breitband.de
+W www.oew-breitband.de
+Sitz d. Gesellschaft: Ehingen (Donau)
+Amtsgericht Ulm HRB 742770
+USt-IdNr. DE344948435
+Geschäftsführer: Andreas Seifert, Stefan Herzhauser
+Bei Fragen, melden Sie sich gerne bei uns!
+OEW Breitband GmbH
+Talstraße 21
+89584 Ehingen (Donau)
+       kontakt@oew-breitband.de
+       07391 7600 900
+       www.oew-breitband.de

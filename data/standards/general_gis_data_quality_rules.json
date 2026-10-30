@@ -1,0 +1,173 @@
+{
+  "source_file": "系统内置：通用GIS数据质量规则",
+  "imported_at": "2026-07-13T03:31:11.791563+00:00",
+  "parser": {
+    "provider": "project_data_source_rebuild",
+    "notes": "规则库按 通用GIS数据质量 / 项目业务 / 德国与中国标准规范 三类重建。"
+  },
+  "clauses": [
+    {
+      "id": "ea5a09a4cfce0025",
+      "standard_id": "GIS-DQ",
+      "standard_name": "通用GIS数据质量规则",
+      "version": "",
+      "is_placeholder": false,
+      "clause_id": "DQ-01",
+      "title": "关键GIS对象必须具备空间几何",
+      "summary": "参与审查的工程对象应包含可解析的空间几何，否则无法计算距离、相交、包含和穿越关系。",
+      "applicable_objects": [
+        "*"
+      ],
+      "scenario": "所有从 GIS 成果读取的点、线、面对象。",
+      "risk_level": "high",
+      "recommendation": "补齐或修复缺失的几何，并确认上传文件包含完整图层。",
+      "source_file": "系统内置：通用GIS数据质量规则",
+      "source_excerpt": "通用GIS数据质量要求：图层要素必须具备可解析几何。",
+      "confidence": "medium",
+      "rules": [
+        {
+          "id": "GIS-DQ-01-ROUTES",
+          "type": "required_geometry",
+          "params": {
+            "object_type": "telecom_duct_route",
+            "geometry_types": [
+              "LineString",
+              "MultiLineString"
+            ]
+          }
+        },
+        {
+          "id": "GIS-DQ-01-UTILITIES",
+          "type": "required_geometry",
+          "params": {
+            "object_type": "third_party_utility"
+          }
+        },
+        {
+          "id": "GIS-DQ-01-AREA",
+          "type": "required_geometry",
+          "params": {
+            "object_type": "project_area",
+            "geometry_types": [
+              "Polygon",
+              "MultiPolygon"
+            ]
+          }
+        },
+        {
+          "id": "GIS-DQ-01-NODES",
+          "type": "required_geometry",
+          "params": {
+            "object_type": "fiber_distribution_cabinet",
+            "geometry_types": [
+              "Point",
+              "MultiPoint"
+            ]
+          }
+        },
+        {
+          "id": "GIS-DQ-01-PIT",
+          "type": "required_geometry",
+          "params": {
+            "object_type": "civil_pit_work",
+            "geometry_types": [
+              "Point",
+              "MultiPoint"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "6e0abe24874df15d",
+      "standard_id": "GIS-DQ",
+      "standard_name": "通用GIS数据质量规则",
+      "version": "",
+      "is_placeholder": false,
+      "clause_id": "DQ-02",
+      "title": "空间几何必须有效",
+      "summary": "几何自相交、空几何或不可解析几何会导致空间分析结果不可靠。",
+      "applicable_objects": [
+        "*"
+      ],
+      "scenario": "所有带几何的 GIS 要素。",
+      "risk_level": "medium",
+      "recommendation": "在 QGIS/GeoPandas 中修复无效几何后重新上传。",
+      "source_file": "系统内置：通用GIS数据质量规则",
+      "source_excerpt": "通用GIS数据质量要求：几何对象应满足有效性检查。",
+      "confidence": "medium",
+      "rules": [
+        {
+          "id": "GIS-DQ-02-VALIDITY",
+          "type": "geometry_validity",
+          "params": {
+            "object_type": "*"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8ba13d2751eeac57",
+      "standard_id": "GIS-DQ",
+      "standard_name": "通用GIS数据质量规则",
+      "version": "",
+      "is_placeholder": false,
+      "clause_id": "DQ-03",
+      "title": "工程范围图层必须存在",
+      "summary": "工程范围或施工范围是后续空间适用性判断的边界依据。",
+      "applicable_objects": [
+        "project_area"
+      ],
+      "scenario": "德国测试项目中的 Bereich 图层和类似工程范围图层。",
+      "risk_level": "medium",
+      "recommendation": "补充项目边界、NVT/HK 工作区边界或红线范围图层。",
+      "source_file": "系统内置：通用GIS数据质量规则",
+      "source_excerpt": "通用GIS数据质量要求：工程范围图层至少应有一个面对象。",
+      "confidence": "medium",
+      "rules": [
+        {
+          "id": "GIS-DQ-03-AREA-COUNT",
+          "type": "min_feature_count",
+          "params": {
+            "object_type": "project_area",
+            "min_count": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "8f5c19495723973c",
+      "standard_id": "GIS-DQ",
+      "standard_name": "通用GIS数据质量规则",
+      "version": "",
+      "is_placeholder": false,
+      "clause_id": "DQ-04",
+      "title": "抽取来源字段必须保留",
+      "summary": "每个对象应保留来源文件、来源图层和来源要素ID，便于风险回溯到 GIS 成果。",
+      "applicable_objects": [
+        "*"
+      ],
+      "scenario": "所有由 GeoPandas/Pyogrio 读取的对象。",
+      "risk_level": "medium",
+      "recommendation": "保留 source_file、source_layer、source_feature_id 等抽取溯源字段。",
+      "source_file": "系统内置：通用GIS数据质量规则",
+      "source_excerpt": "通用GIS数据质量要求：风险应可定位到来源图层与要素。",
+      "confidence": "medium",
+      "rules": [
+        {
+          "id": "GIS-DQ-04-SOURCE",
+          "type": "required_properties",
+          "params": {
+            "object_type": "*",
+            "properties": [
+              "source_file",
+              "source_layer",
+              "source_feature_id"
+            ],
+            "filters": {}
+          }
+        }
+      ]
+    }
+  ]
+}

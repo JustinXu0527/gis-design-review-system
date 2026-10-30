@@ -1,0 +1,199 @@
+{
+  "generated_at": "2026-07-13T03:31:11.797588+00:00",
+  "source_summary": {
+    "german_pdf_count": 10,
+    "german_rule_instruction_count": 1,
+    "german_standard_pdf_count": 9,
+    "china_standard_pdf_count": 5
+  },
+  "sources": [
+    {
+      "file": "00_规则资料适配说明与可执行规则清单.pdf",
+      "region": "germany",
+      "role": "rule_instruction",
+      "pages": 4,
+      "text_length": 5641,
+      "source_path": "德国行业标准/00_规则资料适配说明与可执行规则清单.pdf",
+      "text_path": "data/extracted_standards_text/germany/00_规则资料适配说明与可执行规则清单.txt",
+      "sha256": "b285b7795bf9a359e80fa8fe038c8032256e1372912479b9c6293fc006fad1fb",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "file": "01_德赖艾希市道路开挖规则_Aufgrabungsrichtlinie_2014.pdf",
+      "region": "germany",
+      "role": "de_standard",
+      "pages": 32,
+      "text_length": 72317,
+      "source_path": "德国行业标准/01_德赖艾希市道路开挖规则_Aufgrabungsrichtlinie_2014.pdf",
+      "text_path": "data/extracted_standards_text/germany/01_德赖艾希市道路开挖规则_Aufgrabungsrichtlinie_2014.txt",
+      "sha256": "ee6d6c4634a1452e1e4b4ba64eafc670cfe4cf8585e9a5200e2262b2ac11c638",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "file": "02_德国宽带资助GIS数据附加规定_GIS-Nebenbestimmungen_V5.1.pdf",
+      "region": "germany",
+      "role": "de_standard",
+      "pages": 17,
+      "text_length": 30233,
+      "source_path": "德国行业标准/02_德国宽带资助GIS数据附加规定_GIS-Nebenbestimmungen_V5.1.pdf",
+      "text_path": "data/extracted_standards_text/germany/02_德国宽带资助GIS数据附加规定_GIS-Nebenbestimmungen_V5.1.txt",
+      "sha256": "192d4a8a2c0c7736d0eafdf746d2d44d9d8a5d4820b1fe6ccf739e6a9fa03e0c",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "file": "03_统一材料与被动基础设施容量方案_Materialkonzept_V5.0.2.pdf",
+      "region": "germany",
+      "role": "de_standard",
+      "pages": 9,
+      "text_length": 15514,
+      "source_path": "德国行业标准/03_统一材料与被动基础设施容量方案_Materialkonzept_V5.0.2.pdf",
+      "text_path": "data/extracted_standards_text/germany/03_统一材料与被动基础设施容量方案_Materialkonzept_V5.0.2.txt",
+      "sha256": "1bb1fb1c8a998b6343c87a3db88cacfa4a68dca88c1a5fe2bbb35a96531e31c1",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "file": "04_技术设施与施工文档要求_Hinweisblatt_2022.pdf",
+      "region": "germany",
+      "role": "de_standard",
+      "pages": 3,
+      "text_length": 5965,
+      "source_path": "德国行业标准/04_技术设施与施工文档要求_Hinweisblatt_2022.pdf",
+      "text_path": "data/extracted_standards_text/germany/04_技术设施与施工文档要求_Hinweisblatt_2022.txt",
+      "sha256": "8a18d7daeb33c3ccc180de9c96a2f2461a46c63c47a22c9b693d26f3e359900c",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "file": "05_统一测量方案_Einheitliches_Messkonzept_2022.pdf",
+      "region": "germany",
+      "role": "de_standard",
+      "pages": 2,
+      "text_length": 4362,
+      "source_path": "德国行业标准/05_统一测量方案_Einheitliches_Messkonzept_2022.pdf",
+      "text_path": "data/extracted_standards_text/germany/05_统一测量方案_Einheitliches_Messkonzept_2022.txt",
+      "sha256": "97fafeb9605ce817a03ff7a036dde3cf231500a1e345faa2e539020dbd43301f",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "file": "06_OEW光纤网络规划与文档指南_V1.1_2025.pdf",
+      "region": "germany",
+      "role": "de_standard",
+      "pages": 129,
+      "text_length": 194260,
+      "source_path": "德国行业标准/06_OEW光纤网络规划与文档指南_V1.1_2025.pdf",
+      "text_path": "data/extracted_standards_text/germany/06_OEW光纤网络规划与文档指南_V1.1_2025.txt",
+      "sha256": "970b8c762c3de9b3d0e4dfe7b52cd1dd3dbbef44758c04cfa5d0affaca1bcf38",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "file": "07_德国电信电缆保护指令_Kabelschutzanweisung_2026.pdf",
+      "region": "germany",
+      "role": "de_standard",
+      "pages": 9,
+      "text_length": 21501,
+      "source_path": "德国行业标准/07_德国电信电缆保护指令_Kabelschutzanweisung_2026.pdf",
+      "text_path": "data/extracted_standards_text/germany/07_德国电信电缆保护指令_Kabelschutzanweisung_2026.txt",
+      "sha256": "e1bb38e5937a06789db53b0ce770cf8cfc37455dc291068fd43b6560b5c98649",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "file": "08_DGUV地下管线附近施工安全指南_203-017_2019.pdf",
+      "region": "germany",
+      "role": "de_standard",
+      "pages": 40,
+      "text_length": 37810,
+      "source_path": "德国行业标准/08_DGUV地下管线附近施工安全指南_203-017_2019.pdf",
+      "text_path": "data/extracted_standards_text/germany/08_DGUV地下管线附近施工安全指南_203-017_2019.txt",
+      "sha256": "71c499357b685dc430bd9375618f62ef6ea6fac5220678ad39afc2b998b6423c",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "file": "09_莱茵美因地下公用管线保护规范_NRM-N-A001_2023.pdf",
+      "region": "germany",
+      "role": "de_standard",
+      "pages": 19,
+      "text_length": 43691,
+      "source_path": "德国行业标准/09_莱茵美因地下公用管线保护规范_NRM-N-A001_2023.pdf",
+      "text_path": "data/extracted_standards_text/germany/09_莱茵美因地下公用管线保护规范_NRM-N-A001_2023.txt",
+      "sha256": "725e1dd00689aaf56e8497b285d1458b9fcd3828080dade93abb037cbf20094f",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "file": "GB_50373-2019_通信管道与通道工程设计标准.pdf",
+      "region": "china",
+      "role": "cn_standard",
+      "pages": 60,
+      "text_length": 0,
+      "source_path": "中国行业标准/01_核心国家工程建设标准/GB_50373-2019_通信管道与通道工程设计标准.pdf",
+      "text_path": "data/extracted_standards_text/china/GB_50373-2019_通信管道与通道工程设计标准.txt",
+      "sha256": "d9dbd7481b3065659e2c185b98caf61d1a753fad8597594689f33ad86bb3194f",
+      "extraction_status": "image_or_unreadable_text_layer"
+    },
+    {
+      "file": "GB_T_50374-2018_通信管道工程施工及验收标准.pdf",
+      "region": "china",
+      "role": "cn_standard",
+      "pages": 93,
+      "text_length": 52052,
+      "source_path": "中国行业标准/01_核心国家工程建设标准/GB_T_50374-2018_通信管道工程施工及验收标准.pdf",
+      "text_path": "data/extracted_standards_text/china/GB_T_50374-2018_通信管道工程施工及验收标准.txt",
+      "sha256": "359ca0872e85df48546ec6d908cb23561fbd69b9de1a62ee83518a6c66d369f7",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "file": "DB4403_T_587-2025_深圳市地下管线数据规范.pdf",
+      "region": "china",
+      "role": "cn_standard",
+      "pages": 118,
+      "text_length": 95871,
+      "source_path": "中国行业标准/02_地方标准与官方实施指南/DB4403_T_587-2025_深圳市地下管线数据规范.pdf",
+      "text_path": "data/extracted_standards_text/china/DB4403_T_587-2025_深圳市地下管线数据规范.txt",
+      "sha256": "67d9a38d93e1ef4f1526ef8a179f7d3db67dcea4c15a12de9b71813b00537ea3",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "file": "广东省建筑物配建通信基础设施实施指南_试行.pdf",
+      "region": "china",
+      "role": "cn_standard",
+      "pages": 20,
+      "text_length": 13699,
+      "source_path": "中国行业标准/02_地方标准与官方实施指南/广东省建筑物配建通信基础设施实施指南_试行.pdf",
+      "text_path": "data/extracted_standards_text/china/广东省建筑物配建通信基础设施实施指南_试行.txt",
+      "sha256": "2037d2aa96e9c85ceba625d1b105004951578cc995e7ab4fbf5a8c253747fe6e",
+      "extraction_status": "text_extracted"
+    },
+    {
+      "file": "中兴_家庭光纤施工技术白皮书.pdf",
+      "region": "china",
+      "role": "cn_standard",
+      "pages": 36,
+      "text_length": 24573,
+      "source_path": "中国行业标准/03_辅助技术资料_非正式标准/中兴_家庭光纤施工技术白皮书.pdf",
+      "text_path": "data/extracted_standards_text/china/中兴_家庭光纤施工技术白皮书.txt",
+      "sha256": "ae04ee293479e8d061e16187b37647db299db5bdb84a573bb98d092160156f35",
+      "extraction_status": "text_extracted"
+    }
+  ],
+  "rule_documents": [
+    "data/standards/general_gis_data_quality_rules.json",
+    "data/standards/project_dreieich_business_rules.json",
+    "data/standards/de_cn_standards_technical_rules.json"
+  ],
+  "clause_count_by_standard": {
+    "通用GIS数据质量规则": 4,
+    "Dreieich 光纤项目数据与业务规则": 6,
+    "德赖艾希市道路开挖规则": 1,
+    "德国宽带资助GIS数据附加规定": 1,
+    "统一材料与被动基础设施容量方案": 1,
+    "技术设施与施工文档要求": 1,
+    "统一测量方案": 1,
+    "OEW光纤网络规划与文档指南": 1,
+    "德国电信电缆保护指令": 1,
+    "DGUV地下管线附近施工安全指南": 1,
+    "莱茵美因地下公用管线保护规范": 1,
+    "GB_50373-2019_通信管道与通道工程设计标准": 1,
+    "GB_T_50374-2018_通信管道工程施工及验收标准": 1,
+    "DB4403_T_587-2025_深圳市地下管线数据规范": 1,
+    "广东省建筑物配建通信基础设施实施指南_试行": 1,
+    "中兴_家庭光纤施工技术白皮书": 1
+  }
+}

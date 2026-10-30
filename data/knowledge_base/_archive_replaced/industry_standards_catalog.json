@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "file": "工业企业厂内铁路、道路运输安装规程.pdf",
+      "standard_id": "GB-4387-2008",
+      "standard_name": "工业企业厂内铁路、道路运输安全规程",
+      "version": "GB 4387-2008",
+      "relevance_to_subtopic3": "high",
+      "pages": 35,
+      "text_length": 27261,
+      "text_path": "data/extracted_standards_text/工业企业厂内铁路、道路运输安装规程.txt",
+      "extraction_status": "text_extracted",
+      "curated_clause_count": 7
+    },
+    {
+      "file": "施工升降机安全规程.pdf",
+      "standard_id": "GB-10055-2007",
+      "standard_name": "施工升降机安全规程",
+      "version": "GB 10055-2007",
+      "relevance_to_subtopic3": "low",
+      "pages": 11,
+      "text_length": 11701,
+      "text_path": "data/extracted_standards_text/施工升降机安全规程.txt",
+      "extraction_status": "text_extracted",
+      "curated_clause_count": 1
+    },
+    {
+      "file": "架空电力线路与调幅广播收音台的防护间距.pdf",
+      "standard_id": "GB-7495-1987",
+      "standard_name": "架空电力线路与调幅广播收音台的防护间距",
+      "version": "GB 7495-87",
+      "relevance_to_subtopic3": "high",
+      "pages": 6,
+      "text_length": 0,
+      "text_path": "data/extracted_standards_text/架空电力线路与调幅广播收音台的防护间距.txt",
+      "extraction_status": "image_or_unreadable_text_layer",
+      "curated_clause_count": 3
+    },
+    {
+      "file": "标准轨距铁路限界第二部分：建筑限界.pdf",
+      "standard_id": "GB-146.2-2020",
+      "standard_name": "标准轨距铁路限界 第2部分：建筑限界",
+      "version": "GB 146.2-2020",
+      "relevance_to_subtopic3": "high",
+      "pages": 11,
+      "text_length": 4661,
+      "text_path": "data/extracted_standards_text/标准轨距铁路限界第二部分：建筑限界.txt",
+      "extraction_status": "text_extracted",
+      "curated_clause_count": 2
+    },
+    {
+      "file": "煤矿低浓度瓦斯管道输送安全保障系统设计规范.pdf",
+      "standard_id": "GB-40881-2021",
+      "standard_name": "煤矿低浓度瓦斯管道输送安全保障系统设计规范",
+      "version": "GB 40881-2021",
+      "relevance_to_subtopic3": "medium",
+      "pages": 9,
+      "text_length": 6058,
+      "text_path": "data/extracted_standards_text/煤矿低浓度瓦斯管道输送安全保障系统设计规范.txt",
+      "extraction_status": "text_extracted",
+      "curated_clause_count": 1
+    },
+    {
+      "file": "爆炸性环境 第15部分：电气装置设计、选型、安装规范.pdf",
+      "standard_id": "GB-3836.15-2024",
+      "standard_name": "爆炸性环境 第15部分：电气装置设计、选型、安装规范",
+      "version": "GB 3836.15-2024",
+      "relevance_to_subtopic3": "medium",
+      "pages": 55,
+      "text_length": 47838,
+      "text_path": "data/extracted_standards_text/爆炸性环境 第15部分：电气装置设计、选型、安装规范.txt",
+      "extraction_status": "text_extracted",
+      "curated_clause_count": 3
+    },
+    {
+      "file": "电信线路遭受强电线路危险影响的容许值.pdf",
+      "standard_id": "GB-6830-1986",
+      "standard_name": "电信线路遭受强电线路危险影响的容许值",
+      "version": "GB 6830-86",
+      "relevance_to_subtopic3": "high",
+      "pages": 4,
+      "text_length": 0,
+      "text_path": "data/extracted_standards_text/电信线路遭受强电线路危险影响的容许值.txt",
+      "extraction_status": "image_or_unreadable_text_layer",
+      "curated_clause_count": 4
+    },
+    {
+      "file": "电力安全工作规程 电力线路部分.pdf",
+      "standard_id": "GB-26859-2011",
+      "standard_name": "电力安全工作规程 电力线路部分",
+      "version": "GB 26859-2011",
+      "relevance_to_subtopic3": "high",
+      "pages": 30,
+      "text_length": 24139,
+      "text_path": "data/extracted_standards_text/电力安全工作规程 电力线路部分.txt",
+      "extraction_status": "text_extracted",
+      "curated_clause_count": 4
+    },
+    {
+      "file": "系统接地的型式及安全技术要求.pdf",
+      "standard_id": "GB-14050-2008",
+      "standard_name": "系统接地的型式及安全技术要求",
+      "version": "GB 14050-2008",
+      "relevance_to_subtopic3": "medium",
+      "pages": 10,
+      "text_length": 7191,
+      "text_path": "data/extracted_standards_text/系统接地的型式及安全技术要求.txt",
+      "extraction_status": "text_extracted",
+      "curated_clause_count": 3
+    },
+    {
+      "file": "隧道防火保护板.pdf",
+      "standard_id": "GB-28376-2012",
+      "standard_name": "隧道防火保护板",
+      "version": "GB 28376-2012",
+      "relevance_to_subtopic3": "medium",
+      "pages": 16,
+      "text_length": 9201,
+      "text_path": "data/extracted_standards_text/隧道防火保护板.txt",
+      "extraction_status": "text_extracted",
+      "curated_clause_count": 3
+    }
+  ]
+}

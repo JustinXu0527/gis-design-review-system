@@ -1,0 +1,27 @@
+# Runtime dependencies for this project.
+# Use Python >=3.10 because the code uses PEP 604 union types and pathlib helpers.
+
+# FastAPI service layer and Pydantic schema validation.
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+python-multipart>=0.0.9
+
+# GIS design deliverable parsing and spatial calculations.
+numpy>=1.26,<2.0
+pandas>=2.2
+geopandas>=1.0
+shapely>=2.0
+pyogrio>=0.10
+
+# Required by test_models.py for Ollama model smoke tests.
+langchain-ollama==1.1.0
+
+# Required by the local review agent workflow graph.
+langgraph==1.2.4
+
+# Required to call the Docker-hosted Streamable HTTP QGIS MCP service.
+mcp[cli]>=1,<2
+
+# Required by scripts/build_industry_knowledge_base.py for PDF text extraction.
+pymupdf==1.27.2.3

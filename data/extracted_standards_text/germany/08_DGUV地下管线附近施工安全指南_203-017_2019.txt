@@ -1,0 +1,938 @@
+
+
+===== Page 1 =====
+Februar 2019
+Schutzmaßnahmen  
+bei Erdarbeiten in der  
+Nähe erdverlegter Kabel  
+und Rohrleitungen
+DGUV Information 203-017
+203-017
+
+
+===== Page 2 =====
+Impressum
+Herausgegeben von: 
+Deutsche Gesetzliche 
+Unfallversicherung e.V. (DGUV)
+Glinkastraße 40
+10117 Berlin
+Telefon: 030 13001-0 (Zentrale)
+Fax: 030 13001-9876 
+E-Mail: info@dguv.de
+Internet: www.dguv.de
+Sachgebiet Energie und Wasser des Fachbereichs Energie Textil 
+Elektro Medienerzeugnisse (ETEM) der DGUV
+Ausgabe: Februar 2019
+DGUV Information 203-017 
+zu beziehen bei Ihrem zuständigen ­Unfallversicherungsträger oder unter 
+www.dguv.de/publikationen
+Bildnachweis 
+Abb. Seite 7: Innogy SE Grid & Infrastructure; Abb. 1: D. Handrack, 
+Klaus Faber AG; Abb. 2, 4: W. Kneißl, Bayernwerk Netz GmbH; 
+Abb. 5: M. Brunthaber/Sebastian Daniel, Bayernwerk Netz GmbH; 
+Abb. 6 - 12: H.-J. Kuhusch, BG Bau
+kommmitmensch ist die bundesweite Kampagne der gesetzlichen Unfallversicherung 
+in Deutschland. Sie will Unternehmen und Bildungseinrichtungen dabei unterstützen, 
+eine Präventionskultur zu entwickeln, in der Sicherheit und Gesundheit Grundlage 
+allen Handelns sind. Weitere Informationen unter www.kommmitmensch.de
+
+
+===== Page 3 =====
+Schutzmaßnahmen bei Erdarbeiten  
+in der Nähe erdverlegter Kabel  
+und Rohrleitungen
+DGUV Information 203-017  Februar 2019
+
+
+===== Page 4 =====
+Seite
+Inhaltsverzeichnis
+Vorbemerkung..............................................................................................................................................	
+6
+1	
+Anwendungsbereich...............................................................................................................	
+8
+2	
+Begriffsbestimmungen..........................................................................................................	
+9
+3	
+Schadensursachen..................................................................................................................	 10
+4	
+Gefährdungen.............................................................................................................................	 12
+4.1	
+Elektroleitungen........................................................................................................................	 12
+4.2	
+Gasleitungen...............................................................................................................................	 12
+4.3	
+Wasserleitungen........................................................................................................................	 12
+4.4	
+Abwasserleitungen  
+(Schmutz-, Oberflächen- und Mischwasserleitungen).........................................	 13
+4.5	
+Fernwärmeleitungen................................................................................................................	 13
+4.6	
+Telekommunikationsleitungen..........................................................................................	 13
+4.7	
+Sonstige Leitungen (Produktleitungen), z. B. für Chemikalien,  
+Kraftstoffe, Öle, technische Gase.....................................................................................	 14
+5	
+Vorbereitung der Bauarbeiten...........................................................................................	 15
+5.1	
+Einholen von Informationen................................................................................................	 15
+5.2	
+Suchen und Markieren von Leitungen...........................................................................	 16
+5.3	
+Festlegen von Sicherungs- und Schutzmaßnahmen..............................................	 18
+6	
+Durchführung der Bauarbeiten.........................................................................................	 19
+6.1	
+Freilegen von Leitungen.........................................................................................................	 20
+6.2	
+Sichern von Leitungen............................................................................................................	 20
+6.3	
+Unvermutetes Antreffen von Leitungen.........................................................................	 21
+6.4	
+Grabenlose Bauverfahren.....................................................................................................	 22
+
+
+===== Page 5 =====
+Seite
+7	
+Verhalten im Schadensfall...................................................................................................	 23
+7.1	
+Allgemeine Hinweise...............................................................................................................	 23
+7.2	
+Zusätzliche Hinweise bei Schäden an Elektroleitungen......................................	 23
+7.3	
+Zusätzliche Hinweise bei Schäden an Gasleitungen.............................................	 23
+7.4	
+Zusätzliche Hinweise für andere erdverlegte Leitungen......................................	 24
+8	
+Wiederverlegen von Leitungen.........................................................................................	 25
+Anhang 1 
+Vorschriften, Regeln und Normen......................................................................................................	 26
+1.	 Gesetze, Verordnungen....................................................................................................................	 26
+2.	 Unfallverhütungsvorschriften, Regeln und Informationen 
+für Sicherheit und Gesundheit bei der Arbeit.......................................................................	 26
+3.	 Normen/VDE-Bestimmungen.......................................................................................................	 27
+4.	 Andere Informationsquellen.........................................................................................................	 27
+Anhang 2 
+Checkliste. ......................................................................................................................................................	 28
+Anhang 3 
+Empfehlungen für Bauherren und Auftraggeber........................................................................	 30
+Anhang 4 
+Ortung von Leitungen...............................................................................................................................	 31
+Anhang 5 
+Erdaushub im Bereich von erdverlegten Versorgungsleitungen  
+mithilfe von Saugbaggern......................................................................................................................	 34
+Inhaltsverzeichnis
+
+
+===== Page 6 =====
+Erdverlegte Ver- und Entsorgungsleitungen (Kabel, Rohre, Kanäle etc.) sind sowohl 
+in öffentlichen als auch in privaten Grundstücken verlegt. Die Verlegetiefe dieser 
+Leitungen ist sehr unterschiedlich. Die Soll-Tiefe stimmt häufig nicht mit der Ist-­
+Tiefe überein, weshalb die Leitungen manchmal nur wenige Zentimeter unter der 
+Geländeoberfläche liegen. Oft ist ihre Lage nur ungefähr aufgezeichnet, manchmal 
+auch unbekannt.
+Bei Bauarbeiten im Erdreich stellen diese Leitungen nicht nur Hindernisse und 
+­Erschwernisse dar, sondern können, vor allem bei unvermutetem Antreffen oder 
+unsachgemäßem Vorgehen, sogar zur Gefahr für die Beschäftigten und die nähere 
+Umgebung werden.
+Es liegt daher im gemeinsamen Interesse von Bauherren, Betreibern und Auftrag­
+nehmern, vor und während der Durchführung von Erdarbeiten größte Sorgfalt wal­
+ten zu lassen, um Schäden und Unfälle zu vermeiden.
+Tabelle 1	 Netzlängen von erdverlegten Ver- und Entsorgungsleitungen
+in Deutschland (Übersicht)
+Leitungsart
+Netzlänge in km
+Elektro
+ca. 1 000 000
+Gas
+290 000
+Wasser
+500 000
+Kommunikationskabel
+2 550 000
+Abwasser
+1 260 000
+Fernleitungen, andere Produktleitungen
+ca. 35 000
+Gesamte Leitungslänge
+ca. 5 650 000
+Durch mangelhafte Vorbereitung und unsachgemäße Durchführung von Erdarbeiten 
+kommt es häufig zu Beschädigungen von Leitungen und dadurch auch zu ­Gefähr- 
+dungen von Personen.
+Vorbemerkung
+6
+
+
+===== Page 7 =====
+Die meisten Unfälle mit Personenschäden ereignen sich bei Arbeiten an oder in der 
+Nähe von Elektro- und Gasleitungen.
+Jedes Jahr werden den Sachversicherungen ca. 100 000 Schadensfälle gemeldet, 
+für die Entschädigungen in Höhe von rund 500 Mio. Euro geleistet werden müssen. 
+Fachleute gehen allerdings von wesentlich mehr Schadensfällen und damit noch 
+höheren Kosten aus.
+Über die häufig mit Sachschäden einhergehenden Personenschäden gibt es keine 
+verlässlichen Angaben, da sie, sofern es sich um Arbeitsunfälle handelt, von den 
+Unfallversicherungsträgern statistisch nicht gesondert erfasst werden.
+Etwa 80 % der Schäden an Leitungen sind auf Arbeiten mit Baumaschinen zurück­
+zuführen, z. B. Bagger-, Bohr-, Ramm-, Schürf- und Vortriebsarbeiten.
+Jede Beschädigung, auch scheinbar geringfügige wie z. B. eine angekratzte Isolie­
+rung, hat der Verursacher dem Betreiber sofort zu melden, weil gerade die nicht be­
+hobenen kleinen Beschädigungen erhebliche Folgeschäden nach sich ziehen können.
+Vorbemerkung
+7
+
+
+===== Page 8 =====
+1	
+Anwendungsbereich
+Diese DGUV Information findet Anwendung bei allen Erdarbeiten, die auf öffent­
+lichen oder privaten Flächen, maschinell oder von Hand, durchgeführt werden. Sie 
+konkretisiert die Forderungen hinsichtlich der Gefährdungsbeurteilung nach § 5 
+Arbeitsschutzgesetz (ArbSchG), § 3 Unfallverhütungsvorschrift „Grundsätze der 
+Prävention“ (DGUV Vorschrift 1) und § 16 Abs. 1 Unfallverhütungsvorschrift „Bau­
+arbeiten“ (DGUV Vorschriften 38 und 39).
+8
+
+
+===== Page 9 =====
+2	
+Begriffsbestimmungen
+Leitungen sind Kabel, Rohre und Kanäle einschließlich Armaturen, Muffen und 
+­Abzweige. Diese Begriffe werden in § 16 Unfallverhütungsvorschrift „Bauarbeiten“ 
+(DGUV Vorschriften 38 und 39) auch als „Anlagen“ zusammengefasst.
+9
+
+
+===== Page 10 =====
+3	
+Schadensursachen
+Ursachen für die Beschädigung erdverlegter Leitungen können sein:
+1.	 Unzureichende Kenntnis über Art und Lage von Leitungen wegen
+•	 fehlender, ungenügender oder falscher Angaben des Auftraggebers,
+•	 fehlenden Informationsflusses von der Arbeitsvorbereitung zur Baustelle,
+•	 mangelhafter oder unterlassener Ermittlung durch den Auftragnehmer,
+•	 fehlender, ungenauer oder nicht aktualisierter Pläne der Leitungsbetreiber, 
+verursacht z. B. durch:
+–– Minderdeckung im Kreuzungsbereich von Leitungen,
+–– Niveau- und Lageänderung aufgrund nachträglicher Baumaßnahmen, 
+z. B. geänderter Straßenverlauf,
+–– vom Plan abweichende Verlegung der Leitungen aufgrund lokaler Zwangs­
+punkte, z. B. Fundamente.
+2.	 Fehlinterpretation von Plänen wegen
+•	 schlechter Lesbarkeit,
+•	 fehlerhafter Einmessung,
+•	 falscher Angaben zum mechanischen Schutz der Leitung.
+3.	 Vertrauen auf das Vorhandensein eines Trassenwarnbandes und dessen 
+­ausreichenden Abstand zur Leitung
+4.	 Verzicht auf Suchschachtungen
+5.	 Einsatz von Maschinen, obwohl Handschachtung erforderlich ist
+6.	 Fehlende oder unzureichende Unterweisung der Beschäftigten im Umgang mit 
+erdverlegten Kabeln und Leitungen
+10
+
+
+===== Page 11 =====
+7.	 Bei einigen grabenlosen Bauverfahren nach DGUV Information 201-020 
+­„Sicherheitshinweise für grabenloses Bauen“ zusätzlich
+•	 Beschädigung von Leitungen unterhalb der Startschachtsohle durch das 
+­Vernageln der Startlafette,
+•	 Unterschreiten des Mindestabstands zu vorhandenen Leitungen durch Abwei­
+chen von der geplanten Sollachse, z. B. durch Zielfehler oder Auftreffen auf 
+Hindernisse im Untergrund. Dadurch entstehen häufig auch Leitungsbeschä­
+digungen, z. B. durch Eindrücken von Fremdkörpern in die Leitungsummante­
+lungen, die sich oft erst Jahre später bemerkbar machen.
+Schadensursachen
+11
+
+
+===== Page 12 =====
+4	
+Gefährdungen
+Beschädigte Leitungen können Personen gefährden und Auslöser für wei­
+tere Sachschäden sein.
+Nachfolgend werden nur mögliche Gefährdungen für Personen aufgeführt.
+4.1	
+Elektroleitungen
+•	 Bei der Beschädigung von Elektroleitungen, z. B. durch Erdbaumaschi­
+nen, Erdnägel, Fluchteisen, Werkzeuge, Abbohrungen bei Leckgassuche 
+sowie bei direktem Kontakt mit einem stromführenden Leiter besteht 
+unmittelbare Lebensgefahr durch Körperdurchströmung oder 
+Störlichtbogen.
+•	 Durch mechanische Beschädigung der Isolierung, z. B. durch Biegen mit 
+kleinem Radius, kann es sofort oder nach einiger Zeit zu einem Kurz­
+schluss mit Störlichtbogen kommen.
+4.2	
+Gasleitungen
+•	 Infolge mechanischer Beschädigung oder durch Korrosion infolge einer 
+Beschädigung der Außenumhüllung kann Gas austreten und mit der 
+­Umgebungsluft eine explosionsfähige Atmosphäre bilden.
+•	 Mechanisch oder elektrisch erzeugte Funken, offene Flammen, heiße 
+Oberflächen, elektrostatische Entladungen oder andere Zündquellen 
+können das Gas-Luft-Gemisch entzünden.
+4.3	
+Wasserleitungen
+•	 Durch unkontrollierten Wasseraustritt kann die Standsicherheit der 
+­Böschung von Gräben, Baugruben und benachbarten Bauwerken beein­
+trächtigt werden.
+•	 Gehweg- oder Fahrbahnbeläge können durch Unterspülung einbrechen.
+•	 Baugruben und Gräben können überflutet werden.
+12
+
+
+===== Page 13 =====
+4.4	
+Abwasserleitungen (Schmutz-, Oberflächen- und 
+Mischwasserleitungen)
+•	 Durch unkontrollierten Wasseraustritt kann die Standsicherheit der 
+­Böschung von Gräben, Baugruben und benachbarten Bauwerken beein­
+trächtigt werden.
+•	 Die Beschäftigten können biologischen und chemischen Gefährdungen 
+ausgesetzt sein.
+4.5	
+Fernwärmeleitungen
+•	 Durch unkontrolliertes Austreten von Dampf oder heißem Wasser besteht 
+Verbrühungsgefahr.
+•	 Durch unkontrolliertes Austreten von Dampf oder heißem Wasser kann 
+die Standsicherheit der Böschung von Gräben, Baugruben und benach­
+barten Bauwerken beeinträchtigt werden.
+4.6	
+Telekommunikationsleitungen
+•	 Bei Telekommunikationsleitungen, die mit einem Blitzsymbol gekenn­
+zeichnet sind (Leitungen für Fernspeisung), kann bei direktem Kontakt 
+unmittelbare Lebensgefahr bestehen.
+Abb. 1  
+Telekommuni­kationsleitung  
+mit Blitzsymbol
+Gefährdungen
+13
+
+
+===== Page 14 =====
+•	 Bei einer Beschädigung von Glasfaser-Telekommunikationsleitungen (auf 
+dem Außenmantel mit „Wellenlinie“ gekennzeichnet) können die Augen 
+durch das Hineinblicken in den Lichtwellenleiter durch austretende Laser­
+strahlung gefährdet werden.
+4.7	
+Sonstige Leitungen (Produktleitungen), z. B. für Chemikalien, 
+Kraftstoffe, Öle, technische Gase
+•	 Die Gefährdungen sind produktabhängig und beim jeweiligen Betreiber 
+zu erfragen.
+Abb. 2  
+Glasfaser-Telekommunikations-
+leitung mit „Wellenlinie“
+Gefährdungen
+14
+
+
+===== Page 15 =====
+5	
+Vorbereitung der Bauarbeiten
+5.1	
+Einholen von Informationen
+Der Auftragnehmer hat zur Vermeidung von Personen- und Sachschäden 
+vor Beginn der Bauarbeiten zu ermitteln, ob im vorgesehenen Arbeits­
+bereich Leitungen vorhanden sind (siehe auch § 4 Nr. 1 ArbSchG, § 16 
+­Unfallverhütungsvorschrift „Bauarbeiten“ (DGUV Vorschriften 38 und 39) 
+und DGUV Regeln 100-500 und 100-501 ­„Betreiben von Arbeitsmittel“ 
+­Abschnitt 3.10 Kap. 2.12 „Betreiben von Erdbaumaschinen“).
+Dies gilt unabhängig von der Informationspflicht des Bauherrn oder Auf-
+traggebers (siehe auch § 4 ArbSchG, der durch die Nennung im § 2 Abs. 1 
+der Baustellenverordnung (BaustellV) auch für Bauherren gilt), der eindeu-
+tigen Leistungsbeschreibung (siehe z. B. § 7 der Allgemeinen Bestimmun-
+gen für die Vergabe von Bauleistungen (VOB) Teil A) und der vollständigen, 
+geeigneten Ausführungsunterlagen (siehe z. B. § 3 VOB Teil B).
+Der arbeitsausführende Unternehmer bzw. die Unternehmerin hat sich 
+beim Auftraggeber und bei den zuständigen Stellen über Art, Lage, Zustand 
+und Verlauf von Leitungen zu erkundigen. Dies kann durch die Aushändi-
+gung und Erläuterung von Plänen und in verschiedenen Fällen durch eine 
+zusätzliche Einweisung vor Ort geschehen, wobei auch die erforderlichen 
+Schutzmaßnahmen festzulegen sind. Leider sind nur noch wenige Leitungs-
+betreiber bereit, eine Einweisung vor Ort durchzuführen. Darauf sollten die 
+Auftragnehmer jedoch bestehen.
+Zuständige Stellen können sein: Elektrizitäts-, Gas-, Fernwärme- und Was-
+serversorgungsunternehmen, Telekommunikationsunternehmen, private 
+Betreiber von Versorgungsleitungen, Betreiber von Leitungen zur Versor-
+gung von Streitkräften, Zweckverbände, Baugenehmigungsbehörden, 
+­Straßen-, Autobahnbau- oder Wasserwirtschaftsämter.
+15
+
+
+===== Page 16 =====
+5.2	
+Suchen und Markieren von Leitungen
+Der Verlauf und möglichst auch die Tiefenlage aller Leitungen im Baube-
+reich sind deutlich zu kennzeichnen, z. B. Oberflächenmarkierung mit 
+Sprühfarbe, Einmessen und Setzen von Pflöcken. Dabei ist zu beachten, 
+dass bei fehlender Kenntnis der genauen Lage der Leitungen keine Gegen-
+stände in den Boden getrieben werden dürfen.
+Damit erdverlegte Leitungen leichter zu finden sind, können folgende Ein-
+richtungen hilfreich sein:
+•	 Markierungspfähle oder -steine,
+•	 Hinweisschilder für Gas- und Wasserleitungen,
+•	 Markierungen an Hauswänden, z. B. runde gelbe Punkte, Ø 40 mm, mit 
+Aufschrift „G“ für Gas-Hausanschlussleitungen,
+•	 Abdeckungen von Revisions- und Kabelkontrollschächten,
+•	 Straßenkappen für Unterflurhydranten, Ventile und Absperrarmaturen
+•	 Schaltschränke (EVU, Telekom),
+•	 Beleuchtungsmasten (Straßenlaternen),
+•	 Zustand der Straßenoberfläche (Ansatznähte von nachträglich verlegten 
+Leitungen in einer Schwarzdecke, streifenweise Veränderungen im 
+­Straßenpflaster, linienförmige Setzungen),
+•	 Schutz- oder Warnelemente, etwa 20 bis 40 cm über der Leitung, in Form 
+von:
+–– Trassenwarnbändern,
+–– Abdeckungen mit Ziegel- oder Betonformsteinen,
+–– Schutzrohren, z. B. aus Stahl oder Kunststoff,
+•	 Auffinden eines „Sandbettes“.
+Die genaue Position einer Leitung kann ermittelt werden:
+•	 mithilfe von Leitungsortungsgeräten für metallische und nichtmetallische 
+Leitungen (Beispiele und Verfahren siehe Anhang 4),
+•	 durch von Hand anzulegende Suchschlitze (Suchgräben).
+Vorbereitung der Bauarbeiten
+16
+
+
+===== Page 17 =====
+Abb. 3 	 Regelverlegetiefe von Kabeln und Leitungen in öffentlichen Flächen  
+(in Anlehnung an E DIN 1998)
+Vorbereitung der Bauarbeiten
+17
+
+
+===== Page 18 =====
+5.3	
+Festlegen von Sicherungs- und Schutzmaßnahmen
+Die Arbeitsverfahren und die damit verbundenen Sicherungs- und Schutz-
+maßnahmen sind mit den Leitungsbetreibern abzustimmen, insbesondere 
+bei Rohrvortriebs-, Bohr-, Spreng- und Rammarbeiten.
+Elektrische Leitungen sind nach Möglichkeit immer freischalten zu lassen.
+Beim Antreffen von Leitungen (gilt auch für stillgelegte oder vorübergehend 
+außer Betrieb genommene) sind die erforderlichen Maßnahmen immer mit 
+dem Betreiber abzustimmen.
+Erforderliche Sicherungs- und Schutzmaßnahmen:
+•	 Schutzabstände (vertikal und horizontal) zur Leitung einhalten,
+•	 Sicherung der freigelegten Leitung entsprechend der Vorgabe des 
+Leitungsbetreibers.
+Der Auftragnehmer muss vor Beginn der Arbeiten die Telefonnummern  
+von Rettungsdiensten, Polizei, Feuerwehr, Leitungsbetreibern (Störungs-
+dienste) und zuständigen Behörden, z. B. Umweltamt, Wasserwirtschafts-
+amt, Tiefbauamt, ermitteln.
+Vor jeder neuen Arbeitsaufgabe und bei Arbeitsaufnahme nach längerer 
+Arbeitsunterbrechung müssen die Beschäftigten eingewiesen werden.
+Vorbereitung der Bauarbeiten
+18
+
+
+===== Page 19 =====
+Bauarbeiten müssen von fachlich geeigneten Vorgesetzten geleitet und  
+von weisungsbefugten Personen beaufsichtigt werden (siehe § 4 Unfallver-
+hütungsvorschrift „Bauarbeiten“ [DGUV Vorschriften 38 und 39]). 
+Erdverlegte elektrische Leitungen sind als unter Spannung stehend 
+zu betrachten, solange der Betreiber nicht ausdrücklich (schrift-
+lich) die Spannungsfreiheit bestätigt hat.
+Das Hantieren, z. B. Bewegen, Aufnehmen, Hochhängen, mit nicht 
+freigeschalteten Leitungen ist eine elektrotechnische Arbeit, die 
+nur von Personen durchgeführt werden darf, die für solche Tätig-
+keiten qualifiziert und unterwiesen sind, die Weisung des Betrei-
+bers kennen und die festgelegten Schutz- und Hilfsmittel (geeigne-
+tes Werkzeug) benutzen.
+Andere Leitungen, insbesondere Gas- und Fernwärmeleitungen, sind solan-
+ge als gefährdend zu betrachten, bis der Betreiber ausdrücklich (schriftlich) 
+die von ihm durchzuführenden Schutz- und Sicherungsmaßnahmen bestä-
+tigt hat.
+Die Schutzabstände zu den einzelnen Leitungen sind nach Maßgabe der 
+Leitungsbetreiber einzuhalten. Maschineller Aushub ist bis maximal 30 cm 
+oberhalb oder seitlich der Leitung zulässig. Schutz- und Warnelemente bie-
+ten keinen Schutz gegen mechanische Beschädigung.
+Vorhandene Schachtabdeckungen und Straßenkappen sind stets freizu-  
+halten.
+Besondere Sicherungsmaßnahmen sind in Abstimmung mit den Betreibern 
+z. B. bei Richtungsänderungen, Abzweigen und Leitungsringen festzulegen.
+!
+6	
+Durchführung der Bauarbeiten
+19
+
+
+===== Page 20 =====
+6.1	
+Freilegen von Leitungen
+Handschachtung zum Freilegen 
+von Leitungen mit Handwerk-
+zeugen ist möglichst mit stump-
+fen, waagerecht zu führenden 
+Werkzeugen, z. B. Schaufeln, 
+durchzuführen.
+Im innerstädtischen Bereich 
+sind Saugbagger besonders gut 
+für Erdarbeiten in der Nähe erd-
+verlegter Leitungen geeignet 
+(siehe Anhang 5).
+6.2	
+Sichern von Leitungen
+•	 Freigelegte Leitungen dürfen nur nach Vorgabe oder unter Mitwirkung des 
+Betreibers gesichert werden.
+•	 Lageänderungen dürfen nur in Abstimmung mit dem Betreiber vorgenom-
+men werden.
+•	 Leitungen sind vor mechanischen Belastungen und Beschädigungen zu 
+schützen. Punktuelle Aufhängungen sind wegen möglicher Beschädigun-
+gen, z. B. durch Knicke oder kleine Biegeradien, unzulässig. Der Einbau 
+von geeigneten Unterstützungen ist mit dem Betreiber abzustimmen.
+•	 Sicherungsarbeiten an Leitungen sind so durchzuführen, dass deren 
+Dichtheit und Festigkeit nicht beeinträchtigt werden.
+Abb. 4	 Saugrohr eines Saugbaggers  
+im Einsatz
+Durchführung der Bauarbeiten
+20
+
+
+===== Page 21 =====
+•	 Bei Leitungen aus PVC oder Metallguss, die nahe zur Baugruben- oder 
+Grabenwand liegen, ist mit dem Betreiber an Hand der Gefährdungs­
+beurteilung zu prüfen, ob zusätzliche Schutzmaßnahmen erforderlich 
+sind, wie z. B.:
+–– Leitungen freilegen, um sie während der Bauarbeiten beobachten zu 
+können.
+–– Leitungen, die unter Druck betrieben werden, nach Möglichkeit im Bau-
+bereich mit Schiebern absperren oder drucklos machen. 
+Auf jeden Fall ist vor Ort zu prüfen, ob Absperrvorrichtungen oberhalb 
+und unterhalb der Baustelle vorhanden und funktionsfähig sind.
+–– Baugrube oder Graben so sichern, dass plötzlich aus berstenden Lei-
+tungen austretendes Medium, insbesondere Wasser, die Beschäftigten 
+im Arbeitsbereich nicht gefährden kann. Dazu zählt auch die Sicherstel-
+lung geeigneter Fluchtwege.
+6.3	
+Unvermutetes Antreffen von Leitungen
+Bei unvermutetem Antreffen von Leitungen sind die Arbeiten sofort einzu-
+stellen. Die Stelle ist zu sichern und zu kennzeichnen (Gefahrenbereich 
+absperren, Zugang verhindern).
+Die infrage kommenden Leitungsbetreiber und der Auftraggeber sind zu 
+verständigen und mit ihnen das weitere Vorgehen abzustimmen.
+Durchführung der Bauarbeiten
+21
+
+
+===== Page 22 =====
+6.4	
+Grabenlose Bauverfahren
+(siehe auch gleichnamige DGUV Information 201-020 und  
+DWA-Arbeitsblatt A 125/DVGW-Merkblatt GW 304 „Rohrvortrieb“)
+•	 Die Lage der vorhandenen Leitungen und die Bodenverhältnisse im 
+­Bereich der Vortriebsstrecke (Bodenart, Lagerungsdichte, Höhe des 
+Grundwasserspiegels, Auffüllungen mit Fremdmaterial) müssen exakt 
+ermittelt werden, um Abweichungen von der Sollachse zu vermeiden.
+•	 Die Startgrube sollte dort angelegt werden, wo sich die meisten Leitun-
+gen (Kabelpakete, Schächte, Kreuzungspunkte) befinden.
+•	 Bei Bodenverdrängungsverfahren ist der Mindestabstand zu vorhande-
+nen Leitungen mit den Leitungsbetreibern festzulegen, um auch indirekte 
+Leitungsbeschädigungen zu vermeiden.
+•	 Bei ungesteuerten Horizontalbohrungen (ohne laufende Ortung des Vor-
+triebskopfes) besteht die Gefahr unkontrollierter Abweichungen von der 
+vorgesehenen Bohrachse. Daher ist dieses Bohrverfahren nur zulässig, 
+wenn im Arbeitsumfeld keine in Betrieb befindlichen erdverlegten Leitun-
+gen vorhanden sind.
+Durchführung der Bauarbeiten
+22
+
+
+===== Page 23 =====
+7	
+Verhalten im Schadensfall
+7.1	
+Allgemeine Hinweise
+•	 Arbeiten an der Schadensstelle sofort einstellen.
+•	 Personen müssen umgehend den Gefahrenbereich verlassen.
+•	 Gefahrenbereich großräumig absperren.
+•	 Aufsichtführenden, Leitungsbetreiber, evtl. Feuerwehr, Polizei verständi-
+gen. Der Leitungsbetreiber ist auch bei geringfügigen Beschädigungen, 
+z. B. an der Isolierung einer Gas-, Wasser-, Fernwärme- oder Elektrolei-
+tung, zu verständigen. Sofort gemeldete Schäden können häufig mit rela-
+tiv geringem Aufwand repariert werden, während Nachfolgeschäden oft 
+mit sehr hohem Kostenaufwand für den Verursacher verbunden sind.
+7.2	
+Zusätzliche Hinweise bei Schäden an Elektroleitungen
+•	 Alle Personen auffordern, größtmöglichen Abstand zu halten.
+•	 Arbeitsgerät aus dem Gefahrenbereich bringen. 
+•	 Betreiber veranlassen, die Leitung spannungsfrei zu schalten.
+7.3	
+Zusätzliche Hinweise bei Schäden an Gasleitungen
+•	 Absolutes Rauchverbot,
+•	 Feuer und Funkenbildung vermeiden,
+•	 Zündquellen beseitigen, sofern gefahrlos möglich,
+•	 Motoren abstellen,
+•	 Keine Schalter betätigen,
+•	 Keine Stecker ziehen,
+•	 Zufahrt für Störungsdienst und Einsatzkräfte freimachen,
+•	 Zur Vermeidung von Zündquellen Anwohner warnen:
+–– nicht klingeln,
+–– im Haus keine elektrischen Geräte oder Anlagen, z. B. Licht, ein- oder 
+ausschalten,
+23
+
+
+===== Page 24 =====
+•	 Personen zum Verlassen des Gebäudes auffordern, dabei Fenster und 
+Türen offen lassen.
+7.4	
+Zusätzliche Hinweise für andere erdverlegte Leitungen
+•	 Telekommunikationsleitungen
+–– Berühren beschädigter Kabel vermeiden, insbesondere dann, wenn  
+sie in den Lageplänen mit dem Blitzsymbol gekennzeichnet sind 
+­(Überschreitung der Grenzwerte nach DIN VDE 0800-3).
+–– Bei Beschädigung von Glasfaserkabeln nicht direkt in den Lichtwellen-
+leiter blicken.
+•	 Wasserleitungen
+–– Absperrschieber schließen (lassen),
+–– Betroffene Verkehrswege erforderlichenfalls großräumig sichern.
+Verhalten im Schadensfall
+24
+
+
+===== Page 25 =====
+8	
+Wiederverlegen von Leitungen
+Wenn Leitungen, deren ursprüngliche Lage zur Durchführung von Bauarbeiten ver-
+ändert worden ist, wiederverlegt werden, sind die Anweisungen des Betreibers zu 
+beachten. Dazu gehört unter anderem, dass
+•	 Mindestabstände zu anderen Leitungen eingehalten und
+•	 Schutz- und Warnelemente eingebaut werden.
+25
+
+
+===== Page 26 =====
+Anhang 1
+Vorschriften, Regeln und Normen
+Nachstehend sind die in dieser DGUV Information aufgeführten Vorschrif-
+ten, Bestimmungen und Regeln zusammengestellt:
+1.	
+Gesetze, Verordnungen
+Bezugsquelle: 
+Buchhandel und Internet, z. B. www.gesetze-im-internet.de
+•	 Arbeitsschutzgesetz (ArbSchG)
+•	 Betriebssicherheitsverordnung (BetrSichV)
+•	 Baustellenverordnung (BaustellV)
+•	 Allgemeine Bestimmungen für die Vergabe von Bauleistungen (VOB)  
+Teil A und Teil B
+2.	
+Unfallverhütungsvorschriften, Regeln und Informationen  
+für Sicherheit und Gesundheit bei der Arbeit
+Bezugsquelle: 
+Bei Ihrem zuständigen Unfallversicherungsträger und unter  
+www.dguv.de/publikationen
+•	 DGUV Vorschrift 1 „Grundsätze der Prävention“
+•	 DGUV Vorschriften 38 und 39 „Bauarbeiten“
+•	 DGUV Regeln 100-500 und 100-501 „Betreiben von Arbeitsmitteln“
+•	 DGUV Information 201-020 „Sicherheitshinweise für grabenloses Bauen“
+26
+
+
+===== Page 27 =====
+3.	
+Normen/VDE-Bestimmungen
+Bezugsquelle: 
+Beuth Verlag GmbH, Burggrafenstraße 6, 10787 Berlin 
+und VDE-Verlag, Bismarckstraße 33, 10625 Berlin
+•	 E DIN 1998:2017-06 
+Unterbringung von Leitungen und Anlagen in öffentlichen Verkehrs­
+flächen – Richtlinie für die Planung
+•	 DIN 54841-3:2016-09 
+Warneinrichtung aus Kunststoff für erdverlegte Kabel und Rohrleitungen – 
+Teil 3: Detektierbares Trassenband
+•	 DIN VDE 0800-3 (VDE 0800-3):2003-12 
+Informationstechnik Teil 3: Sicherheit von Anlagen mit Fernspeisung
+4.	
+Andere Informationsquellen
+•	 DVGW-Hinweis GW 315 
+Hinweise für Maßnahmen zum Schutz von Versorgungsanlagen bei 
+Bauarbeiten
+•	 DVGW-Merkblatt GW 304 oder DWA-Arbeitsblatt A 125 
+Rohrvortrieb
+Anhang 1
+27
+
+
+===== Page 28 =====
+Anhang 2
+Checkliste
+	 	
+Ja	
+Nein
+1.	 Liegen Leitungspläne vor?	
+	
+–	 Elektroleitungen	
+	
+–	 Fernmeldeleitungen (öffentlicher, privater Anbieter)	
+	
+–	 Leitungen der DB	
+	
+–	 Gasleitungen	
+	
+–	 Wasserleitungen	
+	
+–	 Abwasserleitungen	
+	
+–	 Bundeswehr/NATO	
+	
+–	 Produktleitungen	
+	
+–	 Sonstige Leitungen	
+	
+2.	 Stehen Leitungssuchgeräte zur Verfügung, um Leitungen orten  
+zu können, die nicht in Bestandsplänen verzeichnet sind? 
+(Mit Leitungssuchgeräten kann auch der exakte Verlauf von  
+Leitungen festgestellt werden, die in Bestandsplänen  
+verzeichnet sind.)	
+	
+3.	 Sind Ortstermine mit den Leitungsbetreibern vereinbart?	
+	
+–	 Leitungsbetreiber: 
+–	 Termin:  
+(Bei nicht ausreichendem Platz bitte Terminvereinbarung als Anlage beifügen.)
+4.	 Sind der Leitungsverlauf und die Verlegetiefe deutlich  
+gekennzeichnet, z. B. mit Sprühfarbe? 	
+	
+5.	 Sind mit den Leitungsbetreibern Schutz- und Sicherungs- 
+maßnahmen vereinbart?	
+	
+6.	 Sind die speziellen Werkzeuge, Geräte, technische Einrich- 
+tungen etc. zur Durchführung der vereinbarten Schutz- und  
+Sicherungsmaßnahmen beschafft und zur Verfügung gestellt?	
+	
+28
+
+
+===== Page 29 =====
+Ja	
+Nein
+7.	 Sind die Baustellenanlieger über das Bauvorhaben informiert? 	
+	
+8.	 Liegen die wichtigen Telefonnummern auf der Baustelle bereit,  
+z. B. Rettungsdienste, Feuerwehr, Leitungsbetreiber?	
+	
+9.	 Sind die Beschäftigten für die vorgesehenen Arbeiten qualifiziert  
+und unterwiesen?	
+	
+10.	Sind die Beschäftigten über die Gefährdungen und über  
+das Verhalten im Schadensfall unterwiesen?	
+	
+11.	 Steht den Beschäftigten die erforderliche persönliche  
+Schutzausrüstung zur Verfügung?	
+	
+Anhang 2
+29
+
+
+===== Page 30 =====
+Anhang 3
+Empfehlungen für Bauherren und Auftraggeber
+Unfälle und Schäden während der Durchführung von Baumaßnahmen zu vermeiden 
+liegt im gemeinsamen Interesse von Auftragnehmern, Betreibern und Bauherren. 
+Um dieses Ziel zu erreichen, sollten die nachfolgenden Hinweise beachtet werden:
+•	 Bei Neu- und Wiederverlegung von Leitungen sollten Trassenwarnbänder  
+verlegt werden.
+•	 Trassenwarnbänder sind in ausreichend großem Abstand über und neben  
+der Leitung einzubauen.
+•	 Nichtmetallische Leitungen sollten nach Möglichkeit mit Ortungseinrichtungen 
+versehen werden (siehe Anhang 4).
+•	 Detektierbare Trassenwarnbänder mit hoher Reißfestigkeit bei gleichzeitig  
+relativ geringer Bruchdehnung gemäß DIN 54841-3 sind zu bevorzugen.
+•	 Bei Unterschreiten der Regelverlegetiefe nach E DIN 1998 sind zusätzliche 
+­Schutzmaßnahmen festzulegen.
+•	 Das Herstellen von Suchschlitzen von Hand (Handaushub) ist explizit im 
+­Leistungsverzeichnis zu beschreiben. Diese Arbeiten können als eigene  
+Position aufgenommen werden oder in anderen Leistungspositionen, die 
+­Erdarbeiten beschreiben, enthalten sein.
+•	 Die dem Auftragnehmer von den Leitungsbetreibern zur Verfügung zu  
+stellenden Leitungspläne müssen aktuell und vollständig sein.
+30
+
+
+===== Page 31 =====
+Anhang 4
+Ortung von Leitungen
+Abb. 5	 Leitungssuche mit 
+Ortungsgerät
+„Vor Beginn von Bauarbeiten ist durch den Unternehmer bzw. die Unternehmerin zu 
+ermitteln, ob im vorgesehenen Arbeitsbereich Anlagen vorhanden sind, durch die 
+Personen gefährdet werden können.
+Sind Anlagen vorhanden, so sind im Benehmen mit dem Eigentümer oder dem Be-
+treiber der Leitung deren Lage und Verlauf zu ermitteln sowie die erforderlichen 
+Sicherungsmaßnahmen festzulegen und durchzuführen“.
+So lautet die Forderung im § 16 der Unfallverhütungsvorschrift „Bauarbeiten“ 
+(DGUV Vorschriften 38 und 39).
+Der arbeitsausführende Unternehmer bzw. die Unternehmerin hat sich also immer vor  
+Beginn der Arbeiten bei den zuständigen Stellen zu erkundigen, ob Kabel oder Leitun- 
+gen im Arbeitsbereich vorhanden sind, welchen Verlauf und welche Tiefe diese haben.
+Stehen nur ungenaue Kabelpläne zur Verfügung, 
+muss durch manuelle Suchschachtungen die 
+Lage der Kabel bestimmt werden. Nach den Er-
+kundigungsarbeiten sind der Verlauf und möglichst 
+auch die Tiefenlage der Kabel im Baubereich kennt- 
+lich zu machen. Das kann durch Oberflächenmar- 
+kierungen mit Sprühfarbe geschehen oder durch 
+Einmessen und Setzen von Pflöcken. Dabei ist zu 
+beachten, dass bei fehlender Kenntnis der ge-
+nauen Lage der Leitungen keine Gegenstände in 
+den Boden getrieben werden dürfen, welche die 
+erdverlegten Leitungen beschädigen könnten.
+Die genaue Position erdverlegter Kabel kann 
+alternativ mit Kabelortungsgeräten gefunden 
+werden. Diese Arbeit ist unkompliziert und man 
+kann sie nach kurzer Einarbeitung problemlos 
+selber durchführen.
+31
+
+
+===== Page 32 =====
+Wie funktioniert nun ein Kabelortungsgerät?
+Wenn durch Leitungen Wechselstrom fließt, entsteht um diese Leitungen ein elekt-
+romagnetisches Wechselfeld. Das Kabelortungsgerät erkennt dieses Feld und zeigt 
+es an.
+Es gibt zwei prinzipielle Ortungsvarianten: die passive und die aktive Ortung.
+Passive Ortung
+Bei der passiven Ortung werden die Frequenzen 
+geortet, die von dem zu suchenden Kabel ausge-
+strahlt werden. Hierbei handelt es sich meistens 
+um 50 Hz. Auch Langwellenfrequenzen zwischen 
+15 und 23 kHz können detektiert werden, da sie 
+erdverlegte Kabel und Leitungen als Rückleiter 
+zum Ausgangspunkt nutzen.
+Bei der passiven Ortung können allerdings nur 
+stromdurchflossene Leitungen geortet werden.
+Aktive Ortung
+Bei der aktiven Ortung wird von einem Generator ein künstlich erzeugtes Signal in 
+das Kabel oder auf die metallisch leitende Rohrleitung eingespeist. Dieses Verfah-
+ren wird dann angewendet, wenn von der zu ortenden Leitung selbst kein Signal 
+ausgeht oder diese Leitung nicht von anderen, im Arbeitsbereich vorhandenen Lei-
+tungen unterschieden werden kann. Durch Verfolgung dieses Signals kann z. B. ein 
+Trassenverlauf exakt bestimmt und seine Tiefe genau ermittelt werden.
+Abb. 6 	 Passive Ortung einer strom- 
+durchflossenen Leitung
+Anhang 4
+32
+
+
+===== Page 33 =====
+Es gibt zwei unterschiedliche Methoden der Signaleinkopplung auf die zu ortende 
+Leitung:
+•	 direkte (galvanische) Kopplung und
+•	 indirekte (induktive) Kopplung.
+Die direkte (galvanische) Kopplung kommt zur 
+Anwendung, wenn die zu ortende Leitung prob-
+lemlos zugänglich und spannungsfrei ist. Hier 
+wird eine direkte elektrische Verbindung zwi-
+schen Signalquelle und Leitung hergestellt.
+Die indirekte (induktive) Kopplung kommt zur 
+Anwendung, wenn kein direkter Zugang zu der 
+zu ortenden Leitung besteht oder dieses unter 
+Spannung steht.
+Bei der induktiven Kopplung wird häufig eine Sendezange um die im weiteren Ver-
+lauf zu ortende Leitung gelegt, so dass diese Leitung während der Ortung in Betrieb 
+bleiben kann.
+Durch weiteres Zubehör, wie z. B. Schubkabel oder Sonden, können auch Kunst-
+stoffrohrleitungen geortet werden.
+Abb. 7	 Indirekte (induktive) Ein-
+kopplung eines Signals
+Abb. 8  
+Aktive Ortung, im Vordergrund 
+Sender zur Signaleinkopplung
+Anhang 4
+33
+
+
+===== Page 34 =====
+Anhang 5
+Erdaushub im Bereich von erdverlegten  
+Versorgungsleitungen mithilfe von Saugbaggern
+Abb. 9	 Saugrohr im Einsatz
+Tiefbauarbeiten werden häufig dadurch 
+erschwert, dass im Arbeitsbereich Lei-
+tungen verlegt sind. Von allen Netzbe-
+treibern wird vorgeschrieben, dass ab 
+einem gewissen Abstand zur Leitung 
+nicht mehr mit Baggern gearbeitet wer-
+den darf. Um die Leitungen nicht zu be-
+schädigen, schreiben die Auftraggeber 
+der Tiefbauarbeiten meistens Hand-
+schachtungen vor. Allerdings zeigt die 
+Erfahrung, dass auch bei Handschach-
+tung erdverlegte Leitungen beschädigt 
+werden. Handschachtungen sind außerdem körperlich anstrengend, teuer und 
+zeitaufwendig.
+Eine gute Alternative zu Handschachtungen kann der Einsatz von Saugbaggern 
+sein. Mit diesen Geräten kann das Erdreich nach oben abgesaugt und die Leitungen 
+freigelegt werden, ohne sie dabei zu beschädigen.
+Saugbagger können überall dort eingesetzt werden, wo beim Einsatz von hydrauli-
+scher Aushubtechnik ein hohes Beschädigungsrisiko für Leitungen besteht.
+Auch der Platzbedarf kann durch den Einsatz von Saugbaggern verringert werden, 
+da das abgetragene Erdmaterial direkt im Saugbagger gelagert wird.
+34
+
+
+===== Page 35 =====
+Funktion eines Saugbaggers
+Saugbagger sind vergleichbar mit gigantischen Staubsaugern. Das Gebläse im 
+Saugbagger erzeugt Luftströme von bis zu 32 000 m³/h und einen Unterdruck von 
+bis zu 400 hPa. Der Saugschlauch ist über einen Träger hydraulisch dreidimensional 
+bewegbar. Im Bereich der Saugkrone des Saugstutzens wird das Material vom Luft-
+strom mitgerissen.
+Abb. 10	Bestandteile eines Saugbaggers
+Anhang 5
+35
+
+
+===== Page 36 =====
+Saugbar sind alle festen Stoffe bis zu einer Korngröße des Saugschlauchdurchmes-
+sers. Dabei können sogar faustgroße Steine mitgerissen werden.
+Im Sammelraum erfolgt dann 
+die Ablagerung aller größeren 
+Partikel. Über Abscheidekam-
+mern und Filter wird der Luft-
+strom weiter gereinigt und 
+getrocknet. Über die Feinstfil-
+tereinheit werden letzte Stäu-
+be absorbiert. Die gereinigte 
+Luft wird dann über eine 
+großflächige Schalldämmein-
+heit nach oben ausgestoßen. 
+Je nach Einsatzzweck gibt es 
+verschiedene Modelle, deren 
+benötigte Saugleistung mit 
+einem oder mehreren Ventila-
+toren erreicht wird.
+Bei Maximalleistung sind Saugdistanzen je nach 
+Material von bis zu 150 m horizontal und 50 m verti-
+kal möglich.
+Beim vollständigen Ausfahren des hydraulisch 
+geführten Gelenkschlauchträgers sind Reichweiten 
+des Saugbaggers von sechs bis sieben Metern 
+möglich. Dadurch kann der Bagger von einem si-
+cheren Standort per Funkfernbedienung gesteuert 
+werden. Der Saugschlauch wird bis zur Saugkrone 
+fest geführt und kann dadurch genauestens an der 
+Saugstelle positioniert werden.
+Abb. 11 	Saugbagger großer Leistung auf LKW-Fahrgestell
+Abb. 12:	 Kleiner Saugbagger
+Anhang 5
+36
+
+
+===== Page 38 =====
+Notizen
+
+
+===== Page 40 =====
+Berufsgenossenschaft  
+der Bauwirtschaft
+Hildegardstraße 29/30 
+10715 Berlin 
+www.bgbau.de 
+ 
+Präventions-Hotline der BG BAU: 
+0800 80 20 100 (gebührenfrei) 
+praevention@bgbau.de

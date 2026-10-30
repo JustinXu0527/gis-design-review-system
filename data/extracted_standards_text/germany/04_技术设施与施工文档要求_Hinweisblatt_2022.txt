@@ -1,0 +1,146 @@
+
+
+===== Page 1 =====
+für die Bundesländer Baden-Würt-
+temberg, Bayern, Berlin, Branden-
+burg, Sachsen, Sachsen-Anhalt und 
+Thüringen  
+Tel. +49 (0)30 2332 49 - 777
+projekttraeger@atenekom.eu  
+www.atenekom.eu 
+Tel. +49 (0)30 2636 5050
+kontakt@gigabit-pt.de 
+www.gigabit-projekttraeger.de
+Projektgebiet A:
+PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft  
+Projektgebiet B:
+atene KOM GmbH 
+für die Bundesländer Bremen, Ham-
+burg, Hessen, Mecklenburg-Vorpom-
+mern, 
+Niedersachsen, 
+Nordrhein-
+Westfalen, Rheinland-Pfalz, Saarland 
+und Schleswig-Holstein 
+ 
+- 
+Version 1.0 vom 02.06.2022      - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hinweisblatt zur Dokumentation der technischen 
+Anlagen und des Baus 
+  
+Für durchgeführte Maßnahmen auf Grundlage der Richtlinie „Förderung zur Unterstüt-
+zung des Gigabitausbaus der Telekommunikationsnetze in der Bundesrepublik Deutsch-
+land“ vom 26.04.2021 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Eine Handreichung der Projektträger für das 
+Bundesförderprogramm Breitband 
+PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft 
+(Projektgebiet A)  
+und atene KOM GmbH (Projektgebiet B) 
+ 
+Im Auftrag des Bundesministeriums für Digitales und Verkehr
+
+
+===== Page 2 =====
+Status: Version 1.0 vom 02.06.2022                                                                                                                                              Seite 2 von 3 
+ 
+Dokumentation der technischen Anlagen und des Baus 
+Um den effizienten Mitteleinsatz im Bundesförderprogramm nachzuweisen, sind im Rahmen 
+der Mitteilungs- und Berichtspflichten des Zuwendungsempfängers folgende Punkte zu do-
+kumentieren und einzureichen:  
+ 
+1 Fotodokumentation  
+Pro Bauabschnitt wird nach BNBest-Gigabit 1.2. die Erstellung einer Fotodokumentation unter Angabe 
+der GPS-Koordinaten und des Datums abverlangt. Diese Dokumentation umfasst die Verlegung und In-
+stallation der wesentlichen Komponenten sowie die offenen Trassen.  
+Die Trassen, sowie die Verzweigereinrichtungen mit Komponenten sind mittels Foto zu dokumentieren. 
+Trassen mit einer Länge von über 500 Metern werden im Intervall von ungefähr 500 Metern fotografisch 
+dokumentiert (offene Trasse mit Bestückung). Verteileinrichtungen mit Komponenten, z. B. Kabelverzwei-
+ger, Splitter sind so zu fotografieren, dass die Komponenten erkennbar sind.  
+Die Übermittlung der Fotos soll grundsätzlich in einem komprimierten Format erfolgen. 
+Bevorzugt werden die Dateiformate JPG und PNG.  
+ 
+ 
+2 Dokumentation der Leistungsfähigkeit des Netzes nach BNBest-Gi-
+gabit 4.2.1  
+Binnen sechs Monaten nach der Inbetriebnahme der Infrastruktur belegt der Zuwendungsempfänger die 
+Funktion des Netzes anhand von Messprotokollen für die geförderte Infrastruktur. Hierzu hat der Zuwen-
+dungsempfänger im Verhältnis zum Begünstigten (Netzbetreiber) sicherzustellen, dass dieser aussage-
+kräftige Messprotokolle liefert. 
+Für die Verfügbarkeit der Bandbreite bei den Endverbrauchern ist die Dämpfung pro Gebäude anzugeben. 
+Der Wert bezieht sich auf die Strecke von der aktiven Technik bis zum Hausübergabepunkt. Die Angabe 
+der Dämpfung erfolgt unter Angabe eines Dämpfungsbudgets bei FTTB/H Verbindungen. Die Tabelle der 
+Dämpfungswerte ist gebäudescharf nach Inbetriebnahme des Netzes vorzuhalten und auf Verlangen der 
+Bewilligungsbehörde in elektronischer Form einzureichen. Die Bewilligungsbehörde behält sich die Mög-
+lichkeit vor, weitere Daten und Messprotokolle anzufordern.  
+Um die Erreichung der Förderziele gemäß Richtlinie zu kontrollieren, wird die Bewilligungsbehörde oder 
+ein durch sie beauftragtes Unternehmen Stichprobenmessungen an den Verteileinrichtungen und beim 
+Endkunden durchführen. Der Begünstigte hat auf Verlangen Zugang zu sämtlichen messrelevanten Anla-
+gen zu gewähren. Der Zuwendungsempfänger hat im Verhältnis zum Begünstigten sicherzustellen, dass 
+dieser der Bewilligungsbehörde im Rahmen der Verwendungsnachweisprüfung auf Verlangen Zugang zu 
+sämtlichen messrelevanten (auch den nicht geförderten) Anlagen zur Durchführung eigener Kontrollmes-
+sungen (stichprobenartige Messungen) gewährt.
+
+
+===== Page 3 =====
+Status: Version 1.0 vom 02.06.2022                                                                                                                                              Seite 3 von 3 
+ 
+Je nach eingesetzter Übertragungstechnologie werden unterschiedliche Messmethoden für die Ermitt-
+lung der physikalischen Eigenschaften des Übertragungsmediums eingesetzt. Darüber hinaus werden bei-
+spielsweise die vorhandene Bandbreite und der Durchsatz von TCP-Verbindungen im Rahmen der Mes-
+sungen getestet. Die Messungen erfolgen in einer empirisch hergeleiteten Anzahl zu verschiedenen Ta-
+geszeiten.  
+ 
+3 Kontakt 
+Als Bewilligungsbehörden zur Umsetzung des Breitbandförderprogramm des Bundes wurden durch das 
+Bundesministerium für Verkehr und Digitales zwei Projektträger - atene KOM GmbH und Pricewater-
+house-Coopers GmbH Wirtschaftsprüfungsgesellschaft (PwC) - ernannt.  
+Die Zuständigkeiten teilen sich geografisch wie folgt auf:  
+ 
+Projektgebiet A: PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft 
+für die Bundesländer Baden-Württemberg, Bayern, Berlin, Brandenburg, Sachsen, Sachsen-Anhalt 
+und Thüringen  
+ 
+Website: www.gigabit-projekttraeger.de  
+Zentrales Antragsportal: www.gigabit-projekttraeger.de  
+ 
+ 
+Projektgebiet B: atene KOM GmbH  
+für die Bundesländer Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, 
+Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein  
+ 
+Website: www.atenekom.eu  
+Zentrales Antragsportal: www.projekttraeger-breitband.de  
+ 
+Für Fragen zum Förderprogramm, zur Antragstellung und bei technischen Schwierigkeiten mit dem jewei-
+ligen Antragsportal haben die Projektträger jeweils Beratungshotlines eingerichtet.  
+Diese sind wie folgt erreichbar:  
+ 
+atene KOM GmbH: 030 - 2332 49 – 777 (Mo-Fr, 09 bis 17 Uhr)  
+ 
+PwC GmbH WPG: 030 - 2636 5050 (Mo-Fr, 09 bis 17 Uhr)

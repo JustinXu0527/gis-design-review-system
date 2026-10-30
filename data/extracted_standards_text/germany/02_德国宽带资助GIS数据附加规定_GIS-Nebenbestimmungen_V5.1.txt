@@ -1,0 +1,1478 @@
+
+
+===== Page 1 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 1 von 17 
+ 
+ 
+ 
+ 
+ 
+ 
+GIS-Nebenbestimmungen 
+ 
+Version 5.1 vom 03.04.2023 
+Inhalt 
+1 
+Einführung ............................................................................................................................. 2 
+1.1 
+Umfang und Datenlieferung .......................................................................................... 2 
+1.2 
+Formatvorgaben und Datenqualität................................................................................ 2 
+2 
+Verfahrensschritte (Phasen) ................................................................................................... 4 
+2.1 
+Phase 1: Nach Durchführung des MEV ......................................................................... 4 
+2.2 
+Phase 2: Ergebnis des Vergabeverfahrens bis zum Baubeginn (Planung) ..................... 4 
+2.3 
+Phase 3: Zwischennachweis........................................................................................... 4 
+2.4 
+Phase 4: Verwendungsnachweis .................................................................................... 4 
+3 
+Layer (Geodaten-Tabellen) .................................................................................................... 5 
+3.1 
+Gebietsabgrenzung......................................................................................................... 5 
+3.1.1 Layer Projektgebiet nach Markterkundungsverfahren .............................................. 7 
+3.1.2 Layer Projektgebiet nach Vergabeverfahren ............................................................. 9 
+3.2 
+Netzplan ....................................................................................................................... 12 
+3.2.1 Punkte-Layer (Standorte) ......................................................................................... 12 
+3.2.1.1 
+Layer Bauten und Netztechnik ......................................................................... 13 
+3.2.1.2 
+Layer Endverbraucher ..................................................................................... 14 
+3.2.2 Linien-Layer (Netz) ................................................................................................. 15 
+3.2.2.1 
+Layer Trassenbau ............................................................................................ 15 
+3.2.2.2 
+Layer Leerrohre ............................................................................................... 15 
+3.2.2.3 
+Layer Verbindungen ........................................................................................ 17 
+3.2.2.4 
+Layer Mitverlegung ......................................................................................... 18
+
+
+===== Page 2 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 2 von 17 
+ 
+ 
+1 
+Einführung 
+Die vorliegenden GIS-Nebenbestimmungen (GIS-NB) spezifizieren die von der Gigabit-RR1 in 
+§ 9 geregelte Dokumentation der Lage und der geförderten Regionen. Der Zuwendungsempfänger 
+ist gemäß Nr. 4.3 der BNBest-Gigabit2 verpflichtet, in verschiedenen Verfahrensschritten 
+Geodaten (GIS-Daten) einzureichen. 
+ 
+1.1 
+Umfang und Datenlieferung 
+Gefragt sind die von der beantragten Förderung betroffenen Infrastrukturen, bereits vorhandene 
+Infrastrukturen sind nur anzugeben, wenn sie durch (Mit-)Nutzung bzw. Synergien für die 
+Bewertung der Leistungsfähigkeit des Netzes relevant sind. 
+Von zentraler Bedeutung ist die Schlüssigkeit der Daten. Sie müssen dazu geeignet sein, die 
+Plausibilität des zu errichtenden Netzes über alle Komponenten und Verfahrensschritte hinweg 
+beurteilen zu können. 
+Die Einreichung der GIS-Daten erfolgt gemäß den Vorgaben der Gigabit-RR über den Punkt 
+Netzplan in der Online-Plattform unter der Internetadresse www.gigabit-projekttraeger.de3 bzw. 
+www.projekttraeger-breitband.de4. Es besteht die Möglichkeit, dass weitere Förderprogramme die 
+Anwendung der GIS-NB vorgeben und zusätzliche Wege zur Einreichung verlangen. 
+ 
+1.2 
+Formatvorgaben und Datenqualität 
+Die einzureichenden Geodaten müssen folgende Vorgaben erfüllen: 
+• 
+Typ: Vektordaten 
+• 
+Georeferenzierung: Koordinatenreferenzsystem ETRS89 (EPSG:4258) 
+• 
+Für die Erstantragstellung und das Markterkundungsverfahren ist das Dateiformat CSV 
+zulässig, es wird eine Musterdatei für die CSV zum Download zur Verfügung gestellt. 
+• 
+Erlaubte Dateiformate: GeoJSON und ESRI Shapefile, bei ESRI Shapefiles sind weitere 
+Bedingungen zu erfüllen: 
+◦ 
+Alle erforderlichen Teildateien müssen vorhanden sein (Shapedatei SHP, Shape- 
+Indexdatei SHX, Datenbankdatei DBF, Projektionsdatei PRJ). 
+◦ 
+Alle Teildateien müssen bis auf die Endung den gleichen Dateinamen haben. 
+◦ 
+Alle Teildateien müssen innerhalb des gleichen ZIP-Archives verpackt sein. 
+◦ 
+In diesem Archiv dürfen sich keine weiteren Dateien befinden. 
+ 
+ 
+ 
+ 
+ 
+1 Rahmenregelung der Bundesrepublik Deutschland zur Unterstützung des flächendeckenden Aufbaus von 
+Gigabitnetzen in „grauen Flecken“ 
+2 Besondere Nebenbestimmungen für die auf Grundlage der Richtlinie „Förderung zur Unterstützung des 
+Breitbandausbaus in der Bundesrepublik Deutschland“ durchgeführten Antrags- und Bewilligungsverfahren, die 
+Umsetzung von Projekten und dazu gewährte Zuwendungen des Bundes 
+3 Für Anträge aus Bayern, Baden-Württemberg, Berlin, Brandenburg, Thüringen, Sachsen und Sachsen-Anhalt 
+4 Für Anträge aus Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland- 
+Pfalz, Saarland und Schleswig-Holstein
+
+
+===== Page 3 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 3 von 17 
+ 
+ 
+• 
+Dateigröße: maximal 200 MByte (muss die Dateigröße aus plausiblen Gründen 
+überschritten werden, ist eine individuelle Absprache mit dem Projektträger (PT) 
+notwendig). 
+• 
+Alle für den jeweiligen Verfahrensstand in den Tabellen markierten Attribute sind 
+Pflichtfelder. Liegen für einzelne Attribute zum jeweils angegebenen Zeitpunkt keine 
+Daten vor, können die Felder in Ausnahmefällen freigelassen werden. 
+• 
+Invalide Geometrien können nicht bearbeitet werden und werden daher nicht akzeptiert 
+(zum Beispiel Linien, die aus nur einem Punkt bestehen, sich selbst überschneidende 
+Polygone oder ähnliches).
+
+
+===== Page 4 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 4 von 17 
+ 
+ 
+2 
+Verfahrensschritte (Phasen) 
+Die einzureichenden GIS-Daten unterscheiden sich je nach Verfahrensstand in ihrer Detailtiefe. 
+In den Layertabellen finden sich mit Nummern markierte Spalten der Verfahrensschritte. Ist eine 
+Zelle der jeweiligen Spalte mit einem Kreuz markiert, so ist das Attribut der Zeile im 
+entsprechenden Verfahrensschritt anzugeben. 
+ 
+2.1 
+Phase 1: Nach Durchführung des MEV 
+Die Einreichung der Ergebnisse des Markterkundungsverfahrens ist verpflichtend und erfolgt vor 
+dem Vergabeverfahren. 
+→ in den Layer-Tabellen gekennzeichnet als 1 
+ 
+2.2 
+Phase 2: Ergebnis des Vergabeverfahrens bis zum Baubeginn (Planung) 
+Die Einreichung einer Ausbauplanung ist verpflichtend. Die Detailtiefe der einzureichenden 
+Daten ist größer als bei der Erstantragstellung. 
+→ in den Layer-Tabellen gekennzeichnet als 2 
+ 
+2.3 
+Phase 3: Zwischennachweis 
+Für die Einreichung eines Zwischennachweises wird auf die Dokumentations- und 
+Nachweispflichten nach BNBest-Gigabit verwiesen. 
+→ in den Layer-Tabellen gekennzeichnet als 3 
+ 
+2.4 
+Phase 4: Verwendungsnachweis 
+Beim Verwendungsnachweis im Sinne von Nr. 6 der ANBest-Gk5 ist die höchste Detailtiefe 
+vorzulegen. In diesem Stadium werden die Inbetriebnahme und Funktionsfähigkeit des Ausbaus 
+nachgewiesen. 
+→ in den Layer-Tabellen gekennzeichnet als 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 Allgemeine Nebenbestimmungen für Zuwendungen zur Projektförderung an Gebietskörperschaften und 
+Zusammenschlüsse von Gebietskörperschaften
+
+
+===== Page 5 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 5 von 17 
+ 
+ 
+3 
+Layer (Geodaten-Tabellen) 
+ 
+3.1 
+Gebietsabgrenzung 
+Die Gebietsabgrenzung dient der territorialen Veranschaulichung, daher handelt es sich bei den 
+Layern um adressscharfe Punkt-Layer. Die Gebietsabgrenzung soll eine Gesamtübersicht über 
+die Ausbauvorhaben und künftige Situation der Versorgung innerhalb der Verwaltungsgrenzen 
+des Antragsstellers aufzeigen. 
+Folgende Gebiete müssen für den Antrag unterschieden werden: 
+• 
+Projektgebiet nach Markterkundungsverfahren: Alle Gebiete, die nach der 
+Markterkundung in der Betrachtung der Förderung verbleiben. Dies betrifft 
+grundsätzlich alle Adressen, die nicht sicher eine Bandbreite von mindestens 200 Mbit/s 
+symmetrisch, bzw. 500 Mbit/s im Download erhalten. 
+• 
+Projektgebiet nach abgeschlossenem Vergabeverfahren: im weiteren Sinne alle 
+Gebiete/Adressen, in denen ein geförderter Ausbau stattfindet – Ausbaugebiete im Sinne 
+des Antrages: innerhalb der „grauen Flecken“ liegendes antragsfähiges Gebiet laut Giga- 
+RiLi. 
+Die Gebietsabgrenzung ist adressscharf als Punktlayer anzugeben. Das bedeutet, dass pro Adresse 
+von Wohn- und Geschäftsgebäuden und Gebäuden mit sozioökonomischen Schwerpunkten die 
+Angaben erfolgen. 
+ 
+3.1.1 
+Layer Projektgebiet nach Markterkundungsverfahren 
+In diesem Layer sind alle Ausbaugebiete (Adressscharf als Punktlayer) zu nennen, für welche 
+nach Markterkundungsverfahren eine Förderung beantragt werden soll. Der Layer kann ebenfalls 
+über die WEB-Eingabe vom Antragsteller auf der Online- Plattform erzeugt werden. 
+ 
+Attributname 
+Typ 
+Erläuterung 
+Feldvorgaben 
+1 
+2 
+3 
+4 
+uuid 
+text 
+Die uuid wird über die WEB- 
+Eingabe automatisch erzeugt und 
+sie dient der eindeutigen 
+Identifizierung der Adresse. Die 
+uuid sollte vom Antragsteller nicht 
+verändert werden. Bei Adressen 
+ohne uuid (z. B. aufgrund von 
+Ergänzungen durch den 
+Antragsteller) wird die uuid beim 
+Einreichen der Daten automatisch 
+vergeben. 
+× 
+stra_name 
+text 
+Straßenname 
+× 
+nr 
+integer 
+Hausnummer 
+× 
+nr_zusatz 
+text 
+Hausnummernzusatz 
+× 
+plz 
+text 
+Postleitzahl 
+× 
+ortsname 
+text 
+Ortsname 
+× 
+untervers 
+integer 
+Anschlüsse die gemäß 
+Förderrichtlinie als unterversorgt 
+gelten. Grundsätzlich wird hier 
+eine Versorgung von unter 200 
+Mbit/s symmetrisch, bzw. 500 
+Mbit/s im Download angenommen. 
+0 - Nein 
+1 - Ja 
+× 
+unterv_com 
+text 
+unterv_com: Kommentar zur 
+Unterversorgung 
+× 
+soes_kkh 
+integer 
+Sozioökonomische Schwerpunkte: 
+Krankenhaus Ja/Nein 
+0 - Nein 
+1 - Ja 
+×
+
+
+===== Page 6 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 6 von 17 
+ 
+ 
+soes_schul 
+integer 
+Sozioökonomische Schwerpunkte: 
+Schulen Ja/Nein 
+0 - Nein 
+1 - Ja 
+× 
+soes_unt 
+integer 
+Sozioökonomische Schwerpunkte: 
+Unternehmen Ja/Nein 
+0 - Nein 
+1 - Ja 
+× 
+gew_gebiet 
+integer 
+Adresse befindet sich in Gewerbe- 
+oder Industriegebiet Ja/Nein 
+0 - Nein 
+1 - Ja 
+× 
+soes_lw 
+integer 
+Sozioökonomische Schwerpunkte: 
+Landwirtschaftlicher Betrieb 
+Ja/Nein 
+0 - Nein 
+1 - Ja 
+× 
+soes_sonst 
+integer 
+Differenzierung der 
+Sonderstandorttypen der 
+sozioökonomischen 
+Schwerpunkte. Sollte der Eintrag 
+100 für Sonstige gesetzt werden, 
+ist eine Erläuterung unter 
+soes_com anzugeben. 
+0 - Kein 
+Schwerpunkt 
+2 - Lokale 
+Behoerde 
+4 - 
+Forschungszentrum 
+6 - Stadion 
+7 - Bahnhof 
+8 - Hafen 
+9 - Flughafen 
+100 - Sonstige 
+× 
+soes_com 
+text 
+Bei Eingabe des Wertes 100 bei 
+soes_sonst: Erläuterung zum 
+sozioökonomischen Schwerpunkt 
+× 
+x 
+double 
+Geografische Breite (Latitude) der 
+Punktgeometrie, die Angabe der 
+Geometrie ist nur notwendig falls 
+die Dateneingabe mittels CSV 
+erfolgt 
+ 
+× 
+y 
+double 
+Geografische Länge (Longitude) 
+der Punktgeometrie, die Angabe 
+der Geometrie ist nur notwendig 
+falls die Dateneingabe mittels CSV 
+erfolgt 
+ 
+× 
+mev200sist 
+integer 
+Adresse ist mit mindestens 
+200 Mbit/s symmetrisch versorgt 
+0 - Nein 
+1 - Ja 
+× 
+mev200spla 
+integer 
+Adresse wird innerhalb von drei 
+Jahren mit mindestens 200 Mbit/s 
+symmetrisch aufgerüstet 
+0 - Nein 
+1 - Ja 
+× 
+mev500ist 
+integer 
+Adresse ist mit mindestens 500 
+Mbit/s downstream 
+nutzerbezogen versorgt 
+0 - Nein 
+1 - Ja 
+× 
+mev500plan 
+integer 
+Adresse wird innerhalb von drei 
+Jahren mit mindestens 500 Mbit/s 
+downstream nutzerbezogen 
+aufgerüstet 
+0 - Nein 
+1 - Ja 
+× 
+mevgig_ist 
+integer 
+Adresse ist mit mindestens 1 
+Gbit/s versorgt 
+0 - Nein 
+1 - Ja 
+× 
+mevgig_pla 
+integer 
+Adresse wird innerhalb von drei 
+Jahren mit mindestens 1 Gbit/s 
+aufgerüstet 
+0 - Nein 
+1 - Ja 
+× 
+ist_tech 
+integer 
+Eingabe der Technologie der Ist-
+Versorgung 
+1 – FTTB/H 
+2 – HFC 
+8 – sonstige 
+Technologien 
+×
+
+
+===== Page 7 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 7 von 17 
+ 
+ 
+ 
+Attributname 
+Typ 
+Erläuterung 
+Feldvorgaben 
+1 
+2 
+3 
+4 
+tech_1jahr 
+integer 
+Eingabe der Technologie innerhalb 
+eines Jahres 
+1 – FTTB/H 
+2 – HFC 
+8 – sonstige 
+Technologien 
+× 
+tech_3jahr 
+integer 
+Eingabe der Technologie innerhalb 
+von drei Jahren 
+1 – FTTB/H 
+2 – HFC 
+8 – sonstige 
+Technologien 
+× 
+ist_hfc 
+integer 
+Eintrag, ob HFC an der Adresse 
+verfügbar ist und ob die Adresse 
+connected oder passed ist. 
+0 - Nein 
+1 - Ja connected 
+2 - Ja passed 
+× 
+ist_ftth_b 
+integer 
+Eintrag, ob FTTH/B an der Adresse 
+verfügbar ist und ob die Adresse 
+connected oder passed ist. 
+0 - Nein 
+1 - Ja connected 
+2 - Ja passed 
+× 
+plan_ausb 
+integer 
+Eintrag, ob die angegebene 
+Versorgungsmeldung unverbindlich 
+ist und eine Vorvermarktung 
+durchgeführt wird 
+3 – Vorvermarktung 
+wird durchgeführt. 
+Meldung ist nach 
+dem erfolgreichen 
+Abschluss der 
+Vorvermarktung 
+verbindlich 
+× 
+mev_wider 
+integer 
+Adresse wurde bereits einmal 
+gefördert erschlossen, das 
+geförderte Unternehmen nutzt den 
+Investitionsschutz 
+0 - Nein 
+1 - Ja 
+×
+
+
+===== Page 8 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 8 von 17 
+ 
+ 
+3.1.2 
+Layer Projektgebiet nach Vergabeverfahren 
+In diesem Layer sind alle Ausbaugebiete (Adressscharf als Punktlayer) zu nennen, für die im 
+Rahmen des vorliegenden Antrages eine Förderung beantragt wird/wurde. Sie umreißen das zu 
+erschließende Gebiet unabhängig von der Technik. Dieser Layer ist eine Aktualisierung des 
+Layers „Projektgebiet nach Markterkundungsverfahren“ 3.1.1. 
+ 
+Attributname 
+Typ 
+Erläuterung 
+Feldvorgaben 
+1 
+2 
+3 
+4 
+uuid 
+text 
+Die uuid wird über die WEB- 
+Eingabe automatisch erzeugt und 
+sie dient der eindeutigen 
+Identifizierung der Adresse. Die 
+uuid sollte vom Antragsteller nicht 
+verändert werden. Bei Adressen 
+ohne uuid (z. B. aufgrund von 
+Ergänzungen durch den 
+Antragsteller) wird die uuid beim 
+Einreichen der Daten automatisch 
+vergeben. 
+ 
+× 
+ 
+× 
+ 
+× 
+stra_name 
+text 
+Straßenname 
+× 
+× 
+× 
+nr 
+integer 
+Hausnummer 
+× 
+× 
+× 
+nr_zusatz 
+text 
+Hausnummerzusatz 
+× 
+× 
+× 
+plz 
+text 
+Postleitzahl 
+× 
+× 
+× 
+ortsname 
+text 
+Ortsname 
+× 
+× 
+× 
+untervers 
+integer 
+Anschlüsse die gemäß 
+Förderrichtlinie als 
+unterversorgt gelten. 
+Grundsätzlich wird hier eine 
+Versorgung von unter 200 
+Mbit/s symmetrisch, bzw. 500 
+Mbit/s im Download 
+angenommen. 
+0 - Nein 
+1 - Ja 
+ 
+× 
+ 
+× 
+ 
+× 
+unterv_com 
+text 
+unterv_com: Kommentar zur 
+Unterversorgung 
+× 
+× 
+× 
+soes_kkh 
+integer 
+Sozioökonomische Schwerpunkte: 
+Krankenhaus Ja/Nein 
+0 - Nein 
+1 - Ja 
+× 
+× 
+× 
+soes_schul 
+integer 
+Sozioökonomische Schwerpunkte: 
+Schulen Ja/Nein 
+0 - Nein 
+1 - Ja 
+× 
+× 
+× 
+soes_unt 
+integer 
+Sozioökonomische Schwerpunkte: 
+Unternehmen Ja/Nein 
+0 - Nein 
+1 - Ja 
+× 
+× 
+× 
+gew_gebiet 
+integer 
+Adresse befindet sich in Gewerbe- 
+oder Industriegebiet Hafen Ja/Nein 
+0 - Nein 
+1 - Ja 
+× 
+× 
+× 
+soes_lw 
+integer 
+Sozioökonomische Schwerpunkte: 
+Landwirtschaftlicher Betrieb 
+Ja/Nein 
+0 - Nein 
+1 - Ja 
+× 
+× 
+× 
+soes_sonst 
+integer 
+Differenzierung der 
+Sonderstandorttypen der 
+sozioökonomischen Schwerpunkte. 
+Sollte der Eintrag 100 für Sonstige 
+gesetzt werden, ist eine Erläuterung 
+unter soes_com anzugeben. 
+0 - Kein 
+Schwerpunkt 
+2 - Lokale 
+Behoerde 
+4 - 
+Forschungszentrum 
+6 - Stadion 
+7 - Bahnhof 
+8 - Hafen 
+9 - Flughafen 
+100 - Sonstige 
+ 
+× 
+ 
+× 
+ 
+×
+
+
+===== Page 9 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 9 von 17 
+ 
+ 
+ 
+Attributname 
+Typ 
+Erläuterung 
+Feldvorgaben 
+1 
+2 
+3 
+4 
+soes_com 
+text 
+Bei Eingabe des Wertes 100 bei 
+soes_sonst: Erläuterung zum 
+sozioökonomischen Schwerpunkt 
+× 
+× 
+× 
+x 
+double 
+Geografische Breite (Latitude) der 
+Punktgeometrie, die Angabe der 
+Geometrie ist nur notwendig falls 
+die Dateneingabe mittels CSV 
+erfolgt 
+ 
+× 
+× 
+× 
+y 
+double 
+Geografische Länge 
+(Longitude) der 
+Punktgeometrie, die Angabe 
+der Geometrie ist nur 
+notwendig falls die 
+Dateneingabe mittels CSV 
+erfolgt 
+ 
+× 
+× 
+× 
+mev200sist 
+integer 
+Adresse ist mit mindestens 
+200 Mbit/s symmetrisch versorgt 
+0 - Nein 
+1 - Ja 
+× 
+× 
+× 
+mev200spla 
+integer 
+Adresse wird innerhalb von drei 
+Jahren mit mindestens 200 Mbit/s 
+symmetrisch aufgerüstet 
+0 - Nein 
+1 - Ja 
+× 
+× 
+× 
+mev500ist 
+integer 
+Adresse ist mit mindestens 
+500 Mbit/s downstream 
+nutzerbezogen versorgt 
+0 - Nein 
+1 – Ja 
+× 
+× 
+× 
+mev500plan 
+integer 
+Adresse wird innerhalb von drei 
+Jahren mit mindestens 500 Mbit/s 
+downstream nutzerbezogen 
+aufgerüstet 
+0 - Nein 
+1 - Ja 
+× 
+× 
+× 
+mevgig_ist 
+integer 
+Adresse ist mit mindestens 1 Gbit/s 
+versorgt 
+0 - Nein 
+1 - Ja 
+× 
+× 
+× 
+mevgig_pla 
+integer 
+Adresse wird innerhalb von drei 
+Jahren mit mindestens 1 Gbit/s 
+aufgerüstet 
+0 - Nein 
+1 - Ja 
+ 
+× 
+ 
+× 
+ 
+× 
+ist_tech 
+integer 
+Eingabe der Technologie der Ist- 
+Versorgung 
+1 – FTTB/H 
+2 – HFC 
+8 – sonstige 
+Technologien 
+× 
+× 
+× 
+tech_1jahr 
+integer 
+Eingabe der Technologie innerhalb 
+eines Jahres 
+1 – FTTB/H 
+2 – HFC 
+8 – sonstige 
+Technologien 
+× 
+× 
+× 
+tech_3jahr 
+integer 
+Eingabe der Technologie innerhalb 
+von drei Jahren 
+1 – FTTB/H 
+2 – HFC 
+8 – sonstige 
+Technologien 
+× 
+× 
+× 
+plan_ausb 
+integer 
+Eintrag, ob die angegebene 
+Versorgungsmeldung unverbindlich 
+ist und eine Vorvermarktung 
+durchgeführt wird 
+3 – Vorvermarktung 
+wird durchgeführt. 
+Meldung ist nach 
+dem erfolgreichen 
+Abschluss der 
+Vorvermarktung 
+verbindlich 
+× 
+× 
+× 
+mev_wider 
+integer 
+Adresse wurde bereits einmal 
+gefördert erschlossen, das 
+geförderte Unternehmen nutzt den 
+Investitionsschutz 
+0 - Nein 
+1 - Ja 
+× 
+× 
+× 
+ausb_firma 
+text 
+TK-Unternehmen, das den Ausbau 
+innerhalb des Gebietes auf Basis 
+dieser Förderung vornimmt 
+ 
+× 
+× 
+×
+
+
+===== Page 10 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 10 von 17 
+ 
+ 
+ 
+3.2 
+Netzplan 
+Der Netzplan stellt alle für das geförderte Netz notwendigen Infrastrukturen dar. Es gibt zwei 
+Layer-Typen: 
+• 
+zwei Punkte-Layer (Standorte) 
+• 
+vier Linien-Layer (Netz) 
+Es empfiehlt sich, bei der Vergabe der IDs sorgfältig darauf zu achten, dass jede ID auch über die 
+verschiedenen Phasen hinweg nur einmal vergeben wird. 
+ 
+ 
+3.2.1 
+Punkte-Layer (Standorte) 
+Bei den Standort-Layern handelt es sich um Punkte-Layer. Sie sollen alle Standorte (Bauten und 
+Netztechnik) – vom Backbone-Einspeisepunkt über Verteiler im Aggregationsnetz bis hin zu den 
+Verteilern zur Kundenanbindung – wiedergeben, die für den Betrieb des Netzes notwendig sind. 
+Anzugeben sind hier sowohl Bauten bzw. Netztechnik, die neu gebaut werden, als auch 
+vorhandene, die mitgenutzt werden, sowie die Endverbraucherstandorte. 
+Zwei Standort-Layer sind einzureichen: 
+• 
+Bauten und Netztechnik 
+• 
+Endverbraucher
+
+
+===== Page 11 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 11 von 17 
+ 
+ 
+3.2.1.1 
+Layer Bauten und Netztechnik 
+Im Layer Bauten und Netztechnik werden alle Gebäude, Gehäuse, Schächte, Masten etc. 
+abgebildet, die mit dem Ausbau in technischem Zusammenhang stehen und von Relevanz sind. 
+Nicht dazu zählen die Gebäude mit Endkundenanschlüssen, es sei denn, es befindet sich dort eine 
+Verteilereinheit vor dem Abschlusspunkt Linientechnik (APL/HÜP). Dabei ist es gleichgültig, 
+um welche Art von Bau es sich handelt. 
+Für die Netztechnik werden alle aktiven und passiven Technikstandorte abgebildet. Wenn sich 
+mehrere für den Netzaufbau notwendige Arten von Netztechnik am selben Standort befinden, 
+muss jeweils ein separater Punkt gesetzt werden – auch, wenn das gleiche Gehäuse verwendet 
+wird. Dabei ist es gleichgültig, um welche Art von Netztechnik es sich handelt. Von zentraler 
+Bedeutung sind die Anbindung der Endverbraucher und damit die Beschreibung der letzten 
+Übergabepunkte. 
+ 
+Attributname 
+Typ 
+Erläuterung 
+Feldvorgaben 
+1 
+2 
+3 
+4 
+art 
+integer 
+Um welche Art von Netztechnik 
+handelt es sich? 
+× 
+× 
+× 
+11 HVt (konventionell) 
+12 GF-HVt / Point of Presence (PoP) 
+13 DSLAM/MSAN 
+14 GF-Vt (Glasfaser-Netzverteiler) 
+15 Muffe 
+16 HÜP/ApL 
+17 Übergabepunkt Backbone/ 
+Backhaul 
+18 OLT 
+19 Optischer Splitter 
+Um welche Art von Bau handelt es 
+sich? 
+30 Gehäuse (z. B. KVz oder MFG) 
+31 (Kabel-)Schacht 
+32 Funkmast 
+99 Sonstige 
+kollokatio 
+integer 
+Ist der angegebene Standort eine 
+Kollokationsfläche Ja/Nein 
+0 - Nein 
+1 - Ja 
+× 
+× 
+× 
+art_sonst 
+text 
+Falls Sie als Art der 
+Bauten/Netztechnik „99“ für Sonstige 
+angegeben haben, muss hier 
+vermerkt werden, um welche Art von 
+Bau/Netztechnik es sich handelt. 
+× 
+× 
+×
+
+
+===== Page 12 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 12 von 17 
+ 
+ 
+ 
+Attributname 
+Typ 
+Erläuterung 
+Feldvorgaben 
+1 
+2 
+3 
+4 
+ 
+zustand 
+ 
+integer 
+1 Neubau 
+2 Vor Ausbau vorhanden 
+ 
+× 
+ 
+× 
+ 
+× 
+bezeichner 
+text 
+Der Bezeichner ist eine eindeutige 
+Kennzeichnung des Baus. Gibt es 
+eine gängige, einmalige Bezeichnung, 
+ist diese zu verwenden (z. B. die KVz- 
+ID: 09999_0001_A027). Gibt es keine 
+allgemeingültige Bezeichnung, so 
+sollte ein System angewendet werden, 
+mit welchem Rückschluss auf die Art 
+des Baus gezogen werden kann (z. B. 
+bei Masten zur oberirdischen 
+Verlegung von LWL: 
+Mast_oV_012345). 
+× 
+× 
+id 
+integer 
+eindeutige, fortlaufende Nummer 
+beginnend bei 1. 
+× 
+× 
+× 
+id_tech 
+integer 
+ID des Datensatzes der Netztechnik 
+aus diesem Layer, der für die 
+Mitversorgung der aktuellen 
+Netztechnik verantwortlich ist. Als 
+Beispiel für einen ApL ist der KVz 
+anzugeben. 
+Ist keine Netztechnik für die 
+Mitversorgung verantwortlich, geben 
+Sie bitte „-1“ an. 
+× 
+ 
+ 
+3.2.1.2 
+Layer Endverbraucher 
+Im Layer Endverbraucher werden alle Endverbraucher-Standorte abgebildet, die nach dem 
+Ausbau erschlossen werden können. Dabei ist es gleichgültig, um welchen Typ von 
+Endverbraucher es sich handelt. 
+ 
+Attributname 
+Typ 
+Erläuterung 
+Feldvorgaben 
+1 
+2 
+3 
+4 
+endkunde 
+integer 
+Um welchen Typ von 
+Endverbraucher handelt es sich? 
+× 
+× 
+1 Haushalt 
+2 Gewerbe 
+3 Krankenhaus 
+4 Schule 
+5 sonstiges öffentliches Gebäude 
+6 sonstiger sozioökonomischer 
+Schwerpunkt
+
+
+===== Page 13 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 13 von 17 
+ 
+ 
+ 
+Attributname 
+Typ 
+Erläuterung 
+Feldvorgaben 
+1 
+2 
+3 
+4 
+id_netze 
+integer 
+id des Datensatzes aus dem Layer 
+Bauten und Netztechnik (vgl. 3.2.1.1), 
+an den dieser Endkunde 
+angeschlossen wurde. 
+Jeder Endkunde muss auf eine 
+Netztechnik bezogen werden. Dies 
+geschieht durch die Angabe der id 
+des Datensatzes der zugehörigen 
+Netztechnik aus dem Punkte-Layer 
+Netztechnik. 
+× 
+× 
+ 
+ 
+3.2.2 
+Linien-Layer (Netz) 
+Bei den Netz-Layern handelt es sich um Linien-Layer. Sie stellen alle Trassenbau-, Leerrohr-, 
+Kabel- oder Richtfunkstrecken dar. 
+Vier Netz-Layer sind einzureichen: 
+• 
+Trassenbau 
+• 
+Leerrohre 
+• 
+Verbindungen 
+• 
+Mitverlegung (Optional) 
+ 
+3.2.2.1 
+Layer Trassenbau 
+Im Layer Trassenbau werden alle Tiefbaumaßnahmen sowie oberirdische Verlegungen 
+(Aufständerung) abgebildet. Dabei ist es gleichgültig, welches Bauverfahren zum Einsatz kommt 
+oder ob bei einer anderen Trassenbaumaßnahme vorhandene Synergien genutzt wurden. 
+ 
+Attributname 
+Typ 
+Erläuterung 
+Feldvorgaben 
+1 
+2 
+3 
+4 
+id 
+integer 
+Eindeutige, fortlaufende Nummer 
+beginnend bei 1 
+× 
+× 
+× 
+trassenb 
+integer 
+Art der Oberfläche 
+11 versiegelte Oberfläche 
+12 unversiegelte Oberfläche 
+× 
+× 
+mitverleg 
+integer 
+Wird diese Trasse im Rahmen von 
+Mitverlegung bei einer 
+Baumaßnahme eines Dritten 
+durchgeführt? 
+× 
+× 
+1 Ja 
+0 Nein 
+ 
+ 
+3.2.2.2 
+Layer Leerrohre 
+Im Layer Leerrohre werden alle Leerrohre abgebildet. Dabei ist es gleichgültig, welche Art von 
+Leerrohr zum Einsatz kommt. Anzugeben sind alle für das Projekt relevanten Leerrohre: Sowohl 
+solche, die neu gebaut werden (sei es zur sofortigen Nutzung oder als Reserve, Redundanz oder 
+zur Nachhaltigkeit), als auch vorhandene, die mitgenutzt werden.
+
+
+===== Page 14 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 14 von 17 
+ 
+ 
+ 
+Attributname 
+Typ 
+Erläuterung 
+Feldvorgaben 
+1 
+2 
+3 
+4 
+id 
+integer 
+eindeutige, fortlaufende Nummer 
+beginnend bei 1 
+× 
+× 
+× 
+lr_art 
+integer 
+Art des Leerrohres, das durch die 
+Linie dargestellt wird 
+1 Kabelschutzrohr (KSR) 
+2 16/12 (Einzelrohr) 
+3 12/8 (Einzelrohr) 
+4 14/10 (Einzelrohr) 
+5 7/4 (Einzelrohr) 
+6 10/6 (Einzelrohr) 
+11 16/12 (Rohrverband) 
+12 12/8 (Rohrverband) 
+13 14/10 (Rohrverband) 
+14 10/6 (Rohrverband) 
+15 7/4 (Rohrverband) 
+16 20/15 (Rohrverband) 
+21 MR4 (PE-HD) 2x40/32 + 2x32/28 
+22 Kabelschutzrohr (DN50) 
+23 Kabelschutzrohr (DN40) 
+24 Kabelschutzrohr (DN32) 
+25 Kabelschutzrohr (DN100) 
+99 Sonstige (wenn Sie „99“ für 
+Sonstige angeben, 
+muss die Art des Leerrohrs im 
+nächsten Feld 
+näher spezifiziert werden) 
+Hier sind keine Mehrfachnennungen 
+möglich. Jedes Leerrohr bzw. jeder 
+Rohrverband muss gesondert 
+genannt werden, gegebenenfalls 
+durch übereinander liegende Linien. 
+× 
+× 
+× 
+lr_sonst 
+text 
+Falls Sie als Art des Leerrohrs „99“ 
+für Sonstige angegeben haben, muss 
+hier vermerkt werden, um welche 
+Art von Leerrohr es sich handelt. 
+× 
+× 
+× 
+lr_anzahl 
+integer 
+Anzahl der Einzelröhrchen pro 
+Verband 
+Wenn sie im Feld lr_art einen 
+Verband angegeben haben, ist hier 
+die Anzahl der im Verband verlegten 
+Einzelrohre anzugeben. 
+× 
+× 
+× 
+anzahl 
+integer 
+Die Anzahl sagt aus, wie viele 
+Rohrverbände über eine Linie 
+dargestellt werden. 
+× 
+× 
+× 
+lr_reserv 
+integer 
+Anzahl der Microrohre des 
+Verbandes, die als Reserve 
+vorgesehen sind. 
+× 
+× 
+× 
+lae_lr 
+float 
+Länge aller Kabelschutzrohre und 
+Verbände in Summe. Die Angabe 
+erfolgt in Metern. 
+× 
+× 
+× 
+zustand 
+integer 
+Zustand des Leerrohrs 
+1 vor Ausbau vorhanden 
+2 Neubau 
+3 Erweiterung 
+4 Anmietung 
+× 
+×
+
+
+===== Page 15 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 15 von 17 
+ 
+ 
+ 
+3.2.2.3 
+Layer Verbindungen 
+Im Layer Verbindungen werden alle elektrischen, optischen oder funkbasierten Verbindungen 
+abgebildet (Kabel- bzw. Richtfunkstrecken). Dabei ist es gleichgültig, ob diese Verbindungen neu 
+aufgebaut wurden oder bereits vorhanden sind. Ist eine Verbindung für die Funktion des Netzes 
+relevant, ist sie hier anzugeben. 
+ 
+Attributname 
+Typ 
+Erläuterung 
+Feldvorgaben 
+1 
+2 
+3 
+4 
+id 
+integer 
+Eindeutige, fortlaufende Nummer 
+beginnend bei 1 
+× 
+× 
+× 
+verb_art 
+integer 
+Art der Verbindung, die durch die 
+Linie dargestellt wird 
+× 
+× 
+× 
+1 Kupferkabel 
+3 Koaxial-(TV-)Kabel 
+4 Richtfunkstrecke 
+5 Glasfaserkabel 6 Fasern 
+6 Glasfaserkabel 12 Fasern 
+7 Glasfaserkabel 24 Fasern 
+8 Glasfaserkabel 48 Fasern 
+9 Glasfaserkabel 72 Fasern 
+10 Glasfaserkabel 96 Fasern 
+11 Glasfaserkabel 144 Fasern 
+12 Glasfaserkabel 288 Fasern 
+99 Sonstige 
+Hier sind keine Mehrfachnennungen 
+möglich. Jede Verbindung muss 
+gesondert genannt werden, 
+gegebenenfalls durch übereinander 
+liegende Linien. 
+v_a_sonst 
+text 
+Falls Sie als Art der Verbindung 
+„99“ für Sonstige angegeben haben, 
+muss hier vermerkt werden, um 
+welche Art von Verbindung es sich 
+handelt. 
+× 
+× 
+× 
+lae_kabel 
+float 
+Länge der Kabelstrecken, Angabe in 
+Metern. 
+× 
+× 
+× 
+Diese Angabe ist nicht zwingend der 
+Länge der Linie gleichzusetzen. Die 
+laufenden Meter können bei Kabeln 
+von der Länge der Linie nach oben 
+abweichen. Eine Angabe bei 
+Funkverbindungen ist nicht nötig. 
+anzahl_f_a 
+integer 
+Gesamtzahl der Fasern/Adern, die 
+durch die Linie dargestellt werden 
+× 
+× 
+f_a_reserv 
+integer 
+Anzahl der Fasern/Adern, die für die 
+Reserve vorgesehen sind 
+× 
+× 
+zustand 
+integer 
+Zustand der Verbindung 
+1 Neubau 
+2 vor Ausbau vorhanden 
+× 
+× 
+×
+
+
+===== Page 16 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 16 von 17 
+ 
+ 
+ 
+3.2.2.4 
+Layer Mitverlegung 
+Dieser Layer ist nur auszufüllen, wenn bei der geförderten Maßnahme eine Mitverlegung durch 
+einen Dritten oder eine Eigenmitverlegung durch das geförderte Unternehmen durchgeführt 
+wurde. Im Layer Mitverlegung werden alle Leerrohre abgebildet, die im Rahmen von 
+Mitverlegung zusätzlich zur geförderten Infrastruktur verlegt wurden. Dabei ist es gleichgültig, 
+welche Art von Leerrohr und Mitverlegung zum Einsatz kommt. Anzugeben sind alle Leerrohre, 
+die über eine Mitverlegung von Dritten oder durch das geförderte Unternehmen im Rahmen einer 
+Eigenmitverlegung nach TKG 146 verlegt wurden. 
+ 
+Attributname 
+Typ 
+Erläuterung 
+Feldvorgaben 
+1 
+2 
+3 
+4 
+id 
+integer 
+eindeutige, fortlaufende Nummer 
+beginnend bei 1 
+× 
+× 
+× 
+lr_art_mit 
+integer 
+Art des Leerrohres, das durch die 
+Linie 
+× 
+× 
+× 
+dargestellt wird 
+1 Kabelschutzrohr (KSR) 
+2 16/12 (Einzelrohr) 
+3 12/8 (Einzelrohr) 
+4 14/10 (Einzelrohr) 
+5 7/4 (Einzelrohr) 
+6 10/6 (Einzelrohr) 
+11 16/12 (Rohrverband) 
+12 12/8 (Rohrverband) 
+13 14/10 (Rohrverband) 
+14 10/6 (Rohrverband) 
+15 7/4 (Rohrverband) 
+16 20/15 (Rohrverband) 
+21 MR4 (PE-HD) 2x40/32 + 2x32/28 
+22 Kabelschutzrohr (DN50) 
+23 Kabelschutzrohr (DN40) 
+24 Kabelschutzrohr (DN32) 
+25 Kabelschutzrohr (DN100) 
+99 Sonstige (wenn Sie „99“ für 
+Sonstige angeben, muss die Art des 
+Leerrohrs im nächsten Feld näher 
+spezifiziert werden) 
+ 
+Hier sind keine Mehrfachnennungen 
+möglich. Jedes Leerrohr bzw. jeder 
+Rohrverband muss gesondert genannt 
+werden, gegebenenfalls durch 
+übereinander liegende Linien.
+
+
+===== Page 17 =====
+Breitbandförderung des Bundes 
+Version 5.1. vom 03.04.2023 
+Seite 17 von 17 
+ 
+ 
+ 
+Attributname 
+Typ 
+Erläuterung 
+Feldvorgaben 
+1 
+2 
+3 
+4 
+lr_sonst_m 
+text 
+Falls Sie als Art des Leerrohrs „99“ 
+für Sonstige angegeben haben, muss 
+hier vermerkt werden, um welche 
+Art von Leerrohr es sich handelt. 
+× 
+× 
+× 
+lr_anz_mit 
+integer 
+Anzahl der Einzelröhrchen pro 
+Verband 
+Wenn sie im Feld lr_art einen 
+Verband angegeben haben, ist hier 
+die Anzahl der im Verband verlegten 
+Einzelrohre anzugeben. 
+× 
+× 
+× 
+e_fname 
+text 
+Name des Eigentümers der 
+Mitverlegten Infrastruktur 
+× 
+× 
+×

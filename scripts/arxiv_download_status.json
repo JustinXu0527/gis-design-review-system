@@ -1,0 +1,287 @@
+{
+  "2608.02472": {
+    "status": "ok",
+    "file": "2608.02472_CTRAG_In-Context_RAG_for_Automated_Compliance_Checking.pdf",
+    "size": 2334674,
+    "error": "IncompleteRead(1048576 bytes read, 1286098 more expected)",
+    "title": "CTRAG: An In-Context Retrieval-based Framework for Automated Compliance Checking using LLMs",
+    "abs_url": "https://arxiv.org/abs/2608.02472",
+    "score": 58.9
+  },
+  "2506.20551": {
+    "status": "ok",
+    "file": "2506.20551_LLM_Driven_Code_Compliance_Checking_in_BIM.pdf",
+    "size": 4973848,
+    "title": "Large Language Model-Driven Code Compliance Checking in Building Information Modeling",
+    "abs_url": "https://arxiv.org/abs/2506.20551",
+    "score": 54.5
+  },
+  "2504.05951": {
+    "status": "ok",
+    "file": "2504.05951_Representing_Normative_Regulations_in_OWL_DL_for_ACC.pdf",
+    "size": 986447,
+    "error": "HTTP Error 406: Not Acceptable",
+    "title": "Representing Normative Regulations in OWL DL for Automated Compliance Checking Supported by Text Annotation",
+    "abs_url": "https://arxiv.org/abs/2504.05951",
+    "score": 50.1
+  },
+  "2305.10113": {
+    "status": "ok",
+    "file": "2305.10113_Neuro-Symbolic_AI_for_Compliance_Checking_of_Electrical_Panels.pdf",
+    "size": 1162529,
+    "error": "HTTP Error 406: Not Acceptable",
+    "title": "Neuro-Symbolic AI for Compliance Checking of Electrical Control Panels",
+    "abs_url": "https://arxiv.org/abs/2305.10113",
+    "score": 42.9
+  },
+  "2512.20275": {
+    "status": "ok",
+    "file": "2512.20275_G-SPEC_Graph-Symbolic_Policy_Enforcement_5G_Networks.pdf",
+    "size": 687181,
+    "error": "HTTP Error 406: Not Acceptable",
+    "title": "Graph-Symbolic Policy Enforcement and Control (G-SPEC): A Neuro-Symbolic Framework for Safe Agentic AI in 5G Autonomous Networks",
+    "abs_url": "https://arxiv.org/abs/2512.20275",
+    "score": 41.1
+  },
+  "2607.00015": {
+    "status": "ok",
+    "file": "2607.00015_Automated_AI_Framework_for_Floor_Plan_Compliance_Checks.pdf",
+    "size": 35081473,
+    "error": "HTTP Error 406: Not Acceptable",
+    "title": "Towards an automated AI-based framework for floor plan compliance checks for residential buildings",
+    "abs_url": "https://arxiv.org/abs/2607.00015",
+    "score": 41.0
+  },
+  "1910.00334": {
+    "status": "ok",
+    "file": "1910.00334_French_Smart_Building_Code_Semantic_Rules.pdf",
+    "size": 807973,
+    "error": "HTTP Error 406: Not Acceptable",
+    "title": "Towards French Smart Building Code: Compliance Checking Based on Semantic Rules",
+    "abs_url": "https://arxiv.org/abs/1910.00334",
+    "score": 39.8
+  },
+  "2607.15647": {
+    "status": "ok",
+    "file": "2607.15647_Neuro-Symbolic_AI_for_LEED_Compliance_Deterministic_Numeric.pdf",
+    "size": 1916225,
+    "title": "Neuro-Symbolic AI for LEED compliance: Document-Centric Benchmarking, Deterministic Numeric Checking, and When Multimodal Hurts",
+    "abs_url": "https://arxiv.org/abs/2607.15647",
+    "score": 39.7
+  },
+  "2609.04216": {
+    "status": "ok",
+    "file": "2609.04216_Engineering_as_Code_Software_Engineering_Methodology.pdf",
+    "size": 182481,
+    "title": "Engineering as Code: Bringing Software Engineering Methodology to Engineering Design",
+    "abs_url": "https://arxiv.org/abs/2609.04216",
+    "score": 37.9
+  },
+  "2606.12065": {
+    "status": "ok",
+    "file": "2606.12065_Automating_Geometry-Intensive_Compliance_Checking_in_BIM.pdf",
+    "size": 8357686,
+    "title": "Automating Geometry-Intensive Compliance Checking in BIM: Graph-Based Semantic Reasoning Framework",
+    "abs_url": "https://arxiv.org/abs/2606.12065",
+    "score": 37.5
+  },
+  "2609.01618": {
+    "status": "ok",
+    "file": "2609.01618_Multi-Agent_RAG_for_Telecom_Cloud_Knowledge_Base.pdf",
+    "size": 283529,
+    "title": "Multi-Agent Retrieval-Augmented Generation for Efficient Cloud Knowledge Base Search in Telecom SNOC Environment",
+    "abs_url": "https://arxiv.org/abs/2609.01618",
+    "score": 37.4
+  },
+  "2606.08728": {
+    "status": "ok",
+    "file": "2606.08728_AI_for_Mathematical_Reasoning_Survey_Neuro-symbolic.pdf",
+    "size": 842324,
+    "title": "Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery",
+    "abs_url": "https://arxiv.org/abs/2606.08728",
+    "score": 36.9
+  },
+  "2604.23563": {
+    "status": "ok",
+    "file": "2604.23563_CyberCane_Neuro-Symbolic_RAG_Formal_Ontology.pdf",
+    "size": 1146422,
+    "error": "HTTP Error 406: Not Acceptable",
+    "title": "CyberCane: Neuro-Symbolic RAG for Privacy-Preserving Phishing Detection with Formal Ontology Reasoning",
+    "abs_url": "https://arxiv.org/abs/2604.23563",
+    "score": 34.9
+  },
+  "2602.16650": {
+    "status": "ok",
+    "file": "2602.16650_RAG_of_Polymer_Knowledge_Expert_System.pdf",
+    "size": 955141,
+    "title": "Retrieval Augmented Generation of Literature-derived Polymer Knowledge: The Example of a Biodegradable Polymer Expert System",
+    "abs_url": "https://arxiv.org/abs/2602.16650",
+    "score": 33.9
+  },
+  "2605.20815": {
+    "status": "ok",
+    "file": "2605.20815_GraphRAG_on_Consumer_Hardware_Local_LLMs.pdf",
+    "size": 395745,
+    "title": "GraphRAG on Consumer Hardware: Benchmarking Local LLMs for Healthcare EHR Schema Retrieval",
+    "abs_url": "https://arxiv.org/abs/2605.20815",
+    "score": 33.6
+  },
+  "2407.21060": {
+    "status": "ok",
+    "file": "2407.21060_LLMs_for_the_Interpretation_of_Building_Regulations.pdf",
+    "size": 559248,
+    "title": "Using Large Language Models for the Interpretation of Building Regulations",
+    "abs_url": "https://arxiv.org/abs/2407.21060",
+    "score": 33.0
+  },
+  "2603.04663": {
+    "status": "ok",
+    "file": "2603.04663_Neuro-Symbolic_Financial_Reasoning_Deterministic_Fact_Ledgers.pdf",
+    "size": 2634872,
+    "title": "Neuro-Symbolic Financial Reasoning via Deterministic Fact Ledgers and Adversarial Low-Latency Hallucination Detector",
+    "abs_url": "https://arxiv.org/abs/2603.04663",
+    "score": 32.1
+  },
+  "2603.19276": {
+    "status": "ok",
+    "file": "2603.19276_GraphRAG_for_Automated_Short_Answer_Grading.pdf",
+    "size": 223377,
+    "title": "From Flat to Structural: Enhancing Automated Short Answer Grading with GraphRAG",
+    "abs_url": "https://arxiv.org/abs/2603.19276",
+    "score": 31.6
+  },
+  "2607.19740": {
+    "status": "ok",
+    "file": "2607.19740_Neuro-Symbolic_AI_for_Korean_Criminal_Law.pdf",
+    "size": 2113685,
+    "error": "HTTP Error 406: Not Acceptable",
+    "title": "Neuro-Symbolic AI for Korean Criminal Law: Sentencing Prediction and Document Drafting",
+    "abs_url": "https://arxiv.org/abs/2607.19740",
+    "score": 31.4
+  },
+  "2507.13625": {
+    "status": "ok",
+    "file": "2507.13625_BifrostRAG_Dual_Knowledge_Graphs_Construction_Safety.pdf",
+    "size": 9276356,
+    "title": "Bridging Dual Knowledge Graphs for Multi-Hop Question Answering in Construction Safety",
+    "abs_url": "https://arxiv.org/abs/2507.13625",
+    "score": 31.2
+  },
+  "2608.00937": {
+    "status": "ok",
+    "file": "2608.00937_Neuro-Symbolic_Participation_Governance_Verifiable_Agents.pdf",
+    "size": 1320126,
+    "title": "Neuro-Symbolic Participation Governance for Verifiable AI Agents in Open Digital Twin Ecosystems",
+    "abs_url": "https://arxiv.org/abs/2608.00937",
+    "score": 31.1
+  },
+  "2605.28120": {
+    "status": "ok",
+    "file": "2605.28120_LegalGraphRAG_Multi-Agent_GraphRAG_Legal_Reasoning.pdf",
+    "size": 5692813,
+    "title": "LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning",
+    "abs_url": "https://arxiv.org/abs/2605.28120",
+    "score": 31.0
+  },
+  "2511.18701": {
+    "status": "ok",
+    "file": "2511.18701_ObjectAlign_Neuro-Symbolic_Object_Consistency_Verification.pdf",
+    "size": 33998046,
+    "error": "HTTP Error 406: Not Acceptable",
+    "title": "ObjectAlign: Neuro-Symbolic Object Consistency Verification and Correction",
+    "abs_url": "https://arxiv.org/abs/2511.18701",
+    "score": 30.9
+  },
+  "2605.02472": {
+    "status": "ok",
+    "file": "2605.02472_Neuro-Symbolic_Offloading_Structural_Auditability_Legal.pdf",
+    "size": 977393,
+    "error": "HTTP Error 406: Not Acceptable",
+    "title": "Accurate Legal Reasoning at Scale: Neuro-Symbolic Offloading and Structural Auditability for Robust Legal Adjudication",
+    "abs_url": "https://arxiv.org/abs/2605.02472",
+    "score": 30.9
+  },
+  "2505.19804": {
+    "status": "ok",
+    "file": "2505.19804_Compliance-to-Code_Financial_Compliance_via_Code_Generation.pdf",
+    "size": 812785,
+    "title": "Compliance-to-Code: Enhancing Financial Compliance Checking via Code Generation",
+    "abs_url": "https://arxiv.org/abs/2505.19804",
+    "score": 30.5
+  },
+  "2609.05139": {
+    "status": "ok",
+    "file": "2609.05139_NS-ST-GraphRAG_Spatio-Temporal_GraphRAG.pdf",
+    "size": 1472972,
+    "title": "NS-ST-GraphRAG: Neuro-Symbolic Spatio-Temporal GraphRAG for Literary Knowledge Processing",
+    "abs_url": "https://arxiv.org/abs/2609.05139",
+    "score": 30.5
+  },
+  "2501.14735": {
+    "status": "ok",
+    "file": "2501.14735_ARCEAK_Automated_Rule_Checking_with_Architectural_Knowledge.pdf",
+    "size": 1377079,
+    "error": "HTTP Error 406: Not Acceptable",
+    "title": "ARCEAK: An Automated Rule Checking Framework Enhanced with Architectural Knowledge",
+    "abs_url": "https://arxiv.org/abs/2501.14735",
+    "score": 30.1
+  },
+  "2511.08274": {
+    "status": "ok",
+    "file": "2511.08274_Multi-Agent_GraphRAG_Text-to-Cypher_Labeled_Property_Graphs.pdf",
+    "size": 581736,
+    "title": "Multi-Agent GraphRAG: A Text-to-Cypher Framework for Labeled Property Graphs",
+    "abs_url": "https://arxiv.org/abs/2511.08274",
+    "score": 30.1
+  },
+  "2603.03686": {
+    "status": "ok",
+    "file": "2603.03686_AI4S-SDS_Neuro-Symbolic_Solvent_Design_System.pdf",
+    "size": 2883984,
+    "error": "HTTP Error 406: Not Acceptable",
+    "title": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
+    "abs_url": "https://arxiv.org/abs/2603.03686",
+    "score": 29.9
+  },
+  "2609.09503": {
+    "status": "ok",
+    "file": "2609.09503_Agentic_AI_Semantic_Commissioning_Digital_Twin.pdf",
+    "size": 967801,
+    "title": "Agentic AI-enabled Semantic Commissioning of a Cognitive Digital Twin for Reconfigurable Manufacturing",
+    "abs_url": "https://arxiv.org/abs/2609.09503",
+    "score": 29.7
+  },
+  "2606.30093": {
+    "status": "ok",
+    "file": "2606.30093_TIGRAG_Token_Co-occurrence_Graph_RAG.pdf",
+    "size": 1072397,
+    "title": "Efficient Retrieval-Augmented Generation via Token Co-occurrence Graphs",
+    "abs_url": "https://arxiv.org/abs/2606.30093",
+    "score": 28.9
+  },
+  "2507.03608": {
+    "status": "ok",
+    "file": "2507.03608_Benchmarking_Vector_Graph_Hybrid_RAG_for_ORAN.pdf",
+    "size": 831004,
+    "title": "Benchmarking Vector, Graph and Hybrid Retrieval Augmented Generation (RAG) Pipelines for Open Radio Access Networks (ORAN)",
+    "abs_url": "https://arxiv.org/abs/2507.03608",
+    "score": 28.7
+  },
+  "2606.28390": {
+    "status": "ok",
+    "file": "2606.28390_Topo4Vec_Quality_Assessment_of_Geospatial_Vector_Data.pdf",
+    "size": 27201798,
+    "error": "IncompleteRead(1048576 bytes read, 26153222 more expected)",
+    "title": "Automated Quality Assessment of Geospatial Vector Data: A GeoAI Approach using Spatial Representation Learning",
+    "abs_url": "https://arxiv.org/abs/2606.28390",
+    "score": 28.5
+  },
+  "2605.15109": {
+    "status": "ok",
+    "file": "2605.15109_Traversal_Context_and_Provenance_in_Agentic_GraphRAG.pdf",
+    "size": 3255465,
+    "title": "Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG",
+    "abs_url": "https://arxiv.org/abs/2605.15109",
+    "score": 28.3
+  }
+}

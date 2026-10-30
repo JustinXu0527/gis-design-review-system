@@ -1,0 +1,662 @@
+
+
+===== Page 1 =====
+- 
+Version 5.0.2 vom 02.08.2024 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Einheitliches Materialkonzept und Vorgaben für 
+die Dimensionierung passiver Infrastruktur im 
+Rahmen des geförderten Breitbandausbaus 
+(Version 5.0.2) 
+ 
+ 
+ 
+ 
+Eine Handreichung der Projektträger für das 
+Bundesförderprogramm Breitband 
+PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft 
+(Projektgebiet A) 
+und aconium GmbH (Projektgebiet B) 
+ 
+Im Auftrag des Bundesministeriums für Verkehr und Digitales 
+ 
+ 
+ 
+ 
+ 
+ 
+Projektgebiet A: 
+PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft 
+Projektgebiet B: 
+aconium GmbH 
+für die Bundesländer Baden-Würt- 
+temberg, Bayern, Berlin, Branden- 
+burg, Sachsen, Sachsen-Anhalt und 
+Thüringen 
+Tel. +49 (0)30 2636 5050 
+kontakt@gigabit-pt.de 
+www.gigabit-projekttraeger.de 
+für die Bundesländer Bremen, Ham- 
+burg, Hessen, Mecklenburg-Vorpom- 
+mern, 
+Niedersachsen, 
+Nordrhein- 
+Westfalen, Rheinland-Pfalz, Saarland 
+und Schleswig-Holstein 
+Tel. +49 (0)30 2332 49 - 777 
+projekttraeger@aconium.eu 
+www.aconium.eu
+
+
+===== Page 2 =====
+Status: Version 5.0.2 vom 02.08.2024
+Seite 2 von 9
+ 
+1 Vorgaben für die Dimensionierung passiver Infrastruktur 
+(1) Die EU-Breitbandbeihilfenleitlinien1 schreiben in Rn. 129 vor, dass geförderte Unternehmen im Bereich 
+des Zugangs auf Vorleistungsebene eine größere Produktauswahl anbieten sollten, als von den nationalen 
+Regulierungsbehörden oder im Rahmen der sektorspezifischen Regulierung für Unternehmen mit 
+beträchtlicher Marktmacht vorgeschrieben. 
+(2) Mit staatlicher Beihilfe finanzierte Leerrohre müssen groß genug für mehrere Kabelnetze und sowohl 
+für Point-to-Point- als auch für Point-to-Multipoint-Lösungen ausgelegt sein. 
+(3) So sind die Dimensionierung und Verlegung neuer Leerrohre sowie die Errichtung von 
+Verteileinrichtungen, Schächten und Zuführungen so vorzunehmen, dass auf Basis dieser Maßnahme auch 
+die spätere Erweiterung der realisierten bzw. die Errichtung alternativer Netzstrukturen wie Mobilfunk 
+der 5. Generation gewährleistet wird. Verteil- und Verzweigereinrichtungen sind so zu dimensionieren, 
+dass die Aufnahme passiver und aktiver Komponenten unterschiedlicher Netzstrukturen möglich ist 
+(bspw. Komponenten für den Betrieb von FTTB- und FTTH-Netzen). Die Komponenten unterliegen einem 
+anbieterneutralen Standard. Es sind ausschließlich Komponenten nach Stand der Technik und – sofern 
+durch geltende Vorschriften erforderlich – mit entsprechenden Zertifikaten und Produktkennzeichnungen 
+einzusetzen. 
+(4) Bei der Netzplanung durch einen Anbieter/Errichter muss ein diskriminierungsfreier Zugang für 
+mehrere Anbieter möglich sein. Dies ist über hinreichende Dimensionierung der Leerrohre und 
+Verteilpunkte wie im Abschnitt (2) beschrieben, sicherzustellen. Eine passive Kollokation für möglichst 
+mehrere hundert 
+Teilnehmer2 ist einzuplanen, 
+der Zugang zum 
+Kollokationsstandort ist 
+diskriminierungsfrei für Nachfrager von Vorleistungsprodukten zu ermöglichen und die jeweiligen 
+Kollokationsflächen sind ausreichend zu dimensionieren. Es sind vier Fasern pro Wohneinheit/Teilnehmer 
+und zwei Fasern pro Gebäude im Minimum als Point-to-Point-Verbindung bis zum Kollokationspunkt 
+vorzuhalten. Gleiches gilt für Betriebsstätten von Unternehmen und Geschäftsgebäude sowie weitere 
+sozioökonomische Schwerpunkte. Eine Kapazitätsreserve von mindestens 15 % der kalkulierten Anzahl 
+von Leerrohren ist einzuplanen. Kollokationsflächen müssen im Minimum mit drei freibleibenden 
+Leerrohren3 netzseitig als Zuleitungsmöglichkeit angebunden werden. 
+(5) Ein Gebäudeverteiler (HÜP) bildet den Übergabepunkt zwischen NE3 und NE4. Dieser muss 
+ausreichend Steckplätze und Spleißkapazität für die Anzahl der im Gebäude verwendeten Fasern haben 
+und sollte im angemessenen Umfang Kabelüberlängen aufnehmen können. Die gewählte Ausführung 
+sollte jeweils zugangsgeschützt (Schließung) und manipulationshemmend (innenliegende Kupplungen) 
+gewählt werden. 
+(6) Sämtliche Verteilgehäuse sind passend zu dimensionieren, um die jeweils ankommende und 
+abgehende Faseranzahl inklusive der Reservekapazitäten verschalten zu können. Entsprechendes gilt für 
+Muffen im Glasfaserverteilerbereich. 
+(7) Grundsätzlich ist die Mitnutzung vorhandener Infrastrukturen sowie die Nutzung alternativer 
+Verlegemethoden (Trenching, oberirdische Verlegung, etc.) zu prüfen und vorzusehen.  
+                                                          
+1  Mitteilung der EU-Kommission, Leitlinien für staatliche Beihilfen zur Förderung von Breitbandnetzen, ABl. C 36 vom 
+31.01.2023, S. 1. 
+2  Minimum 96 Teilnehmer, in begründeten Fällen kann eine Ausnahme beantragt werden. 
+3  Zu den Details s. Abschnitt (2).
+
+
+===== Page 3 =====
+Status: Version 5.0.2 vom 02.08.2024
+Seite 3 von 9
+ 
+(8) Erschließungsgebiete sind so zu planen, dass durchtrennte Mikrorohre beidseitig zum Schutz vor 
+Verschmutzung abgedichtet werden, um eine spätere Ringschlussmöglichkeit nicht auszuschließen. 
+(9) In Gewerbe- und Industriegebieten ist die Infrastruktur so zu planen, dass eine redundante Anbindung 
+der Gebäude (Ringstruktur) möglich ist. Stichstraßen sind hiervon ausgenommen. Diese Vorgaben für die 
+Dimensionierung passiver Infrastruktur und ein einheitliches Materialkonzept im Rahmen des geförderten 
+Breitbandausbaus sind bereits im Rahmen der Auftragsvergabe zu berücksichtigen.  
+(10) Abweichungen vom einheitlichen Materialkonzept und den Dimensionierungsvorgaben bedürfen in 
+jedem Einzelfall der Zustimmung durch den Zuwendungsgeber. Abweichungen können zugelassen 
+werden, soweit eine unveränderte Anwendung der Vorgaben zu unzumutbaren Ergebnissen führen oder 
+die Realisierung des Projekts in unzumutbarer Weise erschweren würde. Unzumutbarkeit kann 
+insbesondere dann gegeben sein, wenn bzw. soweit die unveränderte Anwendung des einheitlichen 
+Materialkonzepts und der technischen Anforderungen der Dimensionierungsvorgaben angesichts der 
+örtlichen Gegebenheiten im Einzelfall im Vergleich zum zu erreichenden Ziel zu unverhältnismäßig hohen 
+wirtschaftlichem und/oder zeitlichem Zusatzaufwand führen würde. 
+Abweichungen vom einheitlichen Materialkonzept für den Einsatz von oberirdischer Leitungsführung oder 
+anderer alternativer Verlegemethoden und für die Mitnutzung bestehender Infrastrukturen zur 
+Vermeidung von Tiefbauarbeiten (z. B. Verlegung in Abwasserleitungen) bedürfen, abweichend zum 
+Vorstehenden, dann keiner Zustimmung des Zuwendungsgebers, wenn die Kosten dafür im Verhältnis zur 
+herkömmlichen Bauweise geringer ausfallen. 
+(11) Für die Weitverkehrsebene/Backbone sowie die Verteilerebene sind unter Beachtung von RN 13 
+Reservekapazitäten vorgesehen, die in Abhängigkeit zur jeweiligen Grabenlänge zu staffeln sind (siehe 
+folgende Tabelle). Die Änderungen sind nur für Neuanträge wirksam. 
+(12) Für die Einzelanbindung von Schulen und Krankenhäusern ist unter Beachtung von RN 13 ebenfalls 
+eine ausreichende Kapazität einzuplanen. Für die Anbindung ist ein Rohrverband mit der Mindestgröße 
+12 x 10/6 oder vergleichbar zu errichten. Ist die Trassenlänge zur Anbindung der Schule oder der 
+Krankenhäuser größer als 1 km, so sind hierfür zwei Rohrverbände mit der Mindestgröße 12 x 10/6 über 
+die gesamte Grabenlänge einzubringen. Darüberhinausgehende Leerrohrkapazitäten für die Erschließung 
+angrenzender Gebiete, die nicht Fördergebiete sind, können im Rahmen einer sog. „Eigen-Mitverlegung“ 
+oder im Rahmen einer Mitverlegung durch Dritte nach §§ 143, 146 TKG eingebracht werden. 
+(13) Ausnahmen von diesen Vorgaben zur Reservekapazität und zu den Kapazitäten zur Anbindung von 
+Schulen und Krankenhäusern kommen auf Antrag in Betracht, wenn die zu erstellenden Gräben bereits 
+durch „Eigen-Mitverlegung“ oder einer Mitverlegung durch Dritte ausgelastet sein sollten oder die 
+Kapazität aufgrund alternativer Verlegetechniken technisch nicht zur Verfügung stehen kann. Die 
+Ausnahme beschränkt sich dann auf die entsprechend ausgelasteten Teilabschnitte. Aufgrund von 
+Ausnahmen nur in Teilabschnitten verlegte Kapazitäten nach RN 1 und 12 sind gegen eindringende 
+Verschmutzung zu schützen und luftdicht zu verschließen. Darüberhinausgehende Ausnahmen sind 
+ebenfalls auf Antrag möglich, falls die Verlegung in den verbleibenden Teilstrecken ökonomisch nicht 
+sinnvoll ist. 
+(14) Im Zuge der Durchführung der geförderten Baumaßnahme sollten alle Maßnahmen genutzt werden, 
+die eine erneute Grabenöffnung auf allen im Rahmen des geförderten Projektes errichteten Trassen 
+entbehrlich machen. Die vorbereitenden Maßnahmen – für Gebäude, die nicht sofort bei der 
+Baumaßnahme erschlossen werden – sind möglichst so auszugestalten, dass entlang des geförderten
+
+
+===== Page 4 =====
+Status: Version 5.0.2 vom 02.08.2024
+Seite 4 von 9
+ 
+Grabens im weiteren Verlauf keine Grabungsarbeiten im öffentlichen Straßenraum notwendig sind. 
+Etwaige Baulücken, also unbebaute Grundstücke zwischen bebauten Grundstücken, sollten über die 
+geförderte Baumaßnahme vorbereitet werden. Auf die tatsächliche Bebauung des Grundstücks kommt es 
+nicht an. Die Regelungen des Bebauungsplanes resp. der Innenbereichssatzung sind zu beachten. 
+(15) Abweichungen vom Materialkonzept entsprechend der RN 10 sind bei Förderanträgen nach dem 
+„Lückenschluss-Pilotprogramm“ gemäß Nr. 9 der Gigabit-Richtlinie des Bundes 2.0 in der Fassung vom 
+30.04.2024 grundsätzlich zulässig und werden vom Zuwendungsgeber unter der Berücksichtigung der 
+beihilferechtlichen Vorgaben geprüft.
+
+
+===== Page 5 =====
+Status: Version 5.0.2 vom 02.08.2024
+Seite 5 von 9
+ 
+2 Einheitliches Materialkonzept 
+Das 
+folgende 
+Materialkonzept 
+für 
+die 
+Errichtung 
+neuer 
+Infrastrukturen 
+von 
+Höchstgeschwindigkeitsnetzen (FTTB/H) ist für den Zuwendungsempfänger verbindlich. Die aufgeführten 
+Größen, Mengen und Ausführungen charakterisieren Mindestvorgaben. Maßgeblich für die 
+Dimensionierung der Infrastruktur ist die Kalkulation der zur Verfügung zu stellenden Kapazitäten gemäß 
+den Vorgaben für die Dimensionierung passiver Infrastruktur. Abweichungen nach oben sind grundsätzlich 
+zulässig. 
+ 
+Anwendung 
+Weitverkehrsebene / 
+Backbone  
+(sofern Teil des 
+geförderten 
+Projektes) 
+Verteilerebene  
+ 
+Hauszuführung 
+(Abzweig aus dem 
+Rohrverband vor 
+dem Grundstück bis 
+zum Gebäude) 
+Zwischen HvT/PoP  
+und passivem 
+Glasfaserverteiler  
+(Gf-NVt)4 
+Zwischen passivem 
+Glasfaserverteiler (Gf-
+NVt) und Abzweig aus 
+dem Rohrverband / 
+Anschluss 
+Hauszuführung5 
+ 
+Dimension 
+Erdverlegung 
+Einzelrohre mit min.  
+Da 16 mm, Di 12 mm 
+Plus Rohrverband  
+12 x 10/66 (Reserve) 
+min. 7 Einzelrohre7 mit 
+min. Da 12 mm, Di 8 mm 
+oder Rohrverband  
+min. 3x 20/15  
+plus Rohrverband  
+12 x 10/6 (Reserve) 
+Rohrverband  
+min. 6 x 10/68 
+Einzelrohre mit min. 
+Da 10 mm, Di 6 mm 
+Benennung 
+Rohrverband  
+Erdverlegung 
+≥ 1 x 16/12 plus 
+Rohrverband  
+12 x 10/6 
+≥ 7 x 12/8,  
+≥ 3 x 20/15 
+plus Rohrverband  
+12 x 10/6 
+≥ 6 x 10/6 
+≥ 1 x 10/6 
+Dimension  
+Bei Verlegung in 
+Schutzrohren 
+min. 50 x 4,6 
+Schutzrohre 
+Bei Verlegung in 
+Schutzrohren ist  
+eine maximale 
+Bestückung des 
+Mantelrohrs vorzusehen. 
+Einzelrohre mit min. Da 
+10 mm, Di 8 mm 
+Bei Verlegung in 
+Schutzrohren ist eine 
+maximale Bestückung des 
+Mantelrohrs vorzusehen. 
+Einzelrohre mit min.  
+Da 10 mm, Di 8 mm 
+- 
+Benennung 
+Rohrverband  
+Bei Verlegung in 
+Schutzrohren 
+- 
+N x 10/8 
+N x 10/8 
+ 
+Ausführung 
+Einzelrohr 
+PE-HD; Innenriefung 
+PE-HD; Innenriefung 
+PE-HD; Innenriefung 
+PE-HD; Innenriefung 
+Da = Außendurchmesser           Di = Innendurchmesser 
+                                                          
+4 Gleiches gilt auch im Fall einer Verbindung zwischen kaskadierenden PoP. 
+5 Inklusive der 15% Reserve gemäß RN 4. 
+6 Ein Rohrverband in der Mindestgröße 12 x 10/6 bei Grabenlängen bis 1 km, über 1 km 2 Rohrverbände über die gesamte  
+Länge. Zu möglichen Ausnahmen siehe RN 13. 
+7 Mehrere Einzelrohre können in einem Rohrverband zusammengefasst werden. 
+8 Für die Erschließung von Schulen und Krankenhäusern ist ein Rohrverband von der Mindestgröße ≥ 12 x 10/6 einzusetzen 
+(siehe hierzu ausführliche Bestimmung in RN 12 und RN 13).
+
+
+===== Page 6 =====
+Status: Version 5.0.2 vom 02.08.2024
+Seite 6 von 9
+ 
+Faserstandard 
+mindestens 
+ITU-T 
+G.652.D 
+und 
+im 
+Hinblick 
+auf 
+Biegeunempfindlichkeit 
+(u. a. für Smart Home/Building) auch ITU-T G.657A1 oder A2.
+
+
+===== Page 7 =====
+Status: Version 5.0.2 vom 02.08.2024
+Seite 7 von 9
+ 
+3 Farbbelegung und Dokumentation 
+Einzelrohrfarben bei Da = 10 mm oder größer: 
+(Ab Rohr Nr. 13 beginnt erneut die 12er Farbreihe, ergänzt durch zusätzliche Streifenmarkierung.) 
+ 
+ 
+Rohr Nr. 
+Farbe 
+(nach DIN EN 60794-1-1 Beiblatt 1:2014-04; 
+VDE 0888-100-1 Beiblatt 1:2014-04) 
+1 
+Rot 
+2 
+Grün 
+3 
+Blau 
+4 
+Gelb 
+5 
+Weiß 
+6 
+Grau 
+7 
+Braun 
+8 
+Violett 
+9 
+Türkis 
+10 
+Schwarz 
+11 
+Orange 
+12 
+Rosa bzw. Pink 
+ 
+Die Belegung bzw. geplante Belegung der Rohrverbände und die Erstellung der Hausanschlüsse ist pro 
+Rohrverband anhand der unten aufgeführten Tabelle zu dokumentieren. Die Tabellen sind auf Anfrage 
+des Fördermittelgebers einzureichen. Alternative Darstellungen im GIS-Format sind zulässig.
+
+
+===== Page 8 =====
+Status: Version 5.0.2 vom 02.08.2024
+Seite 8 von 9
+ 
+ 
+Bauvorhaben/Objekt:  
+ Dokumentation Hausanschluss Mikrokabelrohr 
+ 
+Straße 
+Haus 
+Nr. 
+Haushalt 
+/ Name 
+Mantel- 
+farbe 
+Verbund 
+Rohr 
+Nr. 
+Farbstreifen Kombina- 
+tion 
+Einze 
+l- 
+rohrt 
+yp 
+An- 
+schluss- 
+punkt 
+Datum 
+Hausanschluss 
+gesetzt ja/nein 
+Muster- 
+straße 
+1 
+Muster- 
+mann 
+Grün 
+1 
+Rot 
+10x2 
+Keller 
+13.2.15 
+Ja – bis zum AP 
+ 
+ 
+ 
+ 
+2 
+Grün 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+Blau 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+Gelb 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+Weiß 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+Grau 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+Braun 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+Violett 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+Türkis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+Schwarz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+Orange 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+Rosa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+Rot 
+Ab Rohr Nr. 13 beginnt erneut die 12er Farb- 
+reihe, 
+ergänzt durch zusätzliche Streifenmarkierung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+Grün 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+Blau 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+Gelb 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+Weiß 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+Grau 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+Braun 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+Violett 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+Türkis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+Schwarz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23 
+Orange 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24 
+Rosa
+
+
+===== Page 9 =====
+Status: Version 5.0.2 vom 02.08.2024
+Seite 9 von 9
+ 
+4 Kontakt 
+Als Bewilligungsbehörden zur Umsetzung des Breitbandförderprogramm des Bundes wurden durch das 
+Bundesministerium für Verkehr und Digitales zwei Projektträger - aconium GmbH und 
+PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft (PwC) - ernannt. 
+Die Zuständigkeiten teilen sich geografisch wie folgt auf: 
+ 
+ 
+Projektgebiet A: PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft 
+für die Bundesländer Baden-Württemberg, Bayern, Berlin, Brandenburg, Sachsen, Sachsen-Anhalt 
+und Thüringen 
+ 
+Website: www.gigabit-projekttraeger.de 
+Onlineplattform: www.gigabit-projekttraeger.de 
+ 
+ 
+Projektgebiet B: aconium GmbH 
+für die Bundesländer Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, 
+Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein 
+ 
+Website: www.aconium.eu 
+Onlineplattform: www.projekttraeger-breitband.de 
+ 
+ 
+Für Fragen zum Förderprogramm, zur Antragstellung und bei technischen Schwierigkeiten mit der 
+jeweiligen Onlineplattform haben die Projektträger jeweils Beratungshotlines eingerichtet. 
+Diese sind wie folgt erreichbar: 
+ 
+aconium GmbH: 030 - 2332 49 – 777 (Mo-Fr, 09 bis 17 Uhr) 
+ 
+PwC GmbH WPG: 030 - 2636 5050 (Mo-Fr, 09 bis 17 Uhr)

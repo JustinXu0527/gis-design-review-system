@@ -1,0 +1,137 @@
+
+
+===== Page 1 =====
+Bundesförderung Gigabit 
+Einheitliches Messkonzept in Bezug zur „Förderung zur Unterstützung des Gi- 
+gabitausbaus der Telekommunikationsnetze in der Bundesrepublik Deutschland“ 
+vom 26.04.2021 
+(Hinweise zu Messungen im Projektgebiet) 
+ 
+ 
+ 
+17.06.2022 
+ 
+ 
+Die Mindestanforderungen der jeweiligen Einzelvorhaben innerhalb der Gebietskörperschaften 
+ergeben sich unmittelbar aus den Breitbandzielen der Bundesregierung. Digitalpolitisches Kernziel 
+der Bundesregierung ist es, gigabitfähige Internetverbindungen für alle Haushalte und Unterneh- 
+men in Deutschland zu schaffen. Die Ziele der Bundesregierung werden hierbei mit höchster Prior- 
+ität verfolgt, weswegen der Nachweis der Mindestbandbreite entsprechend der individuellen 
+Zuwendungsbescheide im Ausbaugebiet nach Abschluss der Ausbaumaßnahmen verlangt und 
+überprüft wird. 
+Kerngröße für die Überprüfung dieser Zielerreichung und damit einhergehende Messungen der ent- 
+standenen Netzinfrastruktur ist die garantierte Bandbreite (Committed Information Rate CIR) am 
+jeweiligen Hausanschluss. Nur durch eine Messung am Hausanschluss der jeweiligen Endver- 
+braucher kann gewährleistet werden, dass die angestrebten Bandbreiten auch tatsächlich für die 
+Nutzung verfügbar sind. Die vorgesehenen Messungen genügen dabei folgenden Anforderungen: 
+ 
+• 
+Verlässlichkeit und Dokumentierbarkeit und Replizierbarkeit der Messungen; 
+• 
+Ermittlung von synchronen bzw. asynchronen Up- und Downloadgeschwindigkeiten; 
+• 
+Unabhängigkeit der Messungen vom Nutzer, Nutzersystem und -verhalten (z. B. Tageszei- 
+ten, Hard- und Software des Endnutzers, WLAN-Nutzung); 
+• 
+Möglichst geringe Messdauer; 
+• 
+Bedienbarkeit aller Netztopologien und Medien; 
+• 
+Eigene Bandbreitennutzung und Traffic-Erzeugung, auch bidirektionale Anwendbarkeit 
+ 
+Das eingesetzte Messverfahren referiert auf Prüfmittelstandards der ITU-T Y. 156sam ergänzt um 
+die DIN EN 61280-4-2 und ISO/IEC 14763-3. 
+ 
+ 
+ 
+Projektgebiet A: 
+PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft 
+Projektgebiet B: 
+aconium GmbH 
+für die Bundesländer Baden-Würt- 
+temberg, Bayern, Berlin, Branden- 
+burg, Sachsen, Sachsen-Anhalt und 
+Thüringen 
+Tel. +49 (0)30 2636 5050 
+kontakt@gigabit-pt.de 
+www.gigabit-projekttraeger.de 
+für die Bundesländer Bremen, Ham- 
+burg, Hessen, Mecklenburg-Vorpom- 
+mern, 
+Niedersachsen, 
+Nordrhein- 
+Westfalen, Rheinland-Pfalz, Saarland 
+und Schleswig-Holstein 
+  Tel. +49 (0)30 2332 49 - 777 
+projekttraeger@aconium.eu 
+www.aconium.eu
+
+
+===== Page 2 =====
+Eine Abweichung von der flächendeckenden Erreichung der nationalen Zielvorgaben im gesamten 
+Projektgebiet (definiert als die Gesamtheit des Ausbaugebiets zusätzlich weiterer Gebiete, deren 
+Breitbandkonnektivität unmittelbar durch die Förderung profitiert) wird grundsätzlich nicht akzep- 
+tiert. Der individuelle Förderbescheid kann nach oben abweichende Datenraten enthalten und gilt 
+in diesem Fall als verbindlich einzuhalten. 
+Um den Projekterfolg sicherzustellen, werden umfangreiche Prüfungen in allen Phasen des Pro- 
+jektes von Netzplaneinreichung über Baubeginn bis hin zu Bauüberwachung und Ver- 
+wendungsnachweisprüfung im Projektgebiet durch die beliehenen Projektträger im Auftrag der 
+zuständigen Fachaufsicht im Bundesministerium für Digitales und Verkehr (BMDV) durchgeführt. 
+Unangekündigte Kontrollmessungen können dabei bei Abschluss von Bauabschnitten (Pro- 
+jektmeilensteinen) 
+oder 
+des 
+Gesamtprojektes 
+im 
+Zuge 
+der 
+Zwischen- 
+bzw. 
+Ver- 
+wendungsnachweisprüfung stattfinden, aber auch infolge von Auffälligkeiten innerhalb der netz- 
+technischen Plausibilität bzw. auch Außenprüfungen. Auf Anforderung der 
+jeweiligen 
+Ge- 
+bietskörperschaft bzw. des BMDV ist eine Messung im gesamten Projektgebiet jederzeit möglich. 
+Nach Abschluss der Fördermaßnahme können Messungen innerhalb des Zweckbindungszeitraums 
+dann durchgeführt werden, wenn der begründete Verdacht besteht, dass die zu erreichenden 
+Bandbreiten in den jeweiligen Projekten nicht tatsächlich zur Verfügung stehen. Dazu wird insbe- 
+sondere an jenen Stellen überprüft werden, die aufgrund von Schwächen in den Netzplänen oder 
+aufgrund von Meldungen von Endverbrauchern Anlass geben, an der Zielerreichung der Projekte 
+zu zweifeln. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Status: Version 2.0 vom 17.06.2022 
+Seite | 2

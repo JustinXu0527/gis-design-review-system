@@ -1,0 +1,461 @@
+
+
+===== Page 1 =====
+Die Kabelschutzanweisung steht für Sie
+in folgenden Sprachen zur Verfügung:
+Aby wyświetlić instrukcję ochrony kabla w języku polskim, kliknij tutaj
+Für die Kabelschutzanweisung in Polnisch klicken Sie bitte hier
+PL
+For the instructions on protecting cables in Englisch, please click
+here
+Für die Kabelschutzanweisung in Englisch klicken Sie bitte hier
+GB
+Cliquez ici pour les consignes de protection des câbles en français
+Für die Kabelschutzanweisung in Französisch klicken Sie bitte hier
+FR
+Para las instrucciones de protección de cables en español, haga clic
+aquí
+Für die Kabelschutzanweisung in Spanisch klicken Sie bitte hier
+ES
+Pro Instruktáž k ochraně kabelů v češtině klikněte zde
+Für die Kabelschutzanweisung in Tschechisch klicken Sie bitte hier
+CZ
+Diese finden Sie in deutscher Sprache ab Seite 2.
+D
+Для просмотра руководства по защите кабельных трасс на
+русском языке, пожалуйста, нажмите здесь
+Für die Kabelschutzanweisung in Russisch klicken Sie bitte hier
+RUS
+TR
+Kablo koruma talimatı'nın Türkçesi için lütfen tıklayınız
+Für die Kabelschutzanweisung in Türkisch klicken Sie bitte hier
+Kliknite ovde da biste videli uputstvo za zaštitu kablova na srpskom
+jeziku
+Für die Kabelschutzanweisung in Serbisch klicken Sie bitte hier
+SRB
+Za upute za zaštitu kabela na hrvatskom jeziku kliknite ovdje
+Für die Kabelschutzanweisung in Kroatisch klicken Sie bitte hier
+HR
+Pentru instrucțiunile în limba română privind protecția cablurilor, vă
+rugăm să faceți clic aici
+Für die Kabelschutzanweisung in Rumänisch klicken Sie bitte hier
+ROU
+
+
+===== Page 2 =====
+Stand: 01.05.2026
+Seite 2 von 9
+Kabelschutzanweisung
+Anweisung zum Schutze unterirdischer Telekommunikationslinien der Deutschen Telekom bei
+Arbeiten Anderer
+Bearbeitet und herausgegeben von der Telekom Deutschland GmbH
+Telekommunikationslinien als Bestandteil des Telekommunikationsnetzes der Telekom Deutschland
+GmbH sind alle unter- oder oberirdisch geführte Telekommunikationskabelanlagen, einschließlich
+ihrer zugehörigen Schalt-
+und Verzweigungseinrichtungen, Masten und Unterstützungen,
+Kabelschächte und Kabelkanalrohre, sowie weitere technische Einrichtungen, die für das Erbringen
+von öffentlich zugänglichen Telekommunikationsdiensten erforderlich sind (§ 3 Nr. 64 TKG).
+Unterirdisch verlegte Telekommunikationslinien können bei Arbeiten, die in ihrer Nähe am oder im
+Erdreich durchgeführt werden, leicht beschädigt werden. Durch solche Beschädigungen wird der für
+die Öffentlichkeit wichtige Telekommunikationsdienst der Telekom Deutschland GmbH erheblich
+gestört. Beschädigungen an Telekommunikationslinien sind nach Maßgabe der § 317 StGB strafbar,
+und zwar auch dann, wenn sie fahrlässig begangen werden. Außerdem ist derjenige, der für die
+Beschädigung verantwortlich ist, der Telekom Deutschland GmbH zum Schadensersatz verpflichtet.
+Es liegt daher im Interesse aller, die solche Arbeiten durchführen, äußerste Vorsicht walten zu lassen
+und dabei insbesondere Folgendes genau zu beachten, um Beschädigungen zu verhüten.
+1. Bei Arbeiten jeder Art am oder im Erdreich, insbesondere bei Aufgrabungen, Pflasterungen,
+Bohrungen, Baggerarbeiten, Grabenreinigungsarbeiten, Setzen von Masten und Stangen, Eintreiben
+von Pfählen, Bohrern und Dornen, besteht immer die Gefahr, dass Telekommunikationslinien der
+Telekom Deutschland GmbH beschädigt werden.
+2. Telekommunikationslinien der Telekom Deutschland GmbH werden nicht nur in oder an
+öffentlichen Verkehrswegen, sondern auch durch private Grundstücke (z.B.
+Felder, 
+Wiesen, 
+Waldstücke, 
+Hausgrundstücke) 
+geführt. 
+Die
+Telekommunikationslinien
+werden
+gewöhnlich
+auf
+einer
+Grabensohle
+(Verlegetiefe VT) von 40 cm bis 100 cm ausgelegt.
+Durch neue Verlegetechniken, wie z. B. Trenchingverfahren oder andere
+Verlegungen (s. Seite 8), werden Telekommunikationslinien auch in einer Tiefe ab
+7 cm ausgelegt.
+Eine abweichende Tiefenlage ist bei Telekommunikationslinien wegen Kreuzungen anderer Anlagen,
+infolge nachträglicher Veränderung der Deckung durch Straßenumbauten u. dgl. oder aus anderen
+Gründen möglich.
+Kabel können in Röhren eingezogen, mit Schutzhauben aus Ton, mit Mauersteinen o.ä. abgedeckt,
+durch Trassenwarnband aus Kunststoff, durch elektronische Markierer gekennzeichnet oder frei im
+Erdreich verlegt sein. Röhren, Abdeckungen und Trassenwarnband aus Kunststoff schützen die
+Telekommunikationslinien jedoch nicht gegen mechanische Beschädigungen. Sie sollen lediglich den
+Aufgrabenden auf das Vorhandensein von Telekommunikationslinien aufmerksam machen
+(Warnschutz).
+VT
+Übd
+
+
+===== Page 3 =====
+Stand: 01.05.2026
+Seite 3 von 9
+Bei Beschädigung von Telekommunikationslinien
+1 der Telekom Deutschland GmbH, kann
+Lebensgefahr für damit in Berührung kommende Personen bestehen.
+Von unbeschädigten Telekommunikationslinien der Telekom Deutschland GmbH mit isolierender
+Außenhülle gehen auf der Trasse keine Gefahren aus.
+Von Erdern und erdfühlig verlegten Kabeln (Kabel mit metallischem Außenmantel) können
+insbesondere bei Gewitter Gefahren ausgehen. Gem. DIN VDE 0105 Teil 100, Abschnitt 6.1.3
+Wetterbedingungen, sollen bei Gewitter die Arbeiten an diesen Anlagen eingestellt werden.
+Glasfaserkabel sind auf der Kabelaußenhülle mit einem
+gekennzeichnet. Hier kann es bei einem
+direkten Hineinblicken in den Lichtwellenleiter zu einer Schädigung des Auges kommen.
+Bei
+Beschädigung von Telekommunikationslinien gilt immer:
+Alle Arbeiter müssen sich aus dem Gefahrenbereich der Kabelbeschädigung entfernen. Die Telekom
+Deutschland GmbH ist unverzüglich und auf dem schnellsten Wege zu benachrichtigen, damit der
+Schaden behoben werden kann.
+3. Vor der Aufnahme von Arbeiten am oder im Erdreich der unter Ziffer 1 bezeichneten Art ist deshalb
+über das Internet unter der Adresse https://trassenauskunftkabel.telekom.de festzustellen, ob und
+wo in der Nähe der Arbeitsstelle Telekommunikationslinien der Telekom Deutschland GmbH liegen,
+die durch die Arbeiten gefährdet werden können.
+Teilweise sind Telekommunikationslinien metallfrei ausgeführt und mit elektronischen Markierern
+gekennzeichnet. Diese Markierer (Frequenzen der passiven Schwingkreise gemäß 3M-
+Industriestandard 101,4 kHz) sind im Lageplan mit
+dargestellt und mit geeigneten marktüblichen
+Ortungsgeräten sicher zu lokalisieren.
+4. Sind Telekommunikationslinien der Telekom Deutschland GmbH vorhanden und sind die
+Planunterlagen offensichtlich fehler- oder lückenhaft, nicht lesbar bzw. missverständlich oder enthält
+der erstellte Planauszug überhaupt keine Informationen, weder einen Planhintergrund noch sichtbare
+Trassenverläufe, so ist die Aufnahme der Arbeiten der zuständigen Niederlassung rechtzeitig vorher
+schriftlich, in eiligen Fällen telefonisch (Telefonkontakt 0800/3301000), mitzuteilen, damit - wenn
+nötig, durch Beauftragte an Ort und Stelle - nähere Hinweise über deren Lage gegeben werden
+können.
+5. Neu verlegte Telekommunikationstrassen werden digital (dargestellt in blau) eingemessen. Aus
+diesem Grund werden bei der Planauskunft die Trassen in unterschiedlicher Form dargestellt und in
+zwei separaten Plänen und einem kombinierten Plan (zur Übersicht) ausgegeben.
+Digital eingemessene Trassen und Trassenpunkte beinhalten keine Bemaßungen. Durch die strikte
+Trennung der digital eingemessenen Trassen von den händisch bemaßten Trassen können zudem
+Lücken im dazugehörigen Planauszug vorhanden sein.
+Diese Pläne sind nicht fehlerhaft. Die genaue Lage kann manuell durch die maßstabsgetreue
+Darstellung ermittelt werden.
+Es müssen immer alle ausgegebenen Planauskünfte berücksichtigt werden!
+1 Betrieben werden u.a.:
+-Telekomkabel (Kupferkabel und Glasfaserkabel)
+- Telekomkabel mit Fernspeisestromkreisen
+- Kabel (Energiekabel), die abgesetzte Technik mit Energie versorgen
+
+
+===== Page 4 =====
+Stand: 01.05.2026
+Seite 4 von 9
+6. Jede unbeabsichtigte Freilegung bzw. Beschädigung von Telekommunikationslinien der Telekom
+Deutschland GmbH ist der zuständigen Niederlassung unverzüglich und auf dem schnellsten Wege
+zu melden.
+Ist ein direkter Ansprechpartner nicht bekannt, so kann eine Schadensmeldung über die App „Trassen
+Defender“ (erhältlich im Google Playstore und Apple Store),https://trassenauskunftkabel.telekom.de
+„Kabelschaden melden“ oder unter 0800/3301000 gemeldet werden.
+Freigelegte Telekommunikationslinien sind zu sichern und vor Beschädigung und Diebstahl zu
+schützen. Die Erdarbeiten sind an Stellen mit freigelegten Kabeln bis zum Eintreffen des Beauftragten
+der Telekom Deutschland GmbH einzustellen.
+7. Bei Arbeiten in der Nähe von unterirdischen Telekommunikationslinien dürfen spitze oder scharfe
+Werkzeuge (Bohrer, Spitzhacke, Spaten, Stoßeisen) nur so gehandhabt werden, dass sie höchstens
+bis zu einer Tiefe von 10 cm über der Telekommunikationslinie in das Erdreich eindringen. Für die
+weiteren Arbeiten sind stumpfe Geräte, wie Schaufeln usw., zu verwenden, die möglichst waagerecht
+zu führen und vorsichtig zu handhaben sind. Spitze Geräte (Dorne, Schnurpfähle) dürfen oberhalb von
+Telekommunikationslinien nur eingetrieben werden, wenn sie mit einem fest angebrachten Teller
+oder Querriegel versehen sind, um ein zu tiefes Eindringen zu verhindern und damit eine
+Beschädigung der Telekommunikationslinien sicher auszuschließen. Damit Ausweichungen der Lage
+oder 
+mit 
+breiteren
+Kabelrohrverbänden
+gerechnet 
+werden 
+muss, 
+sind 
+die 
+gleichen
+Verhaltensmaßnahmen auch in einer Breite bis zu 50 cm rechts und links der Telekommunikationslinie
+zu beachten. Bei der Anwendung maschineller Baugeräte in der Nähe von Telekommunikationslinien
+ist ein solcher Abstand zu wahren, dass eine Beschädigung der Telekommunikationslinie
+ausgeschlossen ist. Ist die Lage oder die Tiefenlage nicht bekannt, so ist besondere Vorsicht geboten.
+Gegebenenfalls muss der Verlauf der Telekommunikationslinie durch in vorsichtiger Arbeit
+herzustellender Querschläge ermittelt werden.
+8. In Gräben, in denen Kabel freigelegt worden sind, ist die Erde zunächst nur bis in die Höhe des
+Kabelauflagers einzufüllen und fest zu stampfen. Dabei ist darauf zu achten, dass das Auflager des
+Kabels glatt und steinfrei ist. Sodann ist auf das Kabel eine 10 cm hohe Schicht loser, steinfreier Erde
+aufzubringen und mit Stampfen fortzufahren, und zwar zunächst sehr vorsichtig mittels hölzerner
+Flachstampfer. Falls sich der Bodenaushub zum Wiedereinfüllen nicht eignet, ist Sand einzubauen.
+Durch Feststampfen steinigen Bodens unmittelbar über dem Kabel kann dieses leicht beschädigt
+werden.
+9. Bei der Reinigung von Wasserdurchlässen, um die Telekommunikationslinien herumgeführt sind,
+sind die Geräte so vorsichtig zu handhaben, dass die Telekommunikationslinien nicht beschädigt
+werden.
+10. Jede Erdarbeiten ausführende Person oder Firma ist verpflichtet, alle gebotene Sorgfalt
+aufzuwenden. Insbesondere müssen Hilfskräfte genauestens an- und eingewiesen werden, um der bei
+Erdarbeiten immer bestehenden Gefahr einer Beschädigung von Telekommunikationslinien zu
+begegnen. Nur so kann sie verhindern, dass sie zum Schadenersatz herangezogen wird.
+11. Die Anwesenheit eines Beauftragten der Telekom Deutschland GmbH an der Aufgrabungsstelle
+hat keinen Einfluss auf die Verantwortlichkeit des Aufgrabenden in Bezug auf die von der Person
+verursachten Schäden an Telekommunikationslinien der Telekom Deutschland GmbH. Der
+Beauftragte der Telekom Deutschland GmbH hat keine Anweisungsbefugnis gegenüber den
+Arbeitskräften der die Aufgrabung durchführenden Firma.
+12. Bitte beachten Sie, dass es aufgrund von nachträglicher Bautätigkeit zu Veränderungen in der
+Verlegetiefe der Telekommunikationslinien kommen kann! Im Bereich von Verbindungsmuffen,
+Rohrunterbrechungen und Kabelverbänden ist mit größeren Ausbiegungen der Kabellage zu rechnen!
+Im Bereich der Kabeleinführungen von Multifunktionsgehäusen, Kabelverzweigern und sonstigen
+Verteileinrichtungen ist besondere Vorsicht geboten.
+
+
+===== Page 5 =====
+Stand: 01.05.2026
+Seite 5 von 9
+13. Mit Abweichungen in der Örtlichkeit zum Planauszug muss gerechnet werden. Zwischenzeitliche
+Veränderungen der Referenzpunkte oder Fluchtlinien müssen von den bauausführenden Personen
+berücksichtigt werden. In den Bestandsplänen angegebene Maße beziehen sich auf den Zeitpunkt der
+Verlegung.
+14. Mit Abweichungen in der Örtlichkeit von dem im Planauszug angegebenen Maßen muss
+gerechnet werden. Die in den Bestandsplänen angegebenen Maße beziehen sich auf den Zeitpunkt
+der Verlegung. Zwischenzeitliche Veränderungen der Referenzpunkte oder Fluchtlinien müssen von
+den bauausführenden Personen berücksichtigt werden.
+15. Der zusätzliche Planauszug für digital eingemessene Trassen und Trassenobjekte enthält keine
+Bemaßungen. Diese können manuell von der bauausführenden Person auf Basis der in der
+Hintergrundkarte enthaltenen Bezugspunkte ermittelt werden. Die daraus ermittelten Abstände sind
+für die digital eingemessenen Trassen und Trassenobjekte maßstabsgetreu, eine fehlerhafte
+Handhabung der Ausmessung liegt nicht in der Verantwortung der Telekom Deutschland GmbH.
+Der kombinierte Ausdruck enthält sowohl manuell bemaßte Trassen (schwarz) als auch die digital
+eingemessenen Trassen (blau). Dieser Ausdruck dient ausschließlich zur Gesamtübersicht aller
+vorhandenen Trassen. Eine maßstabsgetreue Zeichnung ist nicht gegeben! Die konkrete Trassenlage
+kann ausschließlich den separierten Plänen (analog / digital) entnommen werden.
+
+
+===== Page 6 =====
+Stand: 01.05.2026
+Seite 6 von 9
+Erläuterungen der Zeichen und Abkürzungen in den Lageplänen der
+Telekom Deutschland GmbH
+Bearbeitet und herausgegeben von der Telekom Deutschland GmbH
+Stand: 01.03.2024
+Die nachfolgenden Symbole können sowohl in schwarz als auch blau eingefärbt sein.
+Blau bedeutet, dass es sich um ein digital eingemessenes Objekt handelt.
+(konkret hier - das Wort "Blau" in blau darstellen)
+Kabelrohrtrasse mit mindestens einem Rohr
+Kabeltrasse alle Kabel erdverlegt
+Kabeltrasse oberirdisch verlegt
+Betriebsgebäude
+Kabelrohrverband aus 2 x 3 Kabelkanalrohren (KKR -Außendurchmesser 110 mm)
+Kabelschacht mit 2 Einstiegsöffnungen
+Kabelschacht mit 1 Einstiegsöffnung
+Kabelkanal aus Kabelkanalformstein (KKF) mit 2 Zugöffnungen
+Abzweigkasten mit Erdkabel zum Abschlusspunkt des Liniennetzes (APL) im Gebäude
+Querschnittsbild der in einer Trasse verlaufenden Telekommunikationsanlage:
+40
+7x12 hier: 2 Erdkabel und 4 Kunststoffrohre (Außendurchmesser 40 mm) und ein SNRV 7x12
+0,4 Übd
+hier: 3 Betonformsteine und 1 Stahlhalbrohr doppelt mit einer Überdeckung (Übd) von
+0,4m
+Rohr-Unterbrechungsstelle
+Im Erdreich verbliebener Teil eines aufgegebenen Kabelschachtes mit nicht im Betrieb
+befindlichen vorhandenen Erdkabel und aufgegebener vorhandener Verbindungsstelle
+Mit Halbrohren bzw. Schraubklemmfitting überbrückte Rohr-Unterbrechungsstelle
+Abzweigkasten / Unterflurbehälter mit unbelegter Kabelkanal-Hauszuführung
+Kabelschacht, verschlossen / Kabelschacht, verschlossen und elektronisch geschützt
+Kabelverzweiger / Gf-Netzverteiler / Einspeisepunkt 230VAC / Abgesetzte EVs-Gruppe
+Rohrende, Beginn der Erdkabelverlegung
+Abzweigmuffe mit Erdkabel zum Telefonhäuschen, -zelle, -haube, -säule, Telestation
+Unmittelbar im Erdreich ausgelegtes Telekom-Kabel; abgedeckt
+- mit Mauerziegel oder Abdeckplatten, (kann auch doppelt abgedeckt sein)
+- mit Kabelabdeckhauben
+- zwei Kabel mit Trassenwarnband
+6,5
+2 Kabelschutzrohre aus Kunststoff, Stahl, verzinktem Stahl oder Beton;
+ab der Strichlinie in Pfeilrichtung 6,5 m lang
+
+
+===== Page 7 =====
+Stand: 01.05.2026
+Seite 7 von 9
+Kabelmarke (aus Kunststoff) oder Kabelmerkstein (aus Beton)
+Kabelmarke mit elektronischem Markierer
+elektronischer Markierer ohne Kabelmarke (unterirdisch verlegt)
+Kennzeichnung der Einmessachse durch eine Strichlinie, auf die alle Abstand-Maße
+4     5     6
+zum Kabelverband (Kabel Nr. 4 bis 6) bezogen sind.
+oder 
+Hinweis auf Gefährdung durch Fernspeisung, soweit der Grenzwert nach VDE 800, Teil 3
+überschritten wird und Ortsspeisung mit 230 V(AC)/400V(DC)
+Gefährdung durch:
+
+Betriebsspannung
+G
+Kurzzeitbeeinflussung durch Gewitter
+K
+Kurzzeitbeeinflussung aus elektr. Energieanlagen < 3 Sekunden
+L
+Langzeitbeeinflussung aus elektrischen Energieanlagen ≥3 Sekunden
+G
+Betriebsspannung, und Kurzzeitbeeinflussung durch Gewitter
+K
+Betriebsspannung und Kurzzeitbeeinflussung aus elektr. Energieanlagen < 3 Sekunden
+L
+Betriebsspannung, Langzeitbeeinflussung und eventuell Kurzzeitbeeinflussung
+SL
+Schirmleiter über Erdkabel
+- Fremdes Starkstromkabel / fremdes Fernmeldekabel (+Text)
++  +   +  +
+- Rohrleitung für flüssige oder gasförmige Stoffe (Gas, Wasser, Erdöl, Fernheizung)
+Erder aus Kupferseil / verzinktem Stahldraht als Oberflächenerder
+Oberflächenerder mit abschließendem Tiefenerder (Erdungsstab)
+Korr Meßp
+Korrosionsschutzseinrichtung / Potentialmess- oder -abgleichpunkt in EVz-Säule
+EMP
+Erdkabelmesspunkt
+über Stichkabel angeschlossene Wannenmuffe mit ZWR in direkter Nähe an einer Muffe
+/ BK-Verstärkergehäuse
+Muffe mit über Stichkabel angeschlossener Wannenmuffe mit ZWR in >2m Entfernung
+zu einer VS
+M
+Mast, Beginn der Luftkabelverlegung
+Abschlusspunkt des Liniennetzes (APL) Kupfer
+#
+Glasfaser-Abschlusspunkt (Gf-AP)
+Vorkriegstrasse: Die in diesem Trassenabschnitt verlegten Erdkabel oder Außenrohre
+wurden vor 1946 verlegt oder das Verlegedatum ist nicht bekannt.
+T
+DP
+BP
+T
+VKT
+
+
+===== Page 8 =====
+Stand: 01.05.2026
+Seite 8 von 9
+Hinweise zum Lesen der Planauskünfte
+Planauszug für analog eingemessene Trassen
+Lediglich die in den Plänen vermerkten Maße (nicht die zeichnerische Darstellung!) geben einen
+Anhalt für die Lage der dargestellten Telekommunikationslinien (Beachte: Die zeichnerische
+Darstellung ist nicht maßstabsgetreu!). Einmessungen an Kabelrohrverbänden beziehen sich auf die
+Mitte der Kabelschacht-Abdeckung. Alle Maße sind in Meter vermerkt.
+Planauszug für digital eingemessene Trassen
+Digital eingemessene Trassen (in blau dargestellt) werden als separater Planauszug mit ALKIS-
+Daten als Hintergrundkarte ausgegeben.
+In diesem Planauszug ist die zeichnerische Darstellung maßstabsgetreu. Die konkrete Lage der
+Trasse kann manuell durch die bauausführende Person ermittelt werden.
+Kombinierter Planauszug
+Wird der kombinierte Ausdruck genutzt, enthält dieser die digital (blau) und analog eingemessenen
+Trassen (schwarz). Diese Darstellung dient ausschließlich der Gesamtdarstellung der Trassen. Die
+Darstellung ist nicht maßstabsgetreu und Bemaßungen sowie Maßstabsberechnungen können nicht
+zur Eruierung der korrekten Trassenlage genutzt werden.
+Allgemeine Hinweise
+Beachte: Grundsätzlich gilt, dass Telekommunikationslinien immer durchgehend zwischen zwei
+Abschlusspunkten verlegt sind, selbst wenn eine Unterbrechung in den einzelnen Plänen dargestellt
+wird!
+Eventuell auftretende Lücken im Trassenverlauf auf den ausgegebenen Planauszügen können durch
+den kombinierten Ausdruck oder durch den analogen Planauszug vervollständigt werden.
+Telekommunikationslinien werden als Einstrichdarstellung im Lageplan dargestellt. Der tatsächliche
+Umfang der Anlage ist der Querschnittsdarstellung zu entnehmen.
+Die Planauskünfte sind in einem geeigneten Maßstab einzuholen. Dieser ist so zu wählen, dass
+sämtliche Angaben (Bemaßungen, Trassenquerschnitte, etc.) einwandfrei zu erkennen und zu lesen
+sind.
+Kreuzungen und Näherungen von Starkstromkabeln und Rohrleitungen sind nur eingezeichnet
+worden, soweit sie bei Arbeiten an den Telekommunikationslinien vorgefunden wurden oder in
+anderer Weise nachträglich bekanntgeworden sind.
+Oberflächenmerkmale und deren Abkürzungen sind der DIN 18 702 „Zeichen für Vermessungsrisse,
+großmaßstäbige Karten und Pläne“ zu entnehmen.
+Sind an den Trassenabschnitten keine Angaben zu Verlegeart und Verlegetiefe bzw. Überdeckung
+hinterlegt, so gelten die Hinweise entsprechend Ziffer 2.
+Weichen die Angaben von Ziffer 2 ab, so haben die Trassenabschnitte eine Kennzeichnung, die aus 1
+bis 3 Angaben besteht:
+
+Verlegeart
+
+Verlegetiefe oder Überdeckung
+
+Gefährdung durch Spannung bzw. Beeinflussung
+
+
+===== Page 9 =====
+Stand: 01.05.2026
+Seite 9 von 9
+Beispiel:
+VP 0.8 
+Beispiel:
+TR4 Übd 0.3
+Kabel mit Verlegepflug eingepflügt
+Verlegetiefe: 0,8m
+Gefährdung durch Betriebsspannung
+Rohr/SNRV mit Trenching eingebracht
+Überdeckung: 0,3m
+Beispiel:
+TR4 0.4   Übd 0.1
+Rohr/SNRV mit Trenching eingebracht
+Verlegetiefe: 0,4 m
+Überdeckung: 0,1m
+Die Kennzeichnung der Verlegeart und der Verlegetiefe wird an den Trassen sukzessive von einer
+manuellen auf eine automatisierte Darstellung umgestellt. Daher sind in den Planauskünften zwei
+verschiedene Darstellungen anzutreffen:
+Kennzeichnung der Verlegeart
+Kurztext
+Verlegeart
+alter Kurztext
+MT
+Graben / erdverlegte Kabeltrasse mit Mindertiefe
+Trasse mit unbekannter Lage
+TR1
+Rohr/SNRV mit Trenching eingebracht;
+Verlegetiefe 7-12cm
+TR2
+Rohr/SNRV mit Trenching (Sägeverfahren)
+eingebracht; Verlegetiefe 20-30cm
+TR3
+Rohr/SNRV mit Trenching (Fräsverfahren)
+eingebracht; Verlegetiefe 20-30cm
+TR4
+Rohr/SNRV mit Trenching eingebracht;
+Verlegetiefe 30-50cm
+VP
+Kabel mit Verlegepflug eingepflügt
+VP
+Rohr mit Verlegepflug eingepflügt
+BV
+Rohr mit Bodenverdrängung eingebracht
+SCH
+Schießstrecke
+SB
+Rohr mit Spülbohrverfahren eingebracht
+BS
+Bohrstrecke
+BR
+An bzw. in einer Brücke geführtes Rohr
+BR
+TN
+Kabel in einem begehbaren Tunnel
+TN
+DÜ
+Rohr in einem Düker
+DÜ
+MVAK
+Kabel welches in einem Abwasserkanal mitverlegt
+ist
+MVAK
+MVFK
+Kabel welches in einem Frischwasserkanal
+mitverlegt ist
+MVFK
+PRIV
+Rohr vom Kunden verlegt
+PRIV
+In der Spalte „Kurztext“ ist die neue automatisierte Darstellung und in der Spalte „alter Kurztext“ die
+bisherige.
+MT1
+MT2
+MT3
+MT4
+BV
+SB
+VP
+VP

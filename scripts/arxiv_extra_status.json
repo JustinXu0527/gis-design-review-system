@@ -1,0 +1,152 @@
+{
+  "2603.13307": {
+    "status": "ok",
+    "file": "2603.13307_Suppressing_Domain-Specific_Hallucination_in_Construction_LLMs.pdf",
+    "size": 795053,
+    "short": "Suppressing_Domain-Specific_Hallucination_in_Construction_LLMs"
+  },
+  "2603.22528": {
+    "status": "ok",
+    "file": "2603.22528_GraphRAG_for_Engineering_Diagrams_ChatPID.pdf",
+    "size": 3435688,
+    "short": "GraphRAG_for_Engineering_Diagrams_ChatPID"
+  },
+  "2603.26845": {
+    "status": "ok",
+    "file": "2603.26845_GISclaw_Open-Source_LLM_Agent_for_Geospatial_Analysis.pdf",
+    "size": 6427670,
+    "short": "GISclaw_Open-Source_LLM_Agent_for_Geospatial_Analysis"
+  },
+  "2605.00827": {
+    "status": "ok",
+    "file": "2605.00827_Separating_Intelligence_from_Execution_MCP_Workflow_Engine.pdf",
+    "size": 1722885,
+    "short": "Separating_Intelligence_from_Execution_MCP_Workflow_Engine"
+  },
+  "2607.19297": {
+    "status": "ok",
+    "file": "2607.19297_Graph-Based_Agentic_AI_with_LangGraph.pdf",
+    "size": 499572,
+    "short": "Graph-Based_Agentic_AI_with_LangGraph"
+  },
+  "2510.06002": {
+    "status": "ok",
+    "file": "2510.06002_Deterministic_Legal_Agents_Auditable_Reasoning.pdf",
+    "size": 665945,
+    "short": "Deterministic_Legal_Agents_Auditable_Reasoning"
+  },
+  "2608.00705": {
+    "status": "ok",
+    "file": "2608.00705_Triple-Robustness_of_RAG_for_Requirements_Traceability.pdf",
+    "size": 587883,
+    "short": "Triple-Robustness_of_RAG_for_Requirements_Traceability"
+  },
+  "2604.28087": {
+    "status": "ok",
+    "file": "2604.28087_Neuro-symbolic_Causal_Rule_Synthesis_Verification_Legal.pdf",
+    "size": 581789,
+    "short": "Neuro-symbolic_Causal_Rule_Synthesis_Verification_Legal"
+  },
+  "2507.03226": {
+    "status": "ok",
+    "file": "2507.03226_Towards_Practical_GraphRAG_Efficient_KG_Hybrid_Retrieval.pdf",
+    "size": 740019,
+    "short": "Towards_Practical_GraphRAG_Efficient_KG_Hybrid_Retrieval"
+  },
+  "2606.27281": {
+    "status": "ok",
+    "file": "2606.27281_Resource-Aware_Neuro-Symbolic_Reasoning_Local_SLMs.pdf",
+    "size": 290052,
+    "short": "Resource-Aware_Neuro-Symbolic_Reasoning_Local_SLMs"
+  },
+  "2608.26836": {
+    "status": "ok",
+    "file": "2608.26836_SymbolLKG_Verifiable_Logical_Reasoning_Knowledge_Graph.pdf",
+    "size": 1260145,
+    "short": "SymbolLKG_Verifiable_Logical_Reasoning_Knowledge_Graph"
+  },
+  "2508.20453": {
+    "status": "ok",
+    "file": "2508.20453_MCP-Bench_Benchmarking_Tool-Using_LLM_Agents.pdf",
+    "size": 1998692,
+    "short": "MCP-Bench_Benchmarking_Tool-Using_LLM_Agents"
+  },
+  "2603.14828": {
+    "status": "ok",
+    "file": "2603.14828_Toward_Robust_GraphRAG_Mitigating_Retrieval_Drift_Hallucination.pdf",
+    "size": 910715,
+    "short": "Toward_Robust_GraphRAG_Mitigating_Retrieval_Drift_Hallucination"
+  },
+  "2609.01617": {
+    "status": "ok",
+    "file": "2609.01617_Hybrid_RAG_with_Knowledge_Graph_Expansion_RRF_Fusion.pdf",
+    "size": 329006,
+    "short": "Hybrid_RAG_with_Knowledge_Graph_Expansion_RRF_Fusion"
+  },
+  "2605.29313": {
+    "status": "ok",
+    "file": "2605.29313_PatchBoard_Schema-Grounded_State_Mutation_Auditable_Multi-Agent.pdf",
+    "size": 918628,
+    "short": "PatchBoard_Schema-Grounded_State_Mutation_Auditable_Multi-Agent"
+  },
+  "2606.01613": {
+    "status": "ok",
+    "file": "2606.01613_TechRAG_Evidence-Gated_Multimodal_Agentic_RAG.pdf",
+    "size": 436497,
+    "short": "TechRAG_Evidence-Gated_Multimodal_Agentic_RAG"
+  },
+  "2601.07192": {
+    "status": "ok",
+    "file": "2601.07192_Relink_Query-Driven_Evidence_Graph_for_GraphRAG.pdf",
+    "size": 6797663,
+    "short": "Relink_Query-Driven_Evidence_Graph_for_GraphRAG"
+  },
+  "2609.19961": {
+    "status": "ok",
+    "file": "2609.19961_Neuro-Symbolic_Agentic_AI_for_Networked_Low-Altitude_UAVs.pdf",
+    "size": 1890098,
+    "short": "Neuro-Symbolic_Agentic_AI_for_Networked_Low-Altitude_UAVs"
+  },
+  "2605.26575": {
+    "status": "ok",
+    "file": "2605.26575_Hubness_Cross-Lingual_Retrieval_Asymmetry_Multilingual_Embedding.pdf",
+    "size": 665074,
+    "short": "Hubness_Cross-Lingual_Retrieval_Asymmetry_Multilingual_Embedding"
+  },
+  "2506.02404": {
+    "status": "ok",
+    "file": "2506.02404_GraphRAG-Bench_Domain-Specific_Reasoning_Evaluation.pdf",
+    "size": 918095,
+    "short": "GraphRAG-Bench_Domain-Specific_Reasoning_Evaluation"
+  },
+  "2604.06279": {
+    "status": "ok",
+    "file": "2604.06279_Plasma_GraphRAG_Physics-Grounded_Parameter_Selection.pdf",
+    "size": 2077094,
+    "short": "Plasma_GraphRAG_Physics-Grounded_Parameter_Selection"
+  },
+  "2603.01022": {
+    "status": "ok",
+    "file": "2603.01022_GeoMCP_Trustworthy_Framework_AI-Assisted_Geotechnical_Engineering.pdf",
+    "size": 399710,
+    "short": "GeoMCP_Trustworthy_Framework_AI-Assisted_Geotechnical_Engineering"
+  },
+  "2510.11004": {
+    "status": "ok",
+    "file": "2510.11004_Automating_Structural_Engineering_Workflows_with_LLM_Agents.pdf",
+    "size": 1071743,
+    "short": "Automating_Structural_Engineering_Workflows_with_LLM_Agents"
+  },
+  "2205.08572": {
+    "status": "ok",
+    "file": "2205.08572_BIM_Using_Constraint_Logic_Programming.pdf",
+    "size": 903625,
+    "short": "BIM_Using_Constraint_Logic_Programming"
+  },
+  "2403.04795": {
+    "status": "ok",
+    "file": "2403.04795_LLMs_in_Fire_Engineering_Technical_Questions_Domain_Knowledge.pdf",
+    "size": 547024,
+    "short": "LLMs_in_Fire_Engineering_Technical_Questions_Domain_Knowledge"
+  }
+}

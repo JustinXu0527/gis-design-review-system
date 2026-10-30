@@ -1,0 +1,1185 @@
+
+
+===== Page 1 =====
+Gültig ab:
+Reviewdatum:
+01.08.2023
+01.08.2025
+NRM-Norm-A001
+Schutz unterirdischer Versorgungsleitungen,
+Armaturen, Mess-, Signal- und Steuerkabel
+der Mainova
+
+
+===== Page 2 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+2 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+ 
+Inhaltsverzeichnis 
+ 
+1. Regelungseigenschaften ......................................................................................................................... 3 
+1.1 
+Ziel/Zweck ....................................................................................................................................... 3 
+1.2 
+Geltungsbereich .............................................................................................................................. 3 
+1.3 
+Inkrafttreten ..................................................................................................................................... 3 
+2. Festlegungen ............................................................................................................................................ 4 
+2.1 
+Allgemeines .................................................................................................................................... 4 
+2.2 
+Verantwortlichkeit und Haftung ...................................................................................................... 4 
+2.3 
+Erkundigungspflicht und Netzauskunft ........................................................................................... 4 
+2.3.1 Erkundigungspflicht ................................................................................................................. 4 
+2.3.2 Netzauskunft ............................................................................................................................ 5 
+2.4 
+Anzeigepflicht und Baubeginnanzeige von Bauvorhaben ............................................................. 5 
+2.4.1 Anzeigepflicht in der Planungsphase ...................................................................................... 5 
+2.4.2 Baubeginnanzeige von Bauvorhaben ..................................................................................... 7 
+2.5 
+NOTRUFNUMMER und Sofortmaßnahmen bei Beschädigungen ................................................ 8 
+2.5.1 Stromversorgungseinrichtungen ............................................................................................. 8 
+2.5.2 Gasversorgungseinrichtungen ................................................................................................ 9 
+2.5.3 Wärmeversorgungseinrichtungen ........................................................................................... 9 
+2.5.4 Wasserversorgungseinrichtungen ......................................................................................... 10 
+2.6 
+Allgemeine Hinweise für Arbeiten im Bereich von Versorgungseinrichtungen ........................... 10 
+2.7 
+Hinweise zu Schutzstreifen, Abständen und Bepflanzung .......................................................... 13 
+2.7.1 Schutzstreifen ........................................................................................................................ 13 
+2.7.2 Parallelverlegungen ............................................................................................................... 14 
+2.7.3 Abstände bei Kreuzungen ..................................................................................................... 16 
+2.7.4 Abstände zu Fundamenten und anderen unterirdischen Anlagen ....................................... 16 
+2.7.5 Bepflanzung im Bereich der Leitungen und Kabel ................................................................ 17 
+2.8 
+N1-RB1 Netzgebiet 3 .................................................................................................................... 18 
+3. Aufzeichnungen ...................................................................................................................................... 19 
+4. Mitgeltende Regelungen ........................................................................................................................ 19 
+5. Anhänge ................................................................................................................................................. 19
+
+
+===== Page 3 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+3 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+1. 
+Regelungseigenschaften 
+ 
+1.1 
+Ziel/Zweck 
+Diese NRM-Norm gilt zum Schutz aller unterirdischen Versorgungsleitungen 1 und -anlagen, Armaturen, 
+Mess-, Signal- und Steuerkabel im Netzgebiet der NRM Netzdienste Rhein-Main GmbH. 
+Sie ist zu beachten von allen Unternehmern/ Dritten bzw. deren Beauftragten, die Baumaßnahmen im 
+Bereich der Versorgungseinrichtungen der Mainova durchführen wollen.  
+Hinweis:  
+Die NRM Netzdienste Rhein-Main GmbH übernimmt unter Beachtung der jeweils  
+  
+ 
+einschlägigen Bestimmungen des Energiewirtschaftsgesetzes, den hierzu erlassenen  
+  
+ 
+Verordnungen und entsprechender Beauftragung für die Mainova AG den Betrieb ihrer  
+  
+ 
+Netze. 
+1 In der Sparte Strom gibt es die Unterscheidung zwischen Leitungen und Kabel. Zwecks Textkomprimierung und  zur 
+besseren Lesbarkeit wird im allgemein gültigen Text in der Regel nur „Versorgungsleitungen“ als Sammel- begriff verwendet 
+und „Kabel“ dort, wo der Text stromspezifisch ist.  
+ 
+ 
+1.2 
+Geltungsbereich 
+Diese Arbeitsanweisung gilt für alle Beschäftigten der Funktionseinheiten N1-N, N1-R, N1-S. 
+ 
+1.3 
+Inkrafttreten 
+Diese Arbeitsanweisung tritt mit ihrer Veröffentlichung in Kraft.
+
+
+===== Page 4 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+4 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+2. 
+Festlegungen 
+ 
+2.1 
+Allgemeines  
+Kabel und Rohrleitungen dienen der Versorgung von öffentlichen Einrichtungen, Industrie, Gewerbe und 
+Haushalten mit Strom, Gas, Wärme und Wasser.  
+Eine Beschädigung der Anlagen und Leitungen führt zu Versorgungsunterbrechungen bei einzelnen 
+Kunden oder in großen Teilen des Versorgungsgebietes. Dies kann folgenschwere Auswirkungen haben 
+und damit Menschen und Sachgüter in Gefahr bringen bzw. wirtschaftliche Schäden hervorrufen (z. B. 
+Stromausfall in Krankenhäusern oder in der Datenverarbeitung, Erdgas / Wärme in klimatechnischen 
+Anlagen oder Ausfall von Wasser für den Brandschutz).  
+Aus diesen Gründen stellt NRM an die Betriebssicherheit der Kabel und Leitungen besonders hohe 
+Ansprüche und fordert Sorgfalt im Umgang mit ihnen. 
+ 
+2.2 
+Verantwortlichkeit und Haftung  
+Beschädigungen an Versorgungsanlagen können aufgrund des § 319 Strafgesetzbuch wegen Verstoßes 
+gegen anerkannte Bauregeln bestraft werden. Die für die Beschädigung verantwortliche Person 
+und/oder deren Erfüllungs- / Verrichtungsgehilfen sind Mainova oder NRM zum Schadensersatz 
+verpflichtet und haben unter Umständen auch mit Ersatzansprüchen der Kunden zu rechnen. Aus diesen 
+Gründen sind Arbeiten im Bereich der Versorgungseinrichtungen mit aller gebotenen Sorgfalt gemäß der 
+VOB, den AGFW-Richtlinien, dem DVGW-Regelwerk, den DIN VDE-Bestimmungen und den sonstigen 
+allgemein anerkannten Regeln der Technik auszuführen. Außerdem ist das einschlägige Vorschriften- 
+und Regelwerk der Deutschen Gesetzlichen Unfallversicherung - DGUV zu beachten.  
+Die Anwesenheit eines Beauftragten der NRM an der Baustelle befreit den Unternehmer nicht von der 
+Verpflichtung, eigenverantwortlich sämtliche zum Schutz der Versorgungseinrichtungen erforderlichen 
+Maßnahmen durchzuführen. Der Beauftragte der NRM ist weder berechtigt noch verpflichtet, den 
+Arbeitskräften des Unternehmers direkte Anweisungen zu erteilen. Er kann nur dann einschreiten, wenn 
+ein Verstoß gegen technische Richtlinien vorliegt und/oder eine Gefahr erkennbar ist. 
+Grundsätzlich ist für alle Tiefbauarbeiten im Bereich der von NRM betriebenen Trassen auf eine fach- 
+und sachgerechte Ausführung zu achten. Dies ist auch unter Beachtung des im 
+Energiewirtschaftsgesetz geforderten „sicheren Netzbetriebs“ zwingend erforderlich und hat damit 
+höchste Priorität. 
+Zur Vermeidung von Fremdschäden an Leitungen sind geeignete Firmen auszuwählen, welche 
+„Mindestanforderungen“ im Leitungstiefbau erfüllen. Diese Anforderungen sind in den Regelwerken 
+DVGW GW 381, AGFW FW 600 und VDE-AR-N-4220 einheitlich beschrieben. 
+ 
+ 
+2.3 
+Erkundigungspflicht und Netzauskunft 
+ 
+2.3.1 Erkundigungspflicht 
+Die Erkundigungs- und Sorgfaltspflicht ergibt sich aus der DIN 18300 (VOB Teil C) Nr. 3.1.2 bis 3.1.5, 
+den DGUV-Vorschriften und Regeln, dem DVGW-Arbeitsblatt GW 118 und dem DVGW-Hinweis GW 
+315.
+
+
+===== Page 5 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+5 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+2.3.2 Netzauskunft 
+Vor der Durchführung von Baumaßnahmen muss sich jeder Unternehmer mindestens 10 Arbeitstage vor 
+Baubeginn anhand von Planunterlagen und fachgerechten Erkundungsmaßnahmen (z. B. Suchschlitze 
+in ausschließlicher Handschachtung und Ortung) über die Lage der im Bau- und Aufgrabungsbereich 
+liegenden Versorgungsanlagen und -leitungen Kenntnis verschaffen.  
+Auskunft über die Lage von Versorgungsleitungen der Mainova im Netzgebiet der NRM, der dazu 
+gehörigen Mess- und Steuerkabel sowie anderer Einrichtungen zum Zeitpunkt des Baus erteilt: 
+ 
+ 
+Die telefonischen Servicezeiten sind: 
+Montag bis Donnerstag 
+in der Zeit von 7:00 – 15:30 Uhr   und 
+Freitag 
+in der Zeit von 7:00 – 13:00 Uhr  
+Alle Informationen zum Thema Netzauskunft sowie die weiteren Möglichkeiten zur Auskunftserteilung 
+finden sie unter 
+ 
+www.nrm-netzdienste.de/netzauskunft 
+ 
+Die ausgegebene Netzauskunft ist einen Monat verbindlich (Gültigkeitsvermerk). Die Netzauskunft darf 
+nur für das angezeigte Projekt / Bauvorhaben verwendet werden (Urheberrecht) und ist auf der Baustelle 
+vollständig vorzuhalten. Die vollständige Netzauskunft umfasst alle übergebenen Dokumente, 
+insbesondere die Niederschrift, alle Pläne, die Schutzanweisung und die Legende. 
+ 
+ 
+2.4 
+Anzeigepflicht und Baubeginnanzeige von Bauvorhaben 
+ 
+2.4.1 Anzeigepflicht in der Planungsphase 
+Sämtliche Arbeiten, die im Bereich von Versorgungseinrichtungen der Mainova vorgenommen werden 
+sollen, sind bereits in der Planungsphase anzuzeigen und mit NRM abzustimmen, sofern die 
+Maßnahmen von den in den Kapiteln 2.6 und 2.7 genannten Mindestanforderungen bzw. den 
+technischen Normen, Vorschriften und dem jeweiligen Regelwerk abweichen oder einen solchen 
+Umfang erkennen lassen, der die technische Abstimmung mit NRM notwendig macht.  
+Es ist zu berücksichtigen, dass für eventuelle, nicht vermeidbare Änderungen an 
+Versorgungseinrichtungen der Mainova (Umlegungen) eine Zeitspanne von bis zu 14 Wochen, sofern 
+die Genehmigung Dritter einzuholen ist auch mehr, einzuplanen ist. 
+ 
+NRM Netzdienste Rhein-Main GmbH 
+Netzauskunft N1-ND3 
+Solmsstr. 38 
+60486 Frankfurt am Main 
+ 
+Telefon (069) 213 - 26633 
+ 
+Telefax (069) 213 - 26147
+
+
+===== Page 6 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+6 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+Aus Sicherheitsgründen besteht NRM darauf, dass jede Baumaßnahme, die mit grabenlosen 
+Techniken (Spülbohrverfahren, Erdankerbohrungen, Bohrpressverfahren usw.) im Bereich von 
+Einrichtungen der Mainova geplant ist, vorher schriftlich zur Prüfung und Stellungnahme 
+eingereicht wird. Das gleiche gilt für Rammarbeiten und Bohrpfahlarbeiten.  
+Arbeiten im Bereich von Hochspannungskabeln mit einer Nennspannung von 30 kV und 110 kV, 
+Gas Hochdruckleitungen, Wärmeleitungen und Trinkwasserversorgungs-leitungen sind ebenfalls 
+immer mit einem Vorlauf von mindestens 3 Kalenderwochen anzuzeigen und mit dem jeweiligen 
+Anlagenverantwortlichen der NRM abzustimmen! 
+ 
+Für die sachgerechte Bearbeitung der Anzeige werden folgende Unterlagen benötigt: 
+• 
+Übersichtsplan Maßstab 1: 25.000/10.000 
+• 
+Lageplan mit Gemarkungs-, Flur- und Flurstücksgrenzen, Nordpfeil und Maßstab 
+• 
+Bauzeichnungen in einem solchen Maßstab und mit so vielen Schnitten, dass daraus das 
+beabsichtigte Bauvorhaben ersichtlich ist. In die einzureichenden Planunterlagen, Draufsichten 
+und Schnitte, sind die Leitungen der Mainova anhand der beigefügten Bestandspläne zur 
+Beurteilung der Maßnahme einzutragen. 
+• 
+Kurzgefasste Bau- und gegebenenfalls Betriebsbeschreibung unter besonderer Berücksichtigung 
+der zum Schutz der Mainova-Anlagen vorgesehenen Maßnahmen. 
+ 
+Die Unterlagen können für alle Sparten gerichtet werden an:  
+ 
+ 
+ 
+NRM Netzdienste Rhein-Main GmbH 
+Projektkoordination N2-WN3 
+Gutleutstraße 280 
+60327 Frankfurt am Main 
+Telefon  (069) 213 - 81882 
+koordination@nrm-netzdienste.de
+
+
+===== Page 7 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+7 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+2.4.2 Baubeginnanzeige von Bauvorhaben 
+Arbeiten im Bereich von Versorgungseinrichtungen der Mainova sind der in der Auskunft genannten 
+Betriebsabteilung rechtzeitig, d. h. mindestens 5 Arbeitstage vor dem geplanten Baubeginn, 
+mitzuteilen. Die entsprechende Telefonnummer ist auf dem Anschreiben bzw. den übergebenen 
+Bestandsplänen zur Planauskunft für die Bauausführung angegeben. Sollte hier kein Ansprechpartner 
+angegeben sein, so ist die Baubeginnanzeige an folgende Kontaktstelle zur Weiterleitung an die 
+Mitarbeiter der Fremdbaustellenkontrolle zu senden: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grundsätzlich dürfen Arbeiten im Bereich von Hochspannungskabeln mit einer Nennspannung von 30 
+kV bzw. 110 kV, Gas-Hochdruckleitungen, Wärmeleitungen und Wasserversorgungsleitungen der 
+Mainova nur nach Freigabe durch die Betriebsabteilung und ggf. unter Aufsicht von NRM durchgeführt 
+werden. 
+Im Bereich von Hochspannungskabeln mit einer Nennspannung von 30 kV bzw. 110 kV, Gas-
+Hochdruckleitungen, Wärmeleitungen und Wasserversorgungsleitungen der Mainova muss der 
+Arbeitsverantwortliche durch den jeweiligen Anlagenverantwortlichen der NRM vor Ort eingewiesen 
+werden. Die Erlaubnis für Arbeiten im Bereich dieser sensiblen Trassen wird zusätzlich durch den 
+jeweiligen Anlagenverantwortlichen dokumentiert. 
+Grabenlose Bauverfahren im Bereich der Versorgungsleitungen der Mainova dürfen nur nach einer 
+abgestimmten Freilegung derselben und eingehenden Abstimmung vor Ort begonnen werden. Die 
+betroffenen Versorgungsleitungen können von NRM nach Absprache auch in der Örtlichkeit angezeigt 
+werden (z. B. durch Ortung).  
+ 
+ 
+Kann die Lage der Trasse mittels Planunterlagen und/oder Ortung nicht eindeutig ermittelt werden, ist 
+der jeweilige Anlagenverantwortliche der NRM zu informieren und die genaue Lage festzustellen durch  
+Suchschlitze in ausschließlicher Handschachtung. 
+Allein das Einholen einer Netzauskunft nach Abschnitt 2.3 gilt nicht als Anzeige des Baubeginns!  
+ 
+ 
+NRM Netzdienste Rhein-Main GmbH 
+Gas Transportnetze (N1-RT) 
+Solmsstraße 38 
+60486 Frankfurt am Main 
+ 
+Telefon (069) 213 - 81563 
+ 
+Telefax (069) 213 - 81008 
+fremdbaustellenkontrolle@nrm-netzdienste.de
+
+
+===== Page 8 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+8 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+2.5 
+NOTRUFNUMMER und Sofortmaßnahmen bei Beschädigungen 
+Jede tatsächliche oder vermutete Beschädigung einer Versorgungseinrichtung ist unverzüglich zu 
+melden an:  
+ 
+NRM Netzdienste Rhein-Main GmbH 
+ 
+Zentrale Störungsannahme (NZS) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die nachfolgenden, spartenbezogenen Maßnahmen sind umgehend einzuleiten bzw. zu beachten. 
+ 
+ 
+2.5.1 Stromversorgungseinrichtungen 
+Erdverlegte Kabel sind grundsätzlich als unter Spannung stehend zu betrachten, wenn die 
+Spannungsfreiheit vom zuständigen Anlagenverantwortlichen der NRM nicht ausdrücklich bestätigt 
+wurde. Berühren und unsachgemäße Behandlung der Kabel ist mit Lebensgefahr verbunden. 
+Grundsätzlich dürfen freigelegte Kabel und Kabelanlagen in ihrer Lage nicht verändert werden. Sollte es 
+dennoch erforderlich sein, dürfen Lageänderungen nur nach Rücksprache und in Zusammenarbeit mit 
+dem zuständigen Anlagenverantwortlichen der NRM vorgenommen werden. 
+Freigelegte Kabel und Muffen dürfen in keinem Fall betreten und oder als Aufstiegshilfe verwendet 
+werden. 
+Sofern das beauftragte Unternehmen die Anforderungen gemäß DVGW GW 381, AGFW  
+FW 600 und VDE-AR-N-4220 nachweislich erfüllt und das ausführende Personal über eine erforderliche 
+Fachkunde verfügt (z. B. Schulung gemäß DVGW GW 129 oder VDE-AR-N 4224), sind folgende 
+Arbeiten im Bereich von Kabeln möglich: 
+• 
+Arbeiten im Schutzstreifenbereich bzw. im unmittelbaren Bereich der Kabel (Handschachtung 
+beachten), 
+• 
+Punktuelles Freilegen der Kabeltrasse (Handschachtung beachten). 
+ 
+Die NRM hat das Recht, im Vorfeld diesen Nachweis einzufordern und/ oder während der Ausführung 
+die Erfüllung der Vorgaben zu überprüfen.   
+Sofern o. g. Anforderungen durch das Unternehmen nicht erfüllt werden oder im Rahmen der 
+Baumaßnahme zusätzliche Tätigkeiten erforderlich sind - wie z. B. das Sichern bzw. Umhängen von 
+Kabeln - ist ein präqualifiziertes Unternehmen für Kabelleitungstiefbau-arbeiten nach RAL GZ 962/2 zu 
+beauftragen.  
+Darüber hinaus gehende Tätigkeiten (z.B. Kabelumverlegung etc.) sind ausschließlich durch die NRM 
+bzw. deren beauftragte Dienstleistungsunternehmen durchzuführen. 
+ 
+ 
+ 
+Spartenübergreifende Notrufnummer 
+ 
+Telefon  (069) 213 - 88 110
+
+
+===== Page 9 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+9 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+Im Falle eines Schadens an einem elektrischen Energiekabel besteht unmittelbare Lebensgefahr für 
+den Verursacher. Das Kabel kann noch unter Spannung stehen. Deshalb sind folgende 
+Sofortmaßnahmen einzuleiten: 
+• 
+Gerät aus dem Gefahrenbereich bringen, wenn gefahrlos möglich! 
+• 
+Anwesende Personen auffordern, Abstand zu halten. 
+• 
+Schadensstelle absperren und Zutritt unbefugter Personen verhindern. 
+• 
+Beschädigung unverzüglich an NRM melden (vorgenannte Telefonnummer). 
+• 
+Auf den Entstördienst der NRM warten. 
+• 
+Gegebenenfalls erforderliche Maßnahmen mit NRM abstimmen. 
+Das Baustellenpersonal darf die Schadensstelle nur mit Zustimmung von NRM verlassen. 
+ 
+ 
+2.5.2 Gasversorgungseinrichtungen 
+ 
+Bei der Beschädigung einer Gasleitung besteht Brand- und Explosionsgefahr durch ausströmendes 
+Gas. Deshalb sind folgende Maßnahmen einzuleiten: 
+• 
+Zündquellen/Funkenbildung vermeiden, keine elektrischen Einrichtungen bedienen; vorhandene 
+Zündquellen (z. B. Sturmlaternen) sofort löschen, nicht rauchen. 
+• 
+Sofort die Motoren aller Baumaschinen und Fahrzeuge abstellen. 
+• 
+Gefahrenbereich verlassen und weiträumig absichern. 
+• 
+Schadenstelle absperren und Zutritt unbefugter Personen verhindern. 
+• 
+Beschädigung unverzüglich an NRM melden (vorgenannte Telefonnummer). 
+• 
+Falls erforderlich, Polizei und Feuerwehr benachrichtigen. 
+• 
+Gegebenenfalls erforderliche Maßnahmen mit NRM abstimmen. 
+• 
+Auf den Entstördienst der NRM warten. 
+ 
+Bei Beschädigung einer Gas-Hausanschlussleitung ist die Hauptabsperreinrichtung zu schließen. Das 
+Haus sowie angrenzende Gebäude, Schächte und Kanäle sind, wenn möglich, auf Gaskonzentration zu 
+überprüfen. Falls Gas ausgetreten ist, Türen und Fenster öffnen, nicht klingeln und keine elektrischen 
+Einrichtungen bedienen, nicht rauchen.  
+Das Baustellenpersonal darf die Schadensstelle nur mit Zustimmung von NRM verlassen. 
+ 
+ 
+2.5.3 Wärmeversorgungseinrichtungen 
+Bei einer beschädigten Wärmeleitung besteht Verbrühungsgefahr durch plötzlichen Austritt von 
+Heißwasser oder Heißdampf. Deshalb sind folgende Maßnahmen einzuleiten: 
+• 
+Baugrube und tiefliegende Räume – falls erforderlich – von Personen räumen. 
+• 
+Schadensstelle und eventuelle Gefahrenbereiche absperren. 
+• 
+Beschädigung unverzüglich an NRM melden (vorgenannte Telefonnummer). 
+• 
+Wenn gefahrlos möglich, für Abfluss des Wassers sorgen; Achtung: Heißwasser! 
+• 
+Gegebenenfalls weitere Maßnahmen mit NRM abstimmen. 
+• 
+Auf den Entstördienst der NRM warten. 
+Das Baustellenpersonal darf die Schadensstelle nur mit Zustimmung von NRM verlassen.
+
+
+===== Page 10 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+10 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+2.5.4 Wasserversorgungseinrichtungen 
+Bei einer beschädigten Wasserleitung besteht die Gefahr der Unterspülung sowie der Überflutung. 
+Deshalb sind folgende Maßnahmen einzuleiten: 
+• 
+Baugrube und tiefliegende Räume – falls erforderlich – von Personen räumen 
+• 
+Schadensstelle und eventuelle Gefahrenbereiche absperren 
+• 
+Beschädigung unverzüglich an NRM melden (vorgenannte Telefonnummer) 
+• 
+Wenn möglich, für Abfluss des Wassers sorgen 
+• 
+Gegebenenfalls weitere Maßnahmen mit NRM abstimmen 
+• 
+Bei Schadensfällen mit wassergefährdenden Stoffen in Trinkwasserschutzgebieten sind sofort 
+geeignete Maßnahmen zur Schadensabwehr einzuleiten. Die zuständige Wasserbehörde sowie 
+die Feuerwehr und Polizei sind einzuschalten. 
+• 
+Auf den Entstördienst der NRM warten 
+ 
+Das Baustellenpersonal darf die Schadensstelle nur mit Zustimmung von NRM verlassen.  
+ 
+ 
+2.6 
+Allgemeine Hinweise für Arbeiten im Bereich von Versorgungseinrichtungen 
+ 
+a) 
+Versorgungseinrichtungen der Mainova dürfen nicht überbaut werden. Das Aufstellen von 
+Baustelleneinrichtungen über Mainova-Trassen bedarf grundsätzlich der Zustimmung der 
+jeweiligen Anlagenverantwortlichen (Maßnahmenüberwacher) der NRM. 
+b) 
+Arbeiten im Schutzstreifen- bzw. Leitungsbereich sind nur in Abstimmung mit Beauftragten der 
+NRM auszuführen. Gegebenenfalls erforderliche Sicherungsmaßnahmen sind mit diesen 
+gemeinsam festzulegen und auf Kosten des Unternehmers bzw. Veranlassers auszuführen. Jede 
+eigenmächtige Maßnahme zur Sicherung einer freigelegten Versorgungsleitung oder der 
+dazugehörigen Einrichtungen (z. B. Mess- und Steuerkabel) ist untersagt. 
+c) 
+Freilegungsarbeiten an Versorgungsleitungen und Armaturen sind grundsätzlich in 
+Handschachtung und mit besonderer Vorsicht auszuführen. Beim Antreffen von 
+Versorgungsleitungen, die nicht aus den Planungsunterlagen ersichtlich waren, ist dies NRM sofort 
+anzuzeigen und die Arbeiten sind an dieser Stelle bis zum Eintreffen eines NRM-Beauftragten 
+einzustellen. Die freigelegten Versorgungsleitungen sind entsprechend den Angaben der NRM vor 
+Beschädigung und ggf. Frost zu schützen.  
+d) 
+Es ist unzulässig, Versorgungsleitungen einschließlich ihres Betriebszubehörs durch Lasten zu 
+gefährden. Das Befahren unbefestigter Leitungsbereiche mit schweren Baufahrzeugen ist ohne 
+vorherige Sicherung durch Lastverteilungsmittel (z. B. Beton-platten, Baggermatratzen, 
+Bitumenkiesabdeckungen o. ä.) nicht gestattet. Baumaterial, Bodenaushub oder dergleichen 
+dürfen nicht innerhalb des Schutzstreifens bzw. über Versorgungsleitungen gelagert werden. Im 
+Rahmen einer Baumaßnahme kann dies jedoch vorübergehend in begrenztem Maße und nur nach 
+Absprache mit NRM gestattet werden.  
+e) 
+Bei Aushubarbeiten längs, über oder neben einer in Betrieb befindlichen Kunststoffmantelrohr-
+(KMR-)Trasse muss beachtet werden, dass durch das Freilegen längerer Trassenabschnitte die 
+Gefahr des Ausknickens der Leitung besteht. Dies gilt auch, wenn durch Oberflächenarbeiten die 
+Überdeckungshöhen verringert werden. Eine geringere Überdeckung hat niedrigere Bettungskräfte 
+und damit eine größere Dehnbewegung zur Folge. Muss eine KMR-Leitung freigelegt werden, 
+vergrößert sich der Gleitbereich. Abhängig vom Umfang der Freilegung kann eine 
+Nachberechnung der Rohrstatik notwendig werden, die durch den Verursacher zu tragen ist. Die 
+freigelegten Versorgungsleitungen sind entsprechend den Angaben der NRM zu sichern.
+
+
+===== Page 11 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+11 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+f) 
+Armaturen an Rohrleitungen dürfen nur von Fachpersonal der NRM bzw. von Mainova 
+ServiceDienste GmbH beauftragten Fremddienstleistern betätigt werden, da eigenmächtiges 
+Betätigen zu Schäden und damit zu Schadensersatzforderungen führen kann. Armaturen (z.B. 
+unter Straßenkappen, Schachtabdeckungen) müssen jederzeit zugänglich und funktionsfähig 
+bleiben. Die an den Armaturen gegebenenfalls angebrachten Dehnpolster (bei Wärmeleitungen) 
+dürfen weder beschädigt noch entfernt werden.  
+g) 
+Baugruben oder Gräben, die Versorgungsleitungen der Mainova kreuzen bzw. in deren 
+unmittelbarer Nähe verlaufen (Leitung freigelegt), dürfen nur mit Zustimmung des Fachpersonals 
+der NRM verfüllt werden. Vor dem Verfüllen der Baugrube oder des Leitungsgrabens ist NRM 
+rechtzeitig zu benachrichtigen, damit die einwandfreie Lage der Versorgungsleitung, die Dichtheit 
+von Rohrverbindungen, der Zustand der Rohrumhüllung bzw. der Rohrleitungsbauwerke (z.B. 
+Haubenkanal, Rohrleitungstrog) und die Isolierung der Kabel überprüft und evtl. notwendige 
+Reparaturen durchgeführt werden können. Sollte die Wiederverfüllung ohne Wissen der NRM 
+ausgeführt worden sein, behält NRM sich vor, auf Kosten des Unternehmers bzw. des 
+Veranlassers die Versorgungsleitungen noch einmal freilegen und kontrollieren zu lassen. 
+h) 
+Das Verfüllen (Einsanden) von Wärme-Rohrleitungen mit Sand hat unter Beachtung des AGFW-
+Regelwerkes FW 401 - Teil 12 zu erfolgen. 
+Hinweis:  Das Einschlämmen der Leitungen mit Sand ist im Versorgungsbereich der Mainova 
+nicht zulässig. 
+i) 
+Um Isolierungs- / Umhüllungsschäden zu vermeiden, sind die freigelegten Versorgungsleitungen 
+vor dem Wiederverfüllen des Aushubs fachkundig mit steinfreiem, in Trinkwasserschutzgebieten 
+zusätzlich inertem Sand mit 0-2 mm Korngröße einzubetten: 
+• 
+Wasser, Gas, Wärme:  
+⬧ 10 cm unterhalb des Rohres bzw. der Rohrverbindung 
+⬧ 15 cm über Scheitel Rohr bzw. Rohrverbindung 
+• 
+Strom:  
+⬧ 5 cm unterhalb des Kabels bzw. der Verbindungsmuffe 
+⬧ 10 cm über Scheitel Kabel bzw. Verbindungsmuffe 
+ 
+Die Verdichtung hat lagenweise mit verdichtungsfähigem Material zu erfolgen. Bis zu 30 cm über 
+Leitungsscheitel darf nur von Hand verdichtet werden. Erst darüber ist der Einsatz von 
+maschinellen Verdichtungsgeräten zulässig.  
+Danach ist das ursprüngliche Niveau wieder herzustellen.  
+Selbst geringfügig erscheinende Druckstellen und Beschädigungen an Kabeln, Rohrleitungen und 
+Rohrleitungsbauwerken sind zwingend zu melden. Folgeschäden an der Isolierung oder an der 
+Umhüllung (Korrosionsschutzschicht bzw. Feuchtigkeitsschutz) werden oft erst nach Jahren 
+erkennbar bzw. führen zu Undichtigkeiten und i. d. R. auch zu erheblichen Mehrkosten bei der 
+Beseitigung der Schäden, die dann der Verursacher zu tragen hat. 
+In Anlehnung an die „Richtlinie für das Aufgraben öffentlicher Straßen, Wege und Plätze der Stadt 
+Frankfurt am Main“ (Aufbruchrichtlinie) ist der Einbau (Wiederverfüllung) von Recyclingmaterial in 
+den Trassen von Versorgungsleitungen der Mainova nicht zulässig. 
+j) 
+Trassenwarnbänder bzw. Kabelabdeckfolie sind wieder ordnungsgemäß zu verlegen. Neues 
+Trassenwarnband ist bei NRM anzufordern.
+
+
+===== Page 12 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+12 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+k) 
+Beim Rückbau von Baumaßnahmen sind - soweit erforderlich - die Straßenkappen über Armaturen 
+wieder ordnungsgemäß zu setzen und auf ihre Funktionsfähigkeit durch NRM überprüfen zu 
+lassen. Eingebaute Lastverteilungsmittel sind nach Abschluss der Arbeiten wieder zu entfernen.  
+l) 
+Merksteine, Schilderpfähle und Festpunktzeichen sind koordinierte Messpunkte, auf die die 
+Versorgungsleitungen der Mainova eingemessen sind. Sie dürfen ohne Zustimmung von NRM 
+nicht entfernt oder versetzt werden.  
+m) 
+Bei Arbeiten in Trinkwasserschutzgebieten sind die jeweils gültigen Richtlinien und Verordnungen 
+zu beachten und einzuhalten. Insbesondere sind alle Vorkehrungen gegen das Eindringen von 
+wassergefährdenden Stoffen (z. B. Kraftstoffe) in den Untergrund zu treffen. Weitere spezielle 
+Auflagen bleiben für den jeweiligen Einzelfall vorbehalten.
+
+
+===== Page 13 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+13 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+2.7 
+Hinweise zu Schutzstreifen, Abständen und Bepflanzung 
+ 
+2.7.1 Schutzstreifen 
+Gas-Hochdruck-, Wassertransportleitungen, Fernwärmeleitungen und Hochspannungskabel mit einer 
+Nennspannung von 30 kV bzw. 110 kV sind in nicht öffentlichen Bereichen in der Regel in einem 
+Schutzstreifen verlegt. Dieser Schutzstreifen ist durch eine beschränkte persönliche Dienstbarkeit 
+gesichert. Im Schutzstreifen dürfen für die Dauer des Betriebes der Versorgungsleitungen keine 
+Gebäude oder baulichen Anlagen errichtet oder sonstige Einwirkungen (z. B. Bepflanzungen der Trasse) 
+vorgenommen werden, die den Bestand, Betrieb oder eine Erweiterung der Versorgungsleitungen 
+beeinträchtigen oder gefährden können. 
+Hierbei sind insbesondere aus dem DVGW-Regelwerk zu beachten: 
+• 
+GW 315 (H) 
+• 
+für Gas-Hochdruckleitungen G 462-1 (A) und -2 (A), G 463 (A), G 466-1 (A), 
+• 
+für Wasser-Transportleitungen W 400-1 (A) und -2 (A) sowie 
+• 
+für Fernwärmeleitungen das AGFW-Arbeitsblatt FW 401. 
+ 
+Die Mitte des Schutzstreifens stimmt in der Regel mit der Leitungsachse überein.  
+ 
+Die Schutzstreifenbreite ist abhängig vom Leitungsdurchmesser und beträgt in etwa: 
+Leitungsdurchmesser 
+Schutzstreifenbreite (Richtwerte) 
+bei Kabeln: 
+ 
+1,5 m 
+bei Wärmeleitungen:  bis DN 80 
+2,5 m 
+Gas/Wasser/Wärme:  bis DN 150 
+4,0 m 
+ 
+über DN 150 bis DN 300 
+6,0 m 
+ 
+über DN 300 bis DN 500 
+8,0 m 
+ 
+über DN 500 
+10,0 m 
+ 
+Die Schutzstreifenbreite für Haubenkanäle mit Dampf- und Kondensatleitungen im Dampfnetz 
+Innenstadt beträgt in etwa: 
+ 
+Leitungsdurchmesser (je 2 Leitungen im Kanal) 
+Schutzstreifenbreite (Richtwerte) 
+   bis  DN   80  
+/  DN   32 
+3,0 m 
+   bis  DN 200  
+/  DN   80 
+4,0 m 
+   bis  DN 400  
+/  DN 150 
+5,0 m 
+   bis  DN 600  
+/  DN 250 
+5,5 m 
+über  DN 600  
+/  DN 250 
+6,5 m
+
+
+===== Page 14 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+14 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+In Ausnahmefällen ist eine Verlegung / Errichtung von baulichen Anlagen innerhalb des Schutzstreifens 
+möglich. Diese Einzelfälle sind schriftlich mit NRM abzustimmen. Die formelle Ausweisung eines 
+Schutzstreifens kann bei öffentlichen Verkehrsflächen - z. B. Straßen und Gehwegen – durch die 
+behördliche Genehmigung zum Verlegen der Rohrleitung ersetzt werden.  
+Die Errichtung von Parkplätzen über unterirdischen Bauwerken der Fernwärme ist nach Abstimmung mit 
+NRM zulässig, soweit die Begehbarkeit der unterirdischen Bauwerke gesichert bleibt. Der Zugang zu 
+den Schachteinstiegen und die Schachteinstieg-Deckel müssen ausreichend und jederzeit frei bleiben.  
+ 
+Das Lagern von schwer zu transportierenden Materialien im Bereich des Schutzstreifens ist 
+grundsätzlich unzulässig. 
+ 
+2.7.2 Parallelverlegungen 
+Parallel verlaufende Drainageleitungen im Bereich der Sandeinbettung (Auswaschung) sind nicht 
+zulässig. Bei Untergrabungen von mehr als 0,80 m in Trassenrichtung sind die Trassen und Anlagen der 
+Mainova nach den Vorgaben des jeweiligen Anlagenverantwortlichen zu sichern. 
+Die nachfolgenden Abstände gelten bei offener Bauweise.  
+Vor Anwendung von Spülbohrverfahren müssen externe Planer für den jeweiligen Einzelfall 
+Vorgaben bei NRM erfragen. 
+a) 
+Abstände zu Gas-, Wasser- und Stromversorgungsleitungen  
+Bei (seitlichen) Annäherungen bzw. Parallelführungen zu den Leitungen und Kabeln bis zu einer 
+Nennspannung von 20 kV der Mainova sind folgende lichte Abstände bei offener Bauweise 
+einzuhalten: 
+ 
+Leitungsdurchmesser 
+Mindestabstand 
+Rohrleitung bis DN 200 und Kabel 
+0,40 m 
+über DN 200 bis DN 400  
+0,80 m 
+über DN 400  
+1,00 m 
+ 
+Bei Kabeln mit einer Nennspannung von 30 kV bis 110 kV sind Abstände mit einer lichten Weite 
+von mindestens 1 m einzuhalten und erfordert immer bereits in der Planungsphase die 
+Abstimmung mit dem zuständigen Anlagenverantwortlichen. 
+Auch bei Gas-Hochdruckleitungen > 16 bar ist immer eine lichte Weite von mindestens 1 m 
+einzuhalten und die Abstimmung mit dem Anlagenverantwortlichen muss erfolgen. 
+Bei nachträglicher Bebauung ist ein Mindestabstand von 20 m der Bebauung zur bestehenden 
+Leitung einzuhalten (siehe auch DVGW-Arbeitsblatt G 463).
+
+
+===== Page 15 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+15 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+b) 
+Abstände zu Fernwärmeleitungen bzw. -bauwerken  
+Bei (seitlichen) Annäherungen bzw. Parallelführungen zu den Wärme-Rohrleitungen der Mainova 
+sind folgende lichte Abstände einzuhalten: 
+ 
+KMR-Verlegung 
+Mindestabstand 
+zu parallelen Fremdleitungen  
+wie Gas, Wasser 
+Mindestabstand 
+zu parallelen Kabeln 
+bis DN 125 
+0,40 m 
+0,70 m 
+über DN 125 bis DN 200 
+0,40 m 
+1,00 m 
+über DN 200 bis DN 300 
+0,50 m 
+1,00 m 
+über DN 300 bis DN 400 
+0,60 m 
+1,50 m 
+über DN 400 
+0,80 m 
+1,50 m 
+ 
+Zu Haubenkanälen mit Dampf- und Kondensatleitungen im Dampfnetz Innenstadt sind folgende 
+lichte Abstände einzuhalten:  
+Leitungsdurchmesser  
+(je 2 Leitungen im Kanal) 
+Mindestabstand 
+zu parallelen Fremdleitungen  
+wie Gas, Wasser 
+Mindestabstand 
+zu parallelen Kabeln 
+ bis DN 200 / DN 40 
+0,40 m 
+0,70 m 
+ bis DN 200 / DN 80 
+0,40 m 
+1,00 m 
+ bis DN 400 / DN 150 
+0,60 m 
+1,50 m 
+ über DN 400 / DN 150 
+1,00 m 
+1,50 m 
+ 
+An Engpässen darf der lichte Mindestabstand nach Absprache mit NRM um bis zu 
+0,20 m verringert werden. Muss der Abstand an Engpässen weiter vermindert werden, ist durch 
+geeignete Maßnahmen eine direkte Berührung zu verhindern.  
+Eine Verringerung der vorgenannten Mindestabstände ist mit NRM abzustimmen!
+
+
+===== Page 16 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+16 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+2.7.3 Abstände bei Kreuzungen 
+Bei Untergrabungen von mehr als 0,80 m in Trassenrichtung sind die Trassen und Anlagen der Mainova 
+nach den Vorgaben des jeweiligen Anlagenverantwortlichen zu sichern.  
+Bei Kreuzungen sind zu den Versorgungsleitungen der Mainova folgende Abstände mindestens 
+einzuhalten:  
+• 
+zu Rohrleitungen der Sparten Gas und Wasser sowie zu Kabeln mit einer Nennspannung bis 20 
+kV: 0,20 m; 
+• 
+zu Kabelanlagen mit einer Nennspannung 30 kV bis 110 kV und zu Gas-Hochdruckleitungen sind 
+die Abstände mit dem zuständigen Anlagenverantwortlichen bereits in der Planungsphase 
+abzustimmen und entsprechend zu dokumentieren; 
+• 
+zwischen Fernwärmeleitungen und „Fremdrohrleitungen“ mindestens 0,25 m; 
+• 
+zwischen Fernwärmeleitungen und Kabeln mindestens 0,50 m. 
+ 
+Ist dies nicht möglich, muss eine Berührung, z. B. durch Zwischenlegen elektrisch nichtleitender Schalen 
+oder Platten, verhindert werden. Eine Kraft- oder Wärmeübertragung ist auszuschließen. Diese 
+Maßnahmen sind mit NRM abzustimmen.  
+Kreuzende Drainageleitungen sind über die Breite des Schutzstreifens nur mit ungeschlitztem Rohr 
+zulässig.  
+Für grabenlose Bauvorhaben gelten die Mindestmaße nur dann, wenn die betroffenen 
+Versorgungsleitungen der Mainova im fraglichen Bereich eindeutig lokalisiert (in Handschachtung und 
+unter Aufsicht des jeweiligen Anlagenverantwortlichen der NRM freigelegt) wurden.  
+In allen anderen Fällen sind die Abstandsmaße individuell mit NRM abzustimmen! 
+ 
+ 
+2.7.4 Abstände zu Fundamenten und anderen unterirdischen Anlagen 
+Zu Fundamenten und anderen unterirdischen Anlagen sind folgende waagerechte Abstände mindestens 
+einzuhalten:  
+• 
+Gas- und Wasserversorgung: 0,40 m  
+• 
+(Unter Beachtung des Druckkegels und der Nennweite ist bei Gasleitungen erforderlichenfalls ein 
+größerer Abstand zu berücksichtigen.) 
+• 
+Stromversorgung bis zu einer Nennspannung von 20 kV:  0,60 m 
+• 
+Bei Anlagen mit einer Nennspannung von 30 kV bis 110 kV und Gas-Hochdruckleitungen sind 
+die Abstände mit dem zuständigen Anlagenverantwortlichen der NRM im Detail abzustimmen.  
+• 
+Wärmeversorgung: 1,00 m
+
+
+===== Page 17 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+17 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+2.7.5 Bepflanzung im Bereich der Leitungen und Kabel 
+Das Bepflanzen einer Trasse mit tiefwurzelnden Bäumen und Sträuchern ist nur mit einem lichten 
+Abstand von mindestens 2,50 m zwischen dem Stamm und der Versorgungsleitung gestattet. Bei 
+Unterschreitungen können Sicherungsmaßnahmen notwendig werden, die mit NRM abzustimmen sind. 
+Wurzelschutz aus Folie ist nicht zulässig. Das Überpflanzen von vorhandenen Versorgungsleitungen ist 
+nicht gestattet.  
+Bei Überwachungs-, Wartungs- oder Reparaturarbeiten an einer Versorgungsleitung und/ oder einem 
+Fernmelde- und Messkabel kann auf etwaige vorhandene Anpflanzungen und Anlagen im 
+Schutzstreifenbereich bzw. unmittelbar über der Leitung keine Rücksicht genommen werden.  
+Besondere Hinweise für Gas- und Wasserleitungen bietet das DVGW-Merkblatt GW 125 „Bäume, 
+unterirdische Leitungen und Kanäle“, eine Gemeinschaftsausgabe der Forschungsgesellschaft für 
+Straßen- und Verkehrswesen (FGSV) und der Deutschen Vereinigung für Wasserwirtschaft, Abwasser 
+und Abfall (DWA) und die RAS-LP 4, die Richtlinie für die Anlage von Straßen, Teil Landschaftspflege, 
+Abschnitt 4 „Schutz von Bäumen, Vegetationsbeständen und Tieren bei Baumaßnahmen“. 
+ 
+Anmerkung: 
+ 
+Die hier aufgeführten Hinweise stellen nur die wichtigsten zu betrachtenden Punkte dar und erheben 
+keinen Anspruch auf Vollständigkeit. Grundsätzlich haben Dritte alle Sorgfalt zu wahren und 
+sicherzustellen, dass sie selbst und deren Beauftragte alle gebotenen Regeln der Technik 
+berücksichtigen, sofern im Bereich der Einrichtungen der Mainova gearbeitet wird.  
+ 
+Die schriftliche Anzeige der Baumaßnahme bei NRM und die Stellungnahme von NRM dazu sowie 
+die ausgehändigten (Plan-) Unterlagen sind auf der Baustelle zur Einsicht vorzuhalten.
+
+
+===== Page 18 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+18 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+2.8 
+N1-RB1 Netzgebiet 3  
+Für das Versorgungsgebiet der Energieversorgung Main-Spessart sind folgende Abweichungen 
+festzuhalten bei Leitungen vor 2024: 
+Schutzstreifen:  
+Unsere Gas-Hochdruckleitungen dienen der öffentlichen Energieversorgung und liegen in nicht 
+öffentlichen Bereichen in der Regel innerhalb eines Schutzstreifens, dessen Breite 5,0 m (2,5 m links 
+und 2,5 m rechts von der Rohrachse) beträgt. 
+Überdeckung:  
+Die Deckung (Erdüberdeckung der Leitung) beträgt in der Regel 1,0 m.  
+Abweichungen hiervon sind jedoch möglich. Die Deckung ist gegebenenfalls den Bestandsplänen zu 
+entnehmen, aber nur als Richtmaß zu verstehen. Ein Erdauf- bzw. –abtrag im Schutzstreifenbereich, 
+aber auch in öffentlichen Bereichen von Gas-Hochdruckleitungen, ist ohne unsere Zustimmung nicht 
+gestattet. 
+Leitungstechnik; Fremdbaustellenkontrolle für die Energieversorgung Main-Spessart Hochdruck-
+Leitungen: Tel. – Nr.: 06093-20791-0 
+ 
+Zusätzliche Rufnummer bei Beschädigungen: 
+Energieversorgung Main-Spessart GmbH 
+(GS) Störungsannahme: 
+Tel.-Nr.: 06093 207910   
+  
+  
+  
+  
+Notruf bei Gasgeruch:  
+Tel.-Nr.: 0800-6246773 
+Planauskunft: 
+NRM Netzdienste Rhein-Main GmbH 
+Standort Sailauf 
+Von-Cancrin-Str. 6 
+63877 Sailauf 
+Tel.: 06093 207910 
+Fax: 06093 20791-10 
+E-Mail: betriebsstelle@e-m-s.de 
+Die hier aufgeführten Hinweise stellen nur die wichtigsten zu beachtenden Punkte dar und erheben 
+keinen Anspruch auf die Vollständigkeit.  
+Grundsätzlich haben Dritte alle Sorgfalt zu wahren uns sicherzustellen, dass sie selbst und deren 
+Beauftragte alle Regeln der Technik berücksichtigen, sofern im Bereich der Gas-Hochdruckleitungen 
+und weiterer Einrichtungen gearbeitet wird. Die schriftliche Anzeige der Baumaßnahme bei der EMS, 
+sowie die erfolgte Stellungnahme von uns und die ausgehändigten gültigen Bestandspläne, sind auf der 
+Baustelle zur Einsicht bereitzuhalten.
+
+
+===== Page 19 =====
+NRM-Norm 
+ 
+NRM-N-A001 
+Schutz unterirdischer Versorgungsleitungen, Armaturen, Mess-, 
+Signal- und Steuerkabel der Mainova 
+gültig ab: 
+01.08.2023 
+Reviewdatum: 
+01.08.2025 
+verantwortlich: N1-N, N1-R, N1-S 
+Status: 
+Gültig 
+Seite: 
+19 
+ 
+Klassifikation: Öffentlich 
+Dokument-Nr.: 0001783 
+Revisions-Nr.: 7 
+ 
+3. 
+Aufzeichnungen 
+ 
+• 
+ Keine  
+ 
+4. 
+Mitgeltende Regelungen 
+ 
+• 
+VOB 
+• 
+DVGW-Regelwerk 
+• 
+DIN VDE-Bestimmungen 
+• 
+AGFW-Richtlinien 
+• 
+die sonstigen allgemein anerkannten Regeln der Technik sowie 
+• 
+das Vorschriften- und Regelwerk der gesetzlichen Unfallversicherung (DGUV)  
+ 
+ 
+5. 
+Anhänge 
+ 
+• 
+keine

@@ -1,0 +1,26 @@
+services:
+  qgis-server:
+    build:
+      context: ./docker/qgis-server
+    image: gis-review-qgis-server:latest
+    container_name: gis-review-qgis-server
+    restart: unless-stopped
+    environment:
+      QGIS_SERVER_LOG_STDERR: "1"
+      QGIS_SERVER_LOG_LEVEL: "2"
+      QGIS_PROJECT_FILE: "/data/PushPK_Dreieich Mitte_Handwerk.qgz"
+    volumes:
+      - "./test/PushPK_Dreieich Mitte_Handwerk:/data:ro"
+    expose:
+      - "5555"
+
+  qgis-web:
+    image: nginx:1.27-alpine
+    container_name: gis-review-qgis-web
+    restart: unless-stopped
+    depends_on:
+      - qgis-server
+    ports:
+      - "8090:80"
+    volumes:
+      - "./docker/qgis-server/nginx.conf:/etc/nginx/conf.d/default.conf:ro"

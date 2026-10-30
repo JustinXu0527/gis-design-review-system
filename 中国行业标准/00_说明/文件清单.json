@@ -1,0 +1,47 @@
+[
+  {
+    "file": "01_核心国家工程建设标准/GB_50373-2019_通信管道与通道工程设计标准.pdf",
+    "bytes": 1880353,
+    "sha256": "d9dbd7481b3065659e2c185b98caf61d1a753fad8597594689f33ad86bb3194f",
+    "type": "国家工程建设标准",
+    "pages": 60,
+    "source": "https://download.s21i.co99.net/29229836/0/0/ABUIABA9GAAgzoGJ0QYo9e2H3AM.pdf?f=17+GB50373-2019+%E9%80%9A%E4%BF%A1%E7%AE%A1%E9%81%93%E4%B8%8E%E9%80%9A%E9%81%93%E5%B7%A5%E7%A8%8B%E8%AE%BE%E8%AE%A1%E6%A0%87%E5%87%86.pdf&v=1780629710",
+    "use": "通信管道路由、容量、管材、埋深、弯曲、段长和人手孔设置审查"
+  },
+  {
+    "file": "01_核心国家工程建设标准/GB_T_50374-2018_通信管道工程施工及验收标准.pdf",
+    "bytes": 15455404,
+    "sha256": "359ca0872e85df48546ec6d908cb23561fbd69b9de1a62ee83518a6c66d369f7",
+    "type": "国家工程建设标准",
+    "pages": 93,
+    "source": "https://29229836.s21i.faiusr.com/61/ABUIABA9GAAg7v2Z0QYoyYr8nQU.pdf",
+    "use": "施工测量、沟槽、铺管、人手孔、材料、随工验收及竣工资料审查"
+  },
+  {
+    "file": "02_地方标准与官方实施指南/DB4403_T_587-2025_深圳市地下管线数据规范.pdf",
+    "bytes": 1315808,
+    "sha256": "67d9a38d93e1ef4f1526ef8a179f7d3db67dcea4c15a12de9b71813b00537ea3",
+    "type": "深圳市地方标准",
+    "pages": 118,
+    "source": "https://amr.sz.gov.cn/attachment/1/1542/1542096/9772236.pdf",
+    "use": "管线分类编码、属性字段、三维建模、业务信息与风险隐患数据结构"
+  },
+  {
+    "file": "02_地方标准与官方实施指南/广东省建筑物配建通信基础设施实施指南_试行.pdf",
+    "bytes": 391573,
+    "sha256": "2037d2aa96e9c85ceba625d1b105004951578cc995e7ab4fbf5a8c253747fe6e",
+    "type": "广东省官方实施指南",
+    "pages": 20,
+    "source": "https://szwb.sz.gov.cn/attachment/1/1695/1695055/12691203.pdf",
+    "use": "建筑物通信基础设施设计、施工、检测、验收和备案流程审查"
+  },
+  {
+    "file": "03_辅助技术资料_非正式标准/中兴_家庭光纤施工技术白皮书.pdf",
+    "bytes": 3284580,
+    "sha256": "ae04ee293479e8d061e16187b37647db299db5bdb84a573bb98d092160156f35",
+    "type": "企业技术白皮书（不是国家/行业标准）",
+    "pages": 36,
+    "source": "https://www.zte.com.cn/content/dam/zte-site/res-www-zte-com-cn/mediares/zte/files/pdf/white_book/Technical_White_Paper_for_Home_Optical_LAN_Construction20201012.pdf",
+    "use": "家庭光纤施工方法和现场实施参考，不得作为法定合规依据"
+  }
+]

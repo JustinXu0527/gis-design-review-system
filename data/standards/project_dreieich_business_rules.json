@@ -1,0 +1,268 @@
+{
+  "source_file": "test/PushPK_Dreieich Mitte_Handwerk",
+  "imported_at": "2026-07-13T03:31:11.792553+00:00",
+  "parser": {
+    "provider": "project_data_source_rebuild",
+    "notes": "规则库按 通用GIS数据质量 / 项目业务 / 德国与中国标准规范 三类重建。"
+  },
+  "clauses": [
+    {
+      "id": "be9fd3681e200975",
+      "standard_id": "PROJECT-DREIEICH",
+      "standard_name": "Dreieich 光纤项目数据与业务规则",
+      "version": "",
+      "is_placeholder": false,
+      "clause_id": "PB-01",
+      "title": "管道/微管路由应保留区域、施工方式和长度信息",
+      "summary": "Pipes 图层是本项目光纤管道和微管敷设的主线性成果，缺失区域、施工方式、长度或管孔数量会影响材料统计和审查。",
+      "applicable_objects": [
+        "telecom_duct_route"
+      ],
+      "scenario": "Pipes.gpkg/Pipes 图层。",
+      "risk_level": "high",
+      "recommendation": "补齐 HK_Area、NVT_Area、Bauweisen、Length、Pipe_Summe 等字段。",
+      "source_file": "test/PushPK_Dreieich Mitte_Handwerk 官方GIS输入数据",
+      "source_excerpt": "Pipes 图层字段包括 HK_Area、NVT_Area、Bauweisen、Length、Pipe_Summe、Gräbensbreite、Gräbenstief 等。",
+      "confidence": "medium",
+      "rules": [
+        {
+          "id": "PROJECT-DREIEICH-PB01-PIPES",
+          "type": "required_properties",
+          "params": {
+            "object_type": "telecom_duct_route",
+            "properties": [
+              "HK_Area",
+              "NVT_Area",
+              "Bauweisen",
+              "Length",
+              "Pipe_Summe"
+            ],
+            "filters": {},
+            "max_findings": 80
+          }
+        }
+      ]
+    },
+    {
+      "id": "7ceb13d05df6da30",
+      "standard_id": "PROJECT-DREIEICH",
+      "standard_name": "Dreieich 光纤项目数据与业务规则",
+      "version": "",
+      "is_placeholder": false,
+      "clause_id": "PB-02",
+      "title": "管道应至少配置一种管孔或空管资源",
+      "summary": "路由对象需要说明使用的 SNR/空管/微管资源，否则无法判断容量与材料方案。",
+      "applicable_objects": [
+        "telecom_duct_route"
+      ],
+      "scenario": "Pipes.gpkg/Pipes 图层中 SNRVe、SNR、Leerrohr 等资源字段。",
+      "risk_level": "medium",
+      "recommendation": "至少填写 SNRVe_7x12、SNRVe_22x7、SNR_1x7、SNR_1x10 或 Leerrohr 中的一项。",
+      "source_file": "test/PushPK_Dreieich Mitte_Handwerk 官方GIS输入数据",
+      "source_excerpt": "Pipes 图层包含 SNRVe_7x12、SNRVe_22x7、SNR_1x7、SNR_1x10、Leerrohr 等资源字段。",
+      "confidence": "medium",
+      "rules": [
+        {
+          "id": "PROJECT-DREIEICH-PB02-PIPE-RESOURCE",
+          "type": "required_any_property",
+          "params": {
+            "object_type": "telecom_duct_route",
+            "properties": [
+              "SNRVe_7x12",
+              "SNRVe_22x7",
+              "SNR_1x7",
+              "SNR_1x10",
+              "Leerrohr"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "2b4be4874ff1be78",
+      "standard_id": "PROJECT-DREIEICH",
+      "standard_name": "Dreieich 光纤项目数据与业务规则",
+      "version": "",
+      "is_placeholder": false,
+      "clause_id": "PB-03",
+      "title": "沟槽深度和宽度应满足项目最小记录要求",
+      "summary": "沟槽深度和宽度是道路开挖、材料回填和竣工测量的关键参数，缺失或为0时需要复核。",
+      "applicable_objects": [
+        "telecom_duct_route"
+      ],
+      "scenario": "Pipes.gpkg/Pipes 图层中的 Gräbenstief 与 Gräbensbreite。",
+      "risk_level": "high",
+      "recommendation": "补充沟槽深度/宽度，或说明该段为非开挖、既有管孔利用等特殊施工方式。",
+      "source_file": "test/PushPK_Dreieich Mitte_Handwerk 官方GIS输入数据",
+      "source_excerpt": "Pipes 图层样例显示 Gräbenstief 包含 0、0.45、0.6、0.8 等值，Gräbensbreite 包含 0、0.15、0.3 等值。",
+      "confidence": "medium",
+      "rules": [
+        {
+          "id": "PROJECT-DREIEICH-PB03-DEPTH",
+          "type": "min_property",
+          "params": {
+            "object_type": "telecom_duct_route",
+            "property": "Gräbenstief",
+            "threshold": 0.45,
+            "unit": "m",
+            "max_findings": 80
+          }
+        },
+        {
+          "id": "PROJECT-DREIEICH-PB03-WIDTH",
+          "type": "min_property",
+          "params": {
+            "object_type": "telecom_duct_route",
+            "property": "Gräbensbreite",
+            "threshold": 0.15,
+            "unit": "m",
+            "max_findings": 80
+          }
+        }
+      ]
+    },
+    {
+      "id": "a30b4d579e6cbba2",
+      "standard_id": "PROJECT-DREIEICH",
+      "standard_name": "Dreieich 光纤项目数据与业务规则",
+      "version": "",
+      "is_placeholder": false,
+      "clause_id": "PB-04",
+      "title": "施工坑点应具备尺寸、深度、表面和施工方式信息",
+      "summary": "PitWork 图层用于记录开挖坑位，缺失尺寸和深度会影响工程量和安全复核。",
+      "applicable_objects": [
+        "civil_pit_work"
+      ],
+      "scenario": "PitWork.gpkg/PitWork 图层。",
+      "risk_level": "high",
+      "recommendation": "补齐 Length、Width、Depth、Surface、Bauweisen 字段。",
+      "source_file": "test/PushPK_Dreieich Mitte_Handwerk 官方GIS输入数据",
+      "source_excerpt": "PitWork 图层字段包括 Length、Width、Depth、Surface、Bauweisen、Subco、Foto1 等。",
+      "confidence": "medium",
+      "rules": [
+        {
+          "id": "PROJECT-DREIEICH-PB04-PIT-FIELDS",
+          "type": "required_properties",
+          "params": {
+            "object_type": "civil_pit_work",
+            "properties": [
+              "Length",
+              "Width",
+              "Depth",
+              "Surface",
+              "Bauweisen"
+            ],
+            "filters": {},
+            "max_findings": 80
+          }
+        },
+        {
+          "id": "PROJECT-DREIEICH-PB04-PIT-DEPTH",
+          "type": "min_property",
+          "params": {
+            "object_type": "civil_pit_work",
+            "property": "Depth",
+            "threshold": 0.5,
+            "unit": "m",
+            "max_findings": 80
+          }
+        }
+      ]
+    },
+    {
+      "id": "d823fa929e94cce5",
+      "standard_id": "PROJECT-DREIEICH",
+      "standard_name": "Dreieich 光纤项目数据与业务规则",
+      "version": "",
+      "is_placeholder": false,
+      "clause_id": "PB-05",
+      "title": "地址点应保留可回访的门牌与施工状态信息",
+      "summary": "Address 图层是入户接入、客户侧施工和开通状态的基础，缺失地址字段会影响业务闭环。",
+      "applicable_objects": [
+        "address_point"
+      ],
+      "scenario": "Address.gpkg/address 图层。",
+      "risk_level": "medium",
+      "recommendation": "补齐 Straße、Haus_Nr、PLZ、NVT_Area、HK_Area、Status_Tiefbau、Status_Kabel 等字段。",
+      "source_file": "test/PushPK_Dreieich Mitte_Handwerk 官方GIS输入数据",
+      "source_excerpt": "Address 图层字段包括 Straße、Haus_Nr、PLZ、NVT_Area、HK_Area、Status_Tiefbau、Status_Kabel。",
+      "confidence": "medium",
+      "rules": [
+        {
+          "id": "PROJECT-DREIEICH-PB05-ADDRESS",
+          "type": "required_properties",
+          "params": {
+            "object_type": "address_point",
+            "properties": [
+              "Straße",
+              "Haus_Nr",
+              "PLZ",
+              "NVT_Area",
+              "HK_Area",
+              "Status_Tiefbau",
+              "Status_Kabel"
+            ],
+            "filters": {},
+            "max_findings": 80
+          }
+        }
+      ]
+    },
+    {
+      "id": "86d9aa5012e1afa3",
+      "standard_id": "PROJECT-DREIEICH",
+      "standard_name": "Dreieich 光纤项目数据与业务规则",
+      "version": "",
+      "is_placeholder": false,
+      "clause_id": "PB-06",
+      "title": "交叉第三方管线的路由应具备穿越说明或文档记录",
+      "summary": "当拟建通信管道与燃气、电力、给水、排水或既有通信管线发生空间交叉时，应能回溯施工保护或文档说明。",
+      "applicable_objects": [
+        "telecom_duct_route",
+        "gas_pipeline",
+        "power_line",
+        "water_pipeline",
+        "sewer_pipeline",
+        "existing_telecom_line"
+      ],
+      "scenario": "Pipes 与 Fremdleitung 图层发生空间交叉或重叠。",
+      "risk_level": "high",
+      "recommendation": "补充 Dokumentation、Kommentar 或专项穿越保护说明，并在 QGIS 中标注交叉位置。",
+      "source_file": "test/PushPK_Dreieich Mitte_Handwerk 官方GIS输入数据",
+      "source_excerpt": "Fremdleitung 图层 Class 包含 Gas、Strom、Wasser、Kanal、TK；Pipes 图层包含 Dokumentation、Kommentar。",
+      "confidence": "medium",
+      "rules": [
+        {
+          "id": "PROJECT-DREIEICH-PB06-CROSS-GAS",
+          "type": "crossing_requires_properties",
+          "params": {
+            "object_types": [
+              "telecom_duct_route",
+              "gas_pipeline"
+            ],
+            "properties": [
+              "Dokumentation",
+              "Kommentar"
+            ],
+            "max_findings": 40
+          }
+        },
+        {
+          "id": "PROJECT-DREIEICH-PB06-CROSS-POWER",
+          "type": "crossing_requires_properties",
+          "params": {
+            "object_types": [
+              "telecom_duct_route",
+              "power_line"
+            ],
+            "properties": [
+              "Dokumentation",
+              "Kommentar"
+            ],
+            "max_findings": 40
+          }
+        }
+      ]
+    }
+  ]
+}

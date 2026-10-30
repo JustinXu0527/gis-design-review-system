@@ -1,0 +1,2575 @@
+{
+  "project_name": "PushPK_Dreieich Mitte_Handwerk",
+  "source_dir": "test/PushPK_Dreieich Mitte_Handwerk",
+  "generated_at": "2026-07-13T03:31:08.395389+00:00",
+  "layers": [
+    {
+      "file": "Address.gpkg",
+      "layer": "address",
+      "count": 843,
+      "columns": [
+        "NVT_Area",
+        "HK_Area",
+        "Straße",
+        "Haus_Nr",
+        "PLZ",
+        "Type",
+        "Tiefbau",
+        "Kabel_Arbeit",
+        "KLSID",
+        "OneBox",
+        "SNR",
+        "Pipe_Color",
+        "Subco_Tiefbau",
+        "Subco_Kabel",
+        "Status_Tiefbau",
+        "Status_Kabel",
+        "WE",
+        "Name",
+        "Email",
+        "Mobil",
+        "Festnetz",
+        "Aktiviert",
+        "Hausbegehung",
+        "Kommentar",
+        "HBP",
+        "EBP",
+        "MD",
+        "OB",
+        "FMT",
+        "GBGS_SS",
+        "ABP",
+        "DT_Kommentar",
+        "Grenzenbebau",
+        "Evergabe",
+        "HEL",
+        "geometry"
+      ],
+      "geometry_types": [
+        "Point"
+      ],
+      "semantic_type_counts": {
+        "address_point": 843
+      }
+    },
+    {
+      "file": "Bereich.gpkg",
+      "layer": "Bereich",
+      "count": 14,
+      "columns": [
+        "NVT_Area",
+        "HK_Area",
+        "Area",
+        "Perimeter",
+        "geometry"
+      ],
+      "geometry_types": [
+        "Polygon"
+      ],
+      "semantic_type_counts": {
+        "project_area": 14
+      }
+    },
+    {
+      "file": "DT_Materials.gpkg",
+      "layer": "DT_Materials",
+      "count": 55,
+      "columns": [
+        "Nr",
+        "Typ",
+        "DT Name",
+        "Alias",
+        "ColorCode"
+      ],
+      "geometry_types": [],
+      "semantic_type_counts": {
+        "material_reference": 55
+      }
+    },
+    {
+      "file": "Einmessung.gpkg",
+      "layer": "Einmessung",
+      "count": 1155,
+      "columns": [
+        "Length",
+        "Type",
+        "C_Length",
+        "NVT_Area",
+        "AP",
+        "geometry"
+      ],
+      "geometry_types": [
+        "LineString"
+      ],
+      "semantic_type_counts": {
+        "surveyed_route": 1155
+      }
+    },
+    {
+      "file": "Fotos.gpkg",
+      "layer": "Fotos",
+      "count": 18,
+      "columns": [
+        "RT_ID",
+        "Foto1",
+        "Foto2",
+        "Foto3",
+        "Datum",
+        "Verfasser",
+        "Type",
+        "Kommentar",
+        "geometry"
+      ],
+      "geometry_types": [
+        "Point"
+      ],
+      "semantic_type_counts": {
+        "construction_photo": 18
+      }
+    },
+    {
+      "file": "Fremdleitung.gpkg",
+      "layer": "Fremdleitung",
+      "count": 7865,
+      "columns": [
+        "Name",
+        "Class",
+        "geometry"
+      ],
+      "geometry_types": [
+        "LineString"
+      ],
+      "semantic_type_counts": {
+        "gas_pipeline": 993,
+        "sewer_pipeline": 2131,
+        "power_line": 2988,
+        "existing_telecom_line": 454,
+        "water_pipeline": 1299
+      }
+    },
+    {
+      "file": "GBGS.gpkg",
+      "layer": "GBGS",
+      "count": 839,
+      "columns": [
+        "NVT_Area",
+        "Strasse",
+        "Hausnummer",
+        "Status",
+        "Next Step",
+        "WE",
+        "HH",
+        "GEW",
+        "KLS id",
+        "Name",
+        "Email",
+        "Mobil",
+        "Festnetz Nummer",
+        "SNR",
+        "Pipe_Color",
+        "DT_Kommentar"
+      ],
+      "geometry_types": [],
+      "semantic_type_counts": {
+        "customer_status_record": 839
+      }
+    },
+    {
+      "file": "Hauseinführung.gpkg",
+      "layer": "Hauseinführung",
+      "count": 434,
+      "columns": [
+        "RT_ID",
+        "HK_Area",
+        "NVT_Area",
+        "Length",
+        "Status",
+        "SNR_1x7",
+        "C_Length",
+        "Straße",
+        "Haus_Nr",
+        "PLZ",
+        "geometry"
+      ],
+      "geometry_types": [
+        "LineString"
+      ],
+      "semantic_type_counts": {
+        "house_connection": 434
+      }
+    },
+    {
+      "file": "Infrastructure.gpkg",
+      "layer": "Infrastructure",
+      "count": 32,
+      "columns": [
+        "RT_ID",
+        "Client_ID",
+        "Anschrift",
+        "PLZ_Stadt",
+        "Location",
+        "Splice",
+        "Reserved",
+        "NVT_Area",
+        "HK_Area",
+        "Subco",
+        "Subco_PO_Status",
+        "Type",
+        "Aufmass",
+        "Status",
+        "Foto1",
+        "Foto2",
+        "Foto3",
+        "geometry"
+      ],
+      "geometry_types": [
+        "Point"
+      ],
+      "semantic_type_counts": {
+        "telecom_central_node": 2,
+        "fiber_distribution_cabinet": 20,
+        "splice_closure": 10
+      }
+    },
+    {
+      "file": "Pipes.gpkg",
+      "layer": "Pipes",
+      "count": 420,
+      "columns": [
+        "RT_ID",
+        "HK_Area",
+        "NVT_Area",
+        "Bauweisen",
+        "Surface",
+        "Bodenaustausch",
+        "Zementmörtelbett",
+        "Reststreifen",
+        "Dicke_Asphalt",
+        "Length",
+        "Gräbensbreite",
+        "Gräbenstief",
+        "Material_Trag",
+        "Status",
+        "KKR",
+        "SNRVe_7x12",
+        "SNRVe_22x7",
+        "SNR_1x7",
+        "C_Length",
+        "Pipe_Summe",
+        "Subco_1",
+        "Status_1",
+        "Synergy",
+        "SNR_1x10",
+        "Leerrohr",
+        "Einblaseninfo",
+        "Kommentar",
+        "Dokumentation",
+        "Beschreibung",
+        "Evergabe",
+        "auxiliary_storage_labeling_lineanchorpercent_lineanchorpercent",
+        "auxiliary_storage_labeling_lineanchorclipping_clipping",
+        "auxiliary_storage_labeling_lineanchortextpoint_anchor",
+        "auxiliary_storage_labeling_lineanchortype_placement",
+        "auxiliary_storage_labeling_positionx",
+        "auxiliary_storage_labeling_positiony",
+        "geometry"
+      ],
+      "geometry_types": [
+        "LineString"
+      ],
+      "semantic_type_counts": {
+        "telecom_duct_route": 420
+      }
+    },
+    {
+      "file": "PitWork.gpkg",
+      "layer": "PitWork",
+      "count": 579,
+      "columns": [
+        "RT_ID",
+        "Client_ID",
+        "HK_Area",
+        "NVT_Area",
+        "Bauweisen",
+        "Length",
+        "Width",
+        "Depth",
+        "Surface",
+        "Tragschicht",
+        "Bodenaustausch",
+        "Subco",
+        "Subco_PO_Status",
+        "Abzweig",
+        "auxiliary_storage_labeling_positionx",
+        "auxiliary_storage_labeling_positiony",
+        "Foto1",
+        "Foto2",
+        "Foto3",
+        "geometry"
+      ],
+      "geometry_types": [
+        "Point"
+      ],
+      "semantic_type_counts": {
+        "civil_pit_work": 579
+      }
+    },
+    {
+      "file": "PO_Liste.gpkg",
+      "layer": "PO_Liste",
+      "count": 47,
+      "columns": [
+        "Subco",
+        "PO_Nummer",
+        "Site_Area",
+        "SM-A",
+        "Site_Nummer",
+        "Site_Name",
+        "WBS"
+      ],
+      "geometry_types": [],
+      "semantic_type_counts": {
+        "procurement_record": 47
+      }
+    },
+    {
+      "file": "Rotberichtigung.gpkg",
+      "layer": "Rotberichtigung",
+      "count": 92,
+      "columns": [
+        "NVT_Area",
+        "Page",
+        "SM-A",
+        "geometry"
+      ],
+      "geometry_types": [
+        "Polygon"
+      ],
+      "semantic_type_counts": {
+        "redline_correction_area": 92
+      }
+    },
+    {
+      "file": "Site_Nummer.gpkg",
+      "layer": "Site_Nummer",
+      "count": 13,
+      "columns": [
+        "HK_Area",
+        "NVt_Area",
+        "SM-A",
+        "Site_Nr",
+        "Site_Name",
+        "WBS",
+        "Belegnummer"
+      ],
+      "geometry_types": [],
+      "semantic_type_counts": {
+        "site_index_record": 13
+      }
+    }
+  ],
+  "semantic_type_counts": {
+    "address_point": 843,
+    "project_area": 14,
+    "material_reference": 55,
+    "surveyed_route": 1155,
+    "construction_photo": 18,
+    "gas_pipeline": 993,
+    "sewer_pipeline": 2131,
+    "power_line": 2988,
+    "existing_telecom_line": 454,
+    "water_pipeline": 1299,
+    "customer_status_record": 839,
+    "house_connection": 434,
+    "telecom_central_node": 2,
+    "fiber_distribution_cabinet": 20,
+    "splice_closure": 10,
+    "telecom_duct_route": 420,
+    "civil_pit_work": 579,
+    "procurement_record": 47,
+    "redline_correction_area": 92,
+    "site_index_record": 13
+  },
+  "field_dictionary": {
+    "address.NVT_Area": {
+      "non_null_count": 837,
+      "sample_values": [
+        "6V9128_AP",
+        "6V9107_AP",
+        "6V9142_AP",
+        "6V9124_AP",
+        "6V9148_AP",
+        "6V9151_AP",
+        "3V9147_AP",
+        "3V9130_AP",
+        "3V9111_AP",
+        "3V9126_AP",
+        "3V9134_AP",
+        "3V9114_AP"
+      ]
+    },
+    "address.HK_Area": {
+      "non_null_count": 839,
+      "sample_values": [
+        "6R66",
+        "3R71",
+        "3R61",
+        "3R70",
+        "6R67"
+      ]
+    },
+    "address.Straße": {
+      "non_null_count": 843,
+      "sample_values": [
+        "Liebknechtstr.",
+        "Spenglerstr.",
+        "Eisenbahnstr.",
+        "Wilhelm-Leuschner-Str.",
+        "Gartenstr.",
+        "Lessingstr.",
+        "August-Bebel-Str.",
+        "Emsstr.",
+        "Vogtei",
+        "Theodor-Heuss-Str.",
+        "Joinviller Str.",
+        "Darmstädter Str."
+      ]
+    },
+    "address.Haus_Nr": {
+      "non_null_count": 843,
+      "sample_values": [
+        "21",
+        "3",
+        "37",
+        "32",
+        "34",
+        "49",
+        "28",
+        "7",
+        "19",
+        "5",
+        "63",
+        "67"
+      ]
+    },
+    "address.PLZ": {
+      "non_null_count": 843,
+      "sample_values": [
+        "63303"
+      ]
+    },
+    "address.Type": {
+      "non_null_count": 843,
+      "sample_values": [
+        "0",
+        "2",
+        "3",
+        "1"
+      ]
+    },
+    "address.Tiefbau": {
+      "non_null_count": 843,
+      "sample_values": [
+        "False",
+        "True"
+      ]
+    },
+    "address.Kabel_Arbeit": {
+      "non_null_count": 843,
+      "sample_values": [
+        "False",
+        "True"
+      ]
+    },
+    "address.KLSID": {
+      "non_null_count": 415,
+      "sample_values": [
+        "3496516.0",
+        "3496563.0",
+        "3496564.0",
+        "3496110.0",
+        "3496553.0",
+        "28091452.0",
+        "3497712.0",
+        "3498010.0",
+        "3496556.0",
+        "3500538.0",
+        "3500867.0",
+        "3497722.0"
+      ]
+    },
+    "address.OneBox": {
+      "non_null_count": 455,
+      "sample_values": [
+        "OneBox 2WE",
+        "OneBox 1WE",
+        "AsB 6",
+        "OneBox 3WE",
+        "OneBox 4-8WE",
+        "OneBox 9-12WE",
+        "OneBox 13-20WE"
+      ]
+    },
+    "address.SNR": {
+      "non_null_count": 837,
+      "sample_values": [
+        "22x7_or",
+        "22x7_or/sw",
+        "22x7_or/ws",
+        "22x7_or/rt",
+        "8x7_or",
+        "8x7_or/sw"
+      ]
+    },
+    "address.Pipe_Color": {
+      "non_null_count": 837,
+      "sample_values": [
+        "tk",
+        "ge=",
+        "br=",
+        "sw",
+        "vi=",
+        "rs",
+        "gr=",
+        "ge",
+        "vi",
+        "rt=",
+        "ws",
+        "or"
+      ]
+    },
+    "address.Subco_Tiefbau": {
+      "non_null_count": 843,
+      "sample_values": [
+        "Handwerk",
+        "O-Connect",
+        "DK"
+      ]
+    },
+    "address.Subco_Kabel": {
+      "non_null_count": 726,
+      "sample_values": [
+        "0",
+        "Handwerk",
+        "Telekom",
+        "FiberHome",
+        "Simplex Future",
+        "Optech",
+        "DK"
+      ]
+    },
+    "address.Status_Tiefbau": {
+      "non_null_count": 843,
+      "sample_values": [
+        "0",
+        "1"
+      ]
+    },
+    "address.Status_Kabel": {
+      "non_null_count": 843,
+      "sample_values": [
+        "0",
+        "1"
+      ]
+    },
+    "address.WE": {
+      "non_null_count": 733,
+      "sample_values": [
+        "2.0",
+        "1.0",
+        "6.0",
+        "3.0",
+        "4.0",
+        "7.0",
+        "10.0",
+        "5.0",
+        "0.0",
+        "14.0",
+        "9.0",
+        "12.0"
+      ]
+    },
+    "address.Name": {
+      "non_null_count": 482,
+      "sample_values": [
+        "MRS Christa Hüttmann",
+        "MR Otto Groh",
+        "MR Michael Riesenkönig",
+        "Müller & Co KG",
+        "MR Michael Bode",
+        "MR Oliver Haus",
+        "MR Andreas Hemker",
+        "MR Kurt Wächter",
+        "MR Michael Barth",
+        "MR Fred Huber",
+        "MR Günter Daube",
+        "MR Wolfgang Stroh"
+      ]
+    },
+    "address.Email": {
+      "non_null_count": 482,
+      "sample_values": [
+        "c.htm@t-online.de",
+        "ogroh@arcor.de",
+        "michael.riesenkoenig@gmx.de",
+        "oppalokka@gmx.de",
+        "m.bode@alice.de",
+        "oliver.haus@ergo.de",
+        "andreas@hemker.com",
+        "Kurtwaechter@t-online.de",
+        "michael.barth7960@gmail.com",
+        "fredhuber@gmx.de",
+        "guenter.daube@gmail.com",
+        "wstroh49@t-online.de"
+      ]
+    },
+    "address.Mobil": {
+      "non_null_count": 437,
+      "sample_values": [
+        "016097631400",
+        "01712395528",
+        "01726973580",
+        "015111059334",
+        "01772423760",
+        "017662528940",
+        "01607656106",
+        "015202625794",
+        "01703568685",
+        "01772397231",
+        "01714482351",
+        "01782110246"
+      ]
+    },
+    "address.Festnetz": {
+      "non_null_count": 294,
+      "sample_values": [
+        "069527515",
+        "06103960780",
+        "0610382577",
+        "0610365239",
+        "0610365521",
+        "0610369547",
+        "061038073204",
+        "0610363318",
+        "06103985103",
+        "06103 64996",
+        "0610368556",
+        "0610367146"
+      ]
+    },
+    "address.Aktiviert": {
+      "non_null_count": 843,
+      "sample_values": [
+        "False",
+        "True"
+      ]
+    },
+    "address.Hausbegehung": {
+      "non_null_count": 843,
+      "sample_values": [
+        "False",
+        "True"
+      ]
+    },
+    "address.Kommentar": {
+      "non_null_count": 243,
+      "sample_values": [
+        "02.09, Kabel muss neu Eingeblasen werden.",
+        "muss neu eingeblasen werden-19.06.2024",
+        "Kabel Hängengeblieben",
+        "MD und OneBox Foto fehlt",
+        "false",
+        "true",
+        "weg",
+        "ab KW24",
+        "Warte auf Wärmepumpe",
+        "Weg",
+        "nicht erreichbar",
+        "KW23 nicht erreichbar"
+      ]
+    },
+    "address.HBP": {
+      "non_null_count": 443,
+      "sample_values": [
+        "6V9142/Spenglerstr. 32/HB_S32.jpg",
+        "6V9142/Spenglerstr. 34/HB_S34.jpg",
+        "6V9124/Wilhelm-Leuschner-Str. 3/HB_WL3.jpg",
+        "false",
+        "6V9128/Liebknechtstr. 16/HB_L16.jpg",
+        "6V9148/Eisenbahnstr. 62/HB_E62.jpg",
+        "6V9142/Emsstr. 3/HB_E3.png",
+        "6V9142/Theodor-Heuss-Str. 20/HB_TH20.png",
+        "6V9151/Lessingstr. 28/HB_L28.jpg",
+        "6V9124/Theodor-Heuss-Str. 3/HB_TH3.jpg",
+        "6V9128/Joinviller Str. 51/HB_J51.jpg",
+        "6V9107/Darmstädter Str. 17/HB_D17.png"
+      ]
+    },
+    "address.EBP": {
+      "non_null_count": 575,
+      "sample_values": [
+        "6V9107/Spenglerstr. 3/EBP_6V9107_S3.pdf",
+        "6V9142/Spenglerstr. 32/EBP_S32.pdf",
+        "6V9142/Spenglerstr. 34/EBP_S34.pdf",
+        "6V9124/Wilhelm-Leuschner-Str. 3/EBP_WL3.pdf",
+        "6V9107/Spenglerstr. 19/EBP_6V9107_S19.pdf",
+        "false",
+        "6V9148/Liebknechtstr. 34/EBP_L34.pdf",
+        "6V9128/Liebknechtstr. 2/EBP_6V9128_L2.pdf",
+        "6V9107/Spenglerstr. 23/EBP_6V9107_S23.pdf",
+        "6V9124/Eisenbahnstr. 58/EBP_6V9124_E58.pdf",
+        "6V9128/Liebknechtstr. 13/EBP_6V9128_L13.pdf",
+        "6V9128/Liebknechtstr. 16/EBP_6V9128_L16.pdf"
+      ]
+    },
+    "address.MD": {
+      "non_null_count": 559,
+      "sample_values": [
+        "6V9107/Spenglerstr. 3/MD_S3.jpg",
+        "6V9142/Spenglerstr. 32/MD_S32.jpg",
+        "6V9142/Spenglerstr. 34/MD_S34.jpg",
+        "6V9124/Wilhelm-Leuschner-Str. 3/MD_WL3.jpg",
+        "true",
+        "false",
+        "6V9148/Liebknechtstr. 34/MD_L34.jpg",
+        "6V9107/Spenglerstr. 23/MD_S23.jpg",
+        "6V9124/Eisenbahnstr. 58/MD_E58.jpg",
+        "6V9128/Liebknechtstr. 13/MD_L13.jpg",
+        "6V9128/Liebknechtstr. 16/MD_L16.jpg",
+        "6V9148/Eisenbahnstr. 62/MD_E62.jpg"
+      ]
+    },
+    "address.OB": {
+      "non_null_count": 562,
+      "sample_values": [
+        "6V9107/Spenglerstr. 3/OneBox_S3.jpg",
+        "6V9142/Spenglerstr. 32/OneBox_S32.jpg",
+        "6V9142/Spenglerstr. 34/OneBox_S34.jpg",
+        "false",
+        "6V9107/Spenglerstr. 19/OneBox_S19.jpg",
+        "6V9148/Liebknechtstr. 34/OneBox_L34.jpg",
+        "6V9107/Spenglerstr. 23/OneBox_S23.jpg",
+        "6V9124/Eisenbahnstr. 58/OneBox_E58.jpg",
+        "6V9128/Liebknechtstr. 13/OneBox_L13.jpg",
+        "6V9128/Liebknechtstr. 16/OneBox_L16.jpg",
+        "6V9148/Eisenbahnstr. 62/OneBox_E62.jpg",
+        "6V9142/Emsstr. 3/OneBox_E3.png"
+      ]
+    },
+    "address.FMT": {
+      "non_null_count": 619,
+      "sample_values": [
+        "false",
+        "true"
+      ]
+    },
+    "address.GBGS_SS": {
+      "non_null_count": 496,
+      "sample_values": [
+        "false",
+        "6V9148/Liebknechtstr. 36A/GBGS_L36A.png",
+        "6V9148/Liebknechtstr. 38/GBGS_L38.png",
+        "6V9148/Liebknechtstr. 36/GBGS_L36.png",
+        "3V9111/Karlstr. 8/GBGS_Karlstr. 8.png",
+        "3V9111/Karlstr. 6/GBGS_Karlstr. 6.png",
+        "3V9111/Luisenstr. 2A/GBGS_L2A.png",
+        "3V9111/Weilbornstr. 26/GBGS_W26.png",
+        "3V9111/Luisenstr. 10/GBGS_L10.png",
+        "true",
+        "3V9111/Luisenstr. 28/GBGS_L28.png",
+        "3V9111/Karlstr. 12/GBGS_K12.png"
+      ]
+    },
+    "address.ABP": {
+      "non_null_count": 520,
+      "sample_values": [
+        "6V9142/Spenglerstr. 32/ABP_S32.pdf",
+        "6V9142/Spenglerstr. 34/ABP_S34.pdf",
+        "6V9124/Wilhelm-Leuschner-Str. 3/ABP_WL3.jpg",
+        "false",
+        "6V9142/Emsstr. 3/ABP_E3.pdf",
+        "6V9142/Theodor-Heuss-Str. 20/ABP_TH20.pdf",
+        "6V9151/Lessingstr. 28/ABP_L28.pdf",
+        "6V9124/Theodor-Heuss-Str. 3/ABP_TH3.pdf",
+        "6V9107/Darmstädter Str. 17/ABP_D17.pdf",
+        "6V9124/Eisenbahnstr. 50/ABP_E50.pdf",
+        "6V9107/Spenglerstr. 21/ABP_S21.pdf",
+        "6V9142/Lessingstr. 10/ABP_L10.pdf"
+      ]
+    },
+    "address.DT_Kommentar": {
+      "non_null_count": 0,
+      "sample_values": []
+    },
+    "address.Grenzenbebau": {
+      "non_null_count": 743,
+      "sample_values": [
+        "0.0",
+        "1.0"
+      ]
+    },
+    "address.Evergabe": {
+      "non_null_count": 362,
+      "sample_values": [
+        "0",
+        "1"
+      ]
+    },
+    "address.HEL": {
+      "non_null_count": 370,
+      "sample_values": [
+        "0.9",
+        "1.1",
+        "1.0",
+        "5.2",
+        "1.8",
+        "12.3",
+        "1.4",
+        "1.7",
+        "0.8",
+        "4.7",
+        "4.6",
+        "4.8"
+      ]
+    },
+    "Bereich.NVT_Area": {
+      "non_null_count": 14,
+      "sample_values": [
+        "6V9148",
+        "6V9128",
+        "6V9124",
+        "6V9142",
+        "6V9151",
+        "6V9107",
+        "3V9111",
+        "3V9134",
+        "3V9126",
+        "3V9102",
+        "3V9114",
+        "3V9119"
+      ]
+    },
+    "Bereich.HK_Area": {
+      "non_null_count": 14,
+      "sample_values": [
+        "6R66",
+        "3R61",
+        "3R70",
+        "3"
+      ]
+    },
+    "Bereich.Area": {
+      "non_null_count": 1,
+      "sample_values": [
+        "680.8"
+      ]
+    },
+    "Bereich.Perimeter": {
+      "non_null_count": 1,
+      "sample_values": [
+        "119.4"
+      ]
+    },
+    "DT_Materials.Nr": {
+      "non_null_count": 55,
+      "sample_values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ]
+    },
+    "DT_Materials.Typ": {
+      "non_null_count": 55,
+      "sample_values": [
+        "Schutzrohr",
+        "SNR_7mm",
+        "SNRVe_12mm",
+        "SNRVe_7mm",
+        "Minikabel",
+        "Mikrokabel",
+        "OneBox",
+        "ColorCode",
+        "Team"
+      ]
+    },
+    "DT_Materials.DT Name": {
+      "non_null_count": 55,
+      "sample_values": [
+        "Kabelkanalrohr 110mm Laenge 6m",
+        "Kabelrohr 50mm",
+        "Speednetrohr 7mm",
+        "SNR Verband 3x12mm Orange",
+        "SNR Verband 7x12mm Orange",
+        "SNR Verband 7x12mm Orange/Schwarz",
+        "SNR Verband 7x12mm Orange/Weiss",
+        "SNR Verband 7x12mm Orange/Rot",
+        "SNR Verband 8x7mm Orange",
+        "SNR Verband 8x7mm Orange/Schwarz",
+        "SNR Verband 8x7mm Orange/Weiss",
+        "SNR Verband 8x7mm Orange/Rot"
+      ]
+    },
+    "DT_Materials.Alias": {
+      "non_null_count": 55,
+      "sample_values": [
+        "KKR110",
+        "KR50",
+        "SNR 1x7",
+        "3x12_or",
+        "7x12_or",
+        "7x12_or/sw",
+        "7x12_or/ws",
+        "7x12_or/rt",
+        "8x7_or",
+        "8x7_or/sw",
+        "8x7_or/ws",
+        "8x7_or/rt"
+      ]
+    },
+    "DT_Materials.ColorCode": {
+      "non_null_count": 22,
+      "sample_values": [
+        "1.0",
+        "2.0",
+        "3.0",
+        "4.0",
+        "5.0",
+        "6.0",
+        "7.0",
+        "8.0",
+        "9.0",
+        "10.0",
+        "11.0",
+        "12.0"
+      ]
+    },
+    "Einmessung.Length": {
+      "non_null_count": 1155,
+      "sample_values": [
+        "6.4",
+        "2.7",
+        "1.6",
+        "3.5",
+        "3.1",
+        "2.3",
+        "3.0",
+        "2.8",
+        "1.9",
+        "9.5",
+        "6.2",
+        "3.8"
+      ]
+    },
+    "Einmessung.Type": {
+      "non_null_count": 1155,
+      "sample_values": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ]
+    },
+    "Einmessung.C_Length": {
+      "non_null_count": 935,
+      "sample_values": [
+        "6.4",
+        "0.5",
+        "3.5",
+        "3.0",
+        "12.5",
+        "0.6",
+        "9.1",
+        "1.1",
+        "6.0",
+        "3.3",
+        "6.9",
+        "4.9"
+      ]
+    },
+    "Einmessung.NVT_Area": {
+      "non_null_count": 1117,
+      "sample_values": [
+        "6V9148",
+        "6R66",
+        "6V9128",
+        "6V9124",
+        "6V9151",
+        "6V9107",
+        "3V9111",
+        "3V9126",
+        "3V9134",
+        "3R61",
+        "3V9135",
+        "3V9119"
+      ]
+    },
+    "Einmessung.AP": {
+      "non_null_count": 1155,
+      "sample_values": [
+        "False",
+        "True"
+      ]
+    },
+    "Fotos.RT_ID": {
+      "non_null_count": 4,
+      "sample_values": [
+        "RT0729",
+        "RT0032"
+      ]
+    },
+    "Fotos.Foto1": {
+      "non_null_count": 17,
+      "sample_values": [
+        "20240614_161428.jpg",
+        "20240614_161646.jpg",
+        "20240614_161842.jpg",
+        "RT0032_LPD_vorher.jpg",
+        "Yimeng-20240619-10138.jpg",
+        "Andu-20240620-161624.jpg",
+        "20240703_140744.jpg",
+        "20240703_140905.jpg",
+        "20240703_141537.jpg",
+        "Yimeng-20240705-92028.jpg",
+        "RT0933_Alte Beton.jpg",
+        "RT0756_Tief.jpg"
+      ]
+    },
+    "Fotos.Foto2": {
+      "non_null_count": 10,
+      "sample_values": [
+        "Yimeng-20240614-161552.jpg",
+        "20240614_161734.jpg",
+        "20240614_161846.jpg",
+        "RT0032_LPD_nachher.jpg",
+        "Hand.werk-20240703-14835.jpg",
+        "Hand.werk-20240703-141042.jpg",
+        "Hand.werk-20240703-141613.jpg",
+        "20240705_092020.jpg",
+        "RT0756_Breite.jpg",
+        "20240712_144413.jpg"
+      ]
+    },
+    "Fotos.Foto3": {
+      "non_null_count": 6,
+      "sample_values": [
+        "Yimeng-20240614-16150.jpg",
+        "Yimeng-20240614-16186.jpg",
+        "Yimeng-20240614-16195.jpg",
+        "Hand.werk-20240703-141222.jpg",
+        "20240703_140933.jpg",
+        "20240705_092022.jpg"
+      ]
+    },
+    "Fotos.Datum": {
+      "non_null_count": 18,
+      "sample_values": [
+        "2024-06-14 16:14:12.988",
+        "2024-06-14 16:16:19.462",
+        "2024-06-14 16:18:27.675",
+        "2024-06-14 16:47:10.692",
+        "2024-06-19 10:01:34.138",
+        "2024-06-20 16:16:03.440",
+        "2024-07-03 14:07:31.061",
+        "2024-07-03 14:08:55.855",
+        "2024-07-03 14:15:31.736",
+        "2024-07-05 09:20:14.874",
+        "2024-07-08 22:38:58.225",
+        "2024-07-13 23:14:22.405"
+      ]
+    },
+    "Fotos.Verfasser": {
+      "non_null_count": 17,
+      "sample_values": [
+        "Yimeng",
+        "Andu",
+        "Hand.werk",
+        "zhangyimeng827@gmail.com",
+        "YiZhou"
+      ]
+    },
+    "Fotos.Type": {
+      "non_null_count": 4,
+      "sample_values": [
+        "2",
+        "1"
+      ]
+    },
+    "Fotos.Kommentar": {
+      "non_null_count": 1,
+      "sample_values": [
+        "LPD Test vorher"
+      ]
+    },
+    "Fremdleitung.Name": {
+      "non_null_count": 7865,
+      "sample_values": [
+        "kml_4",
+        "kml_11",
+        "kml_14",
+        "kml_755",
+        "kml_757",
+        "kml_758",
+        "kml_759",
+        "kml_760",
+        "kml_761",
+        "kml_762",
+        "kml_763",
+        "kml_764"
+      ]
+    },
+    "Fremdleitung.Class": {
+      "non_null_count": 7865,
+      "sample_values": [
+        "Gas",
+        "Kanal",
+        "Strom",
+        "TK",
+        "Wasser"
+      ]
+    },
+    "GBGS.NVT_Area": {
+      "non_null_count": 839,
+      "sample_values": [
+        "3V9102_AP",
+        "3V9114_AP",
+        "3V9119_AP",
+        "3V9135_AP",
+        "3V9111_AP",
+        "3V9126_AP",
+        "3V9134_AP",
+        "6V9128_AP",
+        "6V9148_AP",
+        "6V9124_AP",
+        "6V9142_AP",
+        "6V9151_AP"
+      ]
+    },
+    "GBGS.Strasse": {
+      "non_null_count": 839,
+      "sample_values": [
+        "Am Weihergarten",
+        "Horst-Schmidt-Ring",
+        "In der neuen Lach",
+        "Am Herrnacker",
+        "Am Schlagsbach",
+        "Luisenstr.",
+        "Offenbacher Str.",
+        "Am Hergertsbaum",
+        "Oberwiesenweg",
+        "Frankfurter Str.",
+        "Karlstr.",
+        "Weilbornstr."
+      ]
+    },
+    "GBGS.Hausnummer": {
+      "non_null_count": 839,
+      "sample_values": [
+        "2",
+        "2A",
+        "48",
+        "4",
+        "6",
+        "5",
+        "7",
+        "11",
+        "13",
+        "17",
+        "19",
+        "21"
+      ]
+    },
+    "GBGS.Status": {
+      "non_null_count": 839,
+      "sample_values": [
+        "Wartegrund",
+        "Nicht Kunden",
+        "Home Connected",
+        "Finished"
+      ]
+    },
+    "GBGS.Next Step": {
+      "non_null_count": 414,
+      "sample_values": [
+        "GfAP-Installation planen",
+        "GfAP-Installation ausführen",
+        "Prozess abgeschlossen",
+        "Auskundung durchführen",
+        "Wartegrund beheben",
+        "Prozess geblockt",
+        "Auskundung planen"
+      ]
+    },
+    "GBGS.WE": {
+      "non_null_count": 415,
+      "sample_values": [
+        "1.0",
+        "5.0",
+        "3.0",
+        "2.0",
+        "6.0",
+        "7.0",
+        "9.0",
+        "4.0",
+        "13.0",
+        "10.0",
+        "12.0",
+        "8.0"
+      ]
+    },
+    "GBGS.HH": {
+      "non_null_count": 415,
+      "sample_values": [
+        "1.0",
+        "5.0",
+        "3.0",
+        "2.0",
+        "6.0",
+        "7.0",
+        "8.0",
+        "4.0",
+        "9.0",
+        "13.0",
+        "0.0",
+        "10.0"
+      ]
+    },
+    "GBGS.GEW": {
+      "non_null_count": 415,
+      "sample_values": [
+        "0.0",
+        "1.0",
+        "2.0",
+        "7.0",
+        "3.0",
+        "12.0",
+        "5.0",
+        "4.0"
+      ]
+    },
+    "GBGS.KLS id": {
+      "non_null_count": 415,
+      "sample_values": [
+        "26863687.0",
+        "14678437.0",
+        "14678839.0",
+        "14678842.0",
+        "14678843.0",
+        "14678845.0",
+        "14678934.0",
+        "28792727.0",
+        "14678443.0",
+        "22553058.0",
+        "22480964.0",
+        "14678850.0"
+      ]
+    },
+    "GBGS.Name": {
+      "non_null_count": 482,
+      "sample_values": [
+        "MRS Annekatrin Klein",
+        "MR Hans-Joachim Schött",
+        "MR Edmund Stammel",
+        "MR Herbert Trapp",
+        "MRS Andrea Bischoff",
+        "MRS Katharina Lehr",
+        "MR Jürgen Weilmünster",
+        "MR Ralf Jahnke",
+        "MR Karl-Heinz Lohmann",
+        "MR Tim Junghans",
+        "MRS Hiltrud Kirchgeorg",
+        "MR Hellmut Koch"
+      ]
+    },
+    "GBGS.Email": {
+      "non_null_count": 482,
+      "sample_values": [
+        "annekatrin-klein@t-online.de",
+        "hjschoett@web.de",
+        "edmund.stammel@gmx.de",
+        "info@landhaus-feilbingert.de",
+        "abischoff2805@gmail.com",
+        "katharina-lehr@gmx.de",
+        "juergenweilmuenster@web.de",
+        "info@rudiservice.com",
+        "khl@gmb-online.de",
+        "tim.junghans@outlook.com",
+        "t.kirchgeorg@gmail.com",
+        "hellmut.koch@t-online.de"
+      ]
+    },
+    "GBGS.Mobil": {
+      "non_null_count": 437,
+      "sample_values": [
+        "01702376528",
+        "015901933133",
+        "01781350241",
+        "01703179091",
+        "01712787072",
+        "016096620709",
+        "01704819316",
+        "01716813484",
+        "015140001539",
+        "017632219536",
+        "01705832561",
+        "01701563532"
+      ]
+    },
+    "GBGS.Festnetz Nummer": {
+      "non_null_count": 294,
+      "sample_values": [
+        "060744869895",
+        "0610495430",
+        "08652977240",
+        "061039889369",
+        "015114228538",
+        "0610277890",
+        "06102778917",
+        "06103322487",
+        "06103322080",
+        "06103312005",
+        "061034590966",
+        "034512298990"
+      ]
+    },
+    "GBGS.SNR": {
+      "non_null_count": 839,
+      "sample_values": [
+        "22x7_or",
+        "8x7_or",
+        "22x7_or/sw",
+        "8x7_or/sw",
+        "22x7_or/ws",
+        "22x7_or/rt"
+      ]
+    },
+    "GBGS.Pipe_Color": {
+      "non_null_count": 839,
+      "sample_values": [
+        "rs",
+        "or",
+        "ws",
+        "sw",
+        "tk",
+        "br",
+        "gr",
+        "ge",
+        "bl",
+        "gn",
+        "rt",
+        "ws="
+      ]
+    },
+    "GBGS.DT_Kommentar": {
+      "non_null_count": 0,
+      "sample_values": []
+    },
+    "Hauseinführung.RT_ID": {
+      "non_null_count": 434,
+      "sample_values": [
+        "HE0001",
+        "HE0006",
+        "HE0007",
+        "HE0010",
+        "HE0015",
+        "HE0018",
+        "HE0019",
+        "HE0024",
+        "HE0025",
+        "HE0027",
+        "HE0031",
+        "HE0033"
+      ]
+    },
+    "Hauseinführung.HK_Area": {
+      "non_null_count": 225,
+      "sample_values": [
+        "6R66",
+        "3R61",
+        "3R70",
+        "3R71",
+        "6R67"
+      ]
+    },
+    "Hauseinführung.NVT_Area": {
+      "non_null_count": 309,
+      "sample_values": [
+        "6V9148_AP",
+        "6V9142_AP",
+        "6V9107_AP",
+        "6V9151_AP",
+        "6V9124_AP",
+        "6V9128_AP",
+        "3V9134_AP",
+        "3V9126_AP",
+        "3V9111_AP",
+        "3V9114_AP",
+        "3V9102_AP",
+        "3V9119_AP"
+      ]
+    },
+    "Hauseinführung.Length": {
+      "non_null_count": 434,
+      "sample_values": [
+        "39.3",
+        "1.0",
+        "1.4",
+        "1.2",
+        "4.8",
+        "6.0",
+        "12.3",
+        "0.8",
+        "1.3",
+        "2.0",
+        "1.1",
+        "5.1"
+      ]
+    },
+    "Hauseinführung.Status": {
+      "non_null_count": 434,
+      "sample_values": [
+        "1",
+        "0"
+      ]
+    },
+    "Hauseinführung.SNR_1x7": {
+      "non_null_count": 434,
+      "sample_values": [
+        "1",
+        "2"
+      ]
+    },
+    "Hauseinführung.C_Length": {
+      "non_null_count": 287,
+      "sample_values": [
+        "45.0",
+        "0.0",
+        "6.0",
+        "4.0",
+        "30.0",
+        "4.3",
+        "5.5",
+        "3.6"
+      ]
+    },
+    "Hauseinführung.Straße": {
+      "non_null_count": 362,
+      "sample_values": [
+        "Liebknechtstr.",
+        "Spenglerstr.",
+        "August-Bebel-Str.",
+        "Lessingstr.",
+        "Moselstr.",
+        "Theodor-Heuss-Str.",
+        "Emsstr.",
+        "Poststr.",
+        "Vogtei",
+        "Eisenbahnstr.",
+        "Elbestr.",
+        "Joinviller Str."
+      ]
+    },
+    "Hauseinführung.Haus_Nr": {
+      "non_null_count": 362,
+      "sample_values": [
+        "36",
+        "34",
+        "4",
+        "11",
+        "27",
+        "18",
+        "1",
+        "16",
+        "10",
+        "12",
+        "7",
+        "23"
+      ]
+    },
+    "Hauseinführung.PLZ": {
+      "non_null_count": 434,
+      "sample_values": [
+        "63303"
+      ]
+    },
+    "Infrastructure.RT_ID": {
+      "non_null_count": 32,
+      "sample_values": [
+        "RT0001",
+        "RT0002",
+        "RT0003",
+        "RT0004",
+        "RT0005",
+        "RT0006",
+        "RT0007",
+        "RT0008",
+        "RT0009",
+        "RT0010",
+        "RT0011",
+        "RT0012"
+      ]
+    },
+    "Infrastructure.Client_ID": {
+      "non_null_count": 32,
+      "sample_values": [
+        "BVSt 49/6103/001",
+        "6V9107",
+        "6V9124",
+        "M30",
+        "M20",
+        "6V9128",
+        "6V9148",
+        "6V9151",
+        "6V9142",
+        "BVST 49/6103/003",
+        "3V9147",
+        "3V9130"
+      ]
+    },
+    "Infrastructure.Anschrift": {
+      "non_null_count": 2,
+      "sample_values": [
+        "Poststr. 8",
+        "Max-Planck-Str. 5"
+      ]
+    },
+    "Infrastructure.PLZ_Stadt": {
+      "non_null_count": 32,
+      "sample_values": [
+        "63303 Dreieich"
+      ]
+    },
+    "Infrastructure.Location": {
+      "non_null_count": 32,
+      "sample_values": [
+        "0",
+        "1"
+      ]
+    },
+    "Infrastructure.Splice": {
+      "non_null_count": 32,
+      "sample_values": [
+        "113",
+        "3",
+        "2",
+        "39",
+        "96",
+        "100",
+        "24",
+        "0",
+        "40",
+        "65",
+        "25",
+        "4"
+      ]
+    },
+    "Infrastructure.Reserved": {
+      "non_null_count": 31,
+      "sample_values": [
+        "11.0",
+        "32.0",
+        "7.0",
+        "0.0",
+        "30.0",
+        "10.0",
+        "5.0",
+        "22.0",
+        "14.0"
+      ]
+    },
+    "Infrastructure.NVT_Area": {
+      "non_null_count": 32,
+      "sample_values": [
+        "6R66_HK",
+        "6V9124",
+        "3R71_HK",
+        "3R61_HK",
+        "3R70_HK",
+        "6R67_HK",
+        "6R67HK"
+      ]
+    },
+    "Infrastructure.HK_Area": {
+      "non_null_count": 27,
+      "sample_values": [
+        "6R66",
+        "3R71",
+        "3R61",
+        "3R70",
+        "6R67"
+      ]
+    },
+    "Infrastructure.Subco": {
+      "non_null_count": 20,
+      "sample_values": [
+        "Handwerk",
+        "DK"
+      ]
+    },
+    "Infrastructure.Subco_PO_Status": {
+      "non_null_count": 20,
+      "sample_values": [
+        "0",
+        "1"
+      ]
+    },
+    "Infrastructure.Type": {
+      "non_null_count": 32,
+      "sample_values": [
+        "HVT",
+        "NVT",
+        "Muffe"
+      ]
+    },
+    "Infrastructure.Aufmass": {
+      "non_null_count": 31,
+      "sample_values": [
+        "0.0",
+        "1.0"
+      ]
+    },
+    "Infrastructure.Status": {
+      "non_null_count": 27,
+      "sample_values": [
+        "1",
+        "0"
+      ]
+    },
+    "Infrastructure.Foto1": {
+      "non_null_count": 1,
+      "sample_values": [
+        "6R67-M21-20240619-145648.jpg"
+      ]
+    },
+    "Infrastructure.Foto2": {
+      "non_null_count": 0,
+      "sample_values": []
+    },
+    "Infrastructure.Foto3": {
+      "non_null_count": 0,
+      "sample_values": []
+    },
+    "Pipes.RT_ID": {
+      "non_null_count": 420,
+      "sample_values": [
+        "RT0002",
+        "RT0003",
+        "RT0004",
+        "RT0005",
+        "RT0007",
+        "RT0008",
+        "RT0009",
+        "RT0010",
+        "RT0011",
+        "RT0012",
+        "RT0013",
+        "RT0014"
+      ]
+    },
+    "Pipes.HK_Area": {
+      "non_null_count": 382,
+      "sample_values": [
+        "6R66",
+        "3R70",
+        "3R71",
+        "3R61",
+        "6R67"
+      ]
+    },
+    "Pipes.NVT_Area": {
+      "non_null_count": 413,
+      "sample_values": [
+        "6V9148",
+        "6V9124",
+        "6V9107",
+        "6R66_HK",
+        "6V9142",
+        "6V9128",
+        "6V9151",
+        "3R70HK",
+        "3R71HK",
+        "3V9130",
+        "3V9144",
+        "3V9147"
+      ]
+    },
+    "Pipes.Bauweisen": {
+      "non_null_count": 418,
+      "sample_values": [
+        "1",
+        "4",
+        "3",
+        "0",
+        "2"
+      ]
+    },
+    "Pipes.Surface": {
+      "non_null_count": 418,
+      "sample_values": [
+        "N/A",
+        "2",
+        "1",
+        "6"
+      ]
+    },
+    "Pipes.Bodenaustausch": {
+      "non_null_count": 408,
+      "sample_values": [
+        "0.0",
+        "1.0",
+        "8.0",
+        "0.4",
+        "231.0",
+        "62.0",
+        "101.0",
+        "64.0",
+        "59.0",
+        "3.4",
+        "1.5",
+        "47.4"
+      ]
+    },
+    "Pipes.Zementmörtelbett": {
+      "non_null_count": 399,
+      "sample_values": [
+        "0.0",
+        "0.9"
+      ]
+    },
+    "Pipes.Reststreifen": {
+      "non_null_count": 413,
+      "sample_values": [
+        "0.0",
+        "0.9",
+        "0.45",
+        "0.6",
+        "0.7",
+        "0.5",
+        "0.65",
+        "0.75",
+        "0.55",
+        "0.8",
+        "1.0"
+      ]
+    },
+    "Pipes.Dicke_Asphalt": {
+      "non_null_count": 420,
+      "sample_values": [
+        "0.0",
+        "12.0",
+        "18.0",
+        "15.0"
+      ]
+    },
+    "Pipes.Length": {
+      "non_null_count": 419,
+      "sample_values": [
+        "53.9",
+        "77.1",
+        "8.1",
+        "8.7",
+        "8.4",
+        "22.6",
+        "10.8",
+        "0.5",
+        "10.9",
+        "101.5",
+        "9.7",
+        "10.0"
+      ]
+    },
+    "Pipes.Gräbensbreite": {
+      "non_null_count": 420,
+      "sample_values": [
+        "0.0",
+        "0.15",
+        "0.3"
+      ]
+    },
+    "Pipes.Gräbenstief": {
+      "non_null_count": 420,
+      "sample_values": [
+        "0.0",
+        "0.8",
+        "0.45",
+        "0.6"
+      ]
+    },
+    "Pipes.Material_Trag": {
+      "non_null_count": 410,
+      "sample_values": [
+        "UCWM",
+        "2",
+        "1",
+        "3"
+      ]
+    },
+    "Pipes.Status": {
+      "non_null_count": 420,
+      "sample_values": [
+        "1",
+        "0"
+      ]
+    },
+    "Pipes.KKR": {
+      "non_null_count": 16,
+      "sample_values": [
+        "1",
+        "2"
+      ]
+    },
+    "Pipes.SNRVe_7x12": {
+      "non_null_count": 418,
+      "sample_values": [
+        "{5}",
+        "{}",
+        "{6}",
+        "{4}",
+        "{4,5}"
+      ]
+    },
+    "Pipes.SNRVe_22x7": {
+      "non_null_count": 418,
+      "sample_values": [
+        "{13}",
+        "{15}",
+        "{11}",
+        "{}",
+        "{13,14}",
+        "{9,13,14,15}",
+        "{14,15}",
+        "{14}",
+        "{9,14,15}",
+        "{9}",
+        "{13,14,15,16}",
+        "{9,14}"
+      ]
+    },
+    "Pipes.SNR_1x7": {
+      "non_null_count": 420,
+      "sample_values": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "Pipes.C_Length": {
+      "non_null_count": 412,
+      "sample_values": [
+        "56.0",
+        "78.2",
+        "7.0",
+        "8.7",
+        "6.5",
+        "22.5",
+        "8.0",
+        "0.5",
+        "10.7",
+        "7.5",
+        "9.5",
+        "40.0"
+      ]
+    },
+    "Pipes.Pipe_Summe": {
+      "non_null_count": 418,
+      "sample_values": [
+        "2.0",
+        "1.0",
+        "5.0",
+        "0.0",
+        "3.0",
+        "4.0"
+      ]
+    },
+    "Pipes.Subco_1": {
+      "non_null_count": 308,
+      "sample_values": [
+        "Handwerk",
+        "0",
+        "No",
+        "DK"
+      ]
+    },
+    "Pipes.Status_1": {
+      "non_null_count": 298,
+      "sample_values": [
+        "1",
+        "0"
+      ]
+    },
+    "Pipes.Synergy": {
+      "non_null_count": 136,
+      "sample_values": [
+        "6R66_HK",
+        "6R67_HK",
+        "",
+        "3R71HK;3R61HK",
+        "3R71_HK",
+        "3R71HK",
+        "6R62HK",
+        "3R61",
+        "3R70_HK",
+        "3V9102"
+      ]
+    },
+    "Pipes.SNR_1x10": {
+      "non_null_count": 420,
+      "sample_values": [
+        "0",
+        "7"
+      ]
+    },
+    "Pipes.Leerrohr": {
+      "non_null_count": 214,
+      "sample_values": [
+        "1",
+        "0"
+      ]
+    },
+    "Pipes.Einblaseninfo": {
+      "non_null_count": 73,
+      "sample_values": [
+        "96F Minkabel in vor. SNR {gn} einblasen",
+        "24F Minikabel in SNR 7x12 {blau}->6V9107 einblasen\n24F Minikabel in SNR 7x12 {Braun}->6V9151 einblasen",
+        "24F Minikabel in SNR {blau} zur 6V9107 einblasen\n24F Minikabel in SNR {braun} zur 6V9151 einblasen\n24F Minikabel in SNR {weiß} zur 6V9142 einblasen\n96F Minikabel in SNR {grün} zur M30 einblasen",
+        "24F Minkabel in vor. SNR {gn} einblasen",
+        "24F Minikabel in 7x12_or/sw {rt} einblasen\n24F Minikabel in 7x12_or/sw {gn} einblasen",
+        "24F Minikabel in vorhandenen SNR{ blau} einblasen",
+        "",
+        "24F Minikabel in SNR 7x12 {Braun}->6V9151 einblasen",
+        "96F Minikabel in 7x12_or/sw {rt} einblasen",
+        "24F Minikabel in SNR 7x12 {Braun} zur 6V9151 einblasen",
+        "96F Minikabel in SNR {bl} 3R70 Einblasen\n96F Minikabel in SNR {ge} 3R61 Einblasen\n96F Minikabel in SNR {ws} 3R71 Einblasen",
+        "96F Minikabel in SNR {ws}"
+      ]
+    },
+    "Pipes.Kommentar": {
+      "non_null_count": 17,
+      "sample_values": [
+        "Leerrohr wahrscheinlich haben, aber DT kann nicht benutzen?",
+        "Auf Messung ist RT0034+RT0072+RT0025",
+        "Aufmass am 13.06 142m bis Ecke Emsstr. und Spenglerstraße",
+        "",
+        "Auf Messungen ist RT0082+RT0102",
+        "24m 80cm tiefe mit KKR100",
+        "设计变更",
+        "Foto fehlt",
+        "Einzug ist bei Handwerk erledigt, DK macht den Einzug von Ksch 268",
+        "muss Fotos suchen",
+        "60cm Tiefe vor Fahrradladen und Hnr.38, 23+8=31m",
+        "RT0825.1 bei Messung"
+      ]
+    },
+    "Pipes.Dokumentation": {
+      "non_null_count": 418,
+      "sample_values": [
+        "1.0",
+        "0.0"
+      ]
+    },
+    "Pipes.Beschreibung": {
+      "non_null_count": 0,
+      "sample_values": []
+    },
+    "Pipes.Evergabe": {
+      "non_null_count": 263,
+      "sample_values": [
+        "1",
+        "2",
+        "0"
+      ]
+    },
+    "Pipes.auxiliary_storage_labeling_lineanchorpercent_lineanchorpercent": {
+      "non_null_count": 108,
+      "sample_values": [
+        "0.0",
+        "478317.8117340377",
+        "478255.78184893134",
+        "478250.3480117559",
+        "478229.246092622",
+        "478255.2811554296",
+        "478282.11047101783",
+        "478383.36951723776",
+        "478238.0398234539",
+        "478252.10641416017",
+        "478276.95284186705",
+        "968036.8075851973"
+      ]
+    },
+    "Pipes.auxiliary_storage_labeling_lineanchorclipping_clipping": {
+      "non_null_count": 108,
+      "sample_values": [
+        "0",
+        "5541305.17996791",
+        "5541272.288366846",
+        "5541251.41398847",
+        "5541090.885545004",
+        "5541160.488270128",
+        "5541247.428321962",
+        "5541212.20606177",
+        "5541111.124617064",
+        "5541252.991606317",
+        "5541305.242185801",
+        "6450089.19304871"
+      ]
+    },
+    "Pipes.auxiliary_storage_labeling_lineanchortextpoint_anchor": {
+      "non_null_count": 127,
+      "sample_values": [
+        "0"
+      ]
+    },
+    "Pipes.auxiliary_storage_labeling_lineanchortype_placement": {
+      "non_null_count": 0,
+      "sample_values": []
+    },
+    "Pipes.auxiliary_storage_labeling_positionx": {
+      "non_null_count": 7,
+      "sample_values": [
+        "477771.53209548513",
+        "967487.0530633534",
+        "477794.60804859176",
+        "967619.5702947788",
+        "478678.125239686",
+        "478532.0113310918",
+        "478653.64063529833"
+      ]
+    },
+    "Pipes.auxiliary_storage_labeling_positiony": {
+      "non_null_count": 7,
+      "sample_values": [
+        "5540464.746276024",
+        "6448839.699767905",
+        "5540340.524962367",
+        "6448722.965455997",
+        "5541007.937520433",
+        "5541193.406136672",
+        "5541216.942361613"
+      ]
+    },
+    "PitWork.RT_ID": {
+      "non_null_count": 579,
+      "sample_values": [
+        "IFS0001",
+        "IFS0002",
+        "IFS0003",
+        "IFS0004",
+        "IFS0005",
+        "IFS0006",
+        "IFS0007",
+        "IFS0008",
+        "IFS0009",
+        "IFS0010",
+        "IFS0011",
+        "IFS0012"
+      ]
+    },
+    "PitWork.Client_ID": {
+      "non_null_count": 278,
+      "sample_values": [
+        "Azk 583",
+        "Azk 579",
+        "Azk 577",
+        "Azk 580",
+        "Azk 610",
+        "Ksch 270",
+        "Ksch 532",
+        "Azk 592",
+        "Ksch 302",
+        "Azk 605",
+        "Azk 589",
+        "Azk 608"
+      ]
+    },
+    "PitWork.HK_Area": {
+      "non_null_count": 533,
+      "sample_values": [
+        "6R66",
+        "3R61",
+        "3R70",
+        "3R71",
+        "6R67"
+      ]
+    },
+    "PitWork.NVT_Area": {
+      "non_null_count": 571,
+      "sample_values": [
+        "6V9107",
+        "6V9124",
+        "6R66_HK",
+        "6V9151",
+        "6V9148",
+        "6V9128",
+        "3R71_HK",
+        "3V9130",
+        "3V9147",
+        "6V9142",
+        "3V9126",
+        "3V9111"
+      ]
+    },
+    "PitWork.Bauweisen": {
+      "non_null_count": 578,
+      "sample_values": [
+        "6",
+        "5",
+        "1",
+        "4",
+        "3",
+        "7",
+        "2"
+      ]
+    },
+    "PitWork.Length": {
+      "non_null_count": 446,
+      "sample_values": [
+        "0.0",
+        "1.8",
+        "2.0",
+        "1.0",
+        "1.4",
+        "0.8",
+        "1.2",
+        "1.6",
+        "1.1",
+        "0.6",
+        "1.5",
+        "0.9"
+      ]
+    },
+    "PitWork.Width": {
+      "non_null_count": 446,
+      "sample_values": [
+        "0.0",
+        "1.2",
+        "2.0",
+        "1.0",
+        "1.1",
+        "0.6",
+        "0.8",
+        "0.3",
+        "0.9",
+        "0.35",
+        "1.4",
+        "0.4"
+      ]
+    },
+    "PitWork.Depth": {
+      "non_null_count": 446,
+      "sample_values": [
+        "0.0",
+        "1.0",
+        "0.8",
+        "0.55",
+        "0.9",
+        "0.7",
+        "0.5"
+      ]
+    },
+    "PitWork.Surface": {
+      "non_null_count": 579,
+      "sample_values": [
+        "AsB 6",
+        "0",
+        "1",
+        "5"
+      ]
+    },
+    "PitWork.Tragschicht": {
+      "non_null_count": 94,
+      "sample_values": [
+        "6R/67",
+        "6R/68",
+        "6R/66",
+        "6R/65",
+        "2",
+        "1",
+        "3"
+      ]
+    },
+    "PitWork.Bodenaustausch": {
+      "non_null_count": 579,
+      "sample_values": [
+        "False"
+      ]
+    },
+    "PitWork.Subco": {
+      "non_null_count": 149,
+      "sample_values": [
+        "N/A",
+        "Handwerk",
+        "DK"
+      ]
+    },
+    "PitWork.Subco_PO_Status": {
+      "non_null_count": 86,
+      "sample_values": [
+        "0",
+        "1"
+      ]
+    },
+    "PitWork.Abzweig": {
+      "non_null_count": 20,
+      "sample_values": [
+        "22x7_or{1:8}->8x7_or{1:8}",
+        "",
+        "22x7_or{1-8}->8x7_or{1-8}",
+        "22x7_or{7-8}->8x7_or{7-8}",
+        "22x7_or/ws",
+        "6V9107",
+        "22x7_or/ws{1-8}->8x7_or/ws{1-8}",
+        "22x7_or/sw{1-8}->8x7_or/sw{1-8}",
+        "22x7_or/ws{13-20}->8x7_or/ws{1-8}",
+        "22x7_or/ws{6-8}->8x7_or/ws{6-8}",
+        "7x12_or {rt, gn}->3x12_or {rt, gn}",
+        "8x7_or{1-6} nach oben, {7-8 }nach unten"
+      ]
+    },
+    "PitWork.auxiliary_storage_labeling_positionx": {
+      "non_null_count": 90,
+      "sample_values": [
+        "967509.6989471546",
+        "0.0",
+        "477827.5196702255"
+      ]
+    },
+    "PitWork.auxiliary_storage_labeling_positiony": {
+      "non_null_count": 90,
+      "sample_values": [
+        "6448820.755530279",
+        "0.0",
+        "5540670.593352506"
+      ]
+    },
+    "PitWork.Foto1": {
+      "non_null_count": 103,
+      "sample_values": [
+        "G:/.shortcut-targets-by-id/1Pg-SV9wgJWCguSc7kvU3rQEzRE7PoNrB/FiberHome/00 Projekt_Dreieich/02 FiberHome烽火/02 As Build文档/3R71/Einzug/Ksch187 (2).jpg",
+        "Azk 974.jpg",
+        "G:/.shortcut-targets-by-id/1Pg-SV9wgJWCguSc7kvU3rQEzRE7PoNrB/FiberHome/00 Projekt_Dreieich/02 FiberHome烽火/02 As Build文档/3R71/Einzug/Azk982.jpg",
+        "Azk 211.jpg",
+        "Ksch 186.jpg",
+        "Azk 221.jpg",
+        "Azk 212.jpg",
+        "GR0255.jpg",
+        "GR0256.jpg",
+        "GR0513_1.jpg",
+        "GR0515_1.jpg",
+        "GR0518_1.jpg"
+      ]
+    },
+    "PitWork.Foto2": {
+      "non_null_count": 83,
+      "sample_values": [
+        "G:/.shortcut-targets-by-id/1Pg-SV9wgJWCguSc7kvU3rQEzRE7PoNrB/FiberHome/00 Projekt_Dreieich/02 FiberHome烽火/02 As Build文档/3R71/Einzug/Ksch187.jpg",
+        "GR0513_2.jpg",
+        "GR0515_2.jpg",
+        "GR0518_2.jpg",
+        "TimePhoto_20240709_084355.jpg",
+        "Dreieich_Grube breite_09072024_160328.jpg",
+        "TimePhoto_20240709_084337.jpg",
+        "Dreieich_Breit_09072024_145831.jpg",
+        "0",
+        "--20240711-163149.jpg",
+        "IMG-20240711-WA0005.jpg",
+        "16072024_172032.jpg"
+      ]
+    },
+    "PitWork.Foto3": {
+      "non_null_count": 82,
+      "sample_values": [
+        "GR0513_3.jpg",
+        "GR0515_3.jpg",
+        "GR0518_3.jpg",
+        "TimePhoto_20240709_084337.jpg",
+        "Dreieich_Tife_09072024_160306.jpg",
+        "TimePhoto_20240709_084318.jpg",
+        "Dreieich_Tife_09072024_145807.jpg",
+        "0",
+        "Dreieich_Odenwaldestrabe 29a_11072024_162903.jpg",
+        "--20240711-154755.jpg",
+        "--20240716-172219.jpg",
+        "--20240715-112956.jpg"
+      ]
+    },
+    "PO_Liste.Subco": {
+      "non_null_count": 47,
+      "sample_values": [
+        "Handwerk",
+        "Care Online",
+        "Simplex Future",
+        "O-Connect",
+        "DK"
+      ]
+    },
+    "PO_Liste.PO_Nummer": {
+      "non_null_count": 47,
+      "sample_values": [
+        "PO-PTI34-FH-OS-20231005A",
+        "PO-PTI34-FH-OS-20231211A",
+        "PO-PTI34-FH-OS-20231130A",
+        "PO-PTI34-FH-OS-20231026A",
+        "PO-PTI34-FH-OS-20231213A",
+        "PO-PTI34-FH-OS-20231215A",
+        "PO-PTI34-FH-OS-20231018A",
+        "6270365118",
+        "6270365110",
+        "6270363492",
+        "PO-PTI34-FH-OS-20231214C",
+        "PO-PTI34-FH-OS-20231216A"
+      ]
+    },
+    "PO_Liste.Site_Area": {
+      "non_null_count": 47,
+      "sample_values": [
+        "3R70_HK",
+        "3V9102",
+        "3V9102_AP",
+        "3V9114",
+        "3V9114_AP",
+        "3V9119",
+        "3V9119_AP",
+        "3V9135",
+        "3V9135_AP",
+        "3R61_HK",
+        "3V9111",
+        "3V9111_AP"
+      ]
+    },
+    "PO_Liste.SM-A": {
+      "non_null_count": 45,
+      "sample_values": [
+        "209449251.0",
+        "209449407.0",
+        "209406193.0",
+        "209449568.0",
+        "209406224.0",
+        "209449607.0",
+        "209406249.0",
+        "209449802.0",
+        "209406277.0",
+        "209449249.0",
+        "209449554.0",
+        "209449720.0"
+      ]
+    },
+    "PO_Liste.Site_Nummer": {
+      "non_null_count": 47,
+      "sample_values": [
+        "FRA000001",
+        "FRA000003",
+        "FRA000017",
+        "FRA000004",
+        "FRA000018",
+        "FRA000005",
+        "FRA000019",
+        "FRA000006",
+        "FRA000020",
+        "FRA000013",
+        "FRA000014",
+        "FRA000021"
+      ]
+    },
+    "PO_Liste.Site_Name": {
+      "non_null_count": 46,
+      "sample_values": [
+        "PTI34-Dreieich-3R/70",
+        "PTI34-Dreieich-3R/70-3V9102",
+        "PTI34-Dreieich-3R/70-AP9102",
+        "PTI34-Dreieich-3R/70-3V9114",
+        "PTI34-Dreieich-3R/70-AP9114",
+        "PTI34-Dreieich-3R/70-3V9119",
+        "PTI34-Dreieich-3R/70-AP9119",
+        "PTI34-Dreieich-3R/70-3V9135",
+        "PTI34-Dreieich-3R/70-AP9135",
+        "PTI34-Dreieich-3R/61",
+        "PTI34-Dreieich-3R/61-3V9111",
+        "PTI34-Dreieich-3R/61-AP9111"
+      ]
+    },
+    "PO_Liste.WBS": {
+      "non_null_count": 47,
+      "sample_values": [
+        "E-44232007A-1-FRA-000001",
+        "E-44232007A-1-FRA-000003",
+        "E-44232007A-1-FRA-000017",
+        "E-44232007A-1-FRA-000004",
+        "E-44232007A-1-FRA-000018",
+        "E-44232007A-1-FRA-000005",
+        "E-44232007A-1-FRA-000019",
+        "E-44232007A-1-FRA-000006",
+        "E-44232007A-1-FRA-000020",
+        "E-44232007A-1-FRA-000013",
+        "E-44232007A-1-FRA-000014",
+        "E-44232007A-1-FRA-000021"
+      ]
+    },
+    "Rotberichtigung.NVT_Area": {
+      "non_null_count": 92,
+      "sample_values": [
+        "6V9105",
+        "6V9148",
+        "6V9128",
+        "6V9151",
+        "6V9142",
+        "6V9107",
+        "3V9111",
+        "3V9134",
+        "3R61_HK",
+        "3V9126",
+        "3V9114",
+        "3V9102"
+      ]
+    },
+    "Rotberichtigung.Page": {
+      "non_null_count": 92,
+      "sample_values": [
+        "0",
+        "4",
+        "3",
+        "2",
+        "1",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ]
+    },
+    "Rotberichtigung.SM-A": {
+      "non_null_count": 62,
+      "sample_values": [
+        "209392989.0",
+        "209449913.0",
+        "209449734.0",
+        "209449949.0",
+        "209449884.0",
+        "209449468.0",
+        "209449568.0",
+        "209449407.0",
+        "209449927.0",
+        "0.0",
+        "209449672.0",
+        "209449747.0"
+      ]
+    },
+    "Site_Nummer.HK_Area": {
+      "non_null_count": 13,
+      "sample_values": [
+        "6R66"
+      ]
+    },
+    "Site_Nummer.NVt_Area": {
+      "non_null_count": 13,
+      "sample_values": [
+        "6R66_HK",
+        "6V9107",
+        "6V9107_AP",
+        "6V9124",
+        "6V9124_AP",
+        "6V9128",
+        "6V9128_AP",
+        "6V9142",
+        "6V9142_AP",
+        "6V9148",
+        "6V9148_AP",
+        "6V9151"
+      ]
+    },
+    "Site_Nummer.SM-A": {
+      "non_null_count": 13,
+      "sample_values": [
+        "209449378",
+        "209449468",
+        "209393523",
+        "209449672",
+        "209405633",
+        "209449734",
+        "209405860",
+        "209449884",
+        "209406051",
+        "209449913",
+        "209406129",
+        "209449949"
+      ]
+    },
+    "Site_Nummer.Site_Nr": {
+      "non_null_count": 13,
+      "sample_values": [
+        "FRA000002",
+        "FRA000007",
+        "FRA000024",
+        "FRA000008",
+        "FRA000025",
+        "FRA000009",
+        "FRA000026",
+        "FRA000010",
+        "FRA000027",
+        "FRA000011",
+        "FRA000028",
+        "FRA000012"
+      ]
+    },
+    "Site_Nummer.Site_Name": {
+      "non_null_count": 13,
+      "sample_values": [
+        "PTI34-Dreieich-6R/66",
+        "PTI34-Dreieich-6R/66-6V9107",
+        "PTI34-Dreieich-6R/66-AP9107",
+        "PTI34-Dreieich-6R/66-6V9124",
+        "PTI34-Dreieich-6R/66-AP9124",
+        "PTI34-Dreieich-6R/66-6V9128",
+        "PTI34-Dreieich-6R/66-AP9128",
+        "PTI34-Dreieich-6R/66-6V9142",
+        "PTI34-Dreieich-6R/66-AP9142",
+        "PTI34-Dreieich-6R/66-6V9148",
+        "PTI34-Dreieich-6R/66-AP9148",
+        "PTI34-Dreieich-6R/66-6V9151"
+      ]
+    },
+    "Site_Nummer.WBS": {
+      "non_null_count": 13,
+      "sample_values": [
+        "E-44232007A-1-FRA-000002",
+        "E-44232007A-1-FRA-000007",
+        "E-44232007A-1-FRA-000024",
+        "E-44232007A-1-FRA-000008",
+        "E-44232007A-1-FRA-000025",
+        "E-44232007A-1-FRA-000009",
+        "E-44232007A-1-FRA-000026",
+        "E-44232007A-1-FRA-000010",
+        "E-44232007A-1-FRA-000027",
+        "E-44232007A-1-FRA-000011",
+        "E-44232007A-1-FRA-000028",
+        "E-44232007A-1-FRA-000012"
+      ]
+    },
+    "Site_Nummer.Belegnummer": {
+      "non_null_count": 13,
+      "sample_values": [
+        "4212125906/00010",
+        "4212166749/00010",
+        "4212582194/00010",
+        "4212166774/00010",
+        "4212582201/00010",
+        "4212166782/00010",
+        "4212582234/00010",
+        "4212166803/00010",
+        "4212582239/00010",
+        "4212166811/00010",
+        "4212582246/00010",
+        "4212166814/00010"
+      ]
+    }
+  }
+}
