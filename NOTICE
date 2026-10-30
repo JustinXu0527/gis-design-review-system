@@ -1,0 +1,45 @@
+规审智警——通信基建设计智能审查系统
+GuiShenZhiQing — GIS Design Review System
+
+Copyright 2026 规审智警项目团队
+
+This product includes software developed by third parties, as listed below.
+本作品使用了下列第三方开源软件与开源模型，其著作权归各自作者所有，
+使用方式与许可义务详见《开源及第三方资源使用清单》。
+
+--------------------------------------------------------------------
+主要第三方组件（完整清单见随作品提交的 XLSX 文件）
+--------------------------------------------------------------------
+FastAPI                     MIT        https://github.com/fastapi/fastapi
+Uvicorn                     BSD-3      https://github.com/encode/uvicorn
+Pydantic                    MIT        https://github.com/pydantic/pydantic
+GeoPandas                   BSD-3      https://github.com/geopandas/geopandas
+Shapely                     BSD-3      https://github.com/shapely/shapely
+pyogrio                     MIT        https://github.com/geopandas/pyogrio
+NumPy                       BSD-3      https://github.com/numpy/numpy
+pandas                      BSD-3      https://github.com/pandas-dev/pandas
+LangGraph                   MIT        https://github.com/langchain-ai/langgraph
+langchain-ollama            MIT        https://github.com/langchain-ai/langchain
+MCP Python SDK              MIT        https://github.com/modelcontextprotocol/python-sdk
+PyMuPDF                     AGPL-3.0   https://github.com/pymupdf/PyMuPDF
+Vue 3 / Vue Router / Pinia  MIT        https://github.com/vuejs
+Element Plus                MIT        https://github.com/element-plus/element-plus
+OpenLayers                  BSD-2      https://github.com/openlayers/openlayers
+Apache ECharts              Apache-2.0 https://github.com/apache/echarts
+Axios                       MIT        https://github.com/axios/axios
+Vite                        MIT        https://github.com/vitejs/vite
+TypeScript                  Apache-2.0 https://github.com/microsoft/TypeScript
+QGIS / QGIS Server          GPL-2.0    https://github.com/qgis/QGIS
+Nginx                       BSD-2      https://nginx.org
+Ollama                      MIT        https://github.com/ollama/ollama
+Qwen2.5-32B-Instruct        Apache-2.0 https://github.com/QwenLM/Qwen2.5
+BAAI bge-m3                 MIT        https://github.com/FlagOpen/FlagEmbedding
+
+--------------------------------------------------------------------
+许可边界说明
+--------------------------------------------------------------------
+1. QGIS Server 以独立容器运行，主程序仅通过 HTTP/WMS 协议调用，
+   不链接其代码、不修改其源码；本作品主程序按 Apache-2.0 发布。
+2. PyMuPDF 仅在离线构建期用于提取标准 PDF 文本，运行时不再调用。
+3. 第三方标准文本（中国国家标准、德国行业规范）与真实工程数据
+   不包含在本仓库中，其权利归各自权利人所有，不得再分发。
